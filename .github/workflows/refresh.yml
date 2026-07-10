@@ -1,0 +1,25 @@
+name: Refresh listings
+
+# The README job tables are regenerated DAILY by Workopia's data pipeline
+# (tools/generate.mjs reads the live job database + company registry) and pushed here.
+# This push does NOT trigger any deploy — it only updates this repo.
+#
+# This workflow is a lightweight guard: it runs on a schedule as a heartbeat and
+# can be triggered manually. The actual data refresh + commit is performed by the
+# Workopia pipeline runner (which holds the DB credentials); a self-contained
+# GitHub-hosted refresh would require MONGODB_URI + the company registry as secrets.
+
+on:
+  schedule:
+    - cron: "30 9 * * *"   # daily, ~30 min after Workopia's 10:10 (local) refresh
+  workflow_dispatch:
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Note
+        run: |
+          echo "README is regenerated and pushed by the Workopia daily pipeline."
+          echo "Last commit:"; git log -1 --format='%ci  %s'
