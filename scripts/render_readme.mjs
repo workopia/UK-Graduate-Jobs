@@ -13,13 +13,13 @@
  *   meta:       { repo, title, country_iso, country_name, adjective, segment,
  *                 as_of, window_days, total_site_jobs_str, generated_at }
  *   categories: [{ key, name, icon, mode: 'tiered'|'entry', l4slug }]   (render order)
- *   listings:   [{ id, company_name, company_hi_slug, title, location, salary, skills,
+ *   listings:   [{ id, company_name, company_hi_slug, title, location, skills,
  *                  sponsorship, hot, date_posted, url, category, tier, active }]
  *                (array order inside each category+tier is the table row order)
  *
- * `salary` and `skills` arrive as final display strings ('—' when unknown) because they are
- * composed from build-side registries (salary research CSV, skills extraction) that the
- * GitHub runner does not have. Time-relative cells (Age, 🆕) are computed at render time.
+ * `skills` arrives as a final display string ('—' when unknown). No salary on GitHub —
+ * salary + WORKOPIA ESTIMATE are main-site-only, on each role's Workopia page.
+ * Time-relative cells (Age, 🆕) are computed at render time.
  */
 
 const W = 'https://workopia.io';
@@ -48,14 +48,15 @@ export function renderReadme(data, now = Date.now()) {
   const flags = (r) => { let f = ''; if (r.date_posted && (now - new Date(r.date_posted).getTime()) <= 2 * 864e5) f += ' 🆕'; if (r.sponsorship) f += ' 🛂'; if (r.hot) f += ' 🔥'; return f; };
   // width attrs (GitHub's sanitizer keeps them) pin identical column geometry across every tier
   // table in the README — without them each table auto-sizes to its own content and nothing aligns.
-  const TH = '<thead><tr><th width="16%">Company</th><th width="26%">Role</th><th width="12%">Location</th><th width="12%">Salary</th><th width="20%">Key skills</th><th width="8%">Apply</th><th width="6%">Age</th></tr></thead>';
+  // No salary column on GitHub — salary + WORKOPIA ESTIMATE live on each role's Workopia page.
+  const TH = '<thead><tr><th width="18%">Company</th><th width="30%">Role</th><th width="13%">Location</th><th width="25%">Key skills</th><th width="8%">Apply</th><th width="6%">Age</th></tr></thead>';
   function table(rows) {
     let last = '', b = '';
     for (const r of rows) {
       const nm = r.company_name;
       const co = nm === last ? '↳' : (r.company_hi_slug ? `<strong><a href="${W}/hi/companies/${r.company_hi_slug}?${U}">${nm}</a></strong>` : `<strong>${nm}</strong>`);
       if (nm !== last) last = nm;
-      b += `<tr><td>${co}</td><td>${role(r.title)}${flags(r)}</td><td>${r.location}</td><td>${r.salary || '—'}</td><td>${r.skills || '—'}</td><td><a href="${r.url}?${U}">Apply →</a></td><td>${age(r.date_posted, now)}</td></tr>\n`;
+      b += `<tr><td>${co}</td><td>${role(r.title)}${flags(r)}</td><td>${r.location}</td><td>${r.skills || '—'}</td><td><a href="${r.url}?${U}">Apply →</a></td><td>${age(r.date_posted, now)}</td></tr>\n`;
     }
     return `<table>\n${TH}\n<tbody>\n${b}</tbody>\n</table>`;
   }
@@ -117,7 +118,7 @@ ${browse}
 
 ## Legend
 - 🆕 Posted in the last 2 days
-- 💷 Salary shown (real or **WORKOPIA ESTIMATE**)${visaLegend}
+- 💷 Salary (real or **WORKOPIA ESTIMATE**) shown on every role's Workopia page${visaLegend}
 - 🔥 Notable / high-growth employer
 - 🔒 Closed roles move to [Inactive Listings](./README-Inactive.md)
 
