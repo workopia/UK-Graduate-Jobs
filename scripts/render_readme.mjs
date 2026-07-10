@@ -78,7 +78,7 @@ export function renderReadme(data, now = Date.now()) {
       ? [[d.key === 'healthcare' ? 'Newly-qualified & entry-level' : 'Entry-level', 'Entry-level']]
       : [['Internships', 'Intern'], ['Graduate', 'Graduate'], ['Entry-level', 'Entry-level']];
     for (const [lbl, key] of order) { const r = t[key]; if (r.length) o += `\n### ${lbl} (${r.length})\n\n${table(r)}\n`; }
-    o += `\n🔒 **[See closed ${d.name} roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live ${meta.adjective} ${d.name} jobs on Workopia →](${W}/browsejobs/positions/${meta.segment}/${d.l4slug}?${U})**\n\n<sub>[⬆️ Back to top](#${slugify(meta.title)})</sub>\n`;
+    o += `\n🔎 **[Browse & filter all live ${meta.adjective} ${d.name} jobs on Workopia →](${W}/browsejobs/positions/${meta.segment}/${d.l4slug}?${U})** · 🎓 **[All ${meta.adjective} graduate & entry-level ${d.name} roles →](${W}/graduates/${meta.site_slug || meta.segment}/${d.key}?${U})**\n\n<sub>[⬆️ Back to top](#${slugify(meta.title)})</sub>\n`;
     return o;
   }
 

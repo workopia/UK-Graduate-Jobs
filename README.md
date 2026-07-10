@@ -159,7 +159,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 <tr><td><strong><a href="https://workopia.io/hi/companies/savers?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Savers</a></strong></td><td>Apprentice Sales Assistant</td><td>London</td><td>—</td><td>Fast-paced environment, Team player</td><td><a href="https://workopia.io/jobs/ea9b78a1d1fd40c2e9dc035dd7d6e16e?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>7d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/amey-ferrovial?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Amey (Ferrovial)</a></strong></td><td>Talent Apprentice</td><td>London</td><td>—</td><td>Talent Acquisition Sup, Recruitment Coordinati</td><td><a href="https://workopia.io/jobs/680c195fd837f9ed3fb3f4f15478c1d6?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>7d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/johnson-controls-openblue?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Johnson Controls OpenBlue</a></strong></td><td>Apprentice Security Engineer</td><td>London</td><td>£17,160</td><td>GCSEs in English and M, UK driving licence</td><td><a href="https://workopia.io/jobs/c8226cc95ba16d76d83b577b9d227170?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>10d</td></tr>
-<tr><td><strong><a href="https://workopia.io/hi/companies/superdrug?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Superdrug</a></strong></td><td>Apprentice Retail Sales Assistant</td><td>London</td><td>£9.95/hr</td><td>Flexible hours, Customer service</td><td><a href="https://workopia.io/jobs/966dc1fb3744218785e1d3f31e57c51d?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>10d</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/superdrug?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Superdrug</a></strong></td><td>Apprentice Retail Sales Assistant</td><td>London</td><td>£9.95/hr</td><td>Flexible hours, Customer service</td><td><a href="https://workopia.io/jobs/966dc1fb3744218785e1d3f31e57c51d?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>11d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/cms?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">CMS LLC</a></strong></td><td>Apprentice Administrator - London 18 Month Fixed…</td><td>London</td><td>—</td><td>Office based, Administrative tasks</td><td><a href="https://workopia.io/jobs/f48484c806876196ab48eb4a81926470?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>11d</td></tr>
 <tr><td>↳</td><td>Facilities Apprentice-18 Month Ftc</td><td>Manchester</td><td>—</td><td>Client-facing, Proactive service</td><td><a href="https://workopia.io/jobs/dead10b71ca1d04864ef188f4821a9cb?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>11d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/world-kinect?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">World Kinect</a></strong></td><td>Vehicle Maintenance Technician - Apprentice</td><td>London</td><td>—</td><td>Hands-on problem-solve, Full-time salary</td><td><a href="https://workopia.io/jobs/8530d19ffc3dfbe033fb43c2fc5e05a3?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
@@ -201,7 +201,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Graduate Schemes roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Graduate Schemes jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-program?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Graduate Schemes jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-program?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Graduate Schemes roles →](https://workopia.io/graduates/united-kingdom/grad?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -333,7 +333,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Tech roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Tech jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-engineer?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Tech jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-engineer?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Tech roles →](https://workopia.io/graduates/united-kingdom/tech?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -458,7 +458,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Finance & Accounting roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Finance & Accounting jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-analyst?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Finance & Accounting jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/graduate-analyst?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Finance & Accounting roles →](https://workopia.io/graduates/united-kingdom/finance?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -540,7 +540,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Healthcare roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Healthcare jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/registered-nurse?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Healthcare jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/registered-nurse?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Healthcare roles →](https://workopia.io/graduates/united-kingdom/healthcare?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -637,7 +637,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Trades & Apprenticeships roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Trades & Apprenticeships jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/maintenance-technician?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Trades & Apprenticeships jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/maintenance-technician?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Trades & Apprenticeships roles →](https://workopia.io/graduates/united-kingdom/trades?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -723,8 +723,8 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 <tr><td><strong><a href="https://workopia.io/hi/companies/levis-media?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Levis Media</a></strong></td><td>Sales Stylist Week And Weekend Availability-1</td><td>London</td><td>—</td><td>Customer service, Product knowledge</td><td><a href="https://workopia.io/jobs/322b5daaeaf799d52012fe1c5f84472b?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>12d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/intercontinental-exchange?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Intercontinental Exchange</a></strong></td><td>Associate Sales Specialist, Desktops</td><td>London</td><td>—</td><td>technical product expe, client engagement</td><td><a href="https://workopia.io/jobs/31b2342c80b7f57f00b9e0c1e7506240?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>13d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/ao-ds?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Ao Ds</a></strong></td><td>Work From Home - Client Services Associate</td><td>London</td><td>—</td><td>Exceptional customer s, Strong communication s</td><td><a href="https://workopia.io/jobs/4007031834a020e7ef5f36a85b1f6ee0?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>13d</td></tr>
-<tr><td><strong><a href="https://workopia.io/hi/companies/vodafone?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Vodafone</a></strong></td><td>Retail Adviser 40 Hours/week - London Ealing Broa… 🛂</td><td>London</td><td>£14.8/hr</td><td>40 hours/week, customer interaction</td><td><a href="https://workopia.io/jobs/284977?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>13d</td></tr>
-<tr><td>↳</td><td>Retail Adviser 40 Hours/week - Wimbledon 🛂</td><td>London</td><td>£14.8/hr</td><td>Customer interaction, Sales orientation</td><td><a href="https://workopia.io/jobs/284971?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>13d</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/vodafone?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Vodafone</a></strong></td><td>Retail Adviser 40 Hours/week - London Ealing Broa… 🛂</td><td>London</td><td>£14.8/hr</td><td>40 hours/week, customer interaction</td><td><a href="https://workopia.io/jobs/284977?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
+<tr><td>↳</td><td>Retail Adviser 40 Hours/week - Wimbledon 🛂</td><td>London</td><td>£14.8/hr</td><td>Customer interaction, Sales orientation</td><td><a href="https://workopia.io/jobs/284971?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/the-spectator?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">The Spectator</a></strong></td><td>Customer Service Assistant</td><td>London</td><td>—</td><td>customer service exper, written and verbal com</td><td><a href="https://workopia.io/jobs/71f5d28025f3b8215ae32ef5f6f4364b?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/vp-plc?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">VP PLC</a></strong></td><td>Hire/sales Controller Manchester, United Kingdom… 🛂</td><td>Manchester</td><td>—</td><td>Customer service, Sales operations</td><td><a href="https://workopia.io/jobs/f172e997cbcad4011cd87835395b1f36?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
 <tr><td>↳</td><td>Hire/sales Controller Manchester, United Kingdom… 🛂</td><td>Manchester</td><td>—</td><td>Customer service, Sales operations</td><td><a href="https://workopia.io/jobs/9413a31e102bc77308d533a551ecd35a?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs">Apply →</a></td><td>2w</td></tr>
@@ -734,7 +734,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Sales & Retail roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Sales & Retail jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/sales-associate?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Sales & Retail jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/sales-associate?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Sales & Retail roles →](https://workopia.io/graduates/united-kingdom/sales?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
@@ -831,7 +831,7 @@ Set a job alert on Workopia by role + city and we'll email you when new UK roles
 </tbody>
 </table>
 
-🔒 **[See closed Business & Admin roles →](./README-Inactive.md)** · 🔎 **[Browse & filter all live UK Business & Admin jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/administrative-assistant?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
+🔎 **[Browse & filter all live UK Business & Admin jobs on Workopia →](https://workopia.io/browsejobs/positions/uk/administrative-assistant?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)** · 🎓 **[All UK graduate & entry-level Business & Admin roles →](https://workopia.io/graduates/united-kingdom/admin?utm_source=github&utm_medium=repo&utm_campaign=uk-graduate-jobs)**
 
 <sub>[⬆️ Back to top](#uk-graduate-schemes-entry-level-internship-jobs-2026)</sub>
 
