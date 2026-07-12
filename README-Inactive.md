@@ -186,4 +186,6 @@ _No archived roles yet._
 <tr><td>Nike</td><td>Retail Assistant (athlete) 20h Liverpool Edge Lane</td><td>Liverpool</td><td>2026-07-12</td></tr>
 <tr><td>PTC</td><td>Admin Assistant (part Time)</td><td>Cambridge</td><td>2026-07-12</td></tr>
 <tr><td>Computershare</td><td>Sustainability Specialist</td><td>Bristol</td><td>2026-07-12</td></tr>
+<tr><td>Amazon</td><td>Commercial Finance Analyst, Amazon Ads Sales Finance</td><td>London</td><td>2026-07-12</td></tr>
+<tr><td>Barclays</td><td>Fraud Strategy Analyst</td><td>London</td><td>2026-07-12</td></tr>
 </table>

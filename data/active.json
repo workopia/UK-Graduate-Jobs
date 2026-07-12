@@ -1,6 +1,6 @@
 {
  "asOf": "2026-07-12",
- "count": 721,
+ "count": 726,
  "jobs": {
   "10074": {
    "id": "10074",
@@ -1964,6 +1964,12 @@
    "role": "Structured Credit Quantitative Analyst (entry/graduate Level Considered)",
    "location": "London"
   },
+  "targetjobs:c1aa6d75-f661-44b7-994c-b1e0cf6712fe": {
+   "id": "targetjobs:c1aa6d75-f661-44b7-994c-b1e0cf6712fe",
+   "company": "Grayce",
+   "role": "Graduate Business Consultant - London",
+   "location": "London"
+  },
   "5789713c20fb52ac8b732f06a71ae8e1": {
    "id": "5789713c20fb52ac8b732f06a71ae8e1",
    "company": "Hastings Direct",
@@ -1994,6 +2000,12 @@
    "role": "Actuarial Graduate Scheme",
    "location": "United Kingdom"
   },
+  "targetjobs:5494ec48-d35e-4c61-986e-ece677e1b1f8": {
+   "id": "targetjobs:5494ec48-d35e-4c61-986e-ece677e1b1f8",
+   "company": "BAE Systems",
+   "role": "Graduate Business Consultant",
+   "location": "London"
+  },
   "398df2455a9fb62b5bcb6d7f5d0576aa": {
    "id": "398df2455a9fb62b5bcb6d7f5d0576aa",
    "company": "Moore Kingston Smith",
@@ -2006,6 +2018,12 @@
    "role": "Audit Graduate Programme (aca) – Media Sector - Register Your Interest",
    "location": "London"
   },
+  "8a392c4f90669fbcfea4e7290eb900bc": {
+   "id": "8a392c4f90669fbcfea4e7290eb900bc",
+   "company": "Grayce",
+   "role": "Graduate Business Consultant - Hursley",
+   "location": "Hursley"
+  },
   "57522c65d263b9f400ec6a35300ffd4f": {
    "id": "57522c65d263b9f400ec6a35300ffd4f",
    "company": "Moore Kingston Smith",
@@ -2016,6 +2034,18 @@
    "id": "44198551aeb08cbfda6b111781259bf4",
    "company": "MHA",
    "role": "Audit Junior (not For Profit) Aca (graduate Scheme) - London - September 2026",
+   "location": "London"
+  },
+  "fdb7fbebfa991840b195285ee34f46ea": {
+   "id": "fdb7fbebfa991840b195285ee34f46ea",
+   "company": "Grayce",
+   "role": "Graduate Business Consultant",
+   "location": "London"
+  },
+  "82ba13723c0cd498616bd3b00601395e": {
+   "id": "82ba13723c0cd498616bd3b00601395e",
+   "company": "CGI",
+   "role": "Business Graduate - Consultant - Human Centred Design - 2026",
    "location": "London"
   },
   "04362a0886cec5e1034a648796b667c5": {
@@ -2095,6 +2125,12 @@
    "company": "Barclays",
    "role": "Resilience Internal Audit Avp",
    "location": "London"
+  },
+  "8349109067515dcfe207cc59d977930e": {
+   "id": "8349109067515dcfe207cc59d977930e",
+   "company": "SAP SE",
+   "role": "Customer Services & Delivery Market Unit Uki Head, Consulting Business",
+   "location": "Middlesex"
   },
   "1b58dab9ec86969ee8831a11482fb06a": {
    "id": "1b58dab9ec86969ee8831a11482fb06a",
@@ -2196,6 +2232,12 @@
    "id": "29c1f40045385c6cf2a8d889ef67a4fd",
    "company": "Nscale",
    "role": "Payroll Analyst - International",
+   "location": "London"
+  },
+  "8c826624862f4cf2afda10b5f2cd1885": {
+   "id": "8c826624862f4cf2afda10b5f2cd1885",
+   "company": "Turner & Townsend Pty Ltd",
+   "role": "Programme Advisory – Business Case & Funding Advisory (defence Sector)",
    "location": "London"
   },
   "5994a3291881d641973c572d14695c7a": {
@@ -2460,18 +2502,6 @@
    "id": "2ccbd742dc3c87f0add77ea7d3a743ef",
    "company": "Vitality Corporate Services Ltd",
    "role": "Digital Analyst",
-   "location": "London"
-  },
-  "e990a1067dbc10a1bf0ec7167af2f8ac": {
-   "id": "e990a1067dbc10a1bf0ec7167af2f8ac",
-   "company": "Amazon",
-   "role": "Commercial Finance Analyst, Amazon Ads Sales Finance",
-   "location": "London"
-  },
-  "65094206690b9e2504e04812a8c7aa31": {
-   "id": "65094206690b9e2504e04812a8c7aa31",
-   "company": "Barclays",
-   "role": "Fraud Strategy Analyst",
    "location": "London"
   },
   "b669a9155c75dbaf68e453de8a044d7a": {
