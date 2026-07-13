@@ -188,4 +188,66 @@ _No archived roles yet._
 <tr><td>Computershare</td><td>Sustainability Specialist</td><td>Bristol</td><td>2026-07-12</td></tr>
 <tr><td>Amazon</td><td>Commercial Finance Analyst, Amazon Ads Sales Finance</td><td>London</td><td>2026-07-12</td></tr>
 <tr><td>Barclays</td><td>Fraud Strategy Analyst</td><td>London</td><td>2026-07-12</td></tr>
+<tr><td>Cawood</td><td>Operational Excellence - Summer Internship - 2026</td><td>Reading</td><td>2026-07-13</td></tr>
+<tr><td>Gartner</td><td>Client Success Associate Internship, Summer 2026 (2027 Graduates) - Arabic Speaker</td><td>Reading</td><td>2026-07-13</td></tr>
+<tr><td>Jobgether</td><td>Middle Full Stack Engineer For Relay</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Land Securities Group</td><td>Software Engineer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Talan</td><td>C# Developer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Jobgether</td><td>Product Support Specialist (german-speaking)</td><td>Uk</td><td>2026-07-13</td></tr>
+<tr><td>Jobgether</td><td>Frontend Software Engineer</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Referralsuseonly</td><td>Software Engineer Ii - Ssc</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>YLD</td><td>Software Go Developer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Brightonparkbank</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-07-13</td></tr>
+<tr><td>jobs.barclays</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-07-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst Fx Electronic Trading</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Amentum Pr</td><td>Information Analyst</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Export Control Officer</td><td>Denham</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Operations Analyst, Reservation Product Operations</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Deutsche Bank</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Dbcargofrance</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Dnsdblookup</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>W3</td><td>Junior Compliance Officer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Digital Analyst</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>dorsetcouncil</td><td>Site Technician At Shaftesbury School</td><td>All Locations</td><td>2026-07-13</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Field Technical Specialist</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Chevron</td><td>Instrument Technician - Emed</td><td>Tamar Production Platform</td><td>2026-07-13</td></tr>
+<tr><td>Hitachi Rail UK Limited</td><td>Maintenance Technician</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Tunstall Nordic AB</td><td>Field Service Engineer - South London/north Kent/east Surrey</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>KION</td><td>Forklift Service Engineer</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Forklift Service Engineer</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Field Service Representative</td><td>RAF Lossiemouth +2</td><td>2026-07-13</td></tr>
+<tr><td>Baynethinline</td><td>Worldwide Service Engineer</td><td>Omagh</td><td>2026-07-13</td></tr>
+<tr><td>Rolls Roycemotorcarswashington</td><td>Field Service Representative</td><td>RAF Lossiemouth +2</td><td>2026-07-13</td></tr>
+<tr><td>Helix International Group</td><td>Fire Alarm Service And Maintenance Engineer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Elvium</td><td>Production Maintenance Engineer - Night Shift</td><td>Cambridge</td><td>2026-07-13</td></tr>
+<tr><td>InPost</td><td>Field Service Engineer (blackburn/bolton)</td><td>Preston Depot</td><td>2026-07-13</td></tr>
+<tr><td>42</td><td>Mechanical Shift Engineer</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Wood Group</td><td>Mechanical Technician - Adura Shearwater - 2/3 Rotation</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Dyson</td><td>Dyson Expert - London Croydon (part Time)</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Aegon UK</td><td>Trainee Sales Associate (investment 20/20)</td><td>Edinburgh</td><td>2026-07-13</td></tr>
+<tr><td>Reed in Partnership</td><td>Test Centre Associate - Uxbridge</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Basingstoke</td><td>2026-07-13</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Weekend Only</td><td>Newcastle Upon Tyne</td><td>2026-07-13</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Night Shift</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Bmwramsey</td><td>Administrative Assistant</td><td>Bournemouth</td><td>2026-07-13</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant - Wards</td><td>Glasgow</td><td>2026-07-13</td></tr>
+<tr><td>Primark</td><td>Gb + Ni - Retail Assistant - Night Shift</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>WRI</td><td>Executive Assistant</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Recovery Focus</td><td>Administrator</td><td>Leeds</td><td>2026-07-13</td></tr>
+<tr><td>Creative Chutzpah</td><td>Business Affairs Administrative Assistant- Music Touring</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Administration Support Assistant - Local Authority</td><td>Oxford</td><td>2026-07-13</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Executive Assistant (6 Month Fixed Term Contract)</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Blue Zoo Productions Ltd</td><td>Production Coordinator - Voice Record (part Time)</td><td>UK</td><td>2026-07-13</td></tr>
+<tr><td>Marriott International</td><td>Groups And Events Executive</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>W Brisbane</td><td>Groups And Events Executive</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Mulberry Group PLC</td><td>Warehouse Coordinator</td><td>Bristol</td><td>2026-07-13</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Executive Assistant</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Project Support Coordinator</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Knight Frank</td><td>Executive Assistant / International Sales</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Nuffield Health</td><td>Patient Service Administrator</td><td>Gloucester</td><td>2026-07-13</td></tr>
+<tr><td>TEAM LEWIS</td><td>Campaign Coordinator</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Livenation</td><td>Customer Service Coordinator</td><td>Farringdon</td><td>2026-07-13</td></tr>
+<tr><td>Cuffe & Taylor</td><td>Customer Service Coordinator</td><td>Farringdon</td><td>2026-07-13</td></tr>
+<tr><td>Grant Thornton UK</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Policy Communications Specialist , International Policy and Press Communication</td><td>London</td><td>2026-07-13</td></tr>
 </table>
