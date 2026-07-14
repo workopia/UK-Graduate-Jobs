@@ -250,4 +250,55 @@ _No archived roles yet._
 <tr><td>Cuffe & Taylor</td><td>Customer Service Coordinator</td><td>Farringdon</td><td>2026-07-13</td></tr>
 <tr><td>Grant Thornton UK</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-07-13</td></tr>
 <tr><td>Amazon</td><td>Policy Communications Specialist , International Policy and Press Communication</td><td>London</td><td>2026-07-13</td></tr>
+<tr><td>Intelex</td><td>Junior Field Service Engineer - Fixed Term Contract - North Of England</td><td>North Of England</td><td>2026-07-14</td></tr>
+<tr><td>HP</td><td>Placement Year - Nwe Community Projects & Sustainability Intern</td><td>Reading</td><td>2026-07-14</td></tr>
+<tr><td>Clinisys</td><td>Hr / Talent Acquisition Placement Year (12 Months)</td><td>Reading</td><td>2026-07-14</td></tr>
+<tr><td>MCFT Gulf</td><td>Mcft - Business Internship</td><td>Reading</td><td>2026-07-14</td></tr>
+<tr><td>Oracle</td><td>Internship - Business Operations Analyst Intern</td><td>Reading</td><td>2026-07-14</td></tr>
+<tr><td>Lloydseurope</td><td>Software Engineer - Security Data And Ai</td><td>Edinburgh</td><td>2026-07-14</td></tr>
+<tr><td>Lloyds</td><td>Software Engineer - Security Data And Ai</td><td>Edinburgh</td><td>2026-07-14</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Rufus on Detail Page</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Jobgether</td><td>Frontend Engineer (ai Automation Platform)</td><td>Uk</td><td>2026-07-14</td></tr>
+<tr><td>CultureTest</td><td>Founding Product Engineer</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>The Arsenal Football Club Plc</td><td>Matchday It Support Assistant (casual)</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Barclays</td><td>Applied Ai Engineer- Bpl</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Bankstcharles</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-07-14</td></tr>
+<tr><td>Celltrion Healthcare</td><td>Business Intelligence Analyst</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Jobgether</td><td>Ad Operations Analyst</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Verisure S.A.</td><td>Business Analyst</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>mgstransport</td><td>Trainee Traffic Maintenance Engineer</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Service Call Out Engineer - Escalators</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Service Call Out Engineer - Escalators</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Otis Worldwide</td><td>Service Call Out Engineer - Escalators</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Service Engineer</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Cid Ascenseur</td><td>Lift Engineer Apprentice, Service - Central London</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Lift Engineer Apprentice, Service - Central London</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Lift Engineer Apprentice, Service - Central London</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Field Service Engineer Ii - Electron Microscopy</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Jll Com Au</td><td>Maintenance Technician</td><td>Bristol</td><td>2026-07-14</td></tr>
+<tr><td>Veolia</td><td>Mechanical Technician</td><td>Chilton Durham</td><td>2026-07-14</td></tr>
+<tr><td>Rolls Roycemotorcarswashington</td><td>Field Service Engineer</td><td>South East +1</td><td>2026-07-14</td></tr>
+<tr><td>Vanderlande UK</td><td>Maintenance Technician Ii</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Parkline Inc</td><td>Maintenance Technician</td><td>Medway</td><td>2026-07-14</td></tr>
+<tr><td>Otis Elevator Co.</td><td>Service Call Out Engineer - Days</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Maintenance Technician</td><td>Location</td><td>2026-07-14</td></tr>
+<tr><td>Landmarc Solutions</td><td>Domestic Plumbing & Maintenance Technician West Tofts Camp, Thetford, Norfolk, United Kingdom £37,115.94 Permanent Apply By 16 July, 2026 Posted On 2 July, 2026</td><td>West Tofts Camp</td><td>2026-07-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Mozo/a De Almacén 20h - Mm Burgos</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>(studentische) Aushilfe Logistik - Schwerpunkt Warenverräumung (m/w/d)</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Mozo/a De Almacén 30h - Mm Cordovilla-pamplona</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Mitarbeiter (m/w/d) Im Bereich Versand</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Levis Media</td><td>Levi's Carnaby Street, 10hrs Sales Stylist</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Manchester</td><td>2026-07-14</td></tr>
+<tr><td>William Grant & Sons Ltd</td><td>Customer Service Coordinator (ftc January 2027) Bellshill, United Kingdom Competitive Salary And Benefits Fixed Term Apply By 23 July, 2026 Posted On 9 July, 2026</td><td>Glasgow</td><td>2026-07-14</td></tr>
+<tr><td>Beatport LLC</td><td>Content Operations Coordinator</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Chubb Limited</td><td>Assistant Underwriter, Prs</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Chubb Ltd.</td><td>Assistant Underwriter, Prs</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Vanguard UK</td><td>Administrative Associate</td><td>United Kingdom</td><td>2026-07-14</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant - Theatre (bank)</td><td>Bristol</td><td>2026-07-14</td></tr>
+<tr><td>Nuffield Health</td><td>Ward Clerk</td><td>Wessex</td><td>2026-07-14</td></tr>
+<tr><td>Nuffieldhealthcareers</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-07-14</td></tr>
+<tr><td>Wise</td><td>Executive Assistant - Marketing</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>howdeninsurance.co.uk</td><td>Personal Assistant</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>Glasgow</td><td>2026-07-14</td></tr>
+<tr><td>Somak Luxury Travel</td><td>EA & AI Executive Assistant / Claude Operator</td><td>London</td><td>2026-07-14</td></tr>
 </table>
