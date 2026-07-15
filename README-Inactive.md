@@ -301,4 +301,51 @@ _No archived roles yet._
 <tr><td>howdeninsurance.co.uk</td><td>Personal Assistant</td><td>London</td><td>2026-07-14</td></tr>
 <tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>Glasgow</td><td>2026-07-14</td></tr>
 <tr><td>Somak Luxury Travel</td><td>EA & AI Executive Assistant / Claude Operator</td><td>London</td><td>2026-07-14</td></tr>
+<tr><td>Mattel EMEA</td><td>Public Relations Undergraduate Industrial Placement</td><td>Reading</td><td>2026-07-15</td></tr>
+<tr><td>Intel Corporation</td><td>Software Enabling And Optimization Engineer – Gpu Compute (vulkan / Cross-os) (f/m/d)</td><td>Munich +4</td><td>2026-07-15</td></tr>
+<tr><td>IQVIA UK</td><td>Site Support Engineer 1</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software Engineer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Associate Software Engineer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Playtech Plc</td><td>Ai Solution Engineer</td><td>Kyiv +1</td><td>2026-07-15</td></tr>
+<tr><td>TP ICAP</td><td>Ai Engineer</td><td>New York +1</td><td>2026-07-15</td></tr>
+<tr><td>SILHRMS</td><td>Assurance Advisor</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Assurance Advisor</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>QBE North America</td><td>Business Analyst - Finance & Actuarial</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Hbinsurance</td><td>Business Analyst - Finance & Actuarial</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Content Analyst</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Financial Analyst, Devices And Services</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Quantitative Strategist - Credit</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Cobham</td><td>Compliance Officer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Bupa Group</td><td>Compliance Officer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Investments & Development Analyst</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>GE VERNOVA</td><td>Investments & Development Analyst</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Marriott International</td><td>Maintenance - Shift Engineer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Marriott International</td><td>Maintenance Technician - London Marriott Hotel County Hall</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance Technician - London Marriott Hotel County Hall</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance - Shift Engineer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance - Shift Engineer</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance Technician - London Marriott Hotel County Hall</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>GE HealthCare UK</td><td>Field Service Engineer - Diagnostics Imaging</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>Ashtead Plant Hire Company Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-07-15</td></tr>
+<tr><td>Oxford Nanopore Technologies</td><td>Junior Maintenance Technician</td><td>Oxfordshire</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Hayes (part-time)</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Regent Street (part-time)</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>sportsconnection.dk</td><td>Sales Associate - London Designer Outlet, Wembley</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Sheffield</td><td>2026-07-15</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Food And Beverage Administrative Assistant</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Executive Assistant</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Newcastle Upon Tyne</td><td>2026-07-15</td></tr>
+<tr><td>Cobham</td><td>Administrative Assistant</td><td>Newcastle Upon Tyne</td><td>2026-07-15</td></tr>
+<tr><td>Bupa Group</td><td>Administrative Assistant</td><td>Newcastle Upon Tyne</td><td>2026-07-15</td></tr>
+<tr><td>SAICA</td><td>Customer Service Coordinator</td><td>Belfast</td><td>2026-07-15</td></tr>
+<tr><td>Nexgencloud</td><td>Executive Assistant</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>Bisnow</td><td>Contract Events Coordinator</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Healthcare Quality Assurance Specialist</td><td>Birmingham</td><td>2026-07-15</td></tr>
+<tr><td>Mulberry Group PLC</td><td>Executive Assistant</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>ASOS</td><td>Legal And Administration Assistant</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>JOHNSON CONTROLS</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-07-15</td></tr>
+<tr><td>JCI</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-07-15</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-07-15</td></tr>
+<tr><td>Santander Arena</td><td>Marketing Associate – Event Management / Scib</td><td>London</td><td>2026-07-15</td></tr>
+<tr><td>SILHRMS</td><td>Resource Coordinator</td><td>United Kingdom</td><td>2026-07-15</td></tr>
 </table>
