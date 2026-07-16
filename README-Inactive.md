@@ -348,4 +348,58 @@ _No archived roles yet._
 <tr><td>Johnson Controls OpenBlue</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-07-15</td></tr>
 <tr><td>Santander Arena</td><td>Marketing Associate – Event Management / Scib</td><td>London</td><td>2026-07-15</td></tr>
 <tr><td>SILHRMS</td><td>Resource Coordinator</td><td>United Kingdom</td><td>2026-07-15</td></tr>
+<tr><td>Citi</td><td>Client Onboarding Analyst</td><td>Belfast</td><td>2026-07-16</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst - Rates Options Desk Quant (vice President)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Citi</td><td>Markets Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-07-16</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst Fx Electronic Trading</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>HP</td><td>Placement Year - Large Format Intern</td><td>Reading</td><td>2026-07-16</td></tr>
+<tr><td>HP</td><td>Placement Year - Global Sales Support Intern</td><td>Reading</td><td>2026-07-16</td></tr>
+<tr><td>HP</td><td>Placement Year - Workforce Solutions Intern</td><td>Reading</td><td>2026-07-16</td></tr>
+<tr><td>Jobgether</td><td>C++ Developer</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Milton Keynes Council</td><td>Ict Security Analyst Civic Offices, 1 Saxon Gate East, Central Milton Keynes, Buckinghamshire, United Kingdom £37,280 - £41,771 Permanent Apply By 19 July, 2026 Posted On 3 July, 2026</td><td>Central Milton Keynes</td><td>2026-07-16</td></tr>
+<tr><td>Caterpillar UK</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Brightonparkbank</td><td>It Services Support - Barclaycard Payments</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Barclays</td><td>It Services Support - Barclaycard Payments</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Native</td><td>Graduate Data Analyst</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer - Performance Team</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Playtech</td><td>Ai Solution Engineer</td><td>Kyiv +1</td><td>2026-07-16</td></tr>
+<tr><td>jobs.barclays</td><td>Barclaycard Acquiring Payments - Internal Audit Vp (bpl)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Jobgether</td><td>Accountant</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Investment Banking - Equity Capital Markets- Analyst</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Real Estate Investment Banking, Analyst / Associate, Ldn, Global Advisory</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>State Street UK</td><td>Technical Readiness Business Analyst For Ta New Client Onboarding, Off</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>SMT Nederland</td><td>Aftermarket Business Analyst (construction)</td><td>Duxford</td><td>2026-07-16</td></tr>
+<tr><td>DXC Technology</td><td>Analyst Iii Business Process Transactions</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>DXC providing claims management services</td><td>Analyst Iii Business Process Transactions</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Bupa UK</td><td>Bank Msk Physiotherapist (band 7 Equivalent)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Chepplantjobs</td><td>Maintenance Engineer - Field Based</td><td>Thurrock</td><td>2026-07-16</td></tr>
+<tr><td>Masco</td><td>Maintenance Mechanic Iii, 1st Shift</td><td>Sauk Village</td><td>2026-07-16</td></tr>
+<tr><td>John Wood Group PLC</td><td>Mechanical Technician: - Brae Alpha</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Wood Group</td><td>Mechanical Technician: - Brae Alpha</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Wood</td><td>Mechanical Technician: - Brae Alpha</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Casual Maintenance Shift Engineer - Jw Marriott Grosvenor House London</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Field Service Engineer Gauging / Process Analytics</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Boeing Australia Holdings</td><td>P-8 Poseidon Field Service Representative</td><td>RAF Lossiemouth</td><td>2026-07-16</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>P-8 Poseidon Field Service Representative</td><td>RAF Lossiemouth</td><td>2026-07-16</td></tr>
+<tr><td>BP Retail UK</td><td>Maintenance Technician</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Pfh</td><td>Seasonal Sales Associate, Tommy Hilfiger Wembley</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Pfh</td><td>Part Time Sales Associate, Tommy Hilfiger - Brompton Road</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Pfh</td><td>Summer Sales Associate, Calvin Klein Wembley</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Barnet (part-time)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Watford (part-time)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Warehouse Associate Ii - Ptoc</td><td>United Kingdom</td><td>2026-07-16</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Nicholas Way</td><td>2026-07-16</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Warwick</td><td>2026-07-16</td></tr>
+<tr><td>ADB SAFEGATE</td><td>Project And Sales Coordinator</td><td>Langley</td><td>2026-07-16</td></tr>
+<tr><td>Birmingham City Council</td><td>Business Support Administrator</td><td>Birmingham</td><td>2026-07-16</td></tr>
+<tr><td>HCRG Care Group</td><td>Administration Assistant Chester, United Kingdom £24,853.00 Plus Group Pension Permanent - Full Time Apply By 2 August, 2026 Posted On 10 July, 2026</td><td>Chester</td><td>2026-07-16</td></tr>
+<tr><td>dorsetcouncil</td><td>Admin Assistant Grade D - Lilliput Ce Infant School</td><td>Lilliput</td><td>2026-07-16</td></tr>
+<tr><td>Beaverbrooks</td><td>Sales Assistant Bracknell, United Kingdom £13.37 Per Hour; Ote 1st Year £28,951.78 Permanent – Full-time Apply By No Expiry Date</td><td>Reading</td><td>2026-07-16</td></tr>
+<tr><td>W Brisbane</td><td>Marketing Coordinator, Pre-opening - The St. Regis London</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Willis Towers Watson</td><td>Marketing Co-ordinator -risk And Broking (maternity Cover)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Marketing Co-ordinator -risk And Broking (maternity Cover)</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Marriott International</td><td>Marketing Coordinator, Pre-opening - The St. Regis London</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>W Brisbane</td><td>Event Coordinator</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Marriott International</td><td>Event Coordinator</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Four Seasons Hotel London at Tower Bridge</td><td>Food And Beverage Administrative Assistant</td><td>London</td><td>2026-07-16</td></tr>
 </table>
