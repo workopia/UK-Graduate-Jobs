@@ -402,4 +402,112 @@ _No archived roles yet._
 <tr><td>W Brisbane</td><td>Event Coordinator</td><td>London</td><td>2026-07-16</td></tr>
 <tr><td>Marriott International</td><td>Event Coordinator</td><td>London</td><td>2026-07-16</td></tr>
 <tr><td>Four Seasons Hotel London at Tower Bridge</td><td>Food And Beverage Administrative Assistant</td><td>London</td><td>2026-07-16</td></tr>
+<tr><td>Vodafone</td><td>Platform Developer</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Ardian</td><td>Secondaries & Primaries It Project Management Intern - September 2026 / London</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Ardian</td><td>Infrastructure Intern - January 2027 / London</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Ardian</td><td>Buyout Intern - September 2026 / London</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Intern - Bilingual English/mandarin</td><td>Unknown</td><td>2026-07-17</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Business Intern</td><td>Bristol</td><td>2026-07-17</td></tr>
+<tr><td>KPMG</td><td>Insight Penultimate Year Black Heritage Talent - Tax and Law Insight Bristol 2026</td><td>Bristol</td><td>2026-07-17</td></tr>
+<tr><td>KPMG</td><td>Insight Penultimate Year Black Heritage Talent - Audit Insight Bristol 2026</td><td>Bristol</td><td>2026-07-17</td></tr>
+<tr><td>Stanley Black & Decker, Inc</td><td>Licensing Intern</td><td>Reading</td><td>2026-07-17</td></tr>
+<tr><td>ABB UK</td><td>Dział Organization Excellence - Program Praktyk Letnich 2026</td><td>Unknown</td><td>2026-07-17</td></tr>
+<tr><td>Oracle</td><td>Internship- Social Impact Intern</td><td>Reading</td><td>2026-07-17</td></tr>
+<tr><td>HP</td><td>Placement Year - Print Category Intern</td><td>Reading</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Platform</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Python Software Engineer - Ubuntu Hardware Certification Team</td><td>Uk</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Engineer</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Golang Engineer</td><td>Uk</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Software Engineer</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Platform / Core Infrastructure</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>QuadReal</td><td>It Support Analyst</td><td>Greater London +1</td><td>2026-07-17</td></tr>
+<tr><td>Hastings Direct</td><td>Automation Engineer</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Linux Devices Software Engineer - Snapd</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Engineer, Tavily</td><td>Uk</td><td>2026-07-17</td></tr>
+<tr><td>W3</td><td>Junior Security Analyst</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Python Engineer</td><td>Uk</td><td>2026-07-17</td></tr>
+<tr><td>HKEX (Hong Kong Exchanges)</td><td>Trading Analytics , Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>TransUnion</td><td>Business Intelligence Analyst</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>C3iot</td><td>Data Scientist - Defence</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Sonar Software Inc</td><td>Data Scientist, Marketing Analytics</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Sonar</td><td>Data Scientist, Marketing Analytics</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Sonarsource</td><td>Data Scientist, Marketing Analytics</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Roche UK</td><td>Statistical Scientist</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>newjob</td><td>Auditor</td><td>Countywide</td><td>2026-07-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Ims Auditor (sizewell C)</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>RTX Corporation</td><td>Training Analyst</td><td>Winnersh</td><td>2026-07-17</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Operations Finance Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Vinarchy</td><td>Revenue Growth Management Analyst - Uk</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Sephora USA Inc</td><td>Finance Analyst - Opex</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>apex.careers</td><td>Business Partner – Support Functions, Strategy & Perfomance</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Apex Group</td><td>Business Partner – Support Functions, Strategy & Perfomance</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Invesco UK</td><td>Compliance Officer</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>TEAM LEWIS</td><td>Finance Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Morgan Stanley</td><td>Investment Banking Division - Fig Benelux - Associate -</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Morstan</td><td>Investment Banking - Uk Financial Institutions Group - Associate</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Investment Banking - Uk Financial Institutions Group - Associate</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Investment Banking Division - Fig Benelux - Associate -</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Brabners LLP</td><td>Service Desk Analyst</td><td>Leeds</td><td>2026-07-17</td></tr>
+<tr><td>Dnsdblookup</td><td>Quantitative Developer</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Nscale</td><td>Payroll Analyst - International</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Turner & Townsend Pty Ltd</td><td>Programme Advisory – Business Case & Funding Advisory (defence Sector)</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>SCOR</td><td>Actuarial Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>HowardKennedyFsi LLP</td><td>Business Analyst No.1 London Bridge, London, Se1 9bg, United Kingdom Competitive Permanent Apply By 11 September, 2026 Posted On 9 July, 2026</td><td>London Bridge</td><td>2026-07-17</td></tr>
+<tr><td>Marsh</td><td>Specialist - Catastrophe Risk Management</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Genius Sports</td><td>Rights Compliance & Enforcement Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>NextEnergy Group</td><td>Technical Business Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>LSEG</td><td>Business Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Northern Trust</td><td>Audit Specialist - Enterprise Risk Management (erm)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>NT</td><td>Audit Specialist - Enterprise Risk Management (erm)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Northern Trust</td><td>Audit Specialist - Operational Risk Management (orm)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>NT</td><td>Audit Specialist - Operational Risk Management (orm)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>NRT (National Revenue Tax)</td><td>Audit Specialist - Operational Risk Management (orm)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>The Arsenal Football Club Plc</td><td>Business Analyst</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Barclays</td><td>Barclaycard Acquiring Payments - Internal Audit Vp (bpl)</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Cobham</td><td>Bank Msk Physiotherapist (band 7 Equivalent)</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Junior Achievement</td><td>Associate Field Service Engineer-london /j&j Medtech</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Jninternationalllc</td><td>Associate Field Service Engineer-london /j&j Medtech</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Amazon</td><td>Reliability Maintenance Engineer</td><td>Derbyshire</td><td>2026-07-17</td></tr>
+<tr><td>cfa-ascenseur.fr</td><td>Maintenance Engineer - Nights</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Hitachi Rail</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-07-17</td></tr>
+<tr><td>jobdayuib.cat</td><td>Technical Maintenance Technician</td><td>Desford</td><td>2026-07-17</td></tr>
+<tr><td>comtederius.cat</td><td>Technical Maintenance Technician</td><td>Desford</td><td>2026-07-17</td></tr>
+<tr><td>santillana.cat</td><td>Technical Maintenance Technician</td><td>Desford</td><td>2026-07-17</td></tr>
+<tr><td>Gleeson Homes Ltd</td><td>Maintenance Technician Wynyard, United Kingdom Excellent Salary And Benefits Package Permanent Apply By No Expiry Date Posted On 9 July, 2026</td><td>Wynyard</td><td>2026-07-17</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-07-17</td></tr>
+<tr><td>Vanderlande UK</td><td>Service Technician</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Brambles</td><td>Maintenance Engineer - Field Based</td><td>Thurrock</td><td>2026-07-17</td></tr>
+<tr><td>Hall & Kay</td><td>Fire Alarm Service Engineer</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>jll.co.in</td><td>Fire Alarm Service Engineer</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>JLL</td><td>Fire Alarm Service Engineer</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Casual Sales Assistant</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>W Brisbane</td><td>Guest Experience Expert Guest Service Associate Grosvenor Square</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Shipping Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Home Sales Advisor</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Financialtimes33</td><td>Customer Care Associate</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>SPLEND</td><td>Customer Experience Coordinator</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Blue Square</td><td>Product Promoter Samsung - New Malden New Malden, United Kingdom £116.96 Per Day + £25 Daily Bonus Fixed Term - Part Time Apply By 30 July, 2026 Posted On 30 June, 2026</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Pfh</td><td>Seasonal Sales Associate, Tommy Hilfiger Battersea</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Cardiff</td><td>2026-07-17</td></tr>
+<tr><td>Akamai</td><td>Executive Assistant</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Community Engagement Coordinator</td><td>Aberdeenshire +1</td><td>2026-07-17</td></tr>
+<tr><td>AxiCorp Financial Services Pty Ltd</td><td>Compliance Assistant</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Logistics Coordinator</td><td>Normanton</td><td>2026-07-17</td></tr>
+<tr><td>The Works Stores Ltd</td><td>Retail Sales Assistant - Keyholder</td><td>Uk</td><td>2026-07-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Executive Assistant (sizewell C)</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Administration Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Bop1 Engineering Coordinator</td><td>Hinkley Point C</td><td>2026-07-17</td></tr>
+<tr><td>Cobham</td><td>Administrator / Receptionist</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Bupa Group</td><td>Administrator / Receptionist</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Bupa UK</td><td>Administrator / Receptionist</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>BBC</td><td>Social Media Assistant</td><td>Salford</td><td>2026-07-17</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Warehouse Coordinator</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>JLL</td><td>Remedials Co-ordinator</td><td>Swinton</td><td>2026-07-17</td></tr>
+<tr><td>JLL</td><td>Building Systems & Project Coordinator</td><td>London</td><td>2026-07-17</td></tr>
+<tr><td>Thomson Reuters</td><td>Assistant Editor</td><td>UK</td><td>2026-07-17</td></tr>
+<tr><td>Ir Thomsonreuters</td><td>Assistant Editor</td><td>UK</td><td>2026-07-17</td></tr>
+<tr><td>Gamegenic GmbH</td><td>Logistics Production Coordinator</td><td>Essen +1</td><td>2026-07-17</td></tr>
+<tr><td>SNC Lavalin</td><td>Communications Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Communications Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
 </table>
