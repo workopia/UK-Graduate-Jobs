@@ -510,4 +510,92 @@ _No archived roles yet._
 <tr><td>Gamegenic GmbH</td><td>Logistics Production Coordinator</td><td>Essen +1</td><td>2026-07-17</td></tr>
 <tr><td>SNC Lavalin</td><td>Communications Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
 <tr><td>AtkinsRealis UK</td><td>Communications Assistant</td><td>United Kingdom</td><td>2026-07-17</td></tr>
+<tr><td>Ardian</td><td>Private Credit Intern</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Ardian</td><td>Corporate Finance Intern - July 2026 / London</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Google Play Protect (android)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>UK Atomic Energy Authority</td><td>Software Engineer</td><td>Culham</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>C# Engineer</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>GE VERNOVA</td><td>Software Engineer - Drives Control Application</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Software Engineer - Drives Control Application</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Teneo</td><td>It Service Desk Analyst</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Technical Support Specialist- Surface Analysis Systems</td><td>Europe</td><td>2026-07-18</td></tr>
+<tr><td>Co-op</td><td>Software Engineer - Salesforce</td><td>Manchester</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>Security Analyst</td><td>Uk</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>Golang Software Engineer, Commercial Systems</td><td>Uk</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>Information Technology - Software Engineer</td><td>Uk</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>Python + Aws</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Amber Electric</td><td>Full Stack Engineer</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Voneus Ltd</td><td>Technical Customer Operations Specialist</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Amazon Ads CreativeX</td><td>Edinburgh</td><td>2026-07-18</td></tr>
+<tr><td>Prudential Assurance UK</td><td>Data Analyst</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>LSEG</td><td>Ai Engineer (applied Generative Ai)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>LSEG</td><td>Sustainable Investment Data Scientist</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Howden</td><td>Crm Data Analyst & Administrator</td><td>UK</td><td>2026-07-18</td></tr>
+<tr><td>Brightonparkbank</td><td>Ai Software Engineer</td><td>Glasgow</td><td>2026-07-18</td></tr>
+<tr><td>Brightonparkbank</td><td>Integrated Financial Crime - Data Scientist</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Brightonparkbank</td><td>Applied Ai Engineer - Bpl</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Citi</td><td>Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-07-18</td></tr>
+<tr><td>Gersonlehrmangroup</td><td>Analyst, Commercial Operations</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>Vice President, Sox Control & Compliance</td><td>Greater Manchester</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of New York Mellon</td><td>Vice President, Sox Control & Compliance</td><td>Greater Manchester</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Analyst - Eame Crude</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Quant V&s G&p</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Exxon Mobil</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Howden</td><td>Crm Business Analyst</td><td>Central London</td><td>2026-07-18</td></tr>
+<tr><td>Hyperion Group</td><td>Crm Business Analyst</td><td>Central London</td><td>2026-07-18</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Swiss Re</td><td>Compliance Officer (uk Smf 16)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>TP ICAP</td><td>Quant Analyst – 5 Months Fixed Term Contract</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Barclays</td><td>Resilience Internal Audit Avp</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>jobs.barclays</td><td>Resilience Internal Audit Avp</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>SAP SE</td><td>Customer Services & Delivery Market Unit Uki Head, Consulting Business</td><td>Middlesex</td><td>2026-07-18</td></tr>
+<tr><td>Atos</td><td>Technical Business Analyst</td><td>Glasgow</td><td>2026-07-18</td></tr>
+<tr><td>bupa.co.uk</td><td>Resident Doctor In Oncology (foundation Level Or Above)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Maintenance Caretaker</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Danish Crown AS</td><td>Maintenance Engineer</td><td>Bugle</td><td>2026-07-18</td></tr>
+<tr><td>Molson Coors</td><td>Drinks Dispense Technician Teeside</td><td>Teeside +4</td><td>2026-07-18</td></tr>
+<tr><td>Molson Coors</td><td>Drinks Dispense Technician London</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Otisjob</td><td>Maintenance Engineer</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Otisjob</td><td>Lift Repairs Engineer</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Otisjob</td><td>Service Call Out Engineer - Days</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Otisjob</td><td>Service Call Out Engineer - Escalators</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Orise</td><td>Field Service Technician - Mechanical Uk</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>ASR Group</td><td>Shift Engineer</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>QinetiQ</td><td>Multi-skilled Maintenance Technician</td><td>Kyle Of Lochalsh</td><td>2026-07-18</td></tr>
+<tr><td>bu-uk</td><td>Water Field Technician</td><td>Winchester +3</td><td>2026-07-18</td></tr>
+<tr><td>bu-uk</td><td>Fibre Field Technician</td><td>Taunton +1</td><td>2026-07-18</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Casual Sales Assistant</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>DAMART S.A</td><td>Warehouse Operative - Goods In</td><td>Steeton</td><td>2026-07-18</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Casual Sales Assistant - Flannels</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Service Ambassador - Part Time (3 Days Per Week)</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Levis Media</td><td>Levi's Brompton Road Sales Stylist - 20 Hours</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>CMA CGM Group</td><td>Import Ces Coordinator</td><td>London Heathrow</td><td>2026-07-18</td></tr>
+<tr><td>Decathlon S.A</td><td>Sales Assistant (cycling & Workshop) 20-35 Hours</td><td>Portsmouth</td><td>2026-07-18</td></tr>
+<tr><td>Ingenico</td><td>Executive Assistant</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Service Coordinator</td><td>Manchester</td><td>2026-07-18</td></tr>
+<tr><td>Gloucestershire County Council</td><td>Administrator (commissioning)</td><td>Gloucestershire</td><td>2026-07-18</td></tr>
+<tr><td>GXO Logistics</td><td>Customer Service Administration Support</td><td>Nottingham</td><td>2026-07-18</td></tr>
+<tr><td>TÜV SÜD</td><td>Project Coordinator (defence And Aerospace)</td><td>South East</td><td>2026-07-18</td></tr>
+<tr><td>EE</td><td>Events Professional</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>jll.co.in</td><td>Business Support, Administrative Assistant</td><td>Merseyside</td><td>2026-07-18</td></tr>
+<tr><td>42</td><td>Business Support, Administrative Assistant</td><td>Merseyside</td><td>2026-07-18</td></tr>
+<tr><td>JLL (Jones Lang LaSalle)</td><td>Business Support, Administrative Assistant</td><td>Merseyside</td><td>2026-07-18</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Personal Assistant</td><td>London</td><td>2026-07-18</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-sylvia Park</td><td>Mount Wellington</td><td>2026-07-18</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Newmarket</td><td>Cambridge</td><td>2026-07-18</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Onehunga</td><td>Onehunga</td><td>2026-07-18</td></tr>
+<tr><td>wolseleycareers.co.uk</td><td>Project Coordinator</td><td>Branston</td><td>2026-07-18</td></tr>
+<tr><td>Warehouse Jobs UK</td><td>Project Coordinator</td><td>Branston</td><td>2026-07-18</td></tr>
+<tr><td>Harrodscareers</td><td>Merchandising Admin Assistant</td><td>United Kingdom</td><td>2026-07-18</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Weekend Only</td><td>Glasgow</td><td>2026-07-18</td></tr>
+<tr><td>Drcf Org</td><td>Retail Store Assistant Isle Of Sheppey Superstore</td><td>Isle Of Sheppey</td><td>2026-07-18</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Administration Assistant</td><td>Aylesford</td><td>2026-07-18</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Administration Assistant</td><td>Glasgow</td><td>2026-07-18</td></tr>
+<tr><td>newjob</td><td>Business Support Assistant (older Adults)</td><td>Portsmouth</td><td>2026-07-18</td></tr>
 </table>
