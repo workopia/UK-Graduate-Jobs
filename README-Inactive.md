@@ -694,4 +694,43 @@ _No archived roles yet._
 <tr><td>SMT Nederland</td><td>Project Coordinator (12 Month Ftc)</td><td>Duxford</td><td>2026-07-19</td></tr>
 <tr><td>CMA CGM Group</td><td>Warehouse Coordinator</td><td>Burton On Trent</td><td>2026-07-19</td></tr>
 <tr><td>CMA CGM Group</td><td>Customer Service Coordinator</td><td>London Heathrow</td><td>2026-07-19</td></tr>
+<tr><td>Estée Lauder</td><td>Elc Fragrance Specialist- Boots Stratford- 22.5 Hours</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Altamirafreelance</td><td>Full-stack Engineer (laravel + React)</td><td>Ukraine +1</td><td>2026-07-20</td></tr>
+<tr><td>TP ICAP</td><td>Equities Execution Data Analyst - 12 Month Fixed Term Contract</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>United Kingdom</td><td>2026-07-20</td></tr>
+<tr><td>W3</td><td>Technology Risk Analyst</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>PwC UK</td><td>Audit Associate (transfer - Aos Pod 3 - Iloilo)</td><td>Iloilo</td><td>2026-07-20</td></tr>
+<tr><td>jobs.barclays</td><td>Market Data Business Analyst</td><td>Glasgow</td><td>2026-07-20</td></tr>
+<tr><td>Bankstcharles</td><td>Market Data Business Analyst</td><td>Glasgow</td><td>2026-07-20</td></tr>
+<tr><td>Brightonparkbank</td><td>Market Data Business Analyst</td><td>Glasgow</td><td>2026-07-20</td></tr>
+<tr><td>Blue Light Card Ltd</td><td>Finance Analyst</td><td>Cossington</td><td>2026-07-20</td></tr>
+<tr><td>Dbcargofrance</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Bank</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>BBVA</td><td>Corporate Credit Risk Analyst</td><td>United Kingdom</td><td>2026-07-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Reconciliation Intermediate Analyst</td><td>Belfast</td><td>2026-07-20</td></tr>
+<tr><td>LSEG</td><td>Content Analyst</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Too Good To Go</td><td>Commercial Planning Analyst</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>IQVIA UK</td><td>Urology Nurse - London</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-07-20</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Single</td><td>Worcestershire</td><td>2026-07-20</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcodes Bhservice Engineer</td><td>South East</td><td>2026-07-20</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcodes Sw1, W & Wc</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>kandidatenliste.de</td><td>Field Service Engineer - Lab Instruments - Gloucestershire / Warwickshire / Worcestershire / Herefordshire</td><td>Gloucestershire +3</td><td>2026-07-20</td></tr>
+<tr><td>Sartorius</td><td>Field Service Engineer - Lab Instruments - Gloucestershire / Warwickshire / Worcestershire / Herefordshire</td><td>Gloucestershire +3</td><td>2026-07-20</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Field Service Engineer - Uk North</td><td>United Kingdom</td><td>2026-07-20</td></tr>
+<tr><td>GXO Logistics</td><td>Maintenance Engineer</td><td>Milton Keynes</td><td>2026-07-20</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Savers</td><td>Delivery Sales Assistant</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Wolseley UK</td><td>Associé(e) D'entrepôt - Quart De Soir</td><td>United Kingdom</td><td>2026-07-20</td></tr>
+<tr><td>ITV</td><td>2nd Costume Assistant, Emmerdale - 12 Month Ftc (maternity Cover)</td><td>Leeds</td><td>2026-07-20</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>England</td><td>2026-07-20</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-07-20</td></tr>
+<tr><td>GIC</td><td>Executive Assistant, Infrastructure (maternity Cover)</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>Henderson Group</td><td>Finance Coordinator - Trading Wholesale</td><td>Belfast</td><td>2026-07-20</td></tr>
+<tr><td>Bupa Group</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-07-20</td></tr>
+<tr><td>Urpa</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-07-20</td></tr>
+<tr><td>Teneo</td><td>Management Consulting, Executive Assistant</td><td>London</td><td>2026-07-20</td></tr>
+<tr><td>jll.co.in</td><td>Data Coordinator</td><td>Birmingham +1</td><td>2026-07-20</td></tr>
+<tr><td>afa'afea</td><td>Technical Trainer & Development Specialist</td><td>Warwick</td><td>2026-07-20</td></tr>
+<tr><td>Hakim Group</td><td>Optical Assistant Apprenticeship</td><td>Kings Hill</td><td>2026-07-20</td></tr>
 </table>
