@@ -733,4 +733,38 @@ _No archived roles yet._
 <tr><td>jll.co.in</td><td>Data Coordinator</td><td>Birmingham +1</td><td>2026-07-20</td></tr>
 <tr><td>afa'afea</td><td>Technical Trainer & Development Specialist</td><td>Warwick</td><td>2026-07-20</td></tr>
 <tr><td>Hakim Group</td><td>Optical Assistant Apprenticeship</td><td>Kings Hill</td><td>2026-07-20</td></tr>
+<tr><td>Samsung SDS</td><td>Intern - Open Innovation</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Google</td><td>Software Engineer, Agent Building, Applied Ai, Google Cloud Platform</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Ebury</td><td>Service Support Analyst</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Intersystems Caché & Trakcare His</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>Anthony Nolan</td><td>Data &amp; Insight Analyst</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Core Data Analyst</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Visitstlc</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Quant V&s G&p</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Analyst - Eame Crude</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Hiscox</td><td>Business Analyst</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Santander</td><td>Associate/vice President - Inflation Quant / Scib</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Betechwithsantander</td><td>Associate/vice President - Inflation Quant / Scib</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>RSM UK</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Accountant I</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>MBDA</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Risk Analytics Engineering Specialist</td><td>United Kingdom</td><td>2026-07-21</td></tr>
+<tr><td>Dbcargofrance</td><td>Client Assets Sourcebook (cass) Oversight Officer</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Client Assets Sourcebook (cass) Oversight Officer</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Bdbk010</td><td>Client Assets Sourcebook (cass) Oversight Officer</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Vaillant</td><td>Maintenance Engineer</td><td>Belper</td><td>2026-07-21</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcode So</td><td>South East</td><td>2026-07-21</td></tr>
+<tr><td>Nuveen</td><td>Global Institutional, Sales Support Associate, Based In London</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>TIAA Financial Services, Inc.</td><td>Global Institutional, Sales Support Associate, Based In London</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Elliott Brothers Ltd</td><td>Yard Assistant Ftc</td><td>Chandlers Ford</td><td>2026-07-21</td></tr>
+<tr><td>Veolia</td><td>Desa Contract Coordinator</td><td>Four Ashes</td><td>2026-07-21</td></tr>
+<tr><td>Veolia UK</td><td>Desa Contract Coordinator</td><td>Four Ashes</td><td>2026-07-21</td></tr>
+<tr><td>TP ICAP</td><td>Executive Assistant, Parameta Solutions</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>Drcf Org</td><td>Retail Shop Assistant (glasgow, Sauchiehall)</td><td>Glasgow</td><td>2026-07-21</td></tr>
+<tr><td>Cobham</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-07-21</td></tr>
 </table>
