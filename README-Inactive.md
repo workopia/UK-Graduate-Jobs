@@ -767,4 +767,40 @@ _No archived roles yet._
 <tr><td>TP ICAP</td><td>Executive Assistant, Parameta Solutions</td><td>London</td><td>2026-07-21</td></tr>
 <tr><td>Drcf Org</td><td>Retail Shop Assistant (glasgow, Sauchiehall)</td><td>Glasgow</td><td>2026-07-21</td></tr>
 <tr><td>Cobham</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-07-21</td></tr>
+<tr><td>Horstman Group</td><td>12 Month Placement - Digital Student Software Developer</td><td>Bristol</td><td>2026-07-22</td></tr>
+<tr><td>CACI Ltd</td><td>Graduate Software Engineer (september 2026) - National Security</td><td>Bristol</td><td>2026-07-22</td></tr>
+<tr><td>Graphcore</td><td>2026 Graduate Software Engineer - Drivers</td><td>Cambridge</td><td>2026-07-22</td></tr>
+<tr><td>Klipboard</td><td>Graduate Software Engineer</td><td>Newcastle Upon Tyne</td><td>2026-07-22</td></tr>
+<tr><td>MHR</td><td>Graduate Software Engineer</td><td>Nottingham</td><td>2026-07-22</td></tr>
+<tr><td>Instil</td><td>Graduate Software Engineer - 2026 Intake</td><td>Belfast</td><td>2026-07-22</td></tr>
+<tr><td>Graphcore</td><td>2026 Graduate Software Engineer - Kernel Engineering Team</td><td>Bristol</td><td>2026-07-22</td></tr>
+<tr><td>Graphcore</td><td>2026 Graduate Software Engineer</td><td>Bristol</td><td>2026-07-22</td></tr>
+<tr><td>Hargreaves Lansdown Jobs</td><td>Software Engineer</td><td>Bristol</td><td>2026-07-22</td></tr>
+<tr><td>Markel Group</td><td>Data Quality Analyst</td><td>United Kingdom</td><td>2026-07-22</td></tr>
+<tr><td>HP</td><td>Placement Year - Business Analyst Intern</td><td>Reading</td><td>2026-07-22</td></tr>
+<tr><td>Moore Kingston Smith</td><td>Audit Graduate Programme (aca) - Corporate Audit Sector - Register Your Interest</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Moore Kingston Smith</td><td>Audit Graduate Programme (aca) – Media Sector - Register Your Interest</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Grayce</td><td>Graduate Business Consultant - Hursley</td><td>Hursley</td><td>2026-07-22</td></tr>
+<tr><td>Moore Kingston Smith</td><td>Audit Graduate Programme (aca) – Nonprofit Sector - Register Your Interest</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>MHA</td><td>Audit Junior (not For Profit) Aca (graduate Scheme) - London - September 2026</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Grayce</td><td>Graduate Business Consultant</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>CGI</td><td>Business Graduate - Consultant - Human Centred Design - 2026</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Nomura International PLC</td><td>Business Analyst - Cash / Liquidity Management (12-month Contract)</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Nomura International PLC</td><td>Swap Dealer Compliance (associate)</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Quilter</td><td>Audit Specialist - Coo & Technology</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Greiner AG</td><td>Mechanik Seřizovač</td><td>Louka U LitvíNova</td><td>2026-07-22</td></tr>
+<tr><td>Candy Home</td><td>Field Service Engineer</td><td>North London</td><td>2026-07-22</td></tr>
+<tr><td>nationalgas</td><td>Operations Technician - Mechanical</td><td>Somerset</td><td>2026-07-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 39h</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Korean Speaker, 2027</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Spanish Speaker, 2027</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Swedish Speaker, 2027</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Hilton Worldwide</td><td>Guest Service Agent</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 32hrs - Spitalfields Market</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Queenborough</td><td>2026-07-22</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Oxford</td><td>2026-07-22</td></tr>
+<tr><td>Huel</td><td>Npd Assistant</td><td>Aylesbury</td><td>2026-07-22</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>bupa.co.uk</td><td>Healthcare Assistant</td><td>London</td><td>2026-07-22</td></tr>
+<tr><td>IOLLA Ltd</td><td>Retail Assistant - Optical Stylist (10 Hour Contract)part-timeedinburgh</td><td>Edinburgh</td><td>2026-07-22</td></tr>
 </table>

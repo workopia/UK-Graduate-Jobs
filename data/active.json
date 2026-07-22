@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-21",
- "count": 753,
+ "asOf": "2026-07-22",
+ "count": 738,
  "jobs": {
   "1782096": {
    "id": "1782096",
@@ -518,6 +518,12 @@
    "role": "Freshfields London Experience - 9 & 10 October 2026",
    "location": "London"
   },
+  "4cd9215027bf0d6be6589a24942d2c20": {
+   "id": "4cd9215027bf0d6be6589a24942d2c20",
+   "company": "Sureserve Group",
+   "role": "Business Administration Apprentice",
+   "location": "London"
+  },
   "15bfd346a0162053bbc9caabc95dbc73": {
    "id": "15bfd346a0162053bbc9caabc95dbc73",
    "company": "Rehlko",
@@ -866,12 +872,6 @@
    "role": "Technology Support Intern - Ilm London",
    "location": "London"
   },
-  "b9a5498900a5953f35795983293773e4": {
-   "id": "b9a5498900a5953f35795983293773e4",
-   "company": "Horstman Group",
-   "role": "12 Month Placement - Digital Student Software Developer",
-   "location": "Bristol"
-  },
   "targetjobs:8ea88425-5234-41ce-a1cc-af49b43ef31e": {
    "id": "targetjobs:8ea88425-5234-41ce-a1cc-af49b43ef31e",
    "company": "Elwood Technologies",
@@ -938,47 +938,11 @@
    "role": "Graduate Software Engineer",
    "location": "Glasgow"
   },
-  "c3c9aad5d4e6969a554ce9ff08c558c1": {
-   "id": "c3c9aad5d4e6969a554ce9ff08c558c1",
-   "company": "CACI Ltd",
-   "role": "Graduate Software Engineer (september 2026) - National Security",
-   "location": "Bristol"
-  },
-  "9466a5097872a147a384aa3f67872c64": {
-   "id": "9466a5097872a147a384aa3f67872c64",
-   "company": "Graphcore",
-   "role": "2026 Graduate Software Engineer - Drivers",
-   "location": "Cambridge"
-  },
-  "52e5b4136069092eafb3040ec05b8e9c": {
-   "id": "52e5b4136069092eafb3040ec05b8e9c",
-   "company": "Klipboard",
-   "role": "Graduate Software Engineer",
-   "location": "Newcastle Upon Tyne"
-  },
-  "94062178ccbe60bf723c5837cacfb646": {
-   "id": "94062178ccbe60bf723c5837cacfb646",
-   "company": "MHR",
-   "role": "Graduate Software Engineer",
-   "location": "Nottingham"
-  },
-  "e987b0d0770fd593e75c4f05541b1f5d": {
-   "id": "e987b0d0770fd593e75c4f05541b1f5d",
-   "company": "Instil",
-   "role": "Graduate Software Engineer - 2026 Intake",
-   "location": "Belfast"
-  },
-  "2a555445175cc49aee2f26f3039d20c2": {
-   "id": "2a555445175cc49aee2f26f3039d20c2",
-   "company": "Graphcore",
-   "role": "2026 Graduate Software Engineer - Kernel Engineering Team",
-   "location": "Bristol"
-  },
-  "551640be0e7b812d063e46120260f142": {
-   "id": "551640be0e7b812d063e46120260f142",
-   "company": "Graphcore",
-   "role": "2026 Graduate Software Engineer",
-   "location": "Bristol"
+  "5dbe920dc8807bc864ea06dddeaab56e": {
+   "id": "5dbe920dc8807bc864ea06dddeaab56e",
+   "company": "Motorolaa",
+   "role": "Software Engineer",
+   "location": "Glasgow"
   },
   "6d0b868a1f0be2e20e12c68db384154d": {
    "id": "6d0b868a1f0be2e20e12c68db384154d",
@@ -1448,12 +1412,6 @@
    "role": "Software Engineer",
    "location": "London"
   },
-  "b61d2c2306773ef4cc528b3b6703ff96": {
-   "id": "b61d2c2306773ef4cc528b3b6703ff96",
-   "company": "Hargreaves Lansdown Jobs",
-   "role": "Software Engineer",
-   "location": "Bristol"
-  },
   "4e0afd4a1e9335b0ef42cc9a10b71d79": {
    "id": "4e0afd4a1e9335b0ef42cc9a10b71d79",
    "company": "Lubrizol",
@@ -1500,6 +1458,12 @@
    "id": "targetjobs:41c5ebf2-6e68-4e86-a58b-870a3ea6d111",
    "company": "Grayce",
    "role": "Graduate Data Consultant - London",
+   "location": "London"
+  },
+  "81fbe3945d0e3f71eb92bea7b15b3236": {
+   "id": "81fbe3945d0e3f71eb92bea7b15b3236",
+   "company": "NIQ",
+   "role": "Insights Analyst",
    "location": "London"
   },
   "d970b5ec91c2c651cd28ecc7bf2ce3e7": {
@@ -1976,12 +1940,6 @@
    "role": "Reporting Analyst",
    "location": "United Kingdom"
   },
-  "2711130ccfe60c49a7831cde6d56bead": {
-   "id": "2711130ccfe60c49a7831cde6d56bead",
-   "company": "Markel Group",
-   "role": "Data Quality Analyst",
-   "location": "United Kingdom"
-  },
   "R168424": {
    "id": "R168424",
    "company": "Kering",
@@ -2023,12 +1981,6 @@
    "company": "Prudential Assurance UK",
    "role": "Actuarial Intern",
    "location": "United Kingdom"
-  },
-  "cca36dd637da7e404db2a937032bdb0e": {
-   "id": "cca36dd637da7e404db2a937032bdb0e",
-   "company": "HP",
-   "role": "Placement Year - Business Analyst Intern",
-   "location": "Reading"
   },
   "targetjobs:fdc7fde1-0d3b-4d75-99c9-d93b6fa495bd": {
    "id": "targetjobs:fdc7fde1-0d3b-4d75-99c9-d93b6fa495bd",
@@ -2096,46 +2048,16 @@
    "role": "Graduate Business Consultant",
    "location": "London"
   },
-  "398df2455a9fb62b5bcb6d7f5d0576aa": {
-   "id": "398df2455a9fb62b5bcb6d7f5d0576aa",
-   "company": "Moore Kingston Smith",
-   "role": "Audit Graduate Programme (aca) - Corporate Audit Sector - Register Your Interest",
-   "location": "London"
+  "866dc565873545030eea7107164dd296": {
+   "id": "866dc565873545030eea7107164dd296",
+   "company": "Mercer",
+   "role": "Operations Analyst",
+   "location": "Tower Place"
   },
-  "204eac581ae0102c4bc982aa5ce0891b": {
-   "id": "204eac581ae0102c4bc982aa5ce0891b",
-   "company": "Moore Kingston Smith",
-   "role": "Audit Graduate Programme (aca) – Media Sector - Register Your Interest",
-   "location": "London"
-  },
-  "8a392c4f90669fbcfea4e7290eb900bc": {
-   "id": "8a392c4f90669fbcfea4e7290eb900bc",
-   "company": "Grayce",
-   "role": "Graduate Business Consultant - Hursley",
-   "location": "Hursley"
-  },
-  "57522c65d263b9f400ec6a35300ffd4f": {
-   "id": "57522c65d263b9f400ec6a35300ffd4f",
-   "company": "Moore Kingston Smith",
-   "role": "Audit Graduate Programme (aca) – Nonprofit Sector - Register Your Interest",
-   "location": "London"
-  },
-  "44198551aeb08cbfda6b111781259bf4": {
-   "id": "44198551aeb08cbfda6b111781259bf4",
-   "company": "MHA",
-   "role": "Audit Junior (not For Profit) Aca (graduate Scheme) - London - September 2026",
-   "location": "London"
-  },
-  "fdb7fbebfa991840b195285ee34f46ea": {
-   "id": "fdb7fbebfa991840b195285ee34f46ea",
-   "company": "Grayce",
-   "role": "Graduate Business Consultant",
-   "location": "London"
-  },
-  "82ba13723c0cd498616bd3b00601395e": {
-   "id": "82ba13723c0cd498616bd3b00601395e",
-   "company": "CGI",
-   "role": "Business Graduate - Consultant - Human Centred Design - 2026",
+  "targetjobs:9cae3e83-73ac-45ef-9304-94549b1e3320": {
+   "id": "targetjobs:9cae3e83-73ac-45ef-9304-94549b1e3320",
+   "company": "Operis",
+   "role": "Financial Modelling Analyst",
    "location": "London"
   },
   "f771fa24c15258a19dd88c314d24700d": {
@@ -2215,6 +2137,12 @@
    "company": "Bank Pekao",
    "role": "Ekspert / Ekspertka W Biurze Zgodności Bankowości Inwestycyjnej",
    "location": "Wyszukiwanie"
+  },
+  "5b6406fd8a3b239e49ece5cdd1c9cea7": {
+   "id": "5b6406fd8a3b239e49ece5cdd1c9cea7",
+   "company": "Intertek",
+   "role": "Auditor",
+   "location": "Northern Ireland"
   },
   "ce4337dbe2e1585c4463b6808ee94cb9": {
    "id": "ce4337dbe2e1585c4463b6808ee94cb9",
@@ -2580,24 +2508,6 @@
    "id": "e895f2f440bdafd75c2e49a7eeb655b6",
    "company": "Nomura International PLC",
    "role": "Emea Cost Management Analytics / Financial Planning And Analytics(12 Months Mat Cover)",
-   "location": "London"
-  },
-  "c504eef650d432c4b50fa944747864e9": {
-   "id": "c504eef650d432c4b50fa944747864e9",
-   "company": "Nomura International PLC",
-   "role": "Business Analyst - Cash / Liquidity Management (12-month Contract)",
-   "location": "London"
-  },
-  "3ea5dc0d55df350230422d1c18f23dcd": {
-   "id": "3ea5dc0d55df350230422d1c18f23dcd",
-   "company": "Nomura International PLC",
-   "role": "Swap Dealer Compliance (associate)",
-   "location": "London"
-  },
-  "dd98f0345bcd2241813cb9f62a763845": {
-   "id": "dd98f0345bcd2241813cb9f62a763845",
-   "company": "Quilter",
-   "role": "Audit Specialist - Coo & Technology",
    "location": "London"
   },
   "c77909313a764bc8bd2361acc1ce714b": {
@@ -3080,6 +2990,24 @@
    "role": "Field Nurse",
    "location": "London"
   },
+  "346aabb59b403c1a63a625972ca3443e": {
+   "id": "346aabb59b403c1a63a625972ca3443e",
+   "company": "plaud-ascenseur.fr",
+   "role": "Service Engineer",
+   "location": "London"
+  },
+  "a6352c77df7b206ab59cddc56cc32c16": {
+   "id": "a6352c77df7b206ab59cddc56cc32c16",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "En - Maintenance Agent-technician",
+   "location": "Brighton And Hove"
+  },
+  "dac7a7118da59c88566a6184b3aa089e": {
+   "id": "dac7a7118da59c88566a6184b3aa089e",
+   "company": "Serco",
+   "role": "Radar Repair Technician",
+   "location": "Waterlooville"
+  },
   "a44edca6910a6d5a16e6840b3d74ab45": {
    "id": "a44edca6910a6d5a16e6840b3d74ab45",
    "company": "Veolia",
@@ -3542,28 +3470,46 @@
    "role": "Maintenance Technician",
    "location": "Staverton"
   },
-  "9f8404c695d1a52a9ced0b31a51a103c": {
-   "id": "9f8404c695d1a52a9ced0b31a51a103c",
-   "company": "Greiner AG",
-   "role": "Mechanik Seřizovač",
-   "location": "Louka U LitvíNova"
+  "b3d676b0adc91160c5ae539cbc6ae93f": {
+   "id": "b3d676b0adc91160c5ae539cbc6ae93f",
+   "company": "St. Regis Hotels & Resorts",
+   "role": "Guest Experience Expert Guest Service Associate Grosvenor Square",
+   "location": "London"
   },
-  "6d3ba0759118bf026469467fca271bf6": {
-   "id": "6d3ba0759118bf026469467fca271bf6",
-   "company": "Candy Home",
-   "role": "Field Service Engineer",
-   "location": "North London"
+  "8e29637910d6c6432f3770107f7d9803": {
+   "id": "8e29637910d6c6432f3770107f7d9803",
+   "company": "Levis Media",
+   "role": "Levi's Carnaby Street, 10hrs Sales Stylist",
+   "location": "London"
   },
-  "5334abf6e04e78f8eebc02317776551e": {
-   "id": "5334abf6e04e78f8eebc02317776551e",
-   "company": "nationalgas",
-   "role": "Operations Technician - Mechanical",
-   "location": "Somerset"
+  "236329b196235a939daad6c287ad15ae": {
+   "id": "236329b196235a939daad6c287ad15ae",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 39h",
+   "location": "London"
+  },
+  "94210a09c81e88ab070067f7baeb4c3d": {
+   "id": "94210a09c81e88ab070067f7baeb4c3d",
+   "company": "The Works Stores Ltd",
+   "role": "Retail Sales Assistant - Temporary Contract",
+   "location": "London"
+  },
+  "ca132d288c383102304570550d804fe6": {
+   "id": "ca132d288c383102304570550d804fe6",
+   "company": "Frasers Group (Sports Direct)",
+   "role": "Temporary Sales Assistant - Flannels",
+   "location": "London"
   },
   "83596de65f1ff8d4a24c562ffde487c7": {
    "id": "83596de65f1ff8d4a24c562ffde487c7",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor - Central London (part-time)",
+   "location": "London"
+  },
+  "db4c8f181e22d92946abfe9c92e36093": {
+   "id": "db4c8f181e22d92946abfe9c92e36093",
+   "company": "Marriott International",
+   "role": "Guest Experience Expert Guest Service Associate Grosvenor Square",
    "location": "London"
   },
   "R168027": {
@@ -3812,12 +3758,6 @@
    "role": "Sponsorship Sales Associateat Retail Insights",
    "location": "London"
   },
-  "3c3ce810eb1b57894990779a681bacdf": {
-   "id": "3c3ce810eb1b57894990779a681bacdf",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 39h",
-   "location": "London"
-  },
   "eb4791a40c0244a57294e13ad7df67f6": {
    "id": "eb4791a40c0244a57294e13ad7df67f6",
    "company": "H & M Hennes & Mauritz AB",
@@ -4010,35 +3950,29 @@
    "role": "Associate, Client Service, Japanese Speaker, 2027",
    "location": "London"
   },
-  "targetjobs:277c47a7-041f-4364-9652-dca914adfd00": {
-   "id": "targetjobs:277c47a7-041f-4364-9652-dca914adfd00",
-   "company": "AlphaSights",
-   "role": "Associate, Client Service, Korean Speaker, 2027",
+  "d8537693e6a3a35255e1e44c972c697d": {
+   "id": "d8537693e6a3a35255e1e44c972c697d",
+   "company": "Free People (URBN)",
+   "role": "Urban Outfitters Supply Chain Merchandising Admin Assistant",
    "location": "London"
   },
-  "targetjobs:7d378288-f99c-42aa-bc16-29d885fde099": {
-   "id": "targetjobs:7d378288-f99c-42aa-bc16-29d885fde099",
-   "company": "AlphaSights",
-   "role": "Associate, Client Service, Spanish Speaker, 2027",
-   "location": "London"
+  "5b02e042fb81d9e43bface1813930284": {
+   "id": "5b02e042fb81d9e43bface1813930284",
+   "company": "Primark",
+   "role": "Retail Assistant",
+   "location": "Bournemouth"
   },
-  "targetjobs:b9ad2ac4-cb8c-4117-b34a-f7c2b20d83ae": {
-   "id": "targetjobs:b9ad2ac4-cb8c-4117-b34a-f7c2b20d83ae",
-   "company": "AlphaSights",
-   "role": "Associate, Client Service, Swedish Speaker, 2027",
-   "location": "London"
+  "9c6d6231e870332f401b12ee507ab184": {
+   "id": "9c6d6231e870332f401b12ee507ab184",
+   "company": "Frasers Group (Sports Direct)",
+   "role": "Temporary Sales Assistant",
+   "location": "Portsmouth"
   },
-  "1e698206baac944bdea7053495093f33": {
-   "id": "1e698206baac944bdea7053495093f33",
-   "company": "Hilton Worldwide",
-   "role": "Guest Service Agent",
-   "location": "London"
-  },
-  "7959bf91ccf01590f9524b997a19dfa0": {
-   "id": "7959bf91ccf01590f9524b997a19dfa0",
-   "company": "Jimmy Fairly",
-   "role": "Sales Assistant 32hrs - Spitalfields Market",
-   "location": "London"
+  "ea3736370fb933e00cf367ee34b3379b": {
+   "id": "ea3736370fb933e00cf367ee34b3379b",
+   "company": "Frasers Group (Sports Direct)",
+   "role": "Merchandise Administrative Assistant/allocator",
+   "location": "Sheffield"
   },
   "8600ccd23b4a91b4b1cb39b800cfacd1": {
    "id": "8600ccd23b4a91b4b1cb39b800cfacd1",
@@ -4051,6 +3985,12 @@
    "company": "Drcf Org",
    "role": "Retail Store Assistant (uckfield)",
    "location": "Royal Tunbridge Wells"
+  },
+  "7e2f99e502c2024398c9b00943f8fb0c": {
+   "id": "7e2f99e502c2024398c9b00943f8fb0c",
+   "company": "LGC",
+   "role": "Administrator (part-time)",
+   "location": "Basingstoke"
   },
   "866fbbb046128470e4767f2c960c9da7": {
    "id": "866fbbb046128470e4767f2c960c9da7",
@@ -4196,23 +4136,11 @@
    "role": "Technical Specialist - Investigations",
    "location": "Leeds"
   },
-  "8f58c4bce64e5a902e9aec203413babf": {
-   "id": "8f58c4bce64e5a902e9aec203413babf",
-   "company": "Frasers Group (Sports Direct)",
-   "role": "Temporary Sales Assistant",
-   "location": "Queenborough"
-  },
   "6bc00d13539657a2cc64e491e645325e": {
    "id": "6bc00d13539657a2cc64e491e645325e",
    "company": "Compasspathways",
    "role": "Team Coordinator, R&d",
    "location": "London"
-  },
-  "2e6e8d5931e391a94ad2365e0557f5a2": {
-   "id": "2e6e8d5931e391a94ad2365e0557f5a2",
-   "company": "Primark",
-   "role": "Retail Assistant",
-   "location": "Oxford"
   },
   "916c8cc1b19348e38c99b3ddd1f7fc40": {
    "id": "916c8cc1b19348e38c99b3ddd1f7fc40",
@@ -4376,6 +4304,12 @@
    "role": "Assistant Head Housekeeper Full Time Park Lane",
    "location": "London"
   },
+  "c24613a9eae6ef721a7ba789f953a543": {
+   "id": "c24613a9eae6ef721a7ba789f953a543",
+   "company": "Marriott International",
+   "role": "Assistant Head Housekeeper Full Time Park Lane",
+   "location": "London"
+  },
   "5e456e241edc749fa28e77ec8762cbe7": {
    "id": "5e456e241edc749fa28e77ec8762cbe7",
    "company": "Corby Spirit and Wine Ltd",
@@ -4495,30 +4429,6 @@
    "company": "Fast Retailing",
    "role": "Sales Assistant - Uniqlo 311 Oxford Street",
    "location": "Oxford Street"
-  },
-  "3488c1215bc4ded34380b41d4b2c8d23": {
-   "id": "3488c1215bc4ded34380b41d4b2c8d23",
-   "company": "Huel",
-   "role": "Npd Assistant",
-   "location": "Aylesbury"
-  },
-  "174b8fb7c49647339855b62e1a9a729a": {
-   "id": "174b8fb7c49647339855b62e1a9a729a",
-   "company": "Bupa Group",
-   "role": "Healthcare Assistant",
-   "location": "London"
-  },
-  "e682ec1a3398e777374b50c50baaebcd": {
-   "id": "e682ec1a3398e777374b50c50baaebcd",
-   "company": "bupa.co.uk",
-   "role": "Healthcare Assistant",
-   "location": "London"
-  },
-  "a14973de1fd3adc41b151ddab51ee959": {
-   "id": "a14973de1fd3adc41b151ddab51ee959",
-   "company": "IOLLA Ltd",
-   "role": "Retail Assistant - Optical Stylist (10 Hour Contract)part-timeedinburgh",
-   "location": "Edinburgh"
   }
  }
 }
