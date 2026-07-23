@@ -803,4 +803,57 @@ _No archived roles yet._
 <tr><td>Bupa Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-07-22</td></tr>
 <tr><td>bupa.co.uk</td><td>Healthcare Assistant</td><td>London</td><td>2026-07-22</td></tr>
 <tr><td>IOLLA Ltd</td><td>Retail Assistant - Optical Stylist (10 Hour Contract)part-timeedinburgh</td><td>Edinburgh</td><td>2026-07-22</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Freshfields London Experience - 9 & 10 October 2026</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>Vice President Full Stack Engineer</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>The Bank of New York Mellon</td><td>Vice President Full Stack Engineer</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>CATAPULT SPORTS</td><td>Software Engineer</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Capital One Financial Corporation</td><td>Data Scientist / Deep Learning Practitioner</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Hiscox</td><td>Ai Developer</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Bis Web Ltd</td><td>Assistant Data Analyst (public Health)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Jobgether</td><td>Reporting Analyst</td><td>United Kingdom</td><td>2026-07-23</td></tr>
+<tr><td>Severn Trent Plc</td><td>Compliance & Monitoring Officer</td><td>Derbyshire</td><td>2026-07-23</td></tr>
+<tr><td>Accidentallyhippie</td><td>Financial Risk Analytics (fra) Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Sg360solutions</td><td>Financial Risk Analytics (fra) Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>smorekoppen.no</td><td>Financial Risk Analytics (fra) Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>pinggu.info</td><td>Financial Risk Analytics (fra) Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Slpipe</td><td>Financial Risk Analytics (fra) Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>BSI Group</td><td>Management Systems Auditor (north London)</td><td>North London +2</td><td>2026-07-23</td></tr>
+<tr><td>TP ICAP</td><td>Client Lifecycle Onboarding Analyst 1</td><td>Belfast</td><td>2026-07-23</td></tr>
+<tr><td>C3 Presents</td><td>Financial Accountant</td><td>Farringdon</td><td>2026-07-23</td></tr>
+<tr><td>Livenation</td><td>Financial Accountant</td><td>Farringdon</td><td>2026-07-23</td></tr>
+<tr><td>Barclays</td><td>Business Analyst</td><td>Glasgow</td><td>2026-07-23</td></tr>
+<tr><td>Brightonparkbank</td><td>Business Analyst</td><td>Glasgow</td><td>2026-07-23</td></tr>
+<tr><td>Bankstcharles</td><td>Credit Research Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Brightonparkbank</td><td>Credit Research Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Barclays</td><td>Credit Research Analyst</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Deutsche Bank</td><td>Non-linear Rates & Structured Notes Strat</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Dnsdblookup</td><td>Non-linear Rates & Structured Notes Strat</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Mifid Regulatory Reporting Business Analyst (12 Months Contract)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Fx Options Trader</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (3 Months Paternity Cover)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Nomura International PLC</td><td>Emea Cost Management Analytics / Financial Planning And Analytics(12 Months Mat Cover)</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Cencora</td><td>Field Nurse</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Dual</td><td>Berkshire</td><td>2026-07-23</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-07-23</td></tr>
+<tr><td>Halma (safety)</td><td>Field Services Engineer - South West & Midlands</td><td>South West & Midlands</td><td>2026-07-23</td></tr>
+<tr><td>Tata Steel UK</td><td>Mechanical Craft</td><td>Trostre</td><td>2026-07-23</td></tr>
+<tr><td>Galliford Try</td><td>Uv Site Services Technician</td><td>West Midlands</td><td>2026-07-23</td></tr>
+<tr><td>Gruppoab Com Corp</td><td>Field Service Technician</td><td>Unione Europea</td><td>2026-07-23</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Technician</td><td>Staverton</td><td>2026-07-23</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 39h</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>LKQ Europe</td><td>Sales Advisor</td><td>Oxford</td><td>2026-07-23</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Hindi Speaker, 2027</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Italian Speaker, 2027</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Japanese Speaker, 2027</td><td>London</td><td>2026-07-23</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Bournemouth</td><td>2026-07-23</td></tr>
+<tr><td>Witherslack Group</td><td>Administrative Assistant - Maternity Cover</td><td>Royal Tunbridge Wells</td><td>2026-07-23</td></tr>
+<tr><td>Capita (digital)</td><td>Recruitment Coordinator</td><td>Glasgow</td><td>2026-07-23</td></tr>
+<tr><td>Biffa Waste Services</td><td>Administration Assistant</td><td>Saint Erth Praze</td><td>2026-07-23</td></tr>
+<tr><td>Zenoss Inc</td><td>Programme Coordinator</td><td>West London</td><td>2026-07-23</td></tr>
+<tr><td>Community Integrated Care</td><td>Communications Specialist (colleague Engagement)</td><td>Liverpool</td><td>2026-07-23</td></tr>
+<tr><td>FMC</td><td>Healthcare Assistant</td><td>North Devon</td><td>2026-07-23</td></tr>
+<tr><td>Aldinger Company</td><td>Service Coordinator(qcs)</td><td>Milwaukie</td><td>2026-07-23</td></tr>
+<tr><td>Fast Retailing</td><td>Sales Assistant - Uniqlo 311 Oxford Street</td><td>Oxford Street</td><td>2026-07-23</td></tr>
 </table>
