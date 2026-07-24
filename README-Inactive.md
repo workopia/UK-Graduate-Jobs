@@ -856,4 +856,66 @@ _No archived roles yet._
 <tr><td>FMC</td><td>Healthcare Assistant</td><td>North Devon</td><td>2026-07-23</td></tr>
 <tr><td>Aldinger Company</td><td>Service Coordinator(qcs)</td><td>Milwaukie</td><td>2026-07-23</td></tr>
 <tr><td>Fast Retailing</td><td>Sales Assistant - Uniqlo 311 Oxford Street</td><td>Oxford Street</td><td>2026-07-23</td></tr>
+<tr><td>Foodles</td><td>🎓 Gtm Associate Internship</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Rbsfuel</td><td>Insight Experience For Black Heritage Talent - Natwest Markets - Front Office</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Rbsfuel</td><td>Insight Experience For Black Heritage Talent - Commercial Banking - Financing Solutions</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Procter & Gamble</td><td>Supply Chain Industrial Placement - Weybridge</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Groundworker Apprentice Rail London</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software & Data Engineers</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>heycar</td><td>Backend Engineer</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>NTT Communications</td><td>Information Security Incident Response Analyst</td><td>United Kingdom</td><td>2026-07-24</td></tr>
+<tr><td>NTT DATA</td><td>Information Security Incident Response Analyst</td><td>United Kingdom</td><td>2026-07-24</td></tr>
+<tr><td>Bank of New York Mellon</td><td>Vice President Full Stack Engineer</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Datasciencejobsuk</td><td>Performance Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Bankstcharles</td><td>Data Science Associate – Portfolio Hedging & Optimisation</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Atos</td><td>Technical Business Analyst</td><td>Glasgow</td><td>2026-07-24</td></tr>
+<tr><td>McArthurGlen Group</td><td>Procurement Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Mangroup</td><td>Risk & Performance Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Operations Finance Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Finance Analyst - Opex</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Royal London</td><td>Financial Reporting Accountant</td><td>Alderley Edge</td><td>2026-07-24</td></tr>
+<tr><td>Royal London</td><td>Business Analyst (rlam)</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Bankstcharles</td><td>Customer Due Diligence (cdd) Design Sme</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Brightonparkbank</td><td>Customer Due Diligence (cdd) Design Sme</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Gartner UK</td><td>Managing Partner - Manufacturing, Consumer Goods, Retail & Utility Sectors</td><td>United Kingdom</td><td>2026-07-24</td></tr>
+<tr><td>Subsea 7</td><td>Skillpool Accountant</td><td>Aberdeen (Westhill)</td><td>2026-07-24</td></tr>
+<tr><td>Verisure S.A.</td><td>Business Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Svenska Handelsbanken AB</td><td>Business Analyst (payments - 6 Month Day Rate Contractor) London, United Kingdom Competitive Day Rate Contractor Apply By 28 August, 2026 Posted On 17 July, 2026</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>North Norfolk District Council</td><td>Private Rented Sector Compliance Officer</td><td>North Norfolk</td><td>2026-07-24</td></tr>
+<tr><td>Sefe</td><td>Quantitative Risk Analyst (m/f/d)</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>pibgroup.co.uk</td><td>Compliance Analyst</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Financial Institutions Group (fig) Associate</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Dnsdblookup</td><td>Financial Institutions Group (fig) Associate</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Deutsche Bank</td><td>Financial Institutions Group (fig) Associate</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Xcenda</td><td>Field Nurse - Registered Nurse</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>afa'afea</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>GroßBritannien</td><td>2026-07-24</td></tr>
+<tr><td>Davide Campari Milano S.p.A</td><td>Maintenance Electrician</td><td>Rothes</td><td>2026-07-24</td></tr>
+<tr><td>Azolver</td><td>Field Service Engineer (southeast Region Uk)</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Severn Trent Plc</td><td>Mechanical Maintenance Technician</td><td>Leicestershire</td><td>2026-07-24</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Electrical</td><td>West Midlands</td><td>2026-07-24</td></tr>
+<tr><td>Severn Trent Plc</td><td>Distribution Service Technician</td><td>Finham</td><td>2026-07-24</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer - West Midland</td><td>West Midland</td><td>2026-07-24</td></tr>
+<tr><td>Hovis Ltd</td><td>Shift Engineer</td><td>Avonmouth</td><td>2026-07-24</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Casual Sales Assistant</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, English Speaker, 2027</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, French Speaker, 2027</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Portsmouth</td><td>2026-07-24</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-07-24</td></tr>
+<tr><td>newjob</td><td>Business Support Assistant (older Adults)</td><td>Portsmouth</td><td>2026-07-24</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Community Engagement Coordinator</td><td>Aberdeenshire +1</td><td>2026-07-24</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Technical Coordinator</td><td>East Midlands Airport</td><td>2026-07-24</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Technical Specialist - Investigations</td><td>Leeds</td><td>2026-07-24</td></tr>
+<tr><td>Corby Spirit and Wine Ltd</td><td>Marketing Associate</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Marketing Associate</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Four Seasons Hotel London at Tower Bridge</td><td>Food And Beverage Administrative Assistant</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Food And Beverage Administrative Assistant</td><td>London</td><td>2026-07-24</td></tr>
+<tr><td>Moog</td><td>Logistics Coordinator</td><td>Wolverhampton</td><td>2026-07-24</td></tr>
+<tr><td>Genesys Aerosystems</td><td>Logistics Coordinator</td><td>Wolverhampton</td><td>2026-07-24</td></tr>
+<tr><td>Moog Inc.</td><td>Logistics Coordinator</td><td>Wolverhampton</td><td>2026-07-24</td></tr>
+<tr><td>Sun Chemical</td><td>Technical Application Specialist, Emea</td><td>Gb</td><td>2026-07-24</td></tr>
+<tr><td>TT Electronics</td><td>Recruitment Coordinator (ftc, 6 Months)</td><td>Newcastle Upon Tyne</td><td>2026-07-24</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-07-24</td></tr>
+<tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>United Kingdom</td><td>2026-07-24</td></tr>
 </table>
