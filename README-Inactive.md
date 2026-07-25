@@ -918,4 +918,86 @@ _No archived roles yet._
 <tr><td>TT Electronics</td><td>Recruitment Coordinator (ftc, 6 Months)</td><td>Newcastle Upon Tyne</td><td>2026-07-24</td></tr>
 <tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-07-24</td></tr>
 <tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>United Kingdom</td><td>2026-07-24</td></tr>
+<tr><td>Rbsfuel</td><td>Insight Experience For Black Heritage Talent - Coutts - Products & Client Services</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Rbsfuel</td><td>Insight Experience For Black Heritage Talent - Internal Audit</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>SS&C</td><td>Ai Automation Developer</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d</td><td>Cambridge</td><td>2026-07-25</td></tr>
+<tr><td>Cadence</td><td>Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d</td><td>Cambridge</td><td>2026-07-25</td></tr>
+<tr><td>Centennialpa</td><td>Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d</td><td>Cambridge</td><td>2026-07-25</td></tr>
+<tr><td>Neo4j</td><td>Full-stack Software Engineer - Gds</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>RTX Corporation</td><td>Software Engineer</td><td>Manchester</td><td>2026-07-25</td></tr>
+<tr><td>bu-uk</td><td>Ict Service Desk Analyst</td><td>Bury St Edmunds</td><td>2026-07-25</td></tr>
+<tr><td>Santander Arena</td><td>Eut Operations Engineer Support / S2 / Business Area / Triton Square, London</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Eut Operations Engineer Support / S2 / Business Area / Triton Square, London</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Santander UK</td><td>Eut Operations Engineer Support / S2 / Business Area / Triton Square, London</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>CI&T</td><td>[job-30309] Ai Engineer, Uk</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Capital One</td><td>Data Scientist / Deep Learning Practitioner</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Atkinsrealis</td><td>Reporting Data Analyst</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Reporting Data Analyst</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Lancashire Holdings</td><td>Energy Data Analyst</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Veolia UK</td><td>Energy Data Analyst</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Brightonparkbank</td><td>Data Science Associate – Portfolio Hedging & Optimisation</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>jobs.barclays</td><td>Data Science Associate – Portfolio Hedging & Optimisation</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Amazon</td><td>Business Intelligence Engineer, Amazon Customer Service</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Exxon Mobil</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Analyst - Eame Crude</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Bank Pekao</td><td>Ekspert / Ekspertka W Biurze Zgodności Bankowości Inwestycyjnej</td><td>Wyszukiwanie</td><td>2026-07-25</td></tr>
+<tr><td>Intertek</td><td>Auditor</td><td>Northern Ireland</td><td>2026-07-25</td></tr>
+<tr><td>mgstransport</td><td>Plant & Equipment Financial Analyst</td><td>Location</td><td>2026-07-25</td></tr>
+<tr><td>Disney</td><td>Payroll Analyst</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>dgd.vision</td><td>Business Analyst</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Domestic & General</td><td>Business Analyst</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Bankstcharles</td><td>Data Product Business Analyst</td><td>Manchester</td><td>2026-07-25</td></tr>
+<tr><td>jobs.barclays</td><td>Data Product Business Analyst</td><td>Manchester</td><td>2026-07-25</td></tr>
+<tr><td>Spire Healthcare</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Perrigo Company</td><td>Financial Accountant</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>REED Inc</td><td>Cx3 Business Analyst</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Sensory Analyst</td><td>Cambridge</td><td>2026-07-25</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Sensory Analyst</td><td>Cambridge</td><td>2026-07-25</td></tr>
+<tr><td>SAP SE</td><td>Customer Services & Delivery Market Unit Uki Head, Consulting Business</td><td>Middlesex</td><td>2026-07-25</td></tr>
+<tr><td>Swiss Re</td><td>Compliance Officer (uk Smf 16)</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Cadent Gas Ltd</td><td>Risk And Assurance Officer</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Cadent Gas Ltd</td><td>Compliance Officer</td><td>East Midlands</td><td>2026-07-25</td></tr>
+<tr><td>RSM UK</td><td>Federal Tax Associate (fall 2027/winter 2028)</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>TD Bank</td><td>Tds Operations Analyst I (6 Month Ftc)</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst I (6 Month Ftc)</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Cencora</td><td>Registered Field Nurse</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Single</td><td>Derbyshire</td><td>2026-07-25</td></tr>
+<tr><td>Danaher Corp</td><td>Field Service Engineer - North London And Surrounding Counties</td><td>North London</td><td>2026-07-25</td></tr>
+<tr><td>Vanderlande UK</td><td>Maintenance Technician Ii</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Field Service Engineer</td><td>South East</td><td>2026-07-25</td></tr>
+<tr><td>Canvas Offices</td><td>Junior Maintenance Technician</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Malvern Panalytical Inc</td><td>Customer Support Engineer</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Kardex Remstar</td><td>Installation Technician</td><td>Midlands</td><td>2026-07-25</td></tr>
+<tr><td>Kardex</td><td>Field Service Technician</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Clarke Energy</td><td>Diesel Field Service Engineer</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Rehlko</td><td>Diesel Field Service Engineer</td><td>United Kingdom</td><td>2026-07-25</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Service Engineer - Call Out</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>OTIS ELEVATOR COMPANY</td><td>Service Engineer - Call Out</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Cid Ascenseur</td><td>Service Engineer - Call Out</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Otisjob</td><td>Service Engineer - Call Out</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>LKQ Europe</td><td>Sales Advisor</td><td>Oxford</td><td>2026-07-25</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Italian Speaker, 2026</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, English Speaker, 2026</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Dutch Speaker, 2027</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, German Speaker, 2027</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Worchester</td><td>2026-07-25</td></tr>
+<tr><td>GIC</td><td>Executive Assistant, Infrastructure (maternity Cover)</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Isio</td><td>Administration Assistant</td><td>Manchester</td><td>2026-07-25</td></tr>
+<tr><td>Bupa UK</td><td>Activity Coordinator</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Bupaglobal</td><td>Activity Coordinator</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Acrisureinnovation</td><td>Assistant Underwriter</td><td>Bristol</td><td>2026-07-25</td></tr>
+<tr><td>Experian</td><td>Executive Assistant - Edq (uki And Global)</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator</td><td>Erith Health Centre</td><td>2026-07-25</td></tr>
+<tr><td>Recovery Focus</td><td>Healthcare Assistant</td><td>North Devon</td><td>2026-07-25</td></tr>
+<tr><td>Business Elements</td><td>Support Services Assistant</td><td>Stevenage</td><td>2026-07-25</td></tr>
+<tr><td>Spire Healthcare</td><td>Reception Administrator</td><td>Edinburgh</td><td>2026-07-25</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Temp - Pt - Cheshire Oaks</td><td>Cheshire Oaks</td><td>2026-07-25</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Assistant Head Housekeeper Full Time Park Lane</td><td>London</td><td>2026-07-25</td></tr>
+<tr><td>Marriott International</td><td>Assistant Head Housekeeper Full Time Park Lane</td><td>London</td><td>2026-07-25</td></tr>
 </table>
