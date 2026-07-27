@@ -1102,4 +1102,67 @@ _No archived roles yet._
 <tr><td>Mondelez</td><td>Administration Assistant</td><td>Minworth</td><td>2026-07-26</td></tr>
 <tr><td>Mondelēz International</td><td>Administration Assistant</td><td>Minworth</td><td>2026-07-26</td></tr>
 <tr><td>Isio</td><td>Administration Assistant - Fixed Term Contract</td><td>Manchester</td><td>2026-07-26</td></tr>
+<tr><td>JOHNSON CONTROLS</td><td>Apprentice Customer Experience Advisor</td><td>Manchester</td><td>2026-07-27</td></tr>
+<tr><td>JLL UK</td><td>Apprentice Refrigeration And Air Conditioning Technician</td><td>Manchester</td><td>2026-07-27</td></tr>
+<tr><td>JLL UK</td><td>Apprentice Sales Engineer</td><td>Manchester</td><td>2026-07-27</td></tr>
+<tr><td>Otis</td><td>Lift Engineer Apprentice, Service - Belfast</td><td>Belfast</td><td>2026-07-27</td></tr>
+<tr><td>42</td><td>Apprentice Refrigeration And Air Conditioning Technician</td><td>Manchester</td><td>2026-07-27</td></tr>
+<tr><td>42</td><td>Apprentice Sales Engineer</td><td>Manchester</td><td>2026-07-27</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Graduate Software Engineer</td><td>Glasgow</td><td>2026-07-27</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software Engineer</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Upscope</td><td>Software Engineerfull-timelondon Hq</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>jobs.barclays</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-07-27</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Growth Engineer</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Domestic & General</td><td>Data Scientist</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Bishopfleming</td><td>Internal Audit Trainee - September 2026 Start</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Rathbone Brothers</td><td>Crims Business/product Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>BP Retail UK</td><td>Trade Analyst</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Sportradar</td><td>Business Development Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>William Grant & Sons Ltd</td><td>Finance Analyst Hook, United Kingdom Competitive Salary And Benefits Full Time Apply By 16 August, 2026 Posted On 22 July, 2026</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Svenska Handelsbanken AB</td><td>Business Analyst - Payments London Or Manchester, United Kingdom Competitive Permanent - Full Time Apply By 21 August, 2026 Posted On 22 July, 2026</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Bank Pekao</td><td>Doradca / Doradczyni Klienta Biznesowego / Płock</td><td>Wyszukiwanie Wed</td><td>2026-07-27</td></tr>
+<tr><td>Sizewell C</td><td>Reporting Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Atos</td><td>Technical Business Analyst</td><td>Glasgow</td><td>2026-07-27</td></tr>
+<tr><td>JLL</td><td>Financial Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Jll Com Sg</td><td>Financial Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Pan Macmillan</td><td>Finance Analyst</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Mercer</td><td>Operations Analyst</td><td>Tower Place</td><td>2026-07-27</td></tr>
+<tr><td>ABB UK</td><td>Is Business Analyst – Identity & Access Management (iam)</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>RSM UK</td><td>State And Local Tax Transaction Automation Associate (fall 2027/winter 2028)</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>RSM UK</td><td>State And Local Tax - Income Franchise Associate (fall 2027/winter 2028)</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Workforcity</td><td>Investment Banking Associate, Uk Banking</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Workforcity</td><td>Quantitative Analyst Fx Electronic Trading</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Quantitative Analyst Fx Electronic Trading</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Wells Fargo</td><td>Fx Macro Fx Desk Quant, Ed</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>KBR Inc</td><td>Infrastructure Risk Analyst</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Astellas Pharma</td><td>Development Physician</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Coloplast</td><td>Coloplast Nurse - St Georges Community Area</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-07-27</td></tr>
+<tr><td>Codan Limited</td><td>Field Service Engineer (ip / Networking)</td><td>Whiteley</td><td>2026-07-27</td></tr>
+<tr><td>ABB UK</td><td>Maintenance Technician – Emf At (f/m/d) 2-shift</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Agilent Technologies UK</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-07-27</td></tr>
+<tr><td>Britvic plc</td><td>Technical Services Representative - M3/m4 Corridor</td><td>Field-Based</td><td>2026-07-27</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Maintenance Engineer Ote 50k</td><td>East Glasgow</td><td>2026-07-27</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Service Engineer</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Verisure S.A.</td><td>Field After Sales Executive</td><td>East London</td><td>2026-07-27</td></tr>
+<tr><td>Decathlon S.A</td><td>Sport Advisor</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Associate, Pts Customer Support</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Staines (part-time)</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Kingston (part-time)</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Jellycat (various Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 5 August, 2026 Posted On 6 July, 2026</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Night Shift</td><td>Milton Keynes</td><td>2026-07-27</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Community Engagement Coordinator</td><td>Aberdeenshire +1</td><td>2026-07-27</td></tr>
+<tr><td>JCI</td><td>Customer Service Coordinator</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Supply Chain Merchandising Admin Assistant</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Agincare Group</td><td>Activities Coordinator Derby, United Kingdom (incl. Northern Ireland) £12.72 Part Time Apply By 20 August, 2026</td><td>Burton On Trent</td><td>2026-07-27</td></tr>
+<tr><td>MHRA (Medicines and Healthcare products Regulatory Agency)</td><td>Communications Specialist: Business Technology Change Programme</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Royal Borough of Greenwich</td><td>Administration Assistant - Horn Park Primary School Alnwick Road , United Kingdom Scale 3 Point 5-6 £26,971.15 - £27,356.92 Actual Permanent Apply By 9 August, 2026 Posted On 21 July, 2026</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 40hrs - South West London</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>SJE Inc.</td><td>It Support Specialist</td><td>Birmingham</td><td>2026-07-27</td></tr>
+<tr><td>Ifrsfoundation</td><td>Executive Assistant To Issb Chair</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Freshfields</td><td>Personal Assistant - 12pm To 8pm Shift</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>LADbible Group</td><td>Production Coordinator- Originals</td><td>London</td><td>2026-07-27</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Merchandise Administrative Assistant/allocator</td><td>Sheffield</td><td>2026-07-27</td></tr>
+<tr><td>Capita</td><td>Recruitment Coordinator</td><td>Bournemouth</td><td>2026-07-27</td></tr>
+<tr><td>Drcf Org</td><td>Retail Store Assistant (uckfield)</td><td>Royal Tunbridge Wells</td><td>2026-07-27</td></tr>
 </table>
