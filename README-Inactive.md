@@ -1165,4 +1165,23 @@ _No archived roles yet._
 <tr><td>Frasers Group (Sports Direct)</td><td>Merchandise Administrative Assistant/allocator</td><td>Sheffield</td><td>2026-07-27</td></tr>
 <tr><td>Capita</td><td>Recruitment Coordinator</td><td>Bournemouth</td><td>2026-07-27</td></tr>
 <tr><td>Drcf Org</td><td>Retail Store Assistant (uckfield)</td><td>Royal Tunbridge Wells</td><td>2026-07-27</td></tr>
+<tr><td>77</td><td>Apprentice Refrigeration And Air Conditioning Technician</td><td>Manchester</td><td>2026-07-28</td></tr>
+<tr><td>Salesforce UK</td><td>Software Engineer, Mts - Agentforce Optimization Agent & Agent Studio</td><td>United Kingdom</td><td>2026-07-28</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer - Pensions, Isa & Investments</td><td>United Kingdom</td><td>2026-07-28</td></tr>
+<tr><td>TES Global</td><td>Business Analyst</td><td>London</td><td>2026-07-28</td></tr>
+<tr><td>William Blair</td><td>Investment Banking Analyst, Private Capital Markets</td><td>Amsterdam +1</td><td>2026-07-28</td></tr>
+<tr><td>BSI Group</td><td>Management Systems Auditor - Nuclear Supply Chain</td><td>UK</td><td>2026-07-28</td></tr>
+<tr><td>TP ICAP</td><td>Business Analyst (brokerage Technology)</td><td>Belfast</td><td>2026-07-28</td></tr>
+<tr><td>jobs.barclays</td><td>Business Analyst (data Products)</td><td>Glasgow</td><td>2026-07-28</td></tr>
+<tr><td>anglianwatercareers.co.uk</td><td>Project Analyst</td><td>Cambridge</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Bank</td><td>Client Assets Sourcebook (cass) Oversight Officer</td><td>London</td><td>2026-07-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Bank Care Assistant</td><td>London</td><td>2026-07-28</td></tr>
+<tr><td>Amey Ltd</td><td>Field Engineer - Highways</td><td>Nairn</td><td>2026-07-28</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Assistant Technician</td><td>Milton Keynes</td><td>2026-07-28</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Assistant Technician</td><td>Milton Keynes</td><td>2026-07-28</td></tr>
+<tr><td>Raytheon Australia</td><td>Assistant Technician</td><td>Milton Keynes</td><td>2026-07-28</td></tr>
+<tr><td>Ebury</td><td>Fx Sales Associate - Partnerships</td><td>London</td><td>2026-07-28</td></tr>
+<tr><td>Amey Ltd</td><td>Network Coordinator</td><td>Liverpool</td><td>2026-07-28</td></tr>
+<tr><td>Betechwithsantander</td><td>Scuk Vehicle Reallocation & Logistics Coordinator</td><td>Wharley End Cranfield</td><td>2026-07-28</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Assistant - Level 3</td><td>Birmingham</td><td>2026-07-28</td></tr>
 </table>
