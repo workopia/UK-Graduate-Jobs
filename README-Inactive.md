@@ -1184,4 +1184,40 @@ _No archived roles yet._
 <tr><td>Amey Ltd</td><td>Network Coordinator</td><td>Liverpool</td><td>2026-07-28</td></tr>
 <tr><td>Betechwithsantander</td><td>Scuk Vehicle Reallocation & Logistics Coordinator</td><td>Wharley End Cranfield</td><td>2026-07-28</td></tr>
 <tr><td>Bupa Group</td><td>Healthcare Assistant - Level 3</td><td>Birmingham</td><td>2026-07-28</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Alternance Data Gouvernance - Septembre 2026</td><td>Unknown</td><td>2026-07-29</td></tr>
+<tr><td>IQVIA UK</td><td>Site Support Engineer 1</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>jobs.barclays</td><td>Java Developer</td><td>Glasgow</td><td>2026-07-29</td></tr>
+<tr><td>Ashby</td><td>Product Support Engineer - Emea</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Cavicchio Greenhouses, Inc.</td><td>Product Support Engineer - Emea</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Capita</td><td>Data Analyst</td><td>Home-Based</td><td>2026-07-29</td></tr>
+<tr><td>Dbcargofrance</td><td>Data Analytics & Insight Generation</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Retirement World</td><td>Analyst - Gib, Metals And Mining</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Entrust</td><td>Revenue Operations Analyst</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Drweng</td><td>Quantitative Trading Analyst - Equity Options</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>LSEG</td><td>Business Analyst</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Howden</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>coveainsurancehub.co.uk</td><td>Sanctions Officer</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Hyperion Group</td><td>Sanctions Officer</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Operose Health Ltd</td><td>General Practitioner London, United Kingdom £99000 - £112500 Permanent - Part Time Apply By 22 June, 2026 Job Posted Date 8 June, 2026</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>RWE AG</td><td>Onshore Wind Turbine Technician- South East England (kent)</td><td>Kent</td><td>2026-07-29</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Danish Crown AS</td><td>Maintenance Engineer</td><td>Bugle</td><td>2026-07-29</td></tr>
+<tr><td>AGGREKO</td><td>Field Service Engineer</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>KION North America Corporation</td><td>Field Service Engineer</td><td>Essex</td><td>2026-07-29</td></tr>
+<tr><td>KION</td><td>Field Service Engineer</td><td>Essex</td><td>2026-07-29</td></tr>
+<tr><td>Masco</td><td>Maintenance Mechanic Iii, 1st Shift</td><td>Sauk Village</td><td>2026-07-29</td></tr>
+<tr><td>The Works Stores Ltd</td><td>Retail Sales Assistant - Keyholder</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Sales Host</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Milton Keynes</td><td>2026-07-29</td></tr>
+<tr><td>SILHRMS</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Atkinsrealis</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Recovery Focus</td><td>Business Coordinator</td><td>Head Office North</td><td>2026-07-29</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Inbound Transport And Customs Coordinator</td><td>UK</td><td>2026-07-29</td></tr>
+<tr><td>Private Equity Insights</td><td>Graduate events management</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Prudential Assurance UK</td><td>Customer Service Specialist</td><td>United Kingdom</td><td>2026-07-29</td></tr>
+<tr><td>Gamegenic GmbH</td><td>Logistics Production Coordinator</td><td>Essen +1</td><td>2026-07-29</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Ai Learning Sales Specialist - London</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>Diaverum Sweden AB</td><td>Healthcare Assistant Sidcup</td><td>London</td><td>2026-07-29</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Scuk Vehicle Reallocation & Logistics Coordinator</td><td>Wharley End Cranfield</td><td>2026-07-29</td></tr>
 </table>
