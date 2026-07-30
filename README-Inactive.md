@@ -1220,4 +1220,44 @@ _No archived roles yet._
 <tr><td>FITCH RATINGS Ltd</td><td>Ai Learning Sales Specialist - London</td><td>London</td><td>2026-07-29</td></tr>
 <tr><td>Diaverum Sweden AB</td><td>Healthcare Assistant Sidcup</td><td>London</td><td>2026-07-29</td></tr>
 <tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Scuk Vehicle Reallocation & Logistics Coordinator</td><td>Wharley End Cranfield</td><td>2026-07-29</td></tr>
+<tr><td>Vodafone</td><td>Vodafonethree - Field Technician</td><td>Suffolk +1</td><td>2026-07-30</td></tr>
+<tr><td>Ardian</td><td>Client Solutions Intern - September 2026 / London</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Groundworker Apprentice Rail London</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>JLL (Jones Lang LaSalle)</td><td>Apprentice Refrigeration And Air Conditioning Technician</td><td>Manchester</td><td>2026-07-30</td></tr>
+<tr><td>AtkinsRealis UK</td><td>User Support Analyst</td><td>United Kingdom</td><td>2026-07-30</td></tr>
+<tr><td>Salesforce UK</td><td>Software Engineering Mts</td><td>United Kingdom</td><td>2026-07-30</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Engineer I, Software</td><td>United Kingdom</td><td>2026-07-30</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Recurring Payin</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Goblockchains</td><td>Back-end Engineer, Trading</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Account Sharing</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>jobs.barclays</td><td>Forward Deployed Ai Engineer</td><td>Glasgow</td><td>2026-07-30</td></tr>
+<tr><td>Barclays</td><td>Forward Deployed Ai Engineer</td><td>Glasgow</td><td>2026-07-30</td></tr>
+<tr><td>Akamai</td><td>Data Analytics & Insight Generation</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Deutsche Bank</td><td>Data Analytics & Insight Generation</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Quantitative Research - Vice President</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>BBVA</td><td>Fo Fixed Income & Xva Quant</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Bupa Group</td><td>Cash Management Accountant</td><td>Salford Quays</td><td>2026-07-30</td></tr>
+<tr><td>Bupa UK</td><td>Cash Management Accountant</td><td>Salford Quays</td><td>2026-07-30</td></tr>
+<tr><td>Cobham</td><td>Cash Management Accountant</td><td>Salford Quays</td><td>2026-07-30</td></tr>
+<tr><td>Ashridge Home Care</td><td>Live-in Waking Night Carer</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Urpa</td><td>Care Assistant - Full Time (hourly)</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>IQVIA Holdings</td><td>Urology Nurse - London</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Swanwick</td><td>2026-07-30</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>En - Maintenance Agent-technician</td><td>Brighton And Hove</td><td>2026-07-30</td></tr>
+<tr><td>Serco</td><td>Radar Repair Technician</td><td>Waterlooville</td><td>2026-07-30</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-07-30</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Dual</td><td>Berkshire +1</td><td>2026-07-30</td></tr>
+<tr><td>Veolia</td><td>Service Engineer</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Travelodge Hotels Limited</td><td>Maintenance Engineer</td><td>Location</td><td>2026-07-30</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Experience Expert Guest Relations Executive Grosvenor Square</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Temp 30h Ftc Nike Oxford Circus</td><td>Oxford Circus</td><td>2026-07-30</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Temp 20h Ftc Nike Oxford Circus</td><td>Oxford Circus</td><td>2026-07-30</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Technical Coordinator</td><td>East Midlands Airport</td><td>2026-07-30</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Birmingham</td><td>2026-07-30</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Admin Assistant - Haywards Heath, West Sussex</td><td>Brighton</td><td>2026-07-30</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Audiology Admin Assistant</td><td>Glasgow</td><td>2026-07-30</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Call Centre Assistant/ Administrator - Petersfield</td><td>Portsmouth</td><td>2026-07-30</td></tr>
+<tr><td>TV SD</td><td>Project Coordinator (defence And Aerospace)</td><td>South East</td><td>2026-07-30</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Cash Office</td><td>Stevenage</td><td>2026-07-30</td></tr>
+<tr><td>Kpler</td><td>Sales Specialist - Inbox And Chartering</td><td>London</td><td>2026-07-30</td></tr>
 </table>
