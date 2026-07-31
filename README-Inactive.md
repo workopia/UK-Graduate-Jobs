@@ -1260,4 +1260,107 @@ _No archived roles yet._
 <tr><td>TV SD</td><td>Project Coordinator (defence And Aerospace)</td><td>South East</td><td>2026-07-30</td></tr>
 <tr><td>Primark</td><td>Retail Assistant - Cash Office</td><td>Stevenage</td><td>2026-07-30</td></tr>
 <tr><td>Kpler</td><td>Sales Specialist - Inbox And Chartering</td><td>London</td><td>2026-07-30</td></tr>
+<tr><td>ABB UK</td><td>Internship Hse Specialist</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Philips UK</td><td>Services Delivery Intern With Dutch Or German (all Genders)</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Philips UK</td><td>Alternant(e) Rebate & Trade Spend (12/24mois)</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Philips UK</td><td>Services Delivery Intern With Dutch/ German/ Italian Or French (all Genders)</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Front Office Intern (6 Months Fixed Term)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Carrier Corporation</td><td>Engineering Apprenticeship</td><td>Belfast</td><td>2026-07-31</td></tr>
+<tr><td>Bankstcharles</td><td>Software Engineer</td><td>Glasgow</td><td>2026-07-31</td></tr>
+<tr><td>Brightonparkbank</td><td>Software Engineer</td><td>Glasgow</td><td>2026-07-31</td></tr>
+<tr><td>jobs.barclays</td><td>Fx Java Developer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/node.js/react.js/ai</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Jobgether</td><td>Frontend Engineer</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Centennialpa</td><td>Software Engineer Ii - Computational Fluid Dynamics (cfd)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer Ii - Computational Fluid Dynamics (cfd)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer I - Computational Fluid Dynamics (cfd)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Cadence</td><td>Software Engineer Ii - Computational Fluid Dynamics (cfd)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Cadence</td><td>Software Engineer I - Computational Fluid Dynamics (cfd)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>SILHRMS</td><td>User Support Analyst</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Atkinsrealis</td><td>User Support Analyst</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Capita (digital)</td><td>Data Analyst</td><td>Home-Based</td><td>2026-07-31</td></tr>
+<tr><td>Concentrix</td><td>Professional, Bi Analyst (tcf)</td><td>Belfast</td><td>2026-07-31</td></tr>
+<tr><td>Disney Streaming</td><td>Viewer Insights Analyst</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>BGBx</td><td>Ai Software Engineer</td><td>England</td><td>2026-07-31</td></tr>
+<tr><td>Jobgether</td><td>Ai Developer</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Vanguard UK</td><td>Data Analyst, Product & Distribution Strategy Analytics</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>DEPT®</td><td>Data Scientist</td><td>Budapest +1</td><td>2026-07-31</td></tr>
+<tr><td>Google</td><td>Staff Product Data Scientist, Google Shopping</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Dazed Media</td><td>Junior Data &amp; Insight Analyst</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Amazon</td><td>AI Language Engineer II, Alexa for Shopping Lang-Tech</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Perrigo Company</td><td>Financial Accountant</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Trusts</td><td>Audit Specialist, Credit Risk</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Liverpool Football Club and Athletic Grounds Ltd</td><td>Lfcw Pga U21 Coach Analyst Axa Melwood Training Centre, United Kingdom Market Rate Permanent Apply By 7 August, 2026 Posted On 24 July, 2026</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Financial Crime Officer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Commercial Analyst I</td><td>Cambridge</td><td>2026-07-31</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Commercial Analyst I</td><td>Cambridge</td><td>2026-07-31</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Investment Banking Associate (f/m/x)</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>Dbcargofrance</td><td>Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Dbcargofrance</td><td>Market Risk Methodology Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Dnsdblookup</td><td>Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Dnsdblookup</td><td>Valuation Control Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Market Risk Methodology Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Valuation Control Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Bdbk010</td><td>Valuation Control Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Bdbk010</td><td>Market Risk Methodology Quantitative Strategist</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Jobgether</td><td>Iso 27001 Internal Auditor</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>newjob</td><td>Auditor</td><td>Countywide</td><td>2026-07-31</td></tr>
+<tr><td>SAP Ariba</td><td>Customer Services & Delivery Market Unit Uki Head, Consulting Business</td><td>Middlesex</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Fx Options Trader</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (3 Months Paternity Cover)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Emea Cost Management Analytics / Financial Planning And Analytics(12 Months Mat Cover)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Business Analyst - Cash / Liquidity Management (12-month Contract)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Swap Dealer Compliance (associate)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Mifid Regulatory Reporting Business Analyst (12 Months Contract)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Spire Healthcare</td><td>Bank Registered Nurse - Outpatients</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>SeeAbility</td><td>Female Support Worker</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>clevelandcliniclondon.uk</td><td>Healthcare Assistant - Rehabilitation</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Bupaglobal</td><td>Care Assistant</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Bupa Group</td><td>Staff Nurse - Medicine And Acute Assessment Unit (aau) Ward (perm)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Site Field Technician</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Vaillant</td><td>Maintenance Engineer</td><td>Belper</td><td>2026-07-31</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcodes Sw1, W & Wc</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Ashtead Plant Hire Company Ltd</td><td>Mobile Tools Technician</td><td>Location</td><td>2026-07-31</td></tr>
+<tr><td>Stackline</td><td>Customer Support Engineer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Schneider Electric</td><td>Bms Field Service Engineer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Service Engineer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>perdigon-ascenseur.fr</td><td>Service Engineer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Datasciencejobsuk</td><td>Field Technical Delivery Specialist (south)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Sales Specialist (part-time 32hr)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate (regent Street, 32 Hrs Per Week)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Gopuff</td><td>Operations Associate</td><td>Twickenham</td><td>2026-07-31</td></tr>
+<tr><td>Sixt</td><td>Part Time Sale Executive - East London</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Mens Jewellery & Adventure Room (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 6 August, 2026 Posted On 7 July, 2026</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Men's Designer Street Room (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 6 August, 2026 Posted On 7 July, 2026</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Experience Expert Guest Relations Executive Grosvenor Square</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Warwick</td><td>2026-07-31</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Nottingham</td><td>2026-07-31</td></tr>
+<tr><td>Aramark UK</td><td>Retail Assistant</td><td>Portsmouth</td><td>2026-07-31</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Manchester</td><td>2026-07-31</td></tr>
+<tr><td>White Stuff</td><td>Assistant Buyer Menswear</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>newjob</td><td>Business Support Assistant (older Adults)</td><td>Portsmouth</td><td>2026-07-31</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Design Coordinator (track)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Technical Specialist - Investigations</td><td>Leeds</td><td>2026-07-31</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Administration Assistant</td><td>United Kingdom</td><td>2026-07-31</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Bop1 Engineering Coordinator</td><td>Hinkley Point C</td><td>2026-07-31</td></tr>
+<tr><td>Holcim Belgium</td><td>Logistics Coordinator</td><td>Bardon Hill</td><td>2026-07-31</td></tr>
+<tr><td>Liva Healthcare</td><td>Health Content Coordinator</td><td>Uk</td><td>2026-07-31</td></tr>
+<tr><td>Impower</td><td>Executive Assistant</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Mark Allen Holdings Ltd</td><td>Conference Producer</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-07-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Executive Assistant, Investment Banking</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>GIC</td><td>Executive Assistant, Infrastructure (maternity Cover)</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Lanes Group</td><td>Regional Coordinator</td><td>Brighton</td><td>2026-07-31</td></tr>
+<tr><td>B&M Retail Ltd</td><td>Customer Service Assistant</td><td>Cardiff</td><td>2026-07-31</td></tr>
+<tr><td>gsfgroupcareers</td><td>Casual Retail Assistant</td><td>All Locations</td><td>2026-07-31</td></tr>
+<tr><td>LEAP Legal</td><td>Quality Coordinator</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Northumberland County Council</td><td>Administration Assistant County Hall Morpeth, United Kingdom £25,583 - 25,989 Fixed Term Apply By 31 July, 2026 Posted On 23 July, 2026</td><td>Newcastle Upon Tyne</td><td>2026-07-31</td></tr>
+<tr><td>Bisnow</td><td>Contract Events Coordinator</td><td>London</td><td>2026-07-31</td></tr>
+<tr><td>Mulberry Group PLC</td><td>Administrator (pt 20 Hours Per Week)</td><td>London</td><td>2026-07-31</td></tr>
 </table>
