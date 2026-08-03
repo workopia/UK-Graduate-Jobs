@@ -1593,4 +1593,74 @@ _No archived roles yet._
 <tr><td>Nike</td><td>Retail Assistant (athlete) Pt 20h - Birmingham Rise</td><td>Birmingham</td><td>2026-08-02</td></tr>
 <tr><td>Koninklijke BAM Groep NV</td><td>Community Engagement Coordinator</td><td>Aberdeenshire +1</td><td>2026-08-02</td></tr>
 <tr><td>SAICA</td><td>Customer Service Coordinator</td><td>Belfast</td><td>2026-08-02</td></tr>
+<tr><td>Mountain Warehouse</td><td>Buyers Admin Assistant - Hardgoods</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Groundworker Apprentice Rail London</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Amazon</td><td>RME Mechatronics Apprentice - Northern Ireland Locations 2026 - Fixed Term Contract</td><td>Belfast</td><td>2026-08-03</td></tr>
+<tr><td>Ramblers Group</td><td>Finance Apprentice</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>World Fuel Services</td><td>Vehicle Maintenance Technician - Apprentice</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-08-03</td></tr>
+<tr><td>Bank Pekao</td><td>Programista / Programistka Frontend</td><td>Wyszukiwanie Wed</td><td>2026-08-03</td></tr>
+<tr><td>MBDA</td><td>Software Engineer - Data Distribution Service (rti Dds)</td><td>Bristol</td><td>2026-08-03</td></tr>
+<tr><td>dronepilotjobs.co.uk</td><td>Software Engineer - Data Distribution Service (rti Dds)</td><td>Bristol</td><td>2026-08-03</td></tr>
+<tr><td>Anduril Industries</td><td>Security Operations Analyst, Uk</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>LITTLE DOT STUDIOS Ltd</td><td>Insights Analyst (sport)</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Anaplan</td><td>Level 3 Support Analyst - Ai Specialist</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Brunswickgroup</td><td>Ai Engineer</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Data Scientist Geo Holdout & Incrementality (12 Month Ftc)</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>HKEX (Hong Kong Exchanges)</td><td>Trading Analytics, Analyst</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>IQVIA UK</td><td>Data Analyst</td><td>United Kingdom</td><td>2026-08-03</td></tr>
+<tr><td>Sun Chemical</td><td>Procurement Data Analyst</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial Analyst - Sme Segmentation</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Oxford Instruments</td><td>Business Analyst - Emeai Region</td><td>Spain +2</td><td>2026-08-03</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quant V&s G&p</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Invesco UK</td><td>Associate, Private Credit</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Findainaukri</td><td>Fraud Analyst (revenue Protection) - 12-month Fixed-term</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Dbcargofrance</td><td>Quantitative Strategist – Capital And Liquidity Strats</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Akamai</td><td>Quantitative Strategist – Capital And Liquidity Strats</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Deutsche Bank</td><td>Quantitative Strategist – Capital And Liquidity Strats</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Bdbk010</td><td>Quantitative Strategist – Capital And Liquidity Strats</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>LGC</td><td>Commercial Operations Analyst</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Site Nuclear Compliance Officer (sizewell C)</td><td>Sizewell C</td><td>2026-08-03</td></tr>
+<tr><td>jobs.barclays</td><td>Consumer Risk Business Analyst Vp</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Bankstcharles</td><td>Consumer Risk Business Analyst Vp</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Barclays</td><td>Consumer Risk Business Analyst Vp</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>DXC providing claims management services</td><td>Applications Transformation Advisor</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Arriva</td><td>Business Performance Analyst (12-month Ftc)</td><td>Doxford</td><td>2026-08-03</td></tr>
+<tr><td>Arriva Inc</td><td>Business Performance Analyst (12-month Ftc)</td><td>Doxford</td><td>2026-08-03</td></tr>
+<tr><td>WSP</td><td>Financial Accountant (fixed Term Contract)</td><td>United Kingdom</td><td>2026-08-03</td></tr>
+<tr><td>Verisk Analytics</td><td>Product Analyst (client Solutions)</td><td>Manchester</td><td>2026-08-03</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst, Vice President</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>W.W. Grainger</td><td>Field Service Technician I - Milwaukee, Wisconsin</td><td>Milwaukee</td><td>2026-08-03</td></tr>
+<tr><td>Alstom</td><td>High Level Technician</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>QinetiQ</td><td>Multi-skilled Maintenance Technician</td><td>Kyle Of Lochalsh</td><td>2026-08-03</td></tr>
+<tr><td>QinetiQ</td><td>Warehouse Technician</td><td>Shoeburyness</td><td>2026-08-03</td></tr>
+<tr><td>Danish Crown</td><td>Maintenance Engineer</td><td>Bugle</td><td>2026-08-03</td></tr>
+<tr><td>bu-uk</td><td>Fibre Field Technician</td><td>Taunton +1</td><td>2026-08-03</td></tr>
+<tr><td>Britvic plc</td><td>Facilities Technician</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Installation Engineer</td><td>Twickenham</td><td>2026-08-03</td></tr>
+<tr><td>SPX Corporation</td><td>Customer Support Engineer</td><td>Wappenham</td><td>2026-08-03</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-08-03</td></tr>
+<tr><td>Capri</td><td>Sales Associate, Multrees Walk, Edinburgh</td><td>Edinburgh</td><td>2026-08-03</td></tr>
+<tr><td>Capri</td><td>Sales Associate- Stratford- London- Full Time</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Christmas Shop (various Hours) London, United Kingdom Competitive Plus Benefits Christmas Temp Apply By 12 August, 2026 Posted On 13 July, 2026</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>GLAS</td><td>Client Services Associate, German Team</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Technical Coordinator</td><td>East Midlands Airport</td><td>2026-08-03</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant Barrow Superstore</td><td>Barrow Superstore</td><td>2026-08-03</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant Bristol Superstore</td><td>Bristol Superstore</td><td>2026-08-03</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant Paisley Superstore</td><td>Glasgow</td><td>2026-08-03</td></tr>
+<tr><td>Asda Stores Ltd</td><td>Learning Impact Specialist</td><td>Manchester</td><td>2026-08-03</td></tr>
+<tr><td>Asda</td><td>Learning Impact Specialist</td><td>Manchester</td><td>2026-08-03</td></tr>
+<tr><td>Panadol</td><td>Executive Assistant/team Assistant</td><td>London Bankside</td><td>2026-08-03</td></tr>
+<tr><td>gesundheitsstellenmarkt.de</td><td>Executive Assistant/team Assistant</td><td>London Bankside</td><td>2026-08-03</td></tr>
+<tr><td>Westclermonthealthplex</td><td>Executive Assistant/team Assistant</td><td>London Bankside</td><td>2026-08-03</td></tr>
+<tr><td>Entain</td><td>Team Executive Assistant</td><td>London</td><td>2026-08-03</td></tr>
 </table>
