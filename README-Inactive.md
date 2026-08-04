@@ -1663,4 +1663,45 @@ _No archived roles yet._
 <tr><td>gesundheitsstellenmarkt.de</td><td>Executive Assistant/team Assistant</td><td>London Bankside</td><td>2026-08-03</td></tr>
 <tr><td>Westclermonthealthplex</td><td>Executive Assistant/team Assistant</td><td>London Bankside</td><td>2026-08-03</td></tr>
 <tr><td>Entain</td><td>Team Executive Assistant</td><td>London</td><td>2026-08-03</td></tr>
+<tr><td>Estée Lauder</td><td>Marketing Coordinator - Skincare - Travel Retail West (based London)</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Terex</td><td>Apprentice Manufacturing Engineer</td><td>Belfast</td><td>2026-08-04</td></tr>
+<tr><td>Otis</td><td>Lift Engineer Apprentice, Installation - Surrey</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Innomotics</td><td>Apprentice - Technical</td><td>Manchester</td><td>2026-08-04</td></tr>
+<tr><td>Johnson Controls</td><td>Apprentice Security Engineer</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Too Good To Go</td><td>Backend Software Engineer</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Aveva Group</td><td>R&d Software Engineer</td><td>Cambridge</td><td>2026-08-04</td></tr>
+<tr><td>Arriva Inc</td><td>Fraud Data Analyst</td><td>Multistory</td><td>2026-08-04</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Jobgether</td><td>Compliance Analyst</td><td>United Kingdom</td><td>2026-08-04</td></tr>
+<tr><td>Mercer</td><td>Operations Analyst</td><td>Tower Place</td><td>2026-08-04</td></tr>
+<tr><td>News Corp</td><td>Accountant - Production, Shared Costs Team</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Millennium Management</td><td>Quantitative Developer / Researcher - Treasury</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Millennium Management</td><td>Operations Analyst</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Atos</td><td>Technical Business Analyst</td><td>Glasgow</td><td>2026-08-04</td></tr>
+<tr><td>Helical</td><td>Operations Analyst</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Analyst - Eame Crude</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Pre Assessment/outpatients (bank)</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Turning Point</td><td>Support Worker Watford, United Kingdom £26,495 Based On 37 Hours / £31,850 Based On 45 Hours (inclusive Of Olw £1,722) Permanent Apply By 14 July, 2026 Posted On 30 June, 2026</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Amey Ltd</td><td>Miter Maintainer 1</td><td>Dalton Barracks +7</td><td>2026-08-04</td></tr>
+<tr><td>Dubai Properties</td><td>Shift Engineer - Jumeirah Carlton Tower</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Facilities Technician</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-08-04</td></tr>
+<tr><td>Celeros Flow Technology</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-08-04</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Technician Production Utilities</td><td>United Kingdom</td><td>2026-08-04</td></tr>
+<tr><td>MBDA</td><td>Mechanical Fitter</td><td>United Kingdom</td><td>2026-08-04</td></tr>
+<tr><td>Pvhcc</td><td>Summer Sales Associate, Tommy Hilfiger Stratford</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - High Street Kensington (part-time)</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Capri</td><td>Sales Associate- Stratford- London</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>ADB SAFEGATE</td><td>Project And Sales Coordinator</td><td>Langley</td><td>2026-08-04</td></tr>
+<tr><td>Fast Retailing</td><td>Sales Assistant - Uniqlo Regent Street</td><td>London</td><td>2026-08-04</td></tr>
+<tr><td>Lloyds</td><td>Private Cloud Infrastructure Specialist</td><td>Manchester</td><td>2026-08-04</td></tr>
+<tr><td>Scottish Widows (Lloyds)</td><td>Private Cloud Infrastructure Specialist</td><td>Manchester</td><td>2026-08-04</td></tr>
+<tr><td>Harrodscareers</td><td>Content Coordinator</td><td>City Road</td><td>2026-08-04</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Sunday Assistant (haslemere)</td><td>Basingstoke</td><td>2026-08-04</td></tr>
+<tr><td>Drcf Org</td><td>Retail Sunday Assistant (haslemere)</td><td>Basingstoke</td><td>2026-08-04</td></tr>
 </table>
