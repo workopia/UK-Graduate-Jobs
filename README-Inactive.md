@@ -1704,4 +1704,34 @@ _No archived roles yet._
 <tr><td>Harrodscareers</td><td>Content Coordinator</td><td>City Road</td><td>2026-08-04</td></tr>
 <tr><td>Cancer Research UK</td><td>Retail Sunday Assistant (haslemere)</td><td>Basingstoke</td><td>2026-08-04</td></tr>
 <tr><td>Drcf Org</td><td>Retail Sunday Assistant (haslemere)</td><td>Basingstoke</td><td>2026-08-04</td></tr>
+<tr><td>it-generation.gov.ua</td><td>Фахівець З Підтримки Та Аналітики Послуг Відео Та Телебачення</td><td>Kyiv +1</td><td>2026-08-05</td></tr>
+<tr><td>jobs.barclays</td><td>Genai Business Analyst.</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>689</td><td>Analyst, Operations Pmo</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Mufgcampus</td><td>Analyst, Operations Pmo</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Analyst, Operations Pmo</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Shieldpay</td><td>Customer Operations Analyst</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Expleo Group UK</td><td>Business Analyst - Life Sciences</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Polypipe</td><td>Commercial Finance Analyst</td><td>Adey Stonehouse</td><td>2026-08-05</td></tr>
+<tr><td>MANTHORPE BUILDING PRODUCTS Ltd</td><td>Commercial Finance Analyst</td><td>Adey Stonehouse</td><td>2026-08-05</td></tr>
+<tr><td>539</td><td>Clinical Research Associate - Scotland</td><td>Scotland</td><td>2026-08-05</td></tr>
+<tr><td>fcc-asrgroup</td><td>Site Field Technician</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>General Parts</td><td>General Parts Group Careers - Commercial Refrigeration Service Technician</td><td>Waukesha</td><td>2026-08-05</td></tr>
+<tr><td>OTIS</td><td>Service Engineer</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Cid Ascenseur</td><td>Service Engineer</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Service Engineer</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Amey Ltd</td><td>Field Engineer - Highways</td><td>Inverness +2</td><td>2026-08-05</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Casual Sales Assistant</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 16h (weekend Availability)</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>BP Retail UK</td><td>Parts Warehouse Assistant</td><td>United Kingdom</td><td>2026-08-05</td></tr>
+<tr><td>Kion Na</td><td>Used Parts Warehouse Operative</td><td>United Kingdom</td><td>2026-08-05</td></tr>
+<tr><td>KION</td><td>Used Parts Warehouse Operative</td><td>United Kingdom</td><td>2026-08-05</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Sales Associate - London Designer Outlet, Wembley</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Third Bridge</td><td>Associé(e), Service à la clientèle - Francophone (Début 2027)</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Brent Cross (part-time)</td><td>London</td><td>2026-08-05</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Birmingham</td><td>2026-08-05</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Milton Keynes</td><td>2026-08-05</td></tr>
+<tr><td>Henderson Group</td><td>Finance Coordinator - Trading Wholesale</td><td>Newtownabbey</td><td>2026-08-05</td></tr>
+<tr><td>Renault Group</td><td>Carflow Coordinator</td><td>Maple Cross</td><td>2026-08-05</td></tr>
+<tr><td>Wiley</td><td>Assistant Editor</td><td>Oxford</td><td>2026-08-05</td></tr>
+<tr><td>Aramark UK</td><td>Retail Assistant</td><td>Reading</td><td>2026-08-05</td></tr>
 </table>

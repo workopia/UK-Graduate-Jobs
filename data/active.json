@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-04",
+ "asOf": "2026-08-05",
  "count": 739,
  "jobs": {
   "284570": {
@@ -1448,6 +1448,12 @@
    "role": "Graduate Data Consultant - London",
    "location": "London"
   },
+  "1ed72b02ac47f398ef72b5fe8eda930a": {
+   "id": "1ed72b02ac47f398ef72b5fe8eda930a",
+   "company": "it-generation.gov.ua",
+   "role": "Аналітик",
+   "location": "Kyiv +1"
+  },
   "8a5e5f62831778e008b22e10d02c0140": {
    "id": "8a5e5f62831778e008b22e10d02c0140",
    "company": "FITCH RATINGS Ltd",
@@ -1760,12 +1766,6 @@
    "role": "Data Analyst",
    "location": "London"
   },
-  "2bd62d76306e696ed0d23607aecc37d5": {
-   "id": "2bd62d76306e696ed0d23607aecc37d5",
-   "company": "it-generation.gov.ua",
-   "role": "Фахівець З Підтримки Та Аналітики Послуг Відео Та Телебачення",
-   "location": "Kyiv +1"
-  },
   "ff194aa3b03cbaf1d664481ebc4cfc23": {
    "id": "ff194aa3b03cbaf1d664481ebc4cfc23",
    "company": "IQVIA UK",
@@ -2071,6 +2071,48 @@
    "company": "M&G",
    "role": "Actuarial Graduate Scheme",
    "location": "United Kingdom"
+  },
+  "8d5d548e80d11056da83c68d088c52df": {
+   "id": "8d5d548e80d11056da83c68d088c52df",
+   "company": "MARSH MCLENNAN",
+   "role": "Workforce Transformation Consulting Analyst",
+   "location": "London"
+  },
+  "1f6f2c3e0ab4607de7645b8c1169009e": {
+   "id": "1f6f2c3e0ab4607de7645b8c1169009e",
+   "company": "AtkinsRealis UK",
+   "role": "Business Analyst",
+   "location": "Gb"
+  },
+  "abdffc7e2b68e6afea5cdae62fc7ffe4": {
+   "id": "abdffc7e2b68e6afea5cdae62fc7ffe4",
+   "company": "Citi Handlowy",
+   "role": "Quantitative Analyst Fx Electronic Trading",
+   "location": "London"
+  },
+  "8a907e0b61f00e20f55fdcf49fa31272": {
+   "id": "8a907e0b61f00e20f55fdcf49fa31272",
+   "company": "Atos SE",
+   "role": "Technical Business Analyst",
+   "location": "Glasgow"
+  },
+  "24b6cdbdcf40439edfb731d8d858b886": {
+   "id": "24b6cdbdcf40439edfb731d8d858b886",
+   "company": "Encirc Ltd",
+   "role": "Customs And Excise Business Analyst - Systems, Quality, And Compliance - Internal Only Elton, Cheshire, Avonmouth, Bristol 40000 - 45000 Permanent Apply By 14 August, 2026 Posted On 4 August, 2026",
+   "location": "Elton +1"
+  },
+  "7f03bd251356228e34b2f91803cbe262": {
+   "id": "7f03bd251356228e34b2f91803cbe262",
+   "company": "Techsyndicate Inc",
+   "role": "Kyndryl Consult Partner - Public Sector",
+   "location": "No City"
+  },
+  "9a25f00758aeb32345d8015cb481ae8a": {
+   "id": "9a25f00758aeb32345d8015cb481ae8a",
+   "company": "Aviva Canada",
+   "role": "Credit Analyst",
+   "location": "London"
   },
   "0467499762c2fea5f64d8746408c094c": {
    "id": "0467499762c2fea5f64d8746408c094c",
@@ -2450,6 +2492,12 @@
    "role": "Insight Analyst",
    "location": "Reading"
   },
+  "e3d0676110d40dafdad8731a354555bb": {
+   "id": "e3d0676110d40dafdad8731a354555bb",
+   "company": "atomos",
+   "role": "Business Management Analyst",
+   "location": "London"
+  },
   "ba0ab743fb09beac4e799dfd7bc9d300": {
    "id": "ba0ab743fb09beac4e799dfd7bc9d300",
    "company": "Rothschild & Co UK",
@@ -2504,53 +2552,11 @@
    "role": "Genai Business Analyst.",
    "location": "London"
   },
-  "5e706d723d36075b58b176a09599c965": {
-   "id": "5e706d723d36075b58b176a09599c965",
-   "company": "jobs.barclays",
-   "role": "Genai Business Analyst.",
+  "b2309e2e9eb25f10d97cb643198aa4ee": {
+   "id": "b2309e2e9eb25f10d97cb643198aa4ee",
+   "company": "Avery Healthcare Group",
+   "role": "Care Assistant Elstree View Care Home, Edgewarebury Lane, Elstree, Borehamwood, Hertfordshire, United Kingdom £13.10 Per Hour Permanent Apply By 25 August, 2026 Posted On 4 August, 2026",
    "location": "London"
-  },
-  "f656f5eeaa2dcd796f754eb1f93992f8": {
-   "id": "f656f5eeaa2dcd796f754eb1f93992f8",
-   "company": "689",
-   "role": "Analyst, Operations Pmo",
-   "location": "London"
-  },
-  "b6d626a885fdbce763954f5ba3d6c692": {
-   "id": "b6d626a885fdbce763954f5ba3d6c692",
-   "company": "Mufgcampus",
-   "role": "Analyst, Operations Pmo",
-   "location": "London"
-  },
-  "20a361428a6eb5e453e32dabec1d57c3": {
-   "id": "20a361428a6eb5e453e32dabec1d57c3",
-   "company": "Mitsubishi UFJ Financial Group",
-   "role": "Analyst, Operations Pmo",
-   "location": "London"
-  },
-  "a2b5006e91670e1e9ac9a4dcc8aca638": {
-   "id": "a2b5006e91670e1e9ac9a4dcc8aca638",
-   "company": "Shieldpay",
-   "role": "Customer Operations Analyst",
-   "location": "London"
-  },
-  "6e9341d14211363e8345d356b92f3336": {
-   "id": "6e9341d14211363e8345d356b92f3336",
-   "company": "Expleo Group UK",
-   "role": "Business Analyst - Life Sciences",
-   "location": "London"
-  },
-  "3d21c866f0c28ce610f547a4aea75cb7": {
-   "id": "3d21c866f0c28ce610f547a4aea75cb7",
-   "company": "Polypipe",
-   "role": "Commercial Finance Analyst",
-   "location": "Adey Stonehouse"
-  },
-  "c611b52e4b6ad98cca475b7505582355": {
-   "id": "c611b52e4b6ad98cca475b7505582355",
-   "company": "MANTHORPE BUILDING PRODUCTS Ltd",
-   "role": "Commercial Finance Analyst",
-   "location": "Adey Stonehouse"
   },
   "02600f153bc8063cb875290728d21ded": {
    "id": "02600f153bc8063cb875290728d21ded",
@@ -3026,11 +3032,35 @@
    "role": "Cra Ⅰ",
    "location": "United Kingdom"
   },
-  "bfa0f4a8c1ec32f4f2643262635821a0": {
-   "id": "bfa0f4a8c1ec32f4f2643262635821a0",
-   "company": "539",
-   "role": "Clinical Research Associate - Scotland",
-   "location": "Scotland"
+  "b9fd417b4ee05c64a52178920185f747": {
+   "id": "b9fd417b4ee05c64a52178920185f747",
+   "company": "Diversey Com Hr",
+   "role": "Field Engineer Southwest London",
+   "location": "Southwest London"
+  },
+  "9bde5a3222a7862763bff4bd6fc9b6a2": {
+   "id": "9bde5a3222a7862763bff4bd6fc9b6a2",
+   "company": "Nestle SA",
+   "role": "Workshop Engineering Technician",
+   "location": "Tutbury"
+  },
+  "a773030bac84f33188327fb959a55405": {
+   "id": "a773030bac84f33188327fb959a55405",
+   "company": "Nestle Ltd",
+   "role": "Workshop Engineering Technician",
+   "location": "Tutbury"
+  },
+  "8f975048451c54bb69a23c1441701b4e": {
+   "id": "8f975048451c54bb69a23c1441701b4e",
+   "company": "Caterpillar UK",
+   "role": "Industrial Maintenance Electrician",
+   "location": "South Milwaukee"
+  },
+  "d3521e71b86b813f3041dcb684edc23b": {
+   "id": "d3521e71b86b813f3041dcb684edc23b",
+   "company": "Fcc Asrgroup",
+   "role": "Site Field Technician",
+   "location": "London"
   },
   "0ea03a2eeabc7a3ae40434a82b514f28": {
    "id": "0ea03a2eeabc7a3ae40434a82b514f28",
@@ -3254,11 +3284,11 @@
    "role": "Test/repair Technician (afternoons)",
    "location": "Desford"
   },
-  "bf9909c785f7129640a3676628993369": {
-   "id": "bf9909c785f7129640a3676628993369",
-   "company": "fcc-asrgroup",
-   "role": "Site Field Technician",
-   "location": "London"
+  "75a17699e9ad6eabee23d91f02f13d40": {
+   "id": "75a17699e9ad6eabee23d91f02f13d40",
+   "company": "Encirc Ltd",
+   "role": "Maintenance Engineer - Internal Only - 9 Month Secondment Elton, Cheshire, United Kingdom (incl. Northern Ireland) £45000 - £48000 Fixed Term Apply By 14 August, 2026 Posted On 31 July, 2026",
+   "location": "Elton"
   },
   "4beac2517ad6a73e4000f55caa5804ef": {
    "id": "4beac2517ad6a73e4000f55caa5804ef",
@@ -3482,35 +3512,41 @@
    "role": "Field Engineer",
    "location": "London"
   },
-  "48ec22fb2d5e2708072cc7f03beffcfd": {
-   "id": "48ec22fb2d5e2708072cc7f03beffcfd",
-   "company": "General Parts",
-   "role": "General Parts Group Careers - Commercial Refrigeration Service Technician",
-   "location": "Waukesha"
-  },
-  "8d8e67b84bc2c16a4fde5b7a3ed963d7": {
-   "id": "8d8e67b84bc2c16a4fde5b7a3ed963d7",
-   "company": "OTIS",
-   "role": "Service Engineer",
+  "f65235fe72533a3f70ab9722d0223430": {
+   "id": "f65235fe72533a3f70ab9722d0223430",
+   "company": "Soho House & Co Inc.",
+   "role": "Retail Sales Assistant (full Time) - Soho Home Kings Road",
    "location": "London"
   },
-  "82ca94baae327c1661dfb3f124663ec2": {
-   "id": "82ca94baae327c1661dfb3f124663ec2",
-   "company": "Cid Ascenseur",
-   "role": "Service Engineer",
+  "42eb90ae08088db0e613c70b82bde046": {
+   "id": "42eb90ae08088db0e613c70b82bde046",
+   "company": "Frasers Group (Sports Direct)",
+   "role": "Casual Sales Assistant",
    "location": "London"
   },
-  "60c796e88927734fbca753abccb14c93": {
-   "id": "60c796e88927734fbca753abccb14c93",
-   "company": "plaud-ascenseur.fr",
-   "role": "Service Engineer",
+  "699f18ce3079a292d1fdf5c6162efdd5": {
+   "id": "699f18ce3079a292d1fdf5c6162efdd5",
+   "company": "Nestle SA",
+   "role": "Retail Sales Assistant - Kingston",
    "location": "London"
   },
-  "7a5cfe38d794439f35b859f3d3721cdd": {
-   "id": "7a5cfe38d794439f35b859f3d3721cdd",
-   "company": "Amey Ltd",
-   "role": "Field Engineer - Highways",
-   "location": "Inverness +2"
+  "94e00396380077ec269bcb7210d92e5f": {
+   "id": "94e00396380077ec269bcb7210d92e5f",
+   "company": "Nestle Ltd",
+   "role": "Retail Sales Assistant - Kingston",
+   "location": "London"
+  },
+  "98a3e5f9bf36c982c1bd54126ca98649": {
+   "id": "98a3e5f9bf36c982c1bd54126ca98649",
+   "company": "Selfridges Group",
+   "role": "Sales Associate - Foodhall (37.5 & 30 London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 3 September, 2026 Posted On 4 August, 2026",
+   "location": "London"
+  },
+  "43e183d9bf26eec59d030b02697b50c0": {
+   "id": "43e183d9bf26eec59d030b02697b50c0",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 20h",
+   "location": "London"
   },
   "7215e8e83e30910751512bbeb83982e8": {
    "id": "7215e8e83e30910751512bbeb83982e8",
@@ -3518,11 +3554,29 @@
    "role": "Seasonal Sales Associate, Tommy Hilfiger Regent Street",
    "location": "London"
   },
+  "b5a838fcacd2493721fcc4729ae519e0": {
+   "id": "b5a838fcacd2493721fcc4729ae519e0",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor - Putney (part-time)",
+   "location": "London"
+  },
+  "77d6e786da8ac6adb7147b17ed5b3268": {
+   "id": "77d6e786da8ac6adb7147b17ed5b3268",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor - Ealing (part-time)",
+   "location": "London"
+  },
   "55c969c7b1042b5d57dc8dbfd4e3f692": {
    "id": "55c969c7b1042b5d57dc8dbfd4e3f692",
    "company": "Selfridges Group",
    "role": "Sales Associate - Christmas Shop (various Hours) Manchester, Trafford , United Kingdom Competitive Plus Benefits Christmas Temp Apply By 17 August, 2026 Posted On 3 August, 2026",
    "location": "Manchester"
+  },
+  "b96387e765a5a4d4273becdd54fcb1b3": {
+   "id": "b96387e765a5a4d4273becdd54fcb1b3",
+   "company": "yourcareer",
+   "role": "Retail Sales Advisor - 20 Hours South Ruislip, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Part Time Apply By 30 September, 2026 Posted On 3 August, 2026",
+   "location": "London"
   },
   "d5f2f9b982408c10c46704440b46af5d": {
    "id": "d5f2f9b982408c10c46704440b46af5d",
@@ -3552,12 +3606,6 @@
    "id": "473f34acc330a079e1b13e8b5f48cb54",
    "company": "Decathlon S.A",
    "role": "Sales Advisor",
-   "location": "London"
-  },
-  "5ef951b04631fe6dbf6cc3c908fdb79c": {
-   "id": "5ef951b04631fe6dbf6cc3c908fdb79c",
-   "company": "Frasers Group (Sports Direct)",
-   "role": "Casual Sales Assistant",
    "location": "London"
   },
   "a1ddfb79da7b5ff1a63035c14c13d4da": {
@@ -3720,12 +3768,6 @@
    "id": "7a087ba4d15859bc98e6c3ad1860d4a7",
    "company": "Clarivate",
    "role": "Business Development Associate",
-   "location": "London"
-  },
-  "43e183d9bf26eec59d030b02697b50c0": {
-   "id": "43e183d9bf26eec59d030b02697b50c0",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 20h",
    "location": "London"
   },
   "48583a240afa80ca4c23d4872f40d80b": {
@@ -3920,46 +3962,28 @@
    "role": "Seasonal Sales Associate, Tommy Hilfiger Wembley",
    "location": "London"
   },
-  "e08411aa251c1acabdab2c2a44435a3d": {
-   "id": "e08411aa251c1acabdab2c2a44435a3d",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 16h (weekend Availability)",
+  "d6ba2de51fa4e99f86b9e9051a458b9d": {
+   "id": "d6ba2de51fa4e99f86b9e9051a458b9d",
+   "company": "Frasers Group (Sports Direct)",
+   "role": "Temporary Sales Assistant",
+   "location": "Sheffield"
+  },
+  "e7000f2ae73cce1c71ad58fef9cce44b": {
+   "id": "e7000f2ae73cce1c71ad58fef9cce44b",
+   "company": "Veolia UK",
+   "role": "Transport Coordinator",
+   "location": "Colwick"
+  },
+  "8b5a315d471d7a45a0bed5e01d81284d": {
+   "id": "8b5a315d471d7a45a0bed5e01d81284d",
+   "company": "Aramark UK",
+   "role": "Administrator",
    "location": "London"
   },
-  "e946ae691ca504dbe462c9447c065dbb": {
-   "id": "e946ae691ca504dbe462c9447c065dbb",
-   "company": "BP Retail UK",
-   "role": "Parts Warehouse Assistant",
-   "location": "United Kingdom"
-  },
-  "e0c1cd67c2c96a49aba931e86500d2c4": {
-   "id": "e0c1cd67c2c96a49aba931e86500d2c4",
-   "company": "Kion Na",
-   "role": "Used Parts Warehouse Operative",
-   "location": "United Kingdom"
-  },
-  "8241f790d62519c462251772b56b98bb": {
-   "id": "8241f790d62519c462251772b56b98bb",
-   "company": "KION",
-   "role": "Used Parts Warehouse Operative",
-   "location": "United Kingdom"
-  },
-  "9199b7fac616786537caef68a3742858": {
-   "id": "9199b7fac616786537caef68a3742858",
-   "company": "SKECHERS USA Inc",
-   "role": "Sales Associate - London Designer Outlet, Wembley",
-   "location": "London"
-  },
-  "targetjobs:4c73b130-1f1a-4022-868b-7023e5776468": {
-   "id": "targetjobs:4c73b130-1f1a-4022-868b-7023e5776468",
-   "company": "Third Bridge",
-   "role": "Associé(e), Service à la clientèle - Francophone (Début 2027)",
-   "location": "London"
-  },
-  "9c938feb2a24327faf030a7a9e4f42f8": {
-   "id": "9c938feb2a24327faf030a7a9e4f42f8",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor - Brent Cross (part-time)",
+  "af5c50dcb7df3b93c9aa801e9d063901": {
+   "id": "af5c50dcb7df3b93c9aa801e9d063901",
+   "company": "Primark",
+   "role": "Retail Assistant",
    "location": "London"
   },
   "c1948e8fed6d15fa67beb765e77fe7d0": {
@@ -3980,11 +4004,23 @@
    "role": "Event Coordinator",
    "location": "London"
   },
+  "4fd963a2872531f73a9bfd60806c7ef6": {
+   "id": "4fd963a2872531f73a9bfd60806c7ef6",
+   "company": "Hanson Wade Group",
+   "role": "Event Communications Executive - Fixed Term Contract",
+   "location": "London"
+  },
   "dd6202c2758016d04e81d2c1219ed6fb": {
    "id": "dd6202c2758016d04e81d2c1219ed6fb",
    "company": "bupa.co.uk",
    "role": "Healthcare Assistant",
    "location": "London"
+  },
+  "883327102d1b62ff21171fe5d74c1c91": {
+   "id": "883327102d1b62ff21171fe5d74c1c91",
+   "company": "Holcim Belgium",
+   "role": "Hire Desk Administrator",
+   "location": "Bardon Hill"
   },
   "6f0d93a8353e4d75ca0def9838295b56": {
    "id": "6f0d93a8353e4d75ca0def9838295b56",
@@ -4112,12 +4148,6 @@
    "role": "Administrator",
    "location": "Nottingham"
   },
-  "4211024da2b03b82efc79394b451d2a1": {
-   "id": "4211024da2b03b82efc79394b451d2a1",
-   "company": "Primark",
-   "role": "Retail Assistant",
-   "location": "Birmingham"
-  },
   "971778fd4638769318140c0f28057401": {
    "id": "971778fd4638769318140c0f28057401",
    "company": "Financialtimes33",
@@ -4207,12 +4237,6 @@
    "company": "Ocado Retail Limited",
    "role": "Category Assistant (6-9 Month Ftc)",
    "location": "Stevenage"
-  },
-  "167bc9908895004c02f842d6ba6e4155": {
-   "id": "167bc9908895004c02f842d6ba6e4155",
-   "company": "Frasers Group (Sports Direct)",
-   "role": "Temporary Sales Assistant",
-   "location": "Milton Keynes"
   },
   "4b4d90cffc774478d6617d850bac11f2": {
    "id": "4b4d90cffc774478d6617d850bac11f2",
@@ -4411,30 +4435,6 @@
    "company": "Hiab",
    "role": "Customer Service Coordinator",
    "location": "Ellesmere"
-  },
-  "0207b85fad5ec892f2c785bff65968e2": {
-   "id": "0207b85fad5ec892f2c785bff65968e2",
-   "company": "Henderson Group",
-   "role": "Finance Coordinator - Trading Wholesale",
-   "location": "Newtownabbey"
-  },
-  "915a332774a758b56a988000bec95225": {
-   "id": "915a332774a758b56a988000bec95225",
-   "company": "Renault Group",
-   "role": "Carflow Coordinator",
-   "location": "Maple Cross"
-  },
-  "83b0e5c8fce80debe75a17a8854f1b09": {
-   "id": "83b0e5c8fce80debe75a17a8854f1b09",
-   "company": "Wiley",
-   "role": "Assistant Editor",
-   "location": "Oxford"
-  },
-  "8f4cfa6d538b8b55cab8cd17f9dfabfc": {
-   "id": "8f4cfa6d538b8b55cab8cd17f9dfabfc",
-   "company": "Aramark UK",
-   "role": "Retail Assistant",
-   "location": "Reading"
   }
  }
 }
