@@ -1734,4 +1734,67 @@ _No archived roles yet._
 <tr><td>Renault Group</td><td>Carflow Coordinator</td><td>Maple Cross</td><td>2026-08-05</td></tr>
 <tr><td>Wiley</td><td>Assistant Editor</td><td>Oxford</td><td>2026-08-05</td></tr>
 <tr><td>Aramark UK</td><td>Retail Assistant</td><td>Reading</td><td>2026-08-05</td></tr>
+<tr><td>Mountain Warehouse</td><td>Customer Service Assistant 8h Week Days And Weekends</td><td>Aylesbury</td><td>2026-08-06</td></tr>
+<tr><td>Leidos UK</td><td>Business Intern</td><td>Bristol</td><td>2026-08-06</td></tr>
+<tr><td>Carrier Global</td><td>Engineering Apprenticeship</td><td>Belfast</td><td>2026-08-06</td></tr>
+<tr><td>Otis Worldwide</td><td>Trainee Escalator Engineer</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Nomura International PLC</td><td>Software Engineer (associate) - Gmit Trade Processing</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Motorola Solutions UK Limited</td><td>Mid Level Software Engineer</td><td>Edinburgh</td><td>2026-08-06</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Mid Level Software Engineer</td><td>Edinburgh</td><td>2026-08-06</td></tr>
+<tr><td>Oracle Corporation</td><td>Support Engineer 2</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Hargreaves Lansdown Jobs</td><td>Software Engineer - Pensions, Isa & Investments</td><td>Bristol</td><td>2026-08-06</td></tr>
+<tr><td>Worldpay</td><td>Software Engineer - Java (cambridge)</td><td>Cambridge</td><td>2026-08-06</td></tr>
+<tr><td>Drcf Org</td><td>People Analytics And Insights Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>arrivaraillondon.co.uk</td><td>Fraud Data Analyst</td><td>Multistory</td><td>2026-08-06</td></tr>
+<tr><td>merseysidebusjobs.co.uk</td><td>Fraud Data Analyst</td><td>Multistory</td><td>2026-08-06</td></tr>
+<tr><td>M&G plc</td><td>Actuarial Graduate Scheme</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>M&G</td><td>Actuarial Graduate Scheme</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Bankstcharles</td><td>Business Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Bankstcharles</td><td>Business Analyst - Finance Tech</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Barclays</td><td>Options And Structured Rates Quant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Bankstcharles</td><td>Options And Structured Rates Quant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Primark</td><td>Insight Analyst</td><td>Reading</td><td>2026-08-06</td></tr>
+<tr><td>atomos</td><td>Business Management Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Compliance Advisor</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Cfa Society Atlanta Inc</td><td>Business Analyst, Back Office Portfolio</td><td>London +4</td><td>2026-08-06</td></tr>
+<tr><td>228</td><td>Business Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>282</td><td>Market Data Risk Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>www.think-ing.de</td><td>Market Data Risk Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>itinfinance.nl</td><td>Market Data Risk Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>ING Group</td><td>Market Data Risk Analyst</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Barclays</td><td>Genai Business Analyst.</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Bupa Group</td><td>Registered Nurse</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Bristol Myers Squibb UK</td><td>Cra Ⅰ</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>Oxbow Salford</td><td>2026-08-06</td></tr>
+<tr><td>RWE AG</td><td>Onshore Wind Turbine Technician- South East England (kent)</td><td>Kent</td><td>2026-08-06</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-06</td></tr>
+<tr><td>Univar Solutions</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-06</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Fire Service Engineer</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Oxford Nanopore Technologies</td><td>Junior Maintenance Technician</td><td>Oxfordshire</td><td>2026-08-06</td></tr>
+<tr><td>IHG</td><td>Maintenance Assistant</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Pmo_jobs</td><td>Field Engineer</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Armstrong Fluid Technology</td><td>Stores Assistant</td><td>Droitwich Spa.</td><td>2026-08-06</td></tr>
+<tr><td>Pfh</td><td>Seasonal Sales Associate, Tommy Hilfiger Wembley</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Pvhcc</td><td>Seasonal Sales Associate, Tommy Hilfiger Wembley</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Sheffield</td><td>2026-08-06</td></tr>
+<tr><td>Free People (URBN)</td><td>Urbn - Payroll Administrator (12 Month Ftc)</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>dorsetcouncil</td><td>Send Administrator - Budmouth Academy</td><td>Bournemouth</td><td>2026-08-06</td></tr>
+<tr><td>University of Edinburgh School of Engineering</td><td>Recruitment And Events Administrator</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Turning Point</td><td>Receptionist Administrator London, London £28,406 Per Annum Pro Rata (£24,773 Plus Ilw £3,633) Permanent Apply By 16 August, 2026 Posted On 30 July, 2026</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Event Service Expert Grosvenor Square</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Marriott International</td><td>Event Service Expert Grosvenor Square</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Fitzgeraldhr</td><td>Event Coordinator (Graduate scheme)</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Personal Assistant - Global Data Group</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Events Executive</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Datacamp</td><td>Events Marketing Associate, B2b - Emea</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Night Shift</td><td>Glasgow</td><td>2026-08-06</td></tr>
+<tr><td>White Stuff</td><td>Merchandising Admin Assistant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>The Arsenal Football Club Plc</td><td>Matchday And Events Assistant (casual Role)</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>United Kingdom</td><td>2026-08-06</td></tr>
+<tr><td>Gsicareers</td><td>Executive Assistant R&d Tech</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>GSK plc</td><td>Executive Assistant R&d Tech</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Executive Assistant - Central Government</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Willis Towers Watson</td><td>Executive Assistant</td><td>London</td><td>2026-08-06</td></tr>
 </table>
