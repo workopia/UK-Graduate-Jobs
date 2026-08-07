@@ -1797,4 +1797,97 @@ _No archived roles yet._
 <tr><td>GSK plc</td><td>Executive Assistant R&d Tech</td><td>London</td><td>2026-08-06</td></tr>
 <tr><td>Spinwell Global Pte Ltd</td><td>Executive Assistant - Central Government</td><td>London</td><td>2026-08-06</td></tr>
 <tr><td>Willis Towers Watson</td><td>Executive Assistant</td><td>London</td><td>2026-08-06</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Intern Technical Business Manager</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Intern - Order Fulfilment Platform (m/f/d)</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Internship Marketing &amp; Campaign Operations (be)</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Stage Reparatie- &amp; Service Elektronica Middelburg</td><td>Middelburg</td><td>2026-08-07</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Internship Accountmanagement Marketplace</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Yves Rocher</td><td>Internship - Csr Project Assistant H/f/x - Yves Rocher 1 1 1 1 1 1</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Yves Rocher</td><td>Alternance - International Skin Care Merchandising Assistant - H/f/x - Yves Rocher</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Yves Rocher</td><td>Alternant.e Contrôle De Gestion (h/f/x)</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Henderson Group</td><td>Logistics And Transport Apprenticeship 2026</td><td>Belfast</td><td>2026-08-07</td></tr>
+<tr><td>Volvo Group</td><td>Apprentice Technician - Year 1</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Jones Lang Lasalle Ip Inc</td><td>Apprentice Sales Engineer</td><td>Manchester</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-08-07</td></tr>
+<tr><td>Bishopfleming</td><td>Systems And Support Assistant</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Valsoft Corporation</td><td>Support Desk Analyst</td><td>Buckfastleigh</td><td>2026-08-07</td></tr>
+<tr><td>OpenAI</td><td>Software Engineer, Privacy Engineering (lawful Access)</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Sportradar</td><td>Software Engineer</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>buildlist.xyz</td><td>Forward Deployed Software Engineer - Nato</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Identosphere</td><td>Forward Deployed Software Engineer - Nato</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Product Support Analyst</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Go Developer - Ai & Ml</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Cadent Gas</td><td>Mobs Support Analyst</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Royal London</td><td>Data Visualisation Engineer - Data Analytics</td><td>Alderley Edge +1</td><td>2026-08-07</td></tr>
+<tr><td>Royal London</td><td>Front Office Business Insights Analyst</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Atkinsrealis</td><td>Project Controls Data & Reporting Analyst</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial Analyst - Sme Segmentation</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Bupa Group</td><td>It Risk & Control Testing Analyst</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>TD Bank</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-08-07</td></tr>
+<tr><td>TD Bank Group</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-08-07</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-08-07</td></tr>
+<tr><td>TD Bank</td><td>Tds Operations Analyst Ii</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>TD Bank Group</td><td>Tds Operations Analyst Ii</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst Ii</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Deutsche Bank</td><td>Foreign (fx) Option Trader</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Bdbk010</td><td>Foreign (fx) Option Trader</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst (rates Electronic Market Making)</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>newjob</td><td>Auditor</td><td>Countywide</td><td>2026-08-07</td></tr>
+<tr><td>Citi</td><td>Investment Bank - Financial Institutions Group (fig)</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Workforcity</td><td>Corporate Banking Analyst – Natural Resources</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>CiCi</td><td>Corporate Banking Analyst – Natural Resources</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Workforcity</td><td>Relationship Analyst – Corporate Banking</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Relationship Analyst – Corporate Banking</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Contract Business Analyst</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>CFM</td><td>Market Risk Quant</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>WEX Australia Pty Ltd</td><td>Financial Operations Analyst</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Actuarial Analyst (life Actuarial)</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (3 Months Contract)</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Newcastlehc</td><td>Operational Risk Specialist</td><td>Cobalt Business Park</td><td>2026-08-07</td></tr>
+<tr><td>Deutsche Bank</td><td>Capital Quantitative Strategist</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Dnsdblookup</td><td>Capital Quantitative Strategist</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Akamai</td><td>Capital Quantitative Strategist</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Compliance Analyst</td><td>Manchester</td><td>2026-08-07</td></tr>
+<tr><td>Barclays</td><td>Business Analyst - Finance Tech</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>bupa.co.uk</td><td>Bank Orthopaedic/rehabilitation Physiotherapist</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>United Parcel Service</td><td>Shift Maintenance Engineer</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Vanderlande UK</td><td>Service Technician</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>fcc-asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Wood Group</td><td>Mechanical Technician: Harbour Judy</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>John Wood Group PLC</td><td>Mechanical Technician: Harbour Judy</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>mgstransport</td><td>Field Engineer - Radio</td><td>South East Of England +5</td><td>2026-08-07</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Dual</td><td>Berkshire +1</td><td>2026-08-07</td></tr>
+<tr><td>Severn Trent Plc</td><td>Repair And Maintenance Operative</td><td>England</td><td>2026-08-07</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Field Service Engineer</td><td>Edison Road</td><td>2026-08-07</td></tr>
+<tr><td>Cubictransportation</td><td>Its Field Technician</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Cubic Transportation Systems</td><td>Its Field Technician</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Polypipe</td><td>Mechanical Maintenance Engineer</td><td>Manthorpe Ripley</td><td>2026-08-07</td></tr>
+<tr><td>MANTHORPE BUILDING PRODUCTS Ltd</td><td>Mechanical Maintenance Engineer</td><td>Manthorpe Ripley</td><td>2026-08-07</td></tr>
+<tr><td>Nestle SA</td><td>Retail Sales Assistant - Kingston</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>689</td><td>Associate, Client Servicing</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Cintas</td><td>Warehouse Associate - Wastewater Technician</td><td>Milwaukee</td><td>2026-08-07</td></tr>
+<tr><td>Border States</td><td>Warehouse Associate</td><td>Pewaukee</td><td>2026-08-07</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 30h</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 35h</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Sales Associate - O2 Outlet London</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>skechers.dk</td><td>Sales Associate - O2 Outlet London</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Caterpillar UK</td><td>Warehouse Associate - 1st, 2nd & 3rd Shift</td><td>United Kingdom</td><td>2026-08-07</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Sunday Assistant (shoreham)</td><td>Brighton</td><td>2026-08-07</td></tr>
+<tr><td>Ocado Retail Limited</td><td>Category Assistant (6-9 Month Ftc)</td><td>Stevenage</td><td>2026-08-07</td></tr>
+<tr><td>Deutsche Bank</td><td>Event Marketing, Private Bank</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Dbcargofrance</td><td>Event Marketing, Private Bank</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-07</td></tr>
+<tr><td>AMS</td><td>Graduate Recruitment Coordinator</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>CMA CGM Group</td><td>Customer Service Coordinator</td><td>London Heathrow</td><td>2026-08-07</td></tr>
+<tr><td>createyourowncareer</td><td>Customer Service Delivery Specialist</td><td>Birmingham</td><td>2026-08-07</td></tr>
+<tr><td>createyourowncareer</td><td>Content Operations Coordinator</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Pt 20h - Junction One</td><td>Belfast</td><td>2026-08-07</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Pt 20h - Bicester</td><td>Oxford</td><td>2026-08-07</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Pt 8h - Bicester</td><td>Oxford</td><td>2026-08-07</td></tr>
+<tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-07</td></tr>
+<tr><td>Introba</td><td>Marketing & Communications Coordinator</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Landrumbrown Com Inc</td><td>Marketing & Communications Coordinator</td><td>London</td><td>2026-08-07</td></tr>
 </table>
