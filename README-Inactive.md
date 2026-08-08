@@ -1890,4 +1890,123 @@ _No archived roles yet._
 <tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-07</td></tr>
 <tr><td>Introba</td><td>Marketing & Communications Coordinator</td><td>London</td><td>2026-08-07</td></tr>
 <tr><td>Landrumbrown Com Inc</td><td>Marketing & Communications Coordinator</td><td>London</td><td>2026-08-07</td></tr>
+<tr><td>Delta Capita</td><td>Analyst London</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Citi</td><td>Full Stack Engineer (java Or Kotlin Or Python) – Vp</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Seasonsaviara</td><td>Intern - Food & Beverage</td><td>Hampshire</td><td>2026-08-08</td></tr>
+<tr><td>Hitachi Rail</td><td>Year In Industry Student - Rail Condition Monitoring Systems</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Supply Chain Intern</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Calling Pharmacy Students: Your First Step Into Clinical Research - Internship Opportunity (m/f/d)</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Ferrovial SE</td><td>Finance Apprentice</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Desktop Engineer (2nd Line Support)</td><td>Any City</td><td>2026-08-08</td></tr>
+<tr><td>NPL Management Ltd</td><td>Software Engineer - National Timing Centre</td><td>All Locations</td><td>2026-08-08</td></tr>
+<tr><td>ScreenCloud Inc</td><td>Software Engineer</td><td>Belfast</td><td>2026-08-08</td></tr>
+<tr><td>Brightonparkbank</td><td>Software Engineer</td><td>Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Offshore Renewables Software Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>SILHRMS</td><td>Offshore Renewables Software Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Atkinsrealis</td><td>Offshore Renewables Software Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>CoorB</td><td>L1 Application Support Engineer</td><td>Jeddah</td><td>2026-08-08</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Software Engineer</td><td>UK</td><td>2026-08-08</td></tr>
+<tr><td>BBC</td><td>Software Engineer - Extend</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>GRAIL Bio</td><td>Staff Software Engineer (lab Technology) #4907</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Grail</td><td>Staff Software Engineer (lab Technology) #4907</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>TP ICAP</td><td>Associate Software Engineer (full-stack)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Backend Software Engineer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Lloyds</td><td>Backend Software Engineer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst-operations & Cx</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Cadent Gas Ltd</td><td>Mobs Support Analyst</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Fanaticsfbg</td><td>Data Analyst Ii (financial) - Fmx</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Capita</td><td>Growth Operations Analyst / Data & Analytics</td><td>Home-Based</td><td>2026-08-08</td></tr>
+<tr><td>Capita (digital)</td><td>Growth Operations Analyst / Data & Analytics</td><td>Home-Based</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Ai/nlp/data Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Aviva Insurance Direct</td><td>Credit Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Just Group</td><td>Reporting Accountant</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Citi Handlowy</td><td>Cash Equity Trader</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Citi</td><td>Cash Equity Trader</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bankstcharles</td><td>Merchant Acquiring Financial Crime Oversight - Avp</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Barclays</td><td>Merchant Acquiring Financial Crime Oversight - Avp</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Monzo Bank</td><td>Credit Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Sonova Group</td><td>Financial Accountant</td><td>Conwy</td><td>2026-08-08</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Social Impact Reporting And Operations Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Quantitative Analyst - Model Development Team</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Amey Ltd</td><td>Performance Analyst</td><td>Staffordshire</td><td>2026-08-08</td></tr>
+<tr><td>EBRD</td><td>Associate, Climate Risk</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Accountant - Capital And Leasing</td><td>Birmingham +3</td><td>2026-08-08</td></tr>
+<tr><td>Cabot Financial</td><td>Business Analyst</td><td>West Malling</td><td>2026-08-08</td></tr>
+<tr><td>Retirement World</td><td>Associate Business Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Lloyd's of London</td><td>Actuarial Associate</td><td>Lloyd'S Uk</td><td>2026-08-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Actuarial Analyst - Sme Segmentation</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bankstcharles</td><td>Transaction Monitoring Training Analyst</td><td>Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>jobs.barclays</td><td>Transaction Monitoring Training Analyst</td><td>Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>Barclays</td><td>Business Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bankstcharles</td><td>Vp Corporate Banking -barclays Internal Audit</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>jobs.barclays</td><td>Vp Corporate Banking -barclays Internal Audit</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Quilter</td><td>Product Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>createyourowncareer</td><td>Business Analyst (9m Ftc)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Oxford Instruments</td><td>Business Analyst - Emeai Region</td><td>Madrid +7</td><td>2026-08-08</td></tr>
+<tr><td>BTIG</td><td>Junior Finance Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Statutory Accountant</td><td>Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Statutory Accountant</td><td>Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>URW</td><td>Asset Management Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>unibail-rodamco-westfield.de</td><td>Asset Management Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>URW (Unibail-Rodamco-Westfield)</td><td>Asset Management Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bupa UK</td><td>It Risk & Control Testing Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>bupa.co.uk</td><td>It Risk & Control Testing Analyst</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bupa Group</td><td>Registered Nurse</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Urpa</td><td>Bank Orthopaedic/rehabilitation Physiotherapist</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Site Field Technician</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Test/repair Technician (afternoons)</td><td>Desford</td><td>2026-08-08</td></tr>
+<tr><td>santillana.cat</td><td>Test/repair Technician (afternoons)</td><td>Desford</td><td>2026-08-08</td></tr>
+<tr><td>Encirc Ltd</td><td>Maintenance Engineer - Internal Only - 9 Month Secondment Elton, Cheshire, United Kingdom (incl. Northern Ireland) £45000 - £48000 Fixed Term Apply By 14 August, 2026 Posted On 31 July, 2026</td><td>Elton</td><td>2026-08-08</td></tr>
+<tr><td>Grainger</td><td>Field Service Technician I - Milwaukee, Wisconsin</td><td>Milwaukee</td><td>2026-08-08</td></tr>
+<tr><td>KION GROUP AG</td><td>Field Service Engineer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>KION North America Corporation</td><td>Field Service Engineer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Engineer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Greystar</td><td>Maintenance Technician</td><td>Oxbow Salford</td><td>2026-08-08</td></tr>
+<tr><td>Spirit Energy</td><td>Electrical Technician</td><td>Morecambe O/S</td><td>2026-08-08</td></tr>
+<tr><td>Carlsberg Group</td><td>Maintenance Engineer</td><td>Burton</td><td>2026-08-08</td></tr>
+<tr><td>Marshall Motor Group</td><td>Master Technician</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>PHS Group</td><td>Installation Field Service Engineer</td><td>Location</td><td>2026-08-08</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Field Service Representative (devon Area)</td><td>Devon</td><td>2026-08-08</td></tr>
+<tr><td>Roche Holding AG</td><td>Field Service Representative (devon Area)</td><td>Devon</td><td>2026-08-08</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Maintenance Technician</td><td>St. Athan</td><td>2026-08-08</td></tr>
+<tr><td>Ibstock</td><td>Shift Maintenance Engineer</td><td>Gb</td><td>2026-08-08</td></tr>
+<tr><td>Jobs Ups</td><td>Shift Maintenance Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>UPS</td><td>Shift Maintenance Engineer</td><td>United Kingdom</td><td>2026-08-08</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant - Flannels</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Central London (part-time)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Marriott International</td><td>Guest Experience Expert Guest Service Associate Grosvenor Square</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Kering</td><td>Boucheron - Executive Sales Associate - Harrods (arabic Speaking)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Kering</td><td>Bottega Veneta - Client Advisor - Harrods</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>adidas AG</td><td>Salesfloor Assistant (part Time, Temp 30 Hrs), Croydon Factory Outlet Store 2</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Associate, Client Servicing</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Iiford</td><td>2026-08-08</td></tr>
+<tr><td>Retirement World</td><td>Administrator, Client Services - 12 Month Fixed Term Contract</td><td>Newcastle Upon Tyne</td><td>2026-08-08</td></tr>
+<tr><td>Dachser SE</td><td>Customer Service Administrator - Outbound</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>ReedPOP Group</td><td>Conference Producer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Rxglobal Com Cn</td><td>Conference Producer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-08-08</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator - London</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant - Theatres</td><td>Droitwich Spa</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-sylvia Park</td><td>Mount Wellington</td><td>2026-08-08</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Conference Producer</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>AliveDx</td><td>Tech Transfer Admin Assistant</td><td>Edinburgh</td><td>2026-08-08</td></tr>
+<tr><td>Careerdepot Homedepot</td><td>Installation Coordinator</td><td>Tukwila</td><td>2026-08-08</td></tr>
+<tr><td>Coloplast</td><td>Administrator</td><td>Nottingham</td><td>2026-08-08</td></tr>
+<tr><td>Financialtimes33</td><td>Event Operations Executive (6-month Fixed Term Contract)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Primark</td><td>Environmental Sustainability Coordinator - 12 Months Fixed Term Contract</td><td>Reading</td><td>2026-08-08</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Quality Coordinator</td><td>Hinkley Point C</td><td>2026-08-08</td></tr>
+<tr><td>Britvic plc</td><td>Network Logistics Co-ordinator</td><td>Leicester - Lutterworth NDC</td><td>2026-08-08</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-08-08</td></tr>
+<tr><td>ABB Ltd</td><td>Sales Specialist - Projects (london)</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Seetec</td><td>Administrator - Activity Hubs</td><td>Devon</td><td>2026-08-08</td></tr>
+<tr><td>HCRG Care Group</td><td>Administrator Wiltshire, United Kingdom £25,500 - £27,098 Fte, Depending On Experience Permanent - Full Time Apply By 13 August, 2026 Posted On 31 July, 2026</td><td>Bristol</td><td>2026-08-08</td></tr>
+<tr><td>Agincare Group</td><td>Kitchen Assistant Hayling Island, United Kingdom (incl. Northern Ireland) £12.72 Per Hour Full Time Apply By 30 August, 2026</td><td>Portsmouth</td><td>2026-08-08</td></tr>
+<tr><td>Myneighborlybenefits</td><td>Customer Services Assistant</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>W3</td><td>Executive Assistant - Talent Acquisition</td><td>London</td><td>2026-08-08</td></tr>
+<tr><td>Harrodscareers</td><td>Merchandising Admin Assistant</td><td>Knightsbridge</td><td>2026-08-08</td></tr>
+<tr><td>TP ICAP</td><td>Executive Assistant</td><td>London</td><td>2026-08-08</td></tr>
 </table>
