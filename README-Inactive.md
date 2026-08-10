@@ -2133,4 +2133,29 @@ _No archived roles yet._
 <tr><td>Nestle SA</td><td>Retail Sales Assistant - White City</td><td>London</td><td>2026-08-09</td></tr>
 <tr><td>EDF Energy Ltd</td><td>Payroll Coordinator</td><td>Hinkley Point C</td><td>2026-08-09</td></tr>
 <tr><td>AkzoNobel</td><td>Site Admin</td><td>Newcastle Upon Tyne</td><td>2026-08-09</td></tr>
+<tr><td>Leidos UK</td><td>Software Engineer</td><td>Whiteley</td><td>2026-08-10</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Information Security & Assurance Officer (sizewell C)</td><td>Sizewell C</td><td>2026-08-10</td></tr>
+<tr><td>Polyai</td><td>Support Engineer</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Mark43</td><td>Ai - Enabled Software Engineer</td><td>United Kingdom</td><td>2026-08-10</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Reporting Analyst (sizewell C)</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>M3 USA</td><td>Data Scientist – Decision Science & Modelling</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>CMC Markets</td><td>Business Analyst - Onboarding</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Citi Handlowy</td><td>Investment Bank Consumer & Retail Associate</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Citi Handlowy</td><td>Investment Bank Consumer & Retail Analyst</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Citi</td><td>Investment Bank Consumer & Retail Analyst</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Citi</td><td>Investment Bank Consumer & Retail Associate</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Citi Handlowy</td><td>Corporate Banking Associate - Metals & Mining (uk Industrials)</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Workforcity</td><td>Corporate Banking Associate - Metals & Mining (uk Industrials)</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Greystar</td><td>Investment Analyst</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>TP ICAP</td><td>Business Analyst</td><td>Belfast</td><td>2026-08-10</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Junior Compliance Analyst (5 Month Contract)</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>bupa.co.uk</td><td>Tactical Planning Analyst (fixed Term)</td><td>Salford Quays +1</td><td>2026-08-10</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Fsp Clinical Research Associate 1/ii (oncology)</td><td>United Kingdom</td><td>2026-08-10</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-08-10</td></tr>
+<tr><td>jmcrs.eu</td><td>Electrical Technician</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Accessories (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 22 August, 2026 Posted On 23 July, 2026</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Baynethinline</td><td>Stores / Lineside Operative</td><td>Omagh</td><td>2026-08-10</td></tr>
+<tr><td>Jll Com Sg</td><td>Event Coordinator</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>JLL</td><td>Event Coordinator</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>Hanson Wade Group</td><td>Event Communications Executive - Fixed Term Contract</td><td>London</td><td>2026-08-10</td></tr>
 </table>
