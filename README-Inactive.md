@@ -2158,4 +2158,34 @@ _No archived roles yet._
 <tr><td>Jll Com Sg</td><td>Event Coordinator</td><td>London</td><td>2026-08-10</td></tr>
 <tr><td>JLL</td><td>Event Coordinator</td><td>London</td><td>2026-08-10</td></tr>
 <tr><td>Hanson Wade Group</td><td>Event Communications Executive - Fixed Term Contract</td><td>London</td><td>2026-08-10</td></tr>
+<tr><td>afa'afea</td><td>Apprentice Technician - Year 1</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>DHL Group</td><td>Uk Npg Commercial Air & Network Apprentice</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>The Walt Disney Company</td><td>Technology Support Intern - Ilm London</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Jobgether</td><td>Game Developer - Voxel-based Engine (java)</td><td>United Kingdom</td><td>2026-08-11</td></tr>
+<tr><td>Gloucestershire County Council</td><td>Ict Support Officer</td><td>Gloucestershire</td><td>2026-08-11</td></tr>
+<tr><td>Millennium Management</td><td>Software Engineer - C#, .net</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>AvePoint</td><td>Data Analyst</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Analyst</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Reporting Analyst</td><td>UK&I +1</td><td>2026-08-11</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Risk Analyst (sizewell C)</td><td>Sizewell C</td><td>2026-08-11</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Quantitative Research - Associate/vice President</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (6 Months Contract)</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Indigo Telecom Group</td><td>Sheq Officer, Uk</td><td>All Locations</td><td>2026-08-11</td></tr>
+<tr><td>Lloyd's of London</td><td>Aggregation / Catastrophe Analyst - Excel Vba, R, Python, Qlik And/or Power Bi</td><td>Lloyd'S Uk</td><td>2026-08-11</td></tr>
+<tr><td>Helical</td><td>Operations Analyst</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Live Nation</td><td>Financial Accountant</td><td>Farringdon</td><td>2026-08-11</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-08-11</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Infrastructure Maintenance Technician (sizewell C)</td><td>Sizewell C</td><td>2026-08-11</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Electrician (sizewell C)</td><td>Search By Location</td><td>2026-08-11</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>McCormick & Company</td><td>Maintenance Engineer (night Shift)</td><td>Haddenham</td><td>2026-08-11</td></tr>
+<tr><td>Alamar Biosciences</td><td>Field Service Engineer I</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-08-11</td></tr>
+<tr><td>AlphaSights</td><td>Associate, Client Service, Portuguese Speaker, 2027</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Nomura International PLC</td><td>Executive Assistant, Investment Banking</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Sunday Assistant (ilford)</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>JLL</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-08-11</td></tr>
+<tr><td>Jll Com Sg</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-08-11</td></tr>
+<tr><td>Building Engines</td><td>Event Coordinator</td><td>London</td><td>2026-08-11</td></tr>
 </table>

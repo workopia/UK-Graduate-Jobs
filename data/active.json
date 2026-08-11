@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-10",
- "count": 739,
+ "asOf": "2026-08-11",
+ "count": 737,
  "jobs": {
   "284570": {
    "id": "284570",
@@ -67,6 +67,12 @@
    "company": "Citi",
    "role": "Market Operations Apprentice",
    "location": "Belfast"
+  },
+  "24abb3ae62c118466bf0f5705b9df194": {
+   "id": "24abb3ae62c118466bf0f5705b9df194",
+   "company": "Westinghouse Electric Company LLC",
+   "role": "Internship",
+   "location": "Salwick Preston"
   },
   "85bab5326d4e8df48b7a42c67581d1f4": {
    "id": "85bab5326d4e8df48b7a42c67581d1f4",
@@ -193,12 +199,6 @@
    "company": "Chanel Gmbh",
    "role": "Internship - Cyber Transformation Officer GISEC",
    "location": "London"
-  },
-  "24abb3ae62c118466bf0f5705b9df194": {
-   "id": "24abb3ae62c118466bf0f5705b9df194",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Internship",
-   "location": "Salwick Preston"
   },
   "9e9ff6ad245934338ae529a3b076ecc3": {
    "id": "9e9ff6ad245934338ae529a3b076ecc3",
@@ -548,8 +548,8 @@
    "role": "Compliance Intern - September 2026 / London",
    "location": "London"
   },
-  "cfcd24580b8e4c75669703804ef73ba9": {
-   "id": "cfcd24580b8e4c75669703804ef73ba9",
+  "eeed8a2d453cbfdc7e4e4bc360c2d747": {
+   "id": "eeed8a2d453cbfdc7e4e4bc360c2d747",
    "company": "afa'afea",
    "role": "Apprentice Technician - Year 1",
    "location": "London"
@@ -746,12 +746,6 @@
    "role": "Apprentice Chef",
    "location": "London"
   },
-  "1786791a869e39dccca162456220d906": {
-   "id": "1786791a869e39dccca162456220d906",
-   "company": "DHL Group",
-   "role": "Uk Npg Commercial Air & Network Apprentice",
-   "location": "London"
-  },
   "f24c2faf8e62129e97d7b8537197a801": {
    "id": "f24c2faf8e62129e97d7b8537197a801",
    "company": "Drweng",
@@ -769,12 +763,6 @@
    "company": "Roche UK",
    "role": "Technical Support Engineer Intern",
    "location": "United Kingdom"
-  },
-  "e3b78f4cb653533caa1cecc92caa6248": {
-   "id": "e3b78f4cb653533caa1cecc92caa6248",
-   "company": "The Walt Disney Company",
-   "role": "Technology Support Intern - Ilm London",
-   "location": "London"
   },
   "f90176c078dd23db5ab11f69c16764be": {
    "id": "f90176c078dd23db5ab11f69c16764be",
@@ -884,6 +872,18 @@
    "role": "Software Engineer, Tpu Compiler, Phd, Early Careers",
    "location": "London"
   },
+  "eb169b7b7732a64713f289d0ed74d4a3": {
+   "id": "eb169b7b7732a64713f289d0ed74d4a3",
+   "company": "pr.careers",
+   "role": "Software Engineer",
+   "location": "Manchester"
+  },
+  "a7de3ac22ffe8c6ec6921d1326cd3748": {
+   "id": "a7de3ac22ffe8c6ec6921d1326cd3748",
+   "company": "EDF Energy Ltd",
+   "role": "Information Security & Assurance Officer (sizewell C)",
+   "location": "United Kingdom"
+  },
   "cc9a3760a0f7e4f1f7d78d70f9821d3e": {
    "id": "cc9a3760a0f7e4f1f7d78d70f9821d3e",
    "company": "Leidos UK",
@@ -947,6 +947,12 @@
   "f67c8331b38067dc3bdd16c03699b6c0": {
    "id": "f67c8331b38067dc3bdd16c03699b6c0",
    "company": "ScottishPower",
+   "role": "Software Engineer (sap + Ai)",
+   "location": "Glasgow"
+  },
+  "e99c72e94f94afd68f0790fac6684fc1": {
+   "id": "e99c72e94f94afd68f0790fac6684fc1",
+   "company": "Avangrid",
    "role": "Software Engineer (sap + Ai)",
    "location": "Glasgow"
   },
@@ -1340,24 +1346,6 @@
    "role": "Software Engineer",
    "location": "London"
   },
-  "555dc4583f9145c347c05ca121c4c285": {
-   "id": "555dc4583f9145c347c05ca121c4c285",
-   "company": "Jobgether",
-   "role": "Game Developer - Voxel-based Engine (java)",
-   "location": "United Kingdom"
-  },
-  "e92b639cd758b10a144a5430c853c5fb": {
-   "id": "e92b639cd758b10a144a5430c853c5fb",
-   "company": "Gloucestershire County Council",
-   "role": "Ict Support Officer",
-   "location": "Gloucestershire"
-  },
-  "REQ-30128": {
-   "id": "REQ-30128",
-   "company": "Millennium Management",
-   "role": "Software Engineer - C#, .net",
-   "location": "London"
-  },
   "b6d8eed3d225b9b8533525e60067dd16": {
    "id": "b6d8eed3d225b9b8533525e60067dd16",
    "company": "Boston Consulting Group",
@@ -1490,6 +1478,12 @@
    "role": "Scuk Data Governance Analyst, 7 Month Ftc",
    "location": "London"
   },
+  "0aa6bb446545008766c7b8e229a1d628": {
+   "id": "0aa6bb446545008766c7b8e229a1d628",
+   "company": "Santander Arena",
+   "role": "Scuk Data Governance Analyst, 7 Month Ftc",
+   "location": "London"
+  },
   "5a0a722a84049b9099a2866f9b43a286": {
    "id": "5a0a722a84049b9099a2866f9b43a286",
    "company": "Intercontinental Exchange",
@@ -1595,6 +1589,12 @@
   "05a6b2dadd02df1957c4a62bf124d7d1": {
    "id": "05a6b2dadd02df1957c4a62bf124d7d1",
    "company": "bupa.co.uk",
+   "role": "Health Services Intermediate Data Analyst",
+   "location": "Salford Quays +2"
+  },
+  "af883d475bc3e5d7ef5a44835079eb0d": {
+   "id": "af883d475bc3e5d7ef5a44835079eb0d",
+   "company": "Urpa",
    "role": "Health Services Intermediate Data Analyst",
    "location": "Salford Quays +2"
   },
@@ -1892,18 +1892,6 @@
    "role": "Investment Data Analyst",
    "location": "United Kingdom"
   },
-  "fe7f4f11a8e085c9955eddbb80458749": {
-   "id": "fe7f4f11a8e085c9955eddbb80458749",
-   "company": "AvePoint",
-   "role": "Data Analyst",
-   "location": "London"
-  },
-  "802c250d1971836e324ea3420d864290": {
-   "id": "802c250d1971836e324ea3420d864290",
-   "company": "WPP Media Australia & New Zealand",
-   "role": "Analyst",
-   "location": "London"
-  },
   "targetjobs:4a9593c5-4ef8-43a7-a55f-a507287d5fa4": {
    "id": "targetjobs:4a9593c5-4ef8-43a7-a55f-a507287d5fa4",
    "company": "Maven",
@@ -2070,6 +2058,60 @@
    "id": "e26a45dbd42abd23cc3ef79fc0730bb7",
    "company": "Wiser Solutions Inc",
    "role": "Audit Associate (corporate) - Graduate Scheme, January 2027 / Haysmac",
+   "location": "London"
+  },
+  "b02ac13688d74a271a9d68f6c08d5c2d": {
+   "id": "b02ac13688d74a271a9d68f6c08d5c2d",
+   "company": "M&G",
+   "role": "Quantitative Analyst",
+   "location": "London"
+  },
+  "8812bb3fc800fffd348ffaec068ffa18": {
+   "id": "8812bb3fc800fffd348ffaec068ffa18",
+   "company": "Unum Group",
+   "role": "Operational Risk Analyst",
+   "location": "London"
+  },
+  "504af7d0263df5ceb5d602fe75879a67": {
+   "id": "504af7d0263df5ceb5d602fe75879a67",
+   "company": "Babcock International",
+   "role": "She Compliance Officer",
+   "location": "Devonport"
+  },
+  "9b4ab45c779e8480f8bbd98c8050842a": {
+   "id": "9b4ab45c779e8480f8bbd98c8050842a",
+   "company": "Koninklijke BAM Groep NV",
+   "role": "Reporting Analyst",
+   "location": "UK&I"
+  },
+  "e84547dd9457e239a0d0319da6c3a991": {
+   "id": "e84547dd9457e239a0d0319da6c3a991",
+   "company": "Zurich Insurance UK",
+   "role": "Actuarial Analyst - Sme Segmentation",
+   "location": "London"
+  },
+  "6611e4c6b310be477820ef3b3b9b4510": {
+   "id": "6611e4c6b310be477820ef3b3b9b4510",
+   "company": "EDF Energy Ltd",
+   "role": "Risk Analyst (sizewell C)",
+   "location": "United Kingdom"
+  },
+  "1ed0bb775aa0f018452398b4f2a5525e": {
+   "id": "1ed0bb775aa0f018452398b4f2a5525e",
+   "company": "Nomura International PLC",
+   "role": "Liquidity Business Analyst - Treasury (9 Months-contract)",
+   "location": "London"
+  },
+  "8ab43099d249cdef8e1ebea1d63eacd7": {
+   "id": "8ab43099d249cdef8e1ebea1d63eacd7",
+   "company": "Nomura International PLC",
+   "role": "Credit Quantitative Research - Associate/vice President",
+   "location": "London"
+  },
+  "88f38c2e8cfc8a59bf28c72269b98893": {
+   "id": "88f38c2e8cfc8a59bf28c72269b98893",
+   "company": "Nomura International PLC",
+   "role": "Equities Trade Surveillance Compliance Officer (6 Months Contract)",
    "location": "London"
   },
   "f1abdc193811631173c6760a4c3bf173": {
@@ -2438,12 +2480,6 @@
    "role": "Content Operations Analyst",
    "location": "United Kingdom"
   },
-  "e7f17b88a1fa28075661c661beb0ef5e": {
-   "id": "e7f17b88a1fa28075661c661beb0ef5e",
-   "company": "Koninklijke BAM Groep NV",
-   "role": "Reporting Analyst",
-   "location": "UK&I +1"
-  },
   "6898599bf21c920a7ebb2d4db74839ac": {
    "id": "6898599bf21c920a7ebb2d4db74839ac",
    "company": "Talan",
@@ -2455,12 +2491,6 @@
    "company": "Jobgether",
    "role": "Aml Investigator",
    "location": "United Kingdom"
-  },
-  "d3c12646612d3d5c63fa62e67ddbedd8": {
-   "id": "d3c12646612d3d5c63fa62e67ddbedd8",
-   "company": "EDF Energy Ltd",
-   "role": "Risk Analyst (sizewell C)",
-   "location": "Sizewell C"
   },
   "40d2c011f8ea31e0bd5361864856a4d1": {
    "id": "40d2c011f8ea31e0bd5361864856a4d1",
@@ -2486,22 +2516,10 @@
    "role": "Mifid Regulatory Reporting Business Analyst (12 Months Contract)",
    "location": "London"
   },
-  "34f94ba7f7e17754a747fcff3f334bcf": {
-   "id": "34f94ba7f7e17754a747fcff3f334bcf",
-   "company": "Nomura International PLC",
-   "role": "Liquidity Business Analyst - Treasury (9 Months-contract)",
-   "location": "London"
-  },
   "9dc38e14847a9dccf7d75e44eda777f2": {
    "id": "9dc38e14847a9dccf7d75e44eda777f2",
    "company": "Nomura International PLC",
    "role": "Distribution Compliance Contractor - 6-month Contract",
-   "location": "London"
-  },
-  "05405b4663062df4c39e3e9c2bdd2954": {
-   "id": "05405b4663062df4c39e3e9c2bdd2954",
-   "company": "Nomura International PLC",
-   "role": "Credit Quantitative Research - Associate/vice President",
    "location": "London"
   },
   "b7c11da52dfe9df1d5f84c8a2069310f": {
@@ -2510,41 +2528,11 @@
    "role": "Etrading Developer (fixed Income)",
    "location": "London"
   },
-  "2df8d21f1e5942be25a13579e7465f8f": {
-   "id": "2df8d21f1e5942be25a13579e7465f8f",
-   "company": "Nomura International PLC",
-   "role": "Equities Trade Surveillance Compliance Officer (6 Months Contract)",
-   "location": "London"
-  },
   "3fea0182eeb92b20a2cc79ffe917e0f2": {
    "id": "3fea0182eeb92b20a2cc79ffe917e0f2",
    "company": "Jobgether",
    "role": "Pe Accountant",
    "location": "United Kingdom"
-  },
-  "a01383dad7b8b42c7617a81c3ccd6194": {
-   "id": "a01383dad7b8b42c7617a81c3ccd6194",
-   "company": "Indigo Telecom Group",
-   "role": "Sheq Officer, Uk",
-   "location": "All Locations"
-  },
-  "63dfcfc116ae47d37a25d66a6fa5ae3f": {
-   "id": "63dfcfc116ae47d37a25d66a6fa5ae3f",
-   "company": "Lloyd's of London",
-   "role": "Aggregation / Catastrophe Analyst - Excel Vba, R, Python, Qlik And/or Power Bi",
-   "location": "Lloyd'S Uk"
-  },
-  "targetjobs:8c07a35f-d728-4477-a85d-7cf407cfbf38": {
-   "id": "targetjobs:8c07a35f-d728-4477-a85d-7cf407cfbf38",
-   "company": "Helical",
-   "role": "Operations Analyst",
-   "location": "London"
-  },
-  "8f80b959e59e109c99e85be690ee2692": {
-   "id": "8f80b959e59e109c99e85be690ee2692",
-   "company": "Live Nation",
-   "role": "Financial Accountant",
-   "location": "Farringdon"
   },
   "beb66c2df0d88c8c873565b6ff8ec770": {
    "id": "beb66c2df0d88c8c873565b6ff8ec770",
@@ -3026,6 +3014,42 @@
    "role": "Female Waking Nights Support Worker Watford, United Kingdom £26,495 Based On 37 Hours / £31,850 Based On 45 Hours (inclusive Of Olw £1,722) Permanent Apply By 17 July, 2026 Posted On 3 July, 2026",
    "location": "London"
   },
+  "75ed0e1668cc857ce6e105792d791bff": {
+   "id": "75ed0e1668cc857ce6e105792d791bff",
+   "company": "afa'afea",
+   "role": "Nightshift Hgv Technician",
+   "location": "London"
+  },
+  "f1d71237605df439b2355ac56cd17dd7": {
+   "id": "f1d71237605df439b2355ac56cd17dd7",
+   "company": "EDF Energy Ltd",
+   "role": "Infrastructure Maintenance Technician (sizewell C)",
+   "location": "United Kingdom"
+  },
+  "9ebd5b3e628f577615cd270faccccc22": {
+   "id": "9ebd5b3e628f577615cd270faccccc22",
+   "company": "EDF Energy Ltd",
+   "role": "Maintenance Electrician (sizewell C)",
+   "location": "United Kingdom"
+  },
+  "7573f4e8edc5aee08f7286c3ede2bd86": {
+   "id": "7573f4e8edc5aee08f7286c3ede2bd86",
+   "company": "Britvic Softdrinks",
+   "role": "Technical Services Representative - M3/m4 Corridor",
+   "location": "M3/M4 Corridor"
+  },
+  "8968ce732953f1d027d45e0fac1f3beb": {
+   "id": "8968ce732953f1d027d45e0fac1f3beb",
+   "company": "Fcc Asrgroup",
+   "role": "Maintenance Technician",
+   "location": "London"
+  },
+  "bdb8aeffee6f4e5e3ff59cb4037dc079": {
+   "id": "bdb8aeffee6f4e5e3ff59cb4037dc079",
+   "company": "DWR CYMRU CYFYNGEDIG",
+   "role": "Maintenance Technician (electrically Biased)",
+   "location": "Aberystwyth"
+  },
   "05d5adf052240cde0fea4b76412f1fd3": {
    "id": "05d5adf052240cde0fea4b76412f1fd3",
    "company": "Candy Home",
@@ -3056,12 +3080,6 @@
    "role": "Nightshift Hgv Technician",
    "location": "London"
   },
-  "92d186e951a87473e574ca9e52160029": {
-   "id": "92d186e951a87473e574ca9e52160029",
-   "company": "Britvic Softdrinks",
-   "role": "Technical Services Representative - M3/m4 Corridor",
-   "location": "M3/M4 Corridor"
-  },
   "4c7a296065b422d86d5bd317b808f9cf": {
    "id": "4c7a296065b422d86d5bd317b808f9cf",
    "company": "Severn Trent Plc",
@@ -3073,6 +3091,12 @@
    "company": "Severn Trent Plc",
    "role": "Field Technician",
    "location": "Lincolnshire"
+  },
+  "250d13cd5d146ef254dd366cce67ce7a": {
+   "id": "250d13cd5d146ef254dd366cce67ce7a",
+   "company": "airproducts.co.id",
+   "role": "Installation And Maintenance Technician (north Somerset/wiltshire)",
+   "location": "North Somerset +1"
   },
   "b0930239139b0c1858891154121e6efa": {
    "id": "b0930239139b0c1858891154121e6efa",
@@ -3146,28 +3170,10 @@
    "role": "Miter Maintainer 1",
    "location": "Dalton Barracks +7"
   },
-  "33a7dd5852e7cbe98df2e2d39e8d740f": {
-   "id": "33a7dd5852e7cbe98df2e2d39e8d740f",
-   "company": "EDF Energy Ltd",
-   "role": "Infrastructure Maintenance Technician (sizewell C)",
-   "location": "Sizewell C"
-  },
-  "c7cc10f1bfeab3b5e09f2cb66ef6c540": {
-   "id": "c7cc10f1bfeab3b5e09f2cb66ef6c540",
-   "company": "EDF Energy Ltd",
-   "role": "Maintenance Electrician (sizewell C)",
-   "location": "Search By Location"
-  },
   "ce9778d87fe09cf931c4358c3c71fa09": {
    "id": "ce9778d87fe09cf931c4358c3c71fa09",
    "company": "Fcc Asrgroup",
    "role": "Site Field Technician",
-   "location": "London"
-  },
-  "1c62df6b5a8b6310a187631fe94c7dee": {
-   "id": "1c62df6b5a8b6310a187631fe94c7dee",
-   "company": "Fcc Asrgroup",
-   "role": "Maintenance Technician",
    "location": "London"
   },
   "33252c789bf42f71eeff17ffa222b61f": {
@@ -3488,24 +3494,6 @@
    "role": "Mechanical Fitter (day Shift)",
    "location": "Auchinleck"
   },
-  "a7fe3503d1e2916be730d5b20efd1f47": {
-   "id": "a7fe3503d1e2916be730d5b20efd1f47",
-   "company": "McCormick & Company",
-   "role": "Maintenance Engineer (night Shift)",
-   "location": "Haddenham"
-  },
-  "9814b16c3344ab98573ef6ce8cb9a4d0": {
-   "id": "9814b16c3344ab98573ef6ce8cb9a4d0",
-   "company": "Alamar Biosciences",
-   "role": "Field Service Engineer I",
-   "location": "London"
-  },
-  "a7e3d526212ef8235bb7f999211ab96d": {
-   "id": "a7e3d526212ef8235bb7f999211ab96d",
-   "company": "solaebelgiumcareers.be",
-   "role": "Maintenance Engineer",
-   "location": "Beaminster"
-  },
   "53c5cf99ef05426718a90a0877836c80": {
    "id": "53c5cf99ef05426718a90a0877836c80",
    "company": "Free People (URBN)",
@@ -3593,6 +3581,12 @@
   "c9802500aa523b2abb93540bdc8d6378": {
    "id": "c9802500aa523b2abb93540bdc8d6378",
    "company": "Pawllywood",
+   "role": "Part Time Sales Associate, Tommy Hilfiger - Wembley",
+   "location": "London"
+  },
+  "eb4f2da3490cfc7c8a36ff665fa2bf60": {
+   "id": "eb4f2da3490cfc7c8a36ff665fa2bf60",
+   "company": "Dmhvh",
    "role": "Part Time Sales Associate, Tommy Hilfiger - Wembley",
    "location": "London"
   },
@@ -3962,10 +3956,34 @@
    "role": "Materials Attendant",
    "location": "Aurora St Lukes Medical Center"
   },
-  "targetjobs:3567960c-bd15-4937-a53a-457da575c1cd": {
-   "id": "targetjobs:3567960c-bd15-4937-a53a-457da575c1cd",
-   "company": "AlphaSights",
-   "role": "Associate, Client Service, Portuguese Speaker, 2027",
+  "8070993bdbe6571905de46ff2699b516": {
+   "id": "8070993bdbe6571905de46ff2699b516",
+   "company": "Jll Com Sg",
+   "role": "Business Support, Administrative Assistant",
+   "location": "London"
+  },
+  "92449063192d8594c6743ddc3ae59d02": {
+   "id": "92449063192d8594c6743ddc3ae59d02",
+   "company": "EDF Energy Ltd",
+   "role": "Payroll Coordinator",
+   "location": "Hinkley Point C"
+  },
+  "371de64b3766caee2ace758e3ef49185": {
+   "id": "371de64b3766caee2ace758e3ef49185",
+   "company": "EDF Energy Ltd",
+   "role": "Quality Coordinator",
+   "location": "United Kingdom"
+  },
+  "289e4534065106ebaf23b3d40bf58416": {
+   "id": "289e4534065106ebaf23b3d40bf58416",
+   "company": "Britvic plc",
+   "role": "Network Logistics Co-ordinator",
+   "location": "Leicester - Lutterworth NDC"
+  },
+  "e5022560bd779ac27b3fdc139d6b60e3": {
+   "id": "e5022560bd779ac27b3fdc139d6b60e3",
+   "company": "Nomura International PLC",
+   "role": "Executive Assistant, Investment Banking",
    "location": "London"
   },
   "d3dd2d939b03022658c004e176a62d0f": {
@@ -4135,12 +4153,6 @@
    "company": "QinetiQ",
    "role": "Environmental Test Technical Specialist",
    "location": "Shoeburyness"
-  },
-  "f5e963e898bfbc98b6a639b7a976763b": {
-   "id": "f5e963e898bfbc98b6a639b7a976763b",
-   "company": "Nomura International PLC",
-   "role": "Executive Assistant, Investment Banking",
-   "location": "London"
   },
   "59f492a4780d37f62cc0af724ed3a45c": {
    "id": "59f492a4780d37f62cc0af724ed3a45c",
@@ -4410,30 +4422,6 @@
    "id": "0b33949b73554b9dda78688ec0bc7de7",
    "company": "Cochlear",
    "role": "Customer Services Coordinator",
-   "location": "London"
-  },
-  "c1948e8fed6d15fa67beb765e77fe7d0": {
-   "id": "c1948e8fed6d15fa67beb765e77fe7d0",
-   "company": "Cancer Research UK",
-   "role": "Retail Sunday Assistant (ilford)",
-   "location": "London"
-  },
-  "18b21478edbacfd40e47d05be877dbda": {
-   "id": "18b21478edbacfd40e47d05be877dbda",
-   "company": "JLL",
-   "role": "Facilities Coordinator",
-   "location": "Milton Keynes"
-  },
-  "42f87f3bc14c44d258cc81c759bff64c": {
-   "id": "42f87f3bc14c44d258cc81c759bff64c",
-   "company": "Jll Com Sg",
-   "role": "Facilities Coordinator",
-   "location": "Milton Keynes"
-  },
-  "b5a046d8940fd72738ac0864f61c4495": {
-   "id": "b5a046d8940fd72738ac0864f61c4495",
-   "company": "Building Engines",
-   "role": "Event Coordinator",
    "location": "London"
   }
  }
