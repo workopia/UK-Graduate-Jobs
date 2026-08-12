@@ -2188,4 +2188,99 @@ _No archived roles yet._
 <tr><td>JLL</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-08-11</td></tr>
 <tr><td>Jll Com Sg</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-08-11</td></tr>
 <tr><td>Building Engines</td><td>Event Coordinator</td><td>London</td><td>2026-08-11</td></tr>
+<tr><td>Vodafone</td><td>Vodafonethree - Retail Sales Advisor - 24hrs Per Week - London White City</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 4)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Mountain Warehouse</td><td>Summer Sales Assistant</td><td>Station Approach</td><td>2026-08-12</td></tr>
+<tr><td>ABB UK</td><td>Intern</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Edftrading</td><td>Summer Internship</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Boeing Australia Holdings</td><td>Government Affairs Intern- 12 Months Placement</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Operations Internship Programme Malaysia 2026</td><td>Bukit Jalil Kl</td><td>2026-08-12</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Technology Internship Programme Malaysia 2026</td><td>Bukit Jalil Kl</td><td>2026-08-12</td></tr>
+<tr><td>Gucci</td><td>Gucci Entertainment Industry Relations Intern, Northern Europe - Ftc</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>ABB UK</td><td>Alternance - Contrôle De Gestion Industriel F/h</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>BBVA</td><td>Internship - Institutional Business Uk</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Pharmapaywatch</td><td>Student Placement Contracts And Pricing</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Beavertongmc</td><td>Student Placement Contracts And Pricing</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Ardian</td><td>Compliance Intern - September 2026 / London</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Rolls-Royce Group</td><td>Software Engineer</td><td>Bristol</td><td>2026-08-12</td></tr>
+<tr><td>Esri</td><td>C++ Software Development Engineer I</td><td>Edinburgh</td><td>2026-08-12</td></tr>
+<tr><td>Grafana Labs</td><td>Software Engineer - Synthetic Monitoring / Uk / Remote</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Barclays</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-12</td></tr>
+<tr><td>Bankstcharles</td><td>Api Engineer</td><td>Glasgow Campus</td><td>2026-08-12</td></tr>
+<tr><td>jobs.barclays</td><td>Api Engineer</td><td>Glasgow Campus</td><td>2026-08-12</td></tr>
+<tr><td>Nuffield Health</td><td>Software Engineer</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Nuffieldhealthcareers</td><td>Software Engineer</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Citi</td><td>Junior Generative Ai Application Developer</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Vanguard UK</td><td>Data Analyst, Specialist</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Vanguard UK</td><td>Investment Data Analyst</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Sephora USA Inc</td><td>Finance Analyst - Opex</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Associate – Traded Market Risk / Scib</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Santander Corporate & Investment Banking (SCIB)</td><td>Associate – Traded Market Risk / Scib</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Atos</td><td>Consulting Industry Partner- Energy</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Atos</td><td>Consulting Industry Partner - Manufacturing And Retail</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Citi Handlowy</td><td>C++/python Quantitative Developer - Cross Asset Xva And Capital Analytics (vice President)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Workforcity</td><td>C++/python Quantitative Developer - Cross Asset Xva And Capital Analytics (vice President)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Work From Home With CiCi</td><td>C++/python Quantitative Developer - Cross Asset Xva And Capital Analytics (vice President)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>C++/python Quantitative Developer - Cross Asset Xva And Capital Analytics (vice President)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial Analyst - Sme Segmentation</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Portfolio Analyst - Fixed Income, Portfolio Management Team</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Mercer</td><td>Portfolio Analyst - Fixed Income, Portfolio Management Team</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner - Manufacturing And Retail</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner- Energy</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Content Operations Analyst</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Talan</td><td>Front Office Quant Analyst</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Aml Investigator</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>BBC</td><td>Accountant</td><td>Cardiff</td><td>2026-08-12</td></tr>
+<tr><td>Nomura International PLC</td><td>Business Analyst - Cash / Liquidity Management (12-month Contract)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Nomura International PLC</td><td>Swap Dealer Compliance (associate)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Nomura International PLC</td><td>Mifid Regulatory Reporting Business Analyst (12 Months Contract)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Nomura International PLC</td><td>Distribution Compliance Contractor - 6-month Contract</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Jobgether</td><td>Pe Accountant</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Zse68</td><td>Clinical Research Associate</td><td>UK</td><td>2026-08-12</td></tr>
+<tr><td>Bupa UK</td><td>Healthcare Assistant</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Radfield Home Care</td><td>Care Assistant</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Radfield Home Care</td><td>Part Time Care Assistant</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Turning Point</td><td>Female Support Worker Watford, United Kingdom £26,495 Based On 37 Hours / £31,850 Based On 45 Hours (inclusive Of Olw £1,722) Permanent Apply By 17 July, 2026 Posted On 3 July, 2026</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Turning Point</td><td>Female Waking Nights Support Worker Watford, United Kingdom £26,495 Based On 37 Hours / £31,850 Based On 45 Hours (inclusive Of Olw £1,722) Permanent Apply By 17 July, 2026 Posted On 3 July, 2026</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Carrier</td><td>Field Service Technician</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>Careers Philips</td><td>Field Service Engineer - South East</td><td>South East England</td><td>2026-08-12</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer - West Midland</td><td>West Midland</td><td>2026-08-12</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Engineer- Nights</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Schindler Group</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-08-12</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Improver</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Mechanical Fitter (day Shift)</td><td>Auchinleck</td><td>2026-08-12</td></tr>
+<tr><td>Entain</td><td>Retail Customer Service</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Decathlon S.A</td><td>20h Part-time Hiking Sport Advisor (sales Assistant)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>The Shellworks</td><td>Business Development Associate</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 16hrs- Wimbledon</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Reed in Partnership</td><td>Test Centre Associate - Sidcup</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Milltech</td><td>Customer Success Associate</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours, King´s Rd.)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Customer Experience Advisor / S1 / Retail Banking / Barnet</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Santander</td><td>Customer Experience Advisor / S1 / Retail Banking / Barnet</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>REL Field Marketing</td><td>In Store Promoter</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Levis Media</td><td>Levi's X John Lewis At Cheadle Branch - 40 Hours Sales Rep</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Ahwatukeepa</td><td>Materials Attendant</td><td>Aurora St Lukes Medical Center</td><td>2026-08-12</td></tr>
+<tr><td>Advocate Aurora Health</td><td>Materials Attendant</td><td>Aurora St Lukes Medical Center</td><td>2026-08-12</td></tr>
+<tr><td>JD Sports</td><td>Engineering Stores Assistant -mf</td><td>Kingsway</td><td>2026-08-12</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Watford (n122614)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Decathlon S.A</td><td>Sport Advisor</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Inventory Management Specialist I</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>LKQ Europe</td><td>Sales Advisor</td><td>Edinburgh</td><td>2026-08-12</td></tr>
+<tr><td>Ao Ds</td><td>Work From Home - Client Services Associate</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Clarivate</td><td>Business Development Associate</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 24hrs Fixed Term Contract - Soho</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Ohiosophe</td><td>Materials Attendant</td><td>Aurora St Lukes Medical Center</td><td>2026-08-12</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Basingstoke</td><td>2026-08-12</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Business Support Administrator</td><td>Severnside</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Editorial Assistant – Viking (fiction)</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Veolia</td><td>Transport Coordinator</td><td>Colwick</td><td>2026-08-12</td></tr>
+<tr><td>Aramark UK</td><td>Administrator</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Admin Assistant - Haywards Heath, West Sussex</td><td>Brighton</td><td>2026-08-12</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Call Centre Assistant/ Administrator - Petersfield</td><td>Portsmouth</td><td>2026-08-12</td></tr>
+<tr><td>Paramount Group Inc</td><td>Uk Production Coordinator - Scripted Tv</td><td>United Kingdom</td><td>2026-08-12</td></tr>
+<tr><td>SeaTown Electric, Plumbing, Heating & Air</td><td>Project Coordinator</td><td>Mukilteo</td><td>2026-08-12</td></tr>
+<tr><td>Cochlear</td><td>Customer Services Coordinator</td><td>London</td><td>2026-08-12</td></tr>
 </table>
