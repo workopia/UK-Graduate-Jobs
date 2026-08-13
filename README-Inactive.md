@@ -2283,4 +2283,26 @@ _No archived roles yet._
 <tr><td>Paramount Group Inc</td><td>Uk Production Coordinator - Scripted Tv</td><td>United Kingdom</td><td>2026-08-12</td></tr>
 <tr><td>SeaTown Electric, Plumbing, Heating & Air</td><td>Project Coordinator</td><td>Mukilteo</td><td>2026-08-12</td></tr>
 <tr><td>Cochlear</td><td>Customer Services Coordinator</td><td>London</td><td>2026-08-12</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Software Engineer</td><td>Bristol</td><td>2026-08-13</td></tr>
+<tr><td>Workforcity</td><td>Junior Generative Ai Application Developer</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Farm Auditor</td><td>UK</td><td>2026-08-13</td></tr>
+<tr><td>Savills Middle East</td><td>Client Accountant</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>Rbsfuel</td><td>Credit Analyst, Securitisation Trading Associate/vice President</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>John Graham Construction Ltd</td><td>Asset And Compliance Officer</td><td>West Midlands</td><td>2026-08-13</td></tr>
+<tr><td>Santander Arena</td><td>Associate – Traded Market Risk / Scib</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>GXO Logistics</td><td>Maintenance Engineer</td><td>Milton Keynes</td><td>2026-08-13</td></tr>
+<tr><td>Amey Ltd</td><td>Maintenance Electrician</td><td>HMP Featherstone</td><td>2026-08-13</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Plant Mechanic</td><td>Glensanda</td><td>2026-08-13</td></tr>
+<tr><td>Britvic plc</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-08-13</td></tr>
+<tr><td>sportsconnection.dk</td><td>Sales Associate, Brent Cross</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>skechers.cl</td><td>Sales Associate, Brent Cross</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Sales Advisor</td><td>Manchester</td><td>2026-08-13</td></tr>
+<tr><td>Asda Stores Ltd</td><td>Warehouse Colleague</td><td>Wakefield Adc</td><td>2026-08-13</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-08-13</td></tr>
+<tr><td>Raytheon UK</td><td>Business Support Administrator</td><td>Portsmouth</td><td>2026-08-13</td></tr>
+<tr><td>Margaret Howell</td><td>Sales Assistant - 31.5 Hour/week</td><td>London</td><td>2026-08-13</td></tr>
+<tr><td>Bidfood Group</td><td>Admin Assistant (term Time Only)</td><td>All Locations</td><td>2026-08-13</td></tr>
+<tr><td>Veolia UK</td><td>Transport Coordinator</td><td>Colwick</td><td>2026-08-13</td></tr>
 </table>
