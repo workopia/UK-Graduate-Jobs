@@ -2536,4 +2536,87 @@ _No archived roles yet._
 <tr><td>Worldvisionamericalatina</td><td>Faith At Work Coordinator</td><td>Milton Keynes</td><td>2026-08-14</td></tr>
 <tr><td>Visionfund</td><td>Faith At Work Coordinator</td><td>Milton Keynes</td><td>2026-08-14</td></tr>
 <tr><td>RTX Corporation</td><td>Business Support Administrator</td><td>Portsmouth</td><td>2026-08-14</td></tr>
+<tr><td>inMusic Brands (Denon)</td><td>Software Engineer</td><td>Cambridge</td><td>2026-08-15</td></tr>
+<tr><td>Severn Trent Plc</td><td>Register Your Interest - Summer Placements 2027</td><td>England</td><td>2026-08-15</td></tr>
+<tr><td>BBVA</td><td>Internal Audit Uk Internship</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Vanguard UK</td><td>I2020 London</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Java/ Spring Boot Developer</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Ai-assisted Full-stack Developement</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>Worldpay Inc</td><td>Software Engineer Specialist - Agentic Commerce</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Analyst</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Software Development Engineer Iii</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>TES Global</td><td>Complex Product Support Associate</td><td>Norfolk St</td><td>2026-08-15</td></tr>
+<tr><td>Bank Pekao</td><td>Programista / Programistka Frontend</td><td>Wyszukiwanie Wed</td><td>2026-08-15</td></tr>
+<tr><td>Danish Crown AS</td><td>Engineer</td><td>Manchester</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (backend)</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>Svenska Handelsbanken AB</td><td>Ai Engineer - 12 Month Day Rate Contract London Or Manchester, United Kingdom Competitive Day Rate Contractor Apply By 14 August, 2026 Posted On 31 July, 2026</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>LSEG</td><td>Data Scientist</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Data Scientist</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Warner Bros. Entertainment Inc.</td><td>Data Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Wiser Solutions Inc</td><td>Audit Associate (corporate) - Graduate Scheme, January 2027 / Haysmac</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Oxford Instruments</td><td>Business Analyst - Emeai Region</td><td>Spain +2</td><td>2026-08-15</td></tr>
+<tr><td>Sephora USA Inc</td><td>Finance Analyst - Opex</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst, Vice President</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Morgan Stanley</td><td>Msfs Fund Accountant</td><td>Glasgow</td><td>2026-08-15</td></tr>
+<tr><td>Citi</td><td>Associate - Banking Business Execution</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Associate - Banking Business Execution</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Royal London</td><td>Financial Reporting Accountant</td><td>Alderley Edge</td><td>2026-08-15</td></tr>
+<tr><td>Royal London</td><td>Business Analyst (rlam)</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ExxonMobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quant V&s G&p</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ExxonMobil</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ExxonMobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ExxonMobil</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Intercontinental Exchange</td><td>Analyst, Market Regulation</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>M&G</td><td>Quantitative Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Mgsginvestments</td><td>Quantitative Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Unum Group</td><td>Operational Risk Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Mars Australia</td><td>International Benefits Analyst</td><td>Berkshire</td><td>2026-08-15</td></tr>
+<tr><td>Mars</td><td>International Benefits Analyst</td><td>Berkshire</td><td>2026-08-15</td></tr>
+<tr><td>GIC</td><td>Associate, Infrastructure Credit</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Babcock International</td><td>She Compliance Officer</td><td>Devonport</td><td>2026-08-15</td></tr>
+<tr><td>Brightonparkbank</td><td>Transaction Monitoring Training Analyst</td><td>Glasgow</td><td>2026-08-15</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Reporting Analyst</td><td>UK&I</td><td>2026-08-15</td></tr>
+<tr><td>EBRD</td><td>Analyst, G&ei</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>NextEnergy Group</td><td>Interim Compliance Officer & Mlro</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Actuarial Analyst - Sme Segmentation</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Site Vetting Officer (sizewell C)</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Risk Analyst (sizewell C)</td><td>United Kingdom</td><td>2026-08-15</td></tr>
+<tr><td>jobs.barclays</td><td>Securitised Products Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Barclays</td><td>Securitised Products Analyst</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>James Fisher and Sons PLC</td><td>Sales, Inventory & Operations Planning (siop) Analyst</td><td>Inchinnan</td><td>2026-08-15</td></tr>
+<tr><td>Bupa UK</td><td>Registered Nurse</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>HCRG Care Group</td><td>Children's Community Carer - North East Surrey Sunbury, United Kingdom Starting Salary Of £25,500 Plus Group Pension Permanent - Full Or Part Time Apply By 9 August, 2026 Posted On 13 July, 2026</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>GroßBritannien</td><td>2026-08-15</td></tr>
+<tr><td>Amey Ltd</td><td>Miter Maintainer 1</td><td>Dalton Barracks +7</td><td>2026-08-15</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Site Field Technician</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>W.W. Grainger</td><td>Field Service Technician I - Milwaukee, Wisconsin</td><td>Milwaukee</td><td>2026-08-15</td></tr>
+<tr><td>PHS Group</td><td>Interior Plant Technician</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Entrust</td><td>Service Technician Trainee</td><td>Whiteley</td><td>2026-08-15</td></tr>
+<tr><td>Welsh Water (Dwr Cymru)</td><td>Maintenance Technician (electrically Biased)</td><td>Aberystwyth</td><td>2026-08-15</td></tr>
+<tr><td>Kronospan</td><td>Electrical Maintenance Technician</td><td>Chirk</td><td>2026-08-15</td></tr>
+<tr><td>KONE Corporation</td><td>Trainee Door Engineer / Service Engineer – London</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>KONE Bulgaria</td><td>Trainee Door Engineer / Service Engineer – London</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>KONE GmbH</td><td>Trainee Door Engineer / Service Engineer – London</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Entain</td><td>Retail Customer Service</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 16h And 20h</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Nestle Ltd</td><td>Retail Sales Assistant - Kingston</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ALO</td><td>Sales Associate (part-time) - Westbourne Grove</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>ALO / Australia</td><td>Sales Associate (part-time) - Covent Garden</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Inverness</td><td>2026-08-15</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Cash Office</td><td>Reading</td><td>2026-08-15</td></tr>
+<tr><td>Msig Europe</td><td>Assistant Underwriter</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Interior Logic Group Inc</td><td>Project Coordinator</td><td>Pewaukee</td><td>2026-08-15</td></tr>
+<tr><td>Hearst UK</td><td>Bookings Assistant</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Neuberger Berman Group</td><td>Administrative Coordinator-12 Month Contract</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Norton Rose Fulbright</td><td>Practice Support Executive (12-month Ftc)</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Administrative Assistant, Managed Equipment Services</td><td>London</td><td>2026-08-15</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Sunday Assistant (buxton 33-35 Spring Gardens)</td><td>Sheffield</td><td>2026-08-15</td></tr>
+<tr><td>Lancashire Holdings</td><td>Is Project Coordinator</td><td>Stewartby</td><td>2026-08-15</td></tr>
+<tr><td>Veolia UK</td><td>Is Project Coordinator</td><td>Stewartby</td><td>2026-08-15</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Bank - Administration Assistant</td><td>Bournemouth</td><td>2026-08-15</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Weekend Only</td><td>Glasgow</td><td>2026-08-15</td></tr>
+<tr><td>Johnson Controls</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-08-15</td></tr>
 </table>
