@@ -2873,4 +2873,45 @@ _No archived roles yet._
 <tr><td>GIC</td><td>Executive Assistant, Real Estate</td><td>London</td><td>2026-08-16</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Air Import Handler</td><td>RAF Marham</td><td>2026-08-16</td></tr>
 <tr><td>NEXT plc</td><td>Sales Assistant - Stratford Upon Avon</td><td>London</td><td>2026-08-16</td></tr>
+<tr><td>Carrier</td><td>Engineering Apprenticeship</td><td>Belfast</td><td>2026-08-17</td></tr>
+<tr><td>Rbsfuel</td><td>Software Engineer</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Teradyne</td><td>Software Engineer (test Systems) (quantifi Photonics, New Zealand)</td><td>Rosedale</td><td>2026-08-17</td></tr>
+<tr><td>Chaos Industries Inc</td><td>Cybersecurity Soc Analyst Ii</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Perplexity</td><td>Member Of Technical Staff (software Engineer, Backend Api)</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Rapid Prototyping & Automation Developer</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Citi</td><td>Interest Rate And Credit Derivatives Business Analyst – Vp</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Workforcity</td><td>Reconciliation Intermediate Analyst</td><td>Belfast</td><td>2026-08-17</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Reconciliation Intermediate Analyst</td><td>Belfast</td><td>2026-08-17</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Reconciliation Intermediate Analyst</td><td>Belfast</td><td>2026-08-17</td></tr>
+<tr><td>Invesco UK</td><td>Quantitative Analyst, Solutions Research & Analytics</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Equinor</td><td>Commercial Operations Analyst - Dogger Bank/equinor</td><td>Port Of Tyne</td><td>2026-08-17</td></tr>
+<tr><td>Monzo Bank</td><td>Credit Analyst</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Greene King</td><td>Technical Accountant</td><td>Suffolk</td><td>2026-08-17</td></tr>
+<tr><td>MEDTRONIC</td><td>Material Management Analyst</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Ashridge Home Care</td><td>Live-in Waking Night Carer</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-08-17</td></tr>
+<tr><td>Severn Trent Plc</td><td>Field Technician</td><td>Lincolnshire</td><td>2026-08-17</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-08-17</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>afa'afea</td><td>Hgv Technician - London South</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>General Parts</td><td>General Parts Group Careers - Commercial Kitchen Service Technician</td><td>Milwaukee</td><td>2026-08-17</td></tr>
+<tr><td>General Parts</td><td>General Parts Group Careers - Commercial Refrigeration Service Technician</td><td>Waukesha</td><td>2026-08-17</td></tr>
+<tr><td>Pawllywood</td><td>Part Time Sales Associate, Tommy Hilfiger - Wembley</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Dmhvh</td><td>Part Time Sales Associate, Tommy Hilfiger - Wembley</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Capri</td><td>Sales Associate-key Holder- Stratford- London- Full Time</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Birmingham</td><td>2026-08-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Plant Coordinator</td><td>United Kingdom</td><td>2026-08-17</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Temporary Works Coordinator (sizewell C)</td><td>United Kingdom</td><td>2026-08-17</td></tr>
+<tr><td>Bionical Emas</td><td>Project Coordinator, Eap</td><td>Uk</td><td>2026-08-17</td></tr>
+<tr><td>Fremantle</td><td>Content Operations Coordinator</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Editorial Assistant – Viking (fiction)</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Publicity Assistant, Fmuk</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>SNC Lavalin</td><td>Project Co-ordinator Ecology</td><td>United Kingdom</td><td>2026-08-17</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Project Co-ordinator Ecology</td><td>United Kingdom</td><td>2026-08-17</td></tr>
+<tr><td>CMA CGM Group</td><td>Import Customer Service Coordinator</td><td>London Heathrow</td><td>2026-08-17</td></tr>
+<tr><td>Selfridges Group</td><td>Corporate Gifting Account Assistant London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 10 September, 2026 Posted On 11 August, 2026</td><td>London</td><td>2026-08-17</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Customer Service Specialist</td><td>Manchester</td><td>2026-08-17</td></tr>
+<tr><td>NOV</td><td>Administrative Assistant</td><td>Royal Tunbridge Wells</td><td>2026-08-17</td></tr>
 </table>
