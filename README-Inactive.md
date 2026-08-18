@@ -2914,4 +2914,14 @@ _No archived roles yet._
 <tr><td>Selfridges Group</td><td>Corporate Gifting Account Assistant London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 10 September, 2026 Posted On 11 August, 2026</td><td>London</td><td>2026-08-17</td></tr>
 <tr><td>Vitality Corporate Services Ltd</td><td>Customer Service Specialist</td><td>Manchester</td><td>2026-08-17</td></tr>
 <tr><td>NOV</td><td>Administrative Assistant</td><td>Royal Tunbridge Wells</td><td>2026-08-17</td></tr>
+<tr><td>Citi</td><td>Market Operations Apprentice</td><td>Belfast</td><td>2026-08-18</td></tr>
+<tr><td>Royal Mail</td><td>Engineering Apprentice</td><td>Belfast</td><td>2026-08-18</td></tr>
+<tr><td>Celltrion Healthcare</td><td>Business Intelligence Analyst</td><td>United Kingdom</td><td>2026-08-18</td></tr>
+<tr><td>Pinnacle Group</td><td>Client Accountant London £24.00 - £24.00 Temporary Apply By 10 September, 2026 Posted On 13 August, 2026</td><td>London</td><td>2026-08-18</td></tr>
+<tr><td>Avangrid</td><td>Reporting Accountant</td><td>Glasgow</td><td>2026-08-18</td></tr>
+<tr><td>Neoenergia</td><td>Reporting Accountant</td><td>Glasgow</td><td>2026-08-18</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-18</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-08-18</td></tr>
+<tr><td>Renault Trucks Essex</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-08-18</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Part Time Sales Associate, Tommy Hilfiger - Wembley</td><td>London</td><td>2026-08-18</td></tr>
 </table>

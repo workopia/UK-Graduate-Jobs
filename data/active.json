@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-17",
- "count": 681,
+ "asOf": "2026-08-18",
+ "count": 679,
  "jobs": {
   "527230": {
    "id": "527230",
@@ -19,12 +19,6 @@
    "company": "HP",
    "role": "C++ Ai/ml Software Engineer",
    "location": "Cambridge"
-  },
-  "26934934": {
-   "id": "26934934",
-   "company": "Citi",
-   "role": "Market Operations Apprentice",
-   "location": "Belfast"
   },
   "26981905": {
    "id": "26981905",
@@ -674,11 +668,11 @@
    "role": "Facilities Apprentice-18 Month Ftc",
    "location": "Manchester"
   },
-  "25e59e14d5d3379c4345476cd88cf767": {
-   "id": "25e59e14d5d3379c4345476cd88cf767",
-   "company": "Royal Mail",
-   "role": "Engineering Apprentice",
-   "location": "Belfast"
+  "e2149f9505de0e047ea9845b960f07eb": {
+   "id": "e2149f9505de0e047ea9845b960f07eb",
+   "company": "NXP USA INC.",
+   "role": "Intern Ai And Software Engineer - Automotive Mpus",
+   "location": "Glasgow"
   },
   "targetjobs:94a2790f-15ae-448a-b52b-cd0d2608a06c": {
    "id": "targetjobs:94a2790f-15ae-448a-b52b-cd0d2608a06c",
@@ -1706,12 +1700,6 @@
    "role": "Executive, Business Reporting & Analysis",
    "location": "United Kingdom"
   },
-  "931d353d1030e03265659b8b565dd6c5": {
-   "id": "931d353d1030e03265659b8b565dd6c5",
-   "company": "Celltrion Healthcare",
-   "role": "Business Intelligence Analyst",
-   "location": "United Kingdom"
-  },
   "bca8096cad7b7cdbe4542bdb55bb9b5c": {
    "id": "bca8096cad7b7cdbe4542bdb55bb9b5c",
    "company": "Milliman",
@@ -1789,6 +1777,24 @@
    "company": "Grayce",
    "role": "Graduate Business Consultant - Hursley",
    "location": "Hursley"
+  },
+  "de52381101e9a780b5d7eaf4381e0939": {
+   "id": "de52381101e9a780b5d7eaf4381e0939",
+   "company": "Urpa",
+   "role": "Technology Delivery Business Analyst",
+   "location": "London"
+  },
+  "d9a778664004cdba96b5b1abf08ab55b": {
+   "id": "d9a778664004cdba96b5b1abf08ab55b",
+   "company": "Viridien",
+   "role": "Software Asset Analyst",
+   "location": "Bolney"
+  },
+  "cad3350997f5d1e864f371ea88726a55": {
+   "id": "cad3350997f5d1e864f371ea88726a55",
+   "company": "Hiscox",
+   "role": "Exposure Management Analyst",
+   "location": "London"
   },
   "7e30efa5defd79b22f5bd105f339a289": {
    "id": "7e30efa5defd79b22f5bd105f339a289",
@@ -2228,24 +2234,6 @@
    "role": "Security Governance, Risk And Compliance Analyst",
    "location": "London"
   },
-  "3af74af9f72dc9d6369c2e2ecb05d46e": {
-   "id": "3af74af9f72dc9d6369c2e2ecb05d46e",
-   "company": "Pinnacle Group",
-   "role": "Client Accountant London £24.00 - £24.00 Temporary Apply By 10 September, 2026 Posted On 13 August, 2026",
-   "location": "London"
-  },
-  "be1f37c104febb945362cb12cdd95f6e": {
-   "id": "be1f37c104febb945362cb12cdd95f6e",
-   "company": "Avangrid",
-   "role": "Reporting Accountant",
-   "location": "Glasgow"
-  },
-  "2bc998a06e02a60e445297b11598a85b": {
-   "id": "2bc998a06e02a60e445297b11598a85b",
-   "company": "Neoenergia",
-   "role": "Reporting Accountant",
-   "location": "Glasgow"
-  },
   "3489c989800a4338a139b13348e1f2fd": {
    "id": "3489c989800a4338a139b13348e1f2fd",
    "company": "Sanctuary Housing Association",
@@ -2660,6 +2648,24 @@
    "role": "Physiotherapist - Outpatients Msk (bank)",
    "location": "London"
   },
+  "4c99b769bd06dbeb5846b26670ad92e6": {
+   "id": "4c99b769bd06dbeb5846b26670ad92e6",
+   "company": "Air Products & Chemicals Inc",
+   "role": "Installation & Maintenance Technician (customer Engineering)",
+   "location": "Carrington"
+  },
+  "e383368f94cdde0945042384f3ea31f9": {
+   "id": "e383368f94cdde0945042384f3ea31f9",
+   "company": "Greystar (International)",
+   "role": "Maintenance Technician",
+   "location": "Chapter Highbury"
+  },
+  "7fb9fe852c9e231a8fece4e1b5cb3b24": {
+   "id": "7fb9fe852c9e231a8fece4e1b5cb3b24",
+   "company": "Nexeo Solutions LLC",
+   "role": "Maintenance Technician",
+   "location": "South Kirkby"
+  },
   "0eee5f413a834d862f843654dea8e1fc": {
    "id": "0eee5f413a834d862f843654dea8e1fc",
    "company": "EDF Energy Ltd",
@@ -2713,12 +2719,6 @@
    "company": "Danish Crown AS",
    "role": "Maintenance Engineer",
    "location": "Bugle"
-  },
-  "029c4767557575f6bb1c6d3aa5e48510": {
-   "id": "029c4767557575f6bb1c6d3aa5e48510",
-   "company": "Nexeo Solutions LLC",
-   "role": "Maintenance Technician",
-   "location": "Cadishead"
   },
   "42e398bed42a520b054f4edfff555b21": {
    "id": "42e398bed42a520b054f4edfff555b21",
@@ -3128,16 +3128,10 @@
    "role": "Site Technician",
    "location": "Derbyshire"
   },
-  "9f8e7fc0bffb7974180edb2c551d5f07": {
-   "id": "9f8e7fc0bffb7974180edb2c551d5f07",
-   "company": "KARL STORZ SE & Co. KG",
-   "role": "Field Service Technician (m/f/d)",
-   "location": "United Kingdom"
-  },
-  "c8e0472fd13acc350daca7a30b11bc98": {
-   "id": "c8e0472fd13acc350daca7a30b11bc98",
-   "company": "Renault Trucks Essex",
-   "role": "Nightshift Hgv Technician",
+  "47f8de442c2a267b06ff22f288e9abec": {
+   "id": "47f8de442c2a267b06ff22f288e9abec",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Temporary Sales Associate",
    "location": "London"
   },
   "526c4512cb5a828be82fb9ac0c453fc8": {
@@ -3605,12 +3599,6 @@
   "dbe2a9548e9ba8f37c315980c449615d": {
    "id": "dbe2a9548e9ba8f37c315980c449615d",
    "company": "Pvhcc",
-   "role": "Part Time Sales Associate, Tommy Hilfiger - Wembley",
-   "location": "London"
-  },
-  "7b2ee6f9790f2c3420d33394ac269cc3": {
-   "id": "7b2ee6f9790f2c3420d33394ac269cc3",
-   "company": "Tommy Hilfiger",
    "role": "Part Time Sales Associate, Tommy Hilfiger - Wembley",
    "location": "London"
   },
