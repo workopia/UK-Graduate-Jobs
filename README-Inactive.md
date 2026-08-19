@@ -2924,4 +2924,60 @@ _No archived roles yet._
 <tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-08-18</td></tr>
 <tr><td>Renault Trucks Essex</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-08-18</td></tr>
 <tr><td>Tommy Hilfiger</td><td>Part Time Sales Associate, Tommy Hilfiger - Wembley</td><td>London</td><td>2026-08-18</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 1)</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Pumping Solutions Technical Specialist</td><td>Normanton</td><td>2026-08-19</td></tr>
+<tr><td>Avangrid</td><td>Software Engineer (sap + Ai)</td><td>Glasgow</td><td>2026-08-19</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Software Engineer – Cyber Security Assured Design</td><td>Manchester</td><td>2026-08-19</td></tr>
+<tr><td>Lloyds</td><td>Software Engineer – Cyber Security Assured Design</td><td>Manchester</td><td>2026-08-19</td></tr>
+<tr><td>ProtectionPlatform from UnderwriteMe</td><td>Software Engineer</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Jobgether</td><td>Product Support Specialist</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Brightonparkbank</td><td>Ai Software Engineer</td><td>Glasgow</td><td>2026-08-19</td></tr>
+<tr><td>TransUnion</td><td>Business Intelligence Analyst</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Prudential Assurance UK</td><td>Executive, Business Reporting & Analysis</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Operations Entry-level Analyst</td><td>Belfast</td><td>2026-08-19</td></tr>
+<tr><td>Intropic</td><td>Quantitative Analyst (client Solutions)</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Academy Music Group</td><td>Financial Accountant</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Oneglobal</td><td>Business Analyst</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Barclays</td><td>Market Data Business Analyst</td><td>Glasgow</td><td>2026-08-19</td></tr>
+<tr><td>Barclays</td><td>Strategic Finance Analyst Payments & Value-added Services - Bpl</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>jobs.barclays</td><td>Strategic Finance Analyst Payments & Value-added Services - Bpl</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Barclays</td><td>Quantitative Developer - Global Markets Linear Rates Quantitative Analytics</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>jobs.barclays</td><td>Quantitative Developer - Global Markets Linear Rates Quantitative Analytics</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Stripe Treasury</td><td>Strategy & Transformation Advisor (growth & Monetization Specialization)</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Scottish Widows (Lloyds)</td><td>Associate, Assistant Quantitative Specialist</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Associate, Assistant Quantitative Specialist</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Lloyds</td><td>Associate, Assistant Quantitative Specialist</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Quilter</td><td>Trade Operations Analyst</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Strategic Initiatives Analyst</td><td>Reading</td><td>2026-08-19</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Sonova Group</td><td>Financial Accountant</td><td>Conwy</td><td>2026-08-19</td></tr>
+<tr><td>Jump Trading</td><td>Derivatives Quantitative Researcher / Trading Team</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>COTY Inc</td><td>Security Governance, Risk And Compliance Analyst</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>afa'afea</td><td>Conversion Technician - Light To Hgv Technician</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Infrastructure Maintenance Operative (sizewell C)</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Infrastructure Maintenance Technician (sizewell C)</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Electrician (sizewell C)</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Ashtead Plant Hire Company Ltd</td><td>Mobile Mechanical Technician</td><td>Location</td><td>2026-08-19</td></tr>
+<tr><td>mgstransport</td><td>Smart Maintenance Engineer (dumfries & Galloway)</td><td>Dumfries And Galloway</td><td>2026-08-19</td></tr>
+<tr><td>Intertek</td><td>Site Technician</td><td>Derbyshire</td><td>2026-08-19</td></tr>
+<tr><td>John Lewis Partnership</td><td>Customer Assistant</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>skechers.cl</td><td>Sales Associate - Trafford Centre</td><td>Manchester</td><td>2026-08-19</td></tr>
+<tr><td>Aesseal Plc</td><td>Warehouse Representative</td><td>Mukilteo</td><td>2026-08-19</td></tr>
+<tr><td>SWAROVSKI</td><td>Personal Stylist (38 Hours/week)</td><td>Oxford</td><td>2026-08-19</td></tr>
+<tr><td>Intermediate Capital Group</td><td>Associate, Client Relations - Real Estate</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Manchester, Uk</td><td>Manchester</td><td>2026-08-19</td></tr>
+<tr><td>Samsonite</td><td>Sales Advisor</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Pvhcc</td><td>Part Time Sales Associate, Tommy Hilfiger - Wembley</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Tnsi</td><td>Logistics And Fulfilment Specialist</td><td>Sheffield</td><td>2026-08-19</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-08-19</td></tr>
+<tr><td>Bmwramsey</td><td>Administration Assistant</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>Jobgether</td><td>People And Culture Assistant</td><td>United Kingdom</td><td>2026-08-19</td></tr>
+<tr><td>Nuffield Health</td><td>Nhs Adminstrator</td><td>Leeds</td><td>2026-08-19</td></tr>
+<tr><td>Nuffieldhealthcareers</td><td>Nhs Adminstrator</td><td>Leeds</td><td>2026-08-19</td></tr>
+<tr><td>Stagecoach Group</td><td>Commercial Assistant</td><td>Portsmouth</td><td>2026-08-19</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant</td><td>Sheffield</td><td>2026-08-19</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Executive Assistant - 12 Months Fixed Term</td><td>Syon</td><td>2026-08-19</td></tr>
+<tr><td>Pandora</td><td>Supervisor (full-time)</td><td>London</td><td>2026-08-19</td></tr>
+<tr><td>ASMPT</td><td>HR Administrator (12 months Fixed Term)</td><td>Bournemouth</td><td>2026-08-19</td></tr>
 </table>
