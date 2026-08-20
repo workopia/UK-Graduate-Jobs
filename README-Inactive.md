@@ -2980,4 +2980,69 @@ _No archived roles yet._
 <tr><td>BMI Healthcare (Circle)</td><td>Executive Assistant - 12 Months Fixed Term</td><td>Syon</td><td>2026-08-19</td></tr>
 <tr><td>Pandora</td><td>Supervisor (full-time)</td><td>London</td><td>2026-08-19</td></tr>
 <tr><td>ASMPT</td><td>HR Administrator (12 months Fixed Term)</td><td>Bournemouth</td><td>2026-08-19</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Citi</td><td>Delta One Equity Swaps Trade Support Analyst (intermediate Level)</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi</td><td>Commodities Business Management Analyst, Assistant Vice President</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi</td><td>Markets Operations Entry-level Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Intern - Bilingual English/mandarin</td><td>Unknown</td><td>2026-08-20</td></tr>
+<tr><td>Leonardo Worldwide Corporation</td><td>Platform Software Engineer</td><td>Edinburgh</td><td>2026-08-20</td></tr>
+<tr><td>Leonardo</td><td>Platform Software Engineer</td><td>Edinburgh</td><td>2026-08-20</td></tr>
+<tr><td>Rbsfuel</td><td>Software Engineer, Engineering Platforms Team</td><td>Edinburgh</td><td>2026-08-20</td></tr>
+<tr><td>NatWest Group</td><td>Software Engineer, Engineering Platforms Team</td><td>Edinburgh</td><td>2026-08-20</td></tr>
+<tr><td>ScottishPower</td><td>Software Engineer (sap + Ai)</td><td>Glasgow</td><td>2026-08-20</td></tr>
+<tr><td>Concentrix</td><td>Professional, Bi Analyst (tcf)</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Milton Keynes Council</td><td>Business Intelligence Officer Civic Offices, 1 Saxon Gate East, Central Milton Keynes, Buckinghamshire, United Kingdom £32,061 - £36,363 Permanent Apply By 26 July, 2026 Posted On 8 July, 2026</td><td>Central Milton Keynes</td><td>2026-08-20</td></tr>
+<tr><td>jobs.barclays</td><td>Forward Deployed Ai Engineer</td><td>Glasgow</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Epic Business Intelligence Developer</td><td>Uk</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Reporting Analyst</td><td>United Kingdom</td><td>2026-08-20</td></tr>
+<tr><td>Swiss Re</td><td>Valuation Actuary (hybrid; 80-100% Working Degree)</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Rbsfuel</td><td>Associate, Large Cap, Leveraged & Acquisition Finance</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>NatWest Group</td><td>Associate, Large Cap, Leveraged & Acquisition Finance</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Financial Conduct Authority</td><td>Financial Resilience Risk - Technical Specialist</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Lenvi</td><td>Shareholder Analyst</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Commodities Business Management Analyst, Assistant Vice President</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi Handlowy</td><td>Expense Management Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi</td><td>Expense Management Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Workforcity</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Delta One Equity Swaps Trade Support Analyst (intermediate Level)</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Markets Operations Entry-level Analyst</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Citi Handlowy</td><td>Delta One Equity Swaps Trade Support Analyst (intermediate Level)</td><td>Belfast</td><td>2026-08-20</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Machine Technician</td><td>Severnside</td><td>2026-08-20</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer Covering Postcode Bt</td><td>Northern Ireland</td><td>2026-08-20</td></tr>
+<tr><td>Getinge AB</td><td>Field Service Engineer Bio-processing And Life Sciences - Southwest England</td><td>Southwest England</td><td>2026-08-20</td></tr>
+<tr><td>PHS Group</td><td>Field Service Mechanical Engineer - Midlands</td><td>Midlands</td><td>2026-08-20</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Multi Skilled Electrical Maintenance Engineer</td><td>Severnside</td><td>2026-08-20</td></tr>
+<tr><td>Babcock International</td><td>Mechanical Technician</td><td>Holyhead</td><td>2026-08-20</td></tr>
+<tr><td>Amey Ltd</td><td>Highways Maintenance Operative</td><td>Gailey</td><td>2026-08-20</td></tr>
+<tr><td>afa'afea</td><td>Hgv Technician - London Heathrow</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>afa'afea</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate (seasonal Ftc) - Covent Garden, London</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Sulzer</td><td>Kitting Stores Person</td><td>Aberdeen Netherley</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (client Experience & Operations Opportunities) - West London</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (client Experience & Operations Opportunities) - Brent Cross, London</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (client Experience & Operations) - Bluewater Future Opportunities</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (client Experience & Operations) - Stratford London Future Opportunities</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>skechers.dk</td><td>Sales Associate - Trafford Centre</td><td>Manchester</td><td>2026-08-20</td></tr>
+<tr><td>Skechers</td><td>Sales Associate - Trafford Centre</td><td>Manchester</td><td>2026-08-20</td></tr>
+<tr><td>Urpa</td><td>Administrative Assistant</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Temporary Sales Assistant</td><td>Birmingham</td><td>2026-08-20</td></tr>
+<tr><td>QinetiQ</td><td>Environmental Test Technical Specialist</td><td>Shoeburyness</td><td>2026-08-20</td></tr>
+<tr><td>BBC</td><td>Business Coordinator</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Jenoptik AG</td><td>Technical Service Specialist</td><td>Basingstoke</td><td>2026-08-20</td></tr>
+<tr><td>Biffa Waste Services</td><td>Customer Service Coordinator</td><td>Basingstoke</td><td>2026-08-20</td></tr>
+<tr><td>The Spectator</td><td>Customer Service Assistant</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>MANTHORPE BUILDING PRODUCTS Ltd</td><td>Business Development Coordinator</td><td>Aylesford</td><td>2026-08-20</td></tr>
+<tr><td>Polypipe</td><td>Business Development Coordinator</td><td>Aylesford</td><td>2026-08-20</td></tr>
+<tr><td>Dachser SE</td><td>Customer Service Administrator - Outbound</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>CRH plc</td><td>Capex Project Coordinator</td><td>Lviv</td><td>2026-08-20</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Assistant</td><td>Leeds</td><td>2026-08-20</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Assistant</td><td>Leeds</td><td>2026-08-20</td></tr>
+<tr><td>Acrisureinnovation</td><td>Executive Assistant</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Acrisure</td><td>Executive Assistant</td><td>London</td><td>2026-08-20</td></tr>
+<tr><td>Harrodscareers</td><td>Content Coordinator</td><td>City Road</td><td>2026-08-20</td></tr>
+<tr><td>Drcf Org</td><td>Retail Shop Assistant (stokesley)</td><td>Stokesley</td><td>2026-08-20</td></tr>
+<tr><td>Drcf Org</td><td>Retail Sunday Assistant (southampton (shirley) Shop)</td><td>Portsmouth</td><td>2026-08-20</td></tr>
 </table>
