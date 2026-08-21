@@ -3045,4 +3045,86 @@ _No archived roles yet._
 <tr><td>Harrodscareers</td><td>Content Coordinator</td><td>City Road</td><td>2026-08-20</td></tr>
 <tr><td>Drcf Org</td><td>Retail Shop Assistant (stokesley)</td><td>Stokesley</td><td>2026-08-20</td></tr>
 <tr><td>Drcf Org</td><td>Retail Sunday Assistant (southampton (shirley) Shop)</td><td>Portsmouth</td><td>2026-08-20</td></tr>
+<tr><td>dmg::media</td><td>Ai Engineer Internship</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Cafeyn</td><td>Partnerships Management Uk - Internship</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>White Stuff</td><td>Print Design Internship - 12 Months</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Oxford Instruments</td><td>Intern Innovation Developer</td><td>Bristol</td><td>2026-08-21</td></tr>
+<tr><td>GE HealthCare UK</td><td>Software Engineer</td><td>Waukesha</td><td>2026-08-21</td></tr>
+<tr><td>FanDuel</td><td>Software Engineer - Core Marketing Platforms</td><td>Edinburgh</td><td>2026-08-21</td></tr>
+<tr><td>pr.careers</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-21</td></tr>
+<tr><td>RTX Corporation</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-21</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-21</td></tr>
+<tr><td>Sowga</td><td>Contract Support</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Information Security & Assurance Officer (sizewell C)</td><td>United Kingdom</td><td>2026-08-21</td></tr>
+<tr><td>mgstransport</td><td>Junior Security Operations Centre (soc) Analyst</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Leidos UK</td><td>Software Engineer</td><td>Bristol</td><td>2026-08-21</td></tr>
+<tr><td>Halma (safety)</td><td>Development Engineer</td><td>Cambridge</td><td>2026-08-21</td></tr>
+<tr><td>Wells Fargo</td><td>Assistant Vice President - Software Engineer - Finance Technology</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Innovateedai</td><td>Backend Engineer - Api</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Leonardo Worldwide Corporation</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-08-21</td></tr>
+<tr><td>Leonardo</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-08-21</td></tr>
+<tr><td>MUFG Oceania</td><td>Assistant Vice President, Business Intelligence Developer</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>689</td><td>Assistant Vice President, Business Intelligence Developer</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Mufgcampus</td><td>Assistant Vice President, Business Intelligence Developer</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Royal London</td><td>Front Office Business Insights Analyst</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>celltrionhealthcare.ca</td><td>Uk_business Intelligence Analyst</td><td>UK</td><td>2026-08-21</td></tr>
+<tr><td>Fidelity National Information Services</td><td>Fraud Analyst</td><td>Gbr Mltn</td><td>2026-08-21</td></tr>
+<tr><td>pladis Global</td><td>Assistant Site Accountant</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>sefe</td><td>Enterprise & Operational Risk Analyst (m/f/d)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>sefe</td><td>Credit Risk Analyst (m/f/d)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>REED Inc</td><td>Business Analyst</td><td>Raynes Park</td><td>2026-08-21</td></tr>
+<tr><td>Citi</td><td>Corporate Banking Analyst – Natural Resources</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Corporate Banking Analyst – Natural Resources</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Product Actuary</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Guy Carpenter</td><td>Product Actuary</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial Pricing Analyst - Personal Lines Travel Portfolio</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>A.P. Moller - Maersk</td><td>Customs Declarant</td><td>Croatia +1</td><td>2026-08-21</td></tr>
+<tr><td>MAERSK</td><td>Customs Declarant</td><td>Croatia +1</td><td>2026-08-21</td></tr>
+<tr><td>MUFG Oceania</td><td>Auditor, Risk And Legal Audit (analyst)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>689</td><td>Auditor, Risk And Legal Audit (analyst)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Auditor, Risk And Legal Audit (analyst)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>EBRD</td><td>Assistant Analyst</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Actuarial Pricing Analyst - Personal Lines Travel Portfolio</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>IDP Education</td><td>Regulations & Compliance Officer, Ielts</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Primark</td><td>Insight Analyst</td><td>Reading</td><td>2026-08-21</td></tr>
+<tr><td>Radfield Home Care</td><td>Care Compliance Administrator</td><td>Bromley</td><td>2026-08-21</td></tr>
+<tr><td>Jump Trading</td><td>Fixed Income Quantitative Researcher / Trading Team</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Jobgether</td><td>Fraud Analyst</td><td>United Kingdom</td><td>2026-08-21</td></tr>
+<tr><td>Retirement World</td><td>Commodities Trade Support Analyst (london)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>RBC</td><td>Analyst, Performance & Analytics</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>jobs.barclays</td><td>Customer Due Diligence (cdd) Design Sme</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>WEX Australia Pty Ltd</td><td>Financial Operations Analyst</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Nomura International PLC</td><td>Global Markets Compliance (6 Months Contract)</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Bauer Systems KG</td><td>Business Analyst</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Swanwick</td><td>2026-08-21</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Resident Maintenance Technician-1</td><td>Leicestershire</td><td>2026-08-21</td></tr>
+<tr><td>KION Group</td><td>Resident Maintenance Technician-1</td><td>Leicestershire</td><td>2026-08-21</td></tr>
+<tr><td>Dematic Inc</td><td>Resident Maintenance Technician-1</td><td>Leicestershire</td><td>2026-08-21</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Veolia UK</td><td>Maintenance Operative</td><td>Norwood</td><td>2026-08-21</td></tr>
+<tr><td>Veolia UK</td><td>Mechanical Technician</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Kone Corporation</td><td>Static Service Engineer- Canary Wharf</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Decathlon S.A</td><td>Part-time Workshop Technician</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcodes Sw1, W & Wc</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcode So</td><td>South East</td><td>2026-08-21</td></tr>
+<tr><td>Crocs</td><td>Sales Associate</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Sales Associate, Calvin Klein - Stratford</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>The Works Stores Ltd</td><td>Retail Sales Assistant - Temporary Contract</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 12h And 8h</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Armstrong Fluid Technology</td><td>Stores Assistant</td><td>Droitwich Spa</td><td>2026-08-21</td></tr>
+<tr><td>dnata</td><td>Warehouse Agent</td><td>Heathrow</td><td>2026-08-21</td></tr>
+<tr><td>JLL</td><td>Facilities Coordinator</td><td>Hertfordshire</td><td>2026-08-21</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administration Assistant</td><td>Warwick</td><td>2026-08-21</td></tr>
+<tr><td>CMS LLC</td><td>Facilities Coordinator</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>ICG</td><td>Executive Assistant</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Intermediate Capital Group</td><td>Executive Assistant</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Hitachi Vantara</td><td>Job Posting Title Project Planning & Controls Specialist</td><td>Birmingham</td><td>2026-08-21</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Job Posting Title Project Planning & Controls Specialist</td><td>Birmingham</td><td>2026-08-21</td></tr>
+<tr><td>Heidrick & Struggles</td><td>Executive Search Executive Assistant</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Pt 20h - Ftc - Wembley</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>GXO Logistics</td><td>Administrator</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Invesco UK</td><td>Team Admin Assistant - Global Equities</td><td>Henley</td><td>2026-08-21</td></tr>
+<tr><td>Mulberry Group PLC</td><td>Merchandising Admin Assistant</td><td>London</td><td>2026-08-21</td></tr>
 </table>
