@@ -3127,4 +3127,68 @@ _No archived roles yet._
 <tr><td>GXO Logistics</td><td>Administrator</td><td>London</td><td>2026-08-21</td></tr>
 <tr><td>Invesco UK</td><td>Team Admin Assistant - Global Equities</td><td>Henley</td><td>2026-08-21</td></tr>
 <tr><td>Mulberry Group PLC</td><td>Merchandising Admin Assistant</td><td>London</td><td>2026-08-21</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Alternance Data Gouvernance - Septembre 2026</td><td>Unknown</td><td>2026-08-22</td></tr>
+<tr><td>Royal London</td><td>Technical Specialist - Mobile</td><td>Alderley Edge +1</td><td>2026-08-22</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Fx Markets</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Data Scientist - Geo Holdout (12 Month Ftc)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Cancer Research UK</td><td>Power Bi Reporting Analyst</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Drcf Org</td><td>Power Bi Reporting Analyst</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Expleo Group UK</td><td>Sotif Engineer</td><td>Oxfordshire +1</td><td>2026-08-22</td></tr>
+<tr><td>100</td><td>Stakeholder Intelligence Advisor</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Jobgether</td><td>Cognitive Search Engineer</td><td>United Kingdom</td><td>2026-08-22</td></tr>
+<tr><td>Jobgether</td><td>Ai-native Software Developer</td><td>United Kingdom</td><td>2026-08-22</td></tr>
+<tr><td>Workforcity</td><td>Investment Banking Associate, Energy</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Workforcity</td><td>Prime Services Operations Analyst (intermediate Level)</td><td>Belfast</td><td>2026-08-22</td></tr>
+<tr><td>SAP Ariba</td><td>Customer Services & Delivery Market Unit Uki Head, Consulting Business</td><td>Middlesex</td><td>2026-08-22</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Assurance Advisor</td><td>Gb</td><td>2026-08-22</td></tr>
+<tr><td>SNC Lavalin</td><td>Assurance Advisor</td><td>United Kingdom</td><td>2026-08-22</td></tr>
+<tr><td>Atkinsrealis</td><td>Assurance Advisor</td><td>United Kingdom</td><td>2026-08-22</td></tr>
+<tr><td>Nomura International PLC</td><td>Delta One Trader</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>CFM</td><td>Market Risk Quant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>BlackRock</td><td>Fund Accounting Analyst</td><td>Colmore Square</td><td>2026-08-22</td></tr>
+<tr><td>BSI Group</td><td>Auditor, Food Packaging / Brcgs</td><td>United Kingdom</td><td>2026-08-22</td></tr>
+<tr><td>Linklaters</td><td>Analyst - Business Acceptance</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Linklaters</td><td>People Transformation - Business Analyst (6 Month Temporary Contract)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>National Gas</td><td>Insight Associate</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>UK Power Networks Ltd</td><td>Safety, Health & Environment Auditor</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Mercer</td><td>Operations Analyst</td><td>Tower Place</td><td>2026-08-22</td></tr>
+<tr><td>FIS Global / Fidelity National Information Services</td><td>Fraud Analyst</td><td>Gbr Mltn</td><td>2026-08-22</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Physiotherapist - Inpatients (bank)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Physiotherapist - Outpatients Msk (bank)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>South Kirkby</td><td>2026-08-22</td></tr>
+<tr><td>Ballyvesey Holding</td><td>Lcv Technician - Greenford</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Ballyvesey Holding</td><td>Hgv Technician - Dartford 1</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Severn Trent Plc</td><td>Repair And Maintenance Operative</td><td>Leicestershire</td><td>2026-08-22</td></tr>
+<tr><td>Nestlé</td><td>Engineering Technician (3 Days On 3 Days Off - Days Only, No Night Shifts)</td><td>Tutbury</td><td>2026-08-22</td></tr>
+<tr><td>Nestlé</td><td>Workshop Engineering Technician</td><td>Tutbury</td><td>2026-08-22</td></tr>
+<tr><td>Roche Diagnostics</td><td>Field Service Representative (hampshire/dorset Area)</td><td>Hampshire/Dorset</td><td>2026-08-22</td></tr>
+<tr><td>Roche Holding AG</td><td>Field Service Representative (hampshire/dorset Area)</td><td>Hampshire +1</td><td>2026-08-22</td></tr>
+<tr><td>KION</td><td>Resident Maintenance Technician-1</td><td>Leicestershire</td><td>2026-08-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - New Bond Street</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Selfridges</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Bicester (maternity Cover)</td><td>Oxford</td><td>2026-08-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Audley House</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Jobs Ups</td><td>Customer Services Associate</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Ibstock</td><td>Customer Services Associate</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate (24 Hours, Fix Term, Kingston)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Marsh</td><td>Executive Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Border States</td><td>Logistics Support Representative - Atc</td><td>Pewaukee</td><td>2026-08-22</td></tr>
+<tr><td>Deutsche Bank</td><td>Event Marketing, Private Bank</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Dbcargofrance</td><td>Event Marketing, Private Bank</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Dnsdblookup</td><td>Event Marketing, Private Bank</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>MBDA</td><td>Business Support Administrator</td><td>Bristol</td><td>2026-08-22</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Bupa Group</td><td>Administrative Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Gersonlehrmangroup</td><td>Product Specialist, New Business</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>newjob</td><td>Administration And Support Assistant</td><td>Portsmouth</td><td>2026-08-22</td></tr>
+<tr><td>GIC</td><td>Executive Assistant, Infrastructure (maternity Cover)</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>ASOS</td><td>Team Administration Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Capri</td><td>Office Coordinator & Vp / Administrative Assistant</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>arztkarriere.de</td><td>Health Unit Coordinator - Huc</td><td>Aurora</td><td>2026-08-22</td></tr>
+<tr><td>Severn Trent Plc</td><td>Administration & Technical Support</td><td>Coleshill</td><td>2026-08-22</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Basingstoke</td><td>2026-08-22</td></tr>
+<tr><td>Primark</td><td>Retail Assistant - Cash Office</td><td>Bournemouth</td><td>2026-08-22</td></tr>
+<tr><td>42</td><td>Facilities Coordinator</td><td>Hertfordshire</td><td>2026-08-22</td></tr>
 </table>
