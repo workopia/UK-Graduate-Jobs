@@ -3302,4 +3302,34 @@ _No archived roles yet._
 <tr><td>Leidos UK</td><td>Training Specialist</td><td>Whiteley</td><td>2026-08-23</td></tr>
 <tr><td>Leidos Holdings Inc.</td><td>Training Specialist</td><td>Whiteley</td><td>2026-08-23</td></tr>
 <tr><td>MARSH MCLENNAN</td><td>Executive Assistant</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Liontree</td><td>Winter 2027 Off-Cycle Internship Programme</td><td>Mayfair</td><td>2026-08-23</td></tr>
+<tr><td>Atracsys</td><td>Operational Technology Intern</td><td>Uk</td><td>2026-08-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p - Search Team</td><td>United Kingdom</td><td>2026-08-23</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Software Engineer - Web Platform</td><td>Manchester</td><td>2026-08-23</td></tr>
+<tr><td>Space NK</td><td>Helpdesk Analyst</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>QinetiQ</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-23</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer</td><td>Bristol</td><td>2026-08-23</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer (react Native)</td><td>Bristol</td><td>2026-08-23</td></tr>
+<tr><td>Bank Pekao</td><td>Analityk / Analityczka / Data Scientist - Pricing & Profitability</td><td>Wyszukiwanie</td><td>2026-08-23</td></tr>
+<tr><td>NiCE</td><td>Data Scientist</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Accountant</td><td>Cardiff</td><td>2026-08-23</td></tr>
+<tr><td>Capita</td><td>Training Compliance Officer</td><td>Home-Based</td><td>2026-08-23</td></tr>
+<tr><td>Capita (digital)</td><td>Training Compliance Officer</td><td>Home-Based</td><td>2026-08-23</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Coding Auditor</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Clinical Coding Auditor</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Terex Omagh</td><td>Maintenance Engineer</td><td>Omagh</td><td>2026-08-23</td></tr>
+<tr><td>Royal Mail</td><td>Automation Maintenance Engineer (pool)</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Nestle SA</td><td>Mechanical Maintenance Technician</td><td>Wirral</td><td>2026-08-23</td></tr>
+<tr><td>GE HealthCare UK</td><td>Service - Field Service Engineer (fse) - Ultrasound - London</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Service Centre Agent – Fixed Term – Fixed Term - Sheraton Grand London Park Lane</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Experience Expert Guest Service Associate - London Marriott Hotel Grosvenor Square</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Decathlon S.A</td><td>Full-time Or Part-time Skiing And Snowboarding Sport Advisor</td><td>Oxford</td><td>2026-08-23</td></tr>
+<tr><td>Bupa Group</td><td>Administrative Assistant</td><td>Cardiff</td><td>2026-08-23</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Corporate Services Administrator</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Wise</td><td>Executive Assistant</td><td>London</td><td>2026-08-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Admin Assistant - Haywards Heath, West Sussex</td><td>Brighton</td><td>2026-08-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Admin Assistant</td><td>Aylesbury</td><td>2026-08-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Audiology Admin Assistant</td><td>Glasgow</td><td>2026-08-23</td></tr>
+<tr><td>Pharmajobber</td><td>External Packaging Project Coordinator</td><td>Uk</td><td>2026-08-23</td></tr>
+<tr><td>Bombardier</td><td>Proposal/planning Coordinator</td><td>Westerham</td><td>2026-08-23</td></tr>
 </table>
