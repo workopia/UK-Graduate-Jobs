@@ -3332,4 +3332,51 @@ _No archived roles yet._
 <tr><td>Specsavers Optical Group Ltd</td><td>Audiology Admin Assistant</td><td>Glasgow</td><td>2026-08-23</td></tr>
 <tr><td>Pharmajobber</td><td>External Packaging Project Coordinator</td><td>Uk</td><td>2026-08-23</td></tr>
 <tr><td>Bombardier</td><td>Proposal/planning Coordinator</td><td>Westerham</td><td>2026-08-23</td></tr>
+<tr><td>GE Healthcare</td><td>Operations Management Leadership Program - Internship</td><td>Waukesha</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Apprentice - Gas Engineering</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Capita</td><td>Technical Support Officer</td><td>United Kingdom</td><td>2026-08-24</td></tr>
+<tr><td>QinetiQ</td><td>Environmental Test Technical Specialist</td><td>Shoeburyness</td><td>2026-08-24</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Pumping Solutions Technical Specialist</td><td>Normanton +1</td><td>2026-08-24</td></tr>
+<tr><td>Covance / Labcorp Drug Dev UK</td><td>Technical Specialist - Physical Chemical Testing</td><td>Eye</td><td>2026-08-24</td></tr>
+<tr><td>ITV</td><td>Engineer, Scala</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>HR Path</td><td>It Support Technician - London</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>HCLTech UK</td><td>Sme - Python</td><td>United Kingdom</td><td>2026-08-24</td></tr>
+<tr><td>Scale AI</td><td>Full-stack Software Engineer, (forward Deployed), Gps</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Jobgether</td><td>.net Core & Python Web Developer</td><td>United Kingdom</td><td>2026-08-24</td></tr>
+<tr><td>Urpa</td><td>Health Services Intermediate Data Analyst</td><td>Salford Quays +2</td><td>2026-08-24</td></tr>
+<tr><td>Panadol</td><td>Social Intelligence Analyst</td><td>London Bankside</td><td>2026-08-24</td></tr>
+<tr><td>Rathbone Brothers Plc</td><td>Crims Business/product Analyst</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>TD Bank</td><td>Tds Operations Analyst Iii</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Harbour Energy</td><td>Carbon Compliance Adviser</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>COTY Inc</td><td>Security Governance, Risk And Compliance Analyst</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Swiss Re</td><td>Valuation Actuary (hybrid; 80-100% Working Degree)</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>newjob</td><td>Health And Safety Officer Wcc624766</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>EBRD</td><td>Associate, Climate Risk</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Statutory Accountant</td><td>Glasgow</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Bank Support Assistant</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Maintenance Caretaker</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>Chapter Highbury</td><td>2026-08-24</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-08-24</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>Great Britain</td><td>2026-08-24</td></tr>
+<tr><td>Malvern Panalytical Inc</td><td>Customer Service Engineer</td><td>West Midlands</td><td>2026-08-24</td></tr>
+<tr><td>Associated Wholesale Grocers</td><td>Mechanical Maintenance Technician</td><td>Cambridge</td><td>2026-08-24</td></tr>
+<tr><td>Anglian Water</td><td>Mechanical Maintenance Technician</td><td>Cambridge</td><td>2026-08-24</td></tr>
+<tr><td>InPost</td><td>Field Service Engineer (surrey)</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Fast Retailing</td><td>Temporary Sales Assistant - Uniqlo Angel</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Dyson</td><td>Dyson Expert - London Staples Corner Curry's (part Time)</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>forms-unitde.rentals</td><td>Equipment Associate - Ros</td><td>Yukon</td><td>2026-08-24</td></tr>
+<tr><td>Agile Retail</td><td>Garage Sales Associate - Part Time Temp Oxford Street</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - White City, London</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>Birmingham</td><td>2026-08-24</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Cardiff</td><td>2026-08-24</td></tr>
+<tr><td>Nike</td><td>Administrative Assistant - Converse</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Portsmouth</td><td>Portsmouth</td><td>2026-08-24</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Hr Project Coordinator</td><td>UK & Ireland +1</td><td>2026-08-24</td></tr>
+<tr><td>Foxtons Ltd</td><td>Customer Service Coordinator</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Avangrid</td><td>Sustainability Specialist - Nature And Biodiversity</td><td>Glasgow</td><td>2026-08-24</td></tr>
+<tr><td>Neoenergia</td><td>Sustainability Specialist - Nature And Biodiversity</td><td>Glasgow</td><td>2026-08-24</td></tr>
+<tr><td>Urpa</td><td>Healthcare Assistant</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-08-24</td></tr>
 </table>
