@@ -3379,4 +3379,24 @@ _No archived roles yet._
 <tr><td>Neoenergia</td><td>Sustainability Specialist - Nature And Biodiversity</td><td>Glasgow</td><td>2026-08-24</td></tr>
 <tr><td>Urpa</td><td>Healthcare Assistant</td><td>London</td><td>2026-08-24</td></tr>
 <tr><td>Bupa Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-08-24</td></tr>
+<tr><td>Ogilvy</td><td>Influence Internship</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>SBDINC</td><td>Intern Stanley</td><td>Reading</td><td>2026-08-25</td></tr>
+<tr><td>Mac Tools</td><td>Intern Stanley</td><td>Reading</td><td>2026-08-25</td></tr>
+<tr><td>CVS Health</td><td>Pharmacy Intern</td><td>Waukesha</td><td>2026-08-25</td></tr>
+<tr><td>Motorola Solutions UK Limited</td><td>Graduate Software Engineer</td><td>Glasgow</td><td>2026-08-25</td></tr>
+<tr><td>Jobgether</td><td>Back-end Engineer (python)</td><td>United Kingdom</td><td>2026-08-25</td></tr>
+<tr><td>State Street UK</td><td>Auditor, Officer</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Accenture Australia</td><td>Performance Strategy Associate</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Halfspace ApS</td><td>Performance Strategy Associate</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>TD Ameritrade</td><td>Tds Operations Analyst Iii</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst Iii</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Univar Solutions</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-25</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>United Kingdom</td><td>2026-08-25</td></tr>
+<tr><td>Decathlon S.A</td><td>Full Time Rackets Sports Advisor</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Visual Merchandising</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Fcc Asrgroup</td><td>Trading Associate</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Fast Retailing</td><td>Temporary Sales Assistant - Uniqlo One Oxford Street</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-25</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Temp 40h Ftc Nike Oxford Circus</td><td>Oxford Street</td><td>2026-08-25</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) – Pt20 – West London</td><td>London</td><td>2026-08-25</td></tr>
 </table>
