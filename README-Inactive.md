@@ -3399,4 +3399,38 @@ _No archived roles yet._
 <tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-25</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) Temp 40h Ftc Nike Oxford Circus</td><td>Oxford Street</td><td>2026-08-25</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) – Pt20 – West London</td><td>London</td><td>2026-08-25</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Simon-Kucher & Partners</td><td>Interns – Transaction Services & Private Equity, October 2026 Start</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Matillion</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-26</td></tr>
+<tr><td>Bupa UK</td><td>It Support Technician</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Bupa</td><td>It Support Technician</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Cobham</td><td>It Support Technician</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>BlackRock</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Preqin</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Worldpay</td><td>Java Software Engineer (cambridge)</td><td>Cambridge</td><td>2026-08-26</td></tr>
+<tr><td>GEHC</td><td>Software Engineer</td><td>Waukesha</td><td>2026-08-26</td></tr>
+<tr><td>intropic.io</td><td>Backend Engineer - Index Data Processing</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Amadeus</td><td>Product Support Engineer</td><td>Manchester Airport</td><td>2026-08-26</td></tr>
+<tr><td>CMC MARKETS</td><td>Front Office Software Engineer</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Ocado Group</td><td>Operational Systems Support</td><td>Dordon</td><td>2026-08-26</td></tr>
+<tr><td>Bankstcharles</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-08-26</td></tr>
+<tr><td>bupa.co.uk</td><td>Health Services Intermediate Data Analyst</td><td>Salford Quays +2</td><td>2026-08-26</td></tr>
+<tr><td>Worldtrips</td><td>Financial Crime Analyst (monitoring & Assurance)</td><td>Uk</td><td>2026-08-26</td></tr>
+<tr><td>Gersonlehrmangroup</td><td>Analyst, Commercial Operations</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>TT Electronics</td><td>Business Analyst – Hr (human Resources), H&amp;s (health &amp; Safety) And Sustainability (esg)</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Quant Strategist</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Bdbk010</td><td>Quant Strategist</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Dnsdblookup</td><td>Quant Strategist</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>HKEX (Hong Kong Exchanges)</td><td>Market Risk Analyst</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>STATE STREET</td><td>Auditor, Officer</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Electrical</td><td>Barnhurst +3</td><td>2026-08-26</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Engineer- Nights</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate- Stratford- London- Part Time</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate</td><td>Manchester</td><td>2026-08-26</td></tr>
+<tr><td>GXO Logistics</td><td>Administrative Assistant</td><td>Nottingham</td><td>2026-08-26</td></tr>
+<tr><td>SNC Lavalin</td><td>Business Support Administrator</td><td>East Suffolk</td><td>2026-08-26</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Business Support Administrator</td><td>East Suffolk</td><td>2026-08-26</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Business Support Administrator</td><td>Swindon</td><td>2026-08-26</td></tr>
+<tr><td>Hogan Lovells</td><td>Team Assistant (ftc 12 Months)</td><td>London</td><td>2026-08-26</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Temp 20h Nike Oxford Circus</td><td>Oxford Street</td><td>2026-08-26</td></tr>
 </table>
