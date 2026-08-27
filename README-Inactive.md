@@ -3433,4 +3433,82 @@ _No archived roles yet._
 <tr><td>Mueller Service GmbH</td><td>Business Support Administrator</td><td>Swindon</td><td>2026-08-26</td></tr>
 <tr><td>Hogan Lovells</td><td>Team Assistant (ftc 12 Months)</td><td>London</td><td>2026-08-26</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) Temp 20h Nike Oxford Circus</td><td>Oxford Street</td><td>2026-08-26</td></tr>
+<tr><td>Severn Trent Plc</td><td>Register Your Interest - Summer Placements 2027</td><td>Various</td><td>2026-08-27</td></tr>
+<tr><td>Sony Music Publishing</td><td>International Legal, Business Affairs & Licensing Intern - Sony Music Publishing</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Sonymusicentertainment</td><td>Digital Partnerships Intern</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Sony Music Publishing</td><td>Studio Intern - Sony Music Publishing</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>G-Research</td><td>Natural Language Processing Internship</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Internship</td><td>Salwick Preston</td><td>2026-08-27</td></tr>
+<tr><td>96</td><td>Morning Intern, Wtmj Morning Blend</td><td>Milwaukee</td><td>2026-08-27</td></tr>
+<tr><td>LVJEWISH ORG Scripps Media Inc</td><td>Morning Intern, Wtmj Morning Blend</td><td>Milwaukee</td><td>2026-08-27</td></tr>
+<tr><td>Careers at Marriott</td><td>Culinary Intern</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Edelman PR</td><td>Intern – Influencer Research & Vetting (french & Italian Speaker)</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>BlackRock</td><td>2027 Client and Product Spring Insight Event - EMEA</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>GE HealthCare</td><td>Commercial Sales Leadership Program Internship</td><td>Waukesha</td><td>2026-08-27</td></tr>
+<tr><td>Menselsa</td><td>Taste The Future - Quality Assurance Internship (m/f/x)</td><td>Vyshhorod</td><td>2026-08-27</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Quality Assurance Internship (m/f/x)</td><td>Vyshhorod</td><td>2026-08-27</td></tr>
+<tr><td>Menselsa</td><td>Taste The Future - Procurement Internship (m/f/x)</td><td>Kyiv +1</td><td>2026-08-27</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Procurement Internship (m/f/x)</td><td>Kyiv +1</td><td>2026-08-27</td></tr>
+<tr><td>Maven Securities</td><td>Quant Trader Internship 2027</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Deepki</td><td>Consulting Internship</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>XTX Markets</td><td>Philanthropy Team - Internship</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Natixis</td><td>Internship - UK Banks, AM & IPS Coverage</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Bupa UK</td><td>2nd Line It Support Analyst 1</td><td>South West London</td><td>2026-08-27</td></tr>
+<tr><td>Bupa</td><td>2nd Line It Support Analyst 1</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Bupa Group</td><td>2nd Line It Support Analyst 1</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>GE HealthCare</td><td>Software Engineer</td><td>Waukesha</td><td>2026-08-27</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Software Engineer</td><td>Waukesha</td><td>2026-08-27</td></tr>
+<tr><td>Cadent Gas Ltd</td><td>Euc Technical Specialist</td><td>England</td><td>2026-08-27</td></tr>
+<tr><td>Three Corporate Consulting Ltd</td><td>It Support Analyst</td><td>EMEA</td><td>2026-08-27</td></tr>
+<tr><td>mthree</td><td>It Support Analyst</td><td>EMEA</td><td>2026-08-27</td></tr>
+<tr><td>Sparta Global</td><td>Junior AI Engineer - London</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Halfspace ApS</td><td>Forward Deployed Ai Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Native Software Engineering</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Halfspace ApS</td><td>Junior Ai Native Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>LSEG</td><td>Core Ai Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Monzo Bank</td><td>Anaplan Support Analyst</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>santander-karriere.de</td><td>Associate/vice President - Inflation Quant / Scib</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Lloyd's of London</td><td>Associate, Compliance And Oversight - 12month Ftc</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Newcastle Building Society</td><td>Financial Close Accountant - 12 Month Fixed Term Contract</td><td>Cobalt Business Park</td><td>2026-08-27</td></tr>
+<tr><td>Newcastle Strategic Solutions Limited</td><td>It Software Asset Analyst</td><td>Cobalt Business Park</td><td>2026-08-27</td></tr>
+<tr><td>ICON Broadbean</td><td>Clinical Quality Compliance Specialist</td><td>Uk</td><td>2026-08-27</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Clinical Quality Compliance Specialist</td><td>Uk</td><td>2026-08-27</td></tr>
+<tr><td>Markel Corp</td><td>Claims Business Analyst</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Markel Corporation</td><td>Claims Business Analyst</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>555</td><td>Claims Business Analyst</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Sizewell C</td><td>Risk Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>PGIM Real Estate (Prudential)</td><td>Pgim Credit / Investment Analyst, Corporate & Projects Workouts</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Prudential</td><td>Pgim Credit / Investment Analyst, Corporate & Projects Workouts</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Bdbk010</td><td>Investment Banking Coverage – Building, Property And Real Estate (deutsche Numis)</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Dnsdblookup</td><td>Investment Banking Coverage – Building, Property And Real Estate (deutsche Numis)</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Deutsche Numis</td><td>Investment Banking Coverage – Building, Property And Real Estate (deutsche Numis)</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Domestic & General</td><td>Financial Promotions Officer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Bakkavor Group</td><td>Finance Analyst</td><td>Tilmanstone</td><td>2026-08-27</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Mechanical Fitter (day Shift)</td><td>Auchinleck</td><td>2026-08-27</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Electrical Maintenance Technician</td><td>Fawley</td><td>2026-08-27</td></tr>
+<tr><td>Nestle SA</td><td>Engineering Technician (panama Shift)</td><td>Tutbury</td><td>2026-08-27</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Developer Services Technician - Water</td><td>Yorkshire</td><td>2026-08-27</td></tr>
+<tr><td>Jll Com Au</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>JLL</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>77</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Jll Com Sg</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Firetecnics</td><td>Fire Alarm Service And Maintenance Engineer - Isle Of Wight</td><td>Isle Of Wight</td><td>2026-08-27</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-08-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Engineering Technician (panama Shift)</td><td>Tutbury</td><td>2026-08-27</td></tr>
+<tr><td>Caterpillar</td><td>Repair Technician</td><td>Desford</td><td>2026-08-27</td></tr>
+<tr><td>Asda Stores Ltd</td><td>Warehouse Colleague</td><td>Chepstow Adc</td><td>2026-08-27</td></tr>
+<tr><td>Frasers Group (Sports Direct)</td><td>Casual Sales Assistant</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>ALO / Australia</td><td>Sales Associate (full-time) - Multrees Walk, Edinburgh</td><td>Edinburgh</td><td>2026-08-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 30h</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Michael Kors Sales Associate</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Bmwramsey</td><td>Administrative Assistant</td><td>Bournemouth</td><td>2026-08-27</td></tr>
+<tr><td>Bmwramsey</td><td>Administration Assistant</td><td>Bournemouth</td><td>2026-08-27</td></tr>
+<tr><td>Bmwramsey</td><td>Booking And Administrative Assistant</td><td>Chelmsford</td><td>2026-08-27</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Cambridge</td><td>2026-08-27</td></tr>
+<tr><td>Nuffieldhealthcareers</td><td>Healthcare Assistant</td><td>Cambridge</td><td>2026-08-27</td></tr>
+<tr><td>Urpa</td><td>Administrative Assistant</td><td>Cardiff</td><td>2026-08-27</td></tr>
+<tr><td>Dazed Media</td><td>Social Media Assistant, Dazed Digital</td><td>London</td><td>2026-08-27</td></tr>
+<tr><td>Medline Industries LP</td><td>Quality Coordinator</td><td>Waukegan</td><td>2026-08-27</td></tr>
 </table>
