@@ -20,6 +20,12 @@
    "role": "Beauty Advisor - The Cosmetics Company Store, Bicester - 2 Days/15 Hours (saturday & Sunday)",
    "location": "Oxford"
   },
+  "287459": {
+   "id": "287459",
+   "company": "Vodafone",
+   "role": "Junior Ai Software Engineer",
+   "location": "London"
+  },
   "564261": {
    "id": "564261",
    "company": "Mountain Warehouse",
@@ -54,6 +60,12 @@
    "id": "53b408f0202c3dfe2f54b4171de4bc9d",
    "company": "Xantium Group",
    "role": "Quantitative Researcher Intern",
+   "location": "London"
+  },
+  "533e2b73b92fbc64eacfa498cb318910": {
+   "id": "533e2b73b92fbc64eacfa498cb318910",
+   "company": "POP MART Global",
+   "role": "Office Administration Intern",
    "location": "London"
   },
   "targetjobs:3aaf92b4-8228-4f36-8577-e39637e7918a": {
@@ -512,12 +524,6 @@
    "role": "Htsi Intern",
    "location": "United Kingdom"
   },
-  "b4478da74126c2fec57b44e5d1804fcb": {
-   "id": "b4478da74126c2fec57b44e5d1804fcb",
-   "company": "St. Regis Hotels & Resorts",
-   "role": "Finance Intern",
-   "location": "London"
-  },
   "32dbf7a94bb8954d99d5003a58b0007f": {
    "id": "32dbf7a94bb8954d99d5003a58b0007f",
    "company": "Lonza Group",
@@ -925,6 +931,18 @@
    "company": "BECU",
    "role": "Collection & Recovery Support Specialist",
    "location": "Tukwila"
+  },
+  "57990f8fa2ccb482137dff58f84246b0": {
+   "id": "57990f8fa2ccb482137dff58f84246b0",
+   "company": "Wise",
+   "role": "Backend Engineer - Contacts Team",
+   "location": "London"
+  },
+  "05497712036aba36f8bf4b66e6fb37e5": {
+   "id": "05497712036aba36f8bf4b66e6fb37e5",
+   "company": "Experian",
+   "role": ".net Engineer",
+   "location": "Nottingham"
   },
   "56d28ad394b99d97f9057eaeb6866ff7": {
    "id": "56d28ad394b99d97f9057eaeb6866ff7",
@@ -1358,18 +1376,6 @@
    "role": "Product Support Specialist-uk",
    "location": "United Kingdom"
   },
-  "f909854d0109fc78fa0ab39f379525f1": {
-   "id": "f909854d0109fc78fa0ab39f379525f1",
-   "company": "Wintermute Corporation",
-   "role": "Full Stack Engineer",
-   "location": "London"
-  },
-  "35cd9205d2f23035b42fa278c26d2d4a": {
-   "id": "35cd9205d2f23035b42fa278c26d2d4a",
-   "company": "Jump Trading",
-   "role": "Tech Services Helpdesk",
-   "location": "London"
-  },
   "d2fcddabbe604574f2117d31da85f362": {
    "id": "d2fcddabbe604574f2117d31da85f362",
    "company": "The Lubrizol Corporation",
@@ -1429,6 +1435,12 @@
    "company": "Zebra Technologies Corporation",
    "role": "Ai Software Engineer",
    "location": "London"
+  },
+  "803785421f6236c7241e1068775bb974": {
+   "id": "803785421f6236c7241e1068775bb974",
+   "company": "Bank Pekao",
+   "role": "Ekspert / Ekspertka Business Intelligence",
+   "location": "United Kingdom"
   },
   "1065e0f511073a0385e4d6621cb95af8": {
    "id": "1065e0f511073a0385e4d6621cb95af8",
@@ -1880,18 +1892,6 @@
    "role": "Ai Ops Platform Engineer",
    "location": "London"
   },
-  "94847bf1f4d9fb41c87869dd8e0bbf9c": {
-   "id": "94847bf1f4d9fb41c87869dd8e0bbf9c",
-   "company": "jobs.barclays",
-   "role": "Ai Ops Platform Engineer",
-   "location": "London"
-  },
-  "88fd85a33a70f197d22521542e9b024d": {
-   "id": "88fd85a33a70f197d22521542e9b024d",
-   "company": "Jobgether",
-   "role": "Iam Engineer",
-   "location": "United Kingdom"
-  },
   "bca8096cad7b7cdbe4542bdb55bb9b5c": {
    "id": "bca8096cad7b7cdbe4542bdb55bb9b5c",
    "company": "Milliman",
@@ -2024,10 +2024,28 @@
    "role": "Analityk Biznesowy / Analityczka Biznesowa Systemu Murex Front Office",
    "location": "United Kingdom"
   },
+  "1c1c82e64c30bfa86b80c5edf6e75f33": {
+   "id": "1c1c82e64c30bfa86b80c5edf6e75f33",
+   "company": "SMT Nederland",
+   "role": "Aftermarket Business Analyst (construction)",
+   "location": "Duxford"
+  },
   "c3355cb97dd1e3e6ac611c3b303f9a95": {
    "id": "c3355cb97dd1e3e6ac611c3b303f9a95",
    "company": "TEAM LEWIS",
    "role": "Finance Analyst",
+   "location": "London"
+  },
+  "c710d6d8c1ea884df7357daf907057d7": {
+   "id": "c710d6d8c1ea884df7357daf907057d7",
+   "company": "Intercontinental Exchange",
+   "role": "Analyst, Capital Markets",
+   "location": "London"
+  },
+  "4994dcb3f455c436465e5c939f2c1680": {
+   "id": "4994dcb3f455c436465e5c939f2c1680",
+   "company": "Worldpay Inc",
+   "role": "Financial Analyst Ii",
    "location": "London"
   },
   "72cfef87fd231086d9f12887c964ff2e": {
@@ -2081,6 +2099,12 @@
   "8b3a1ccd5db600c421a87b2d53e95a70": {
    "id": "8b3a1ccd5db600c421a87b2d53e95a70",
    "company": "Chubb",
+   "role": "Ai Solutions Analyst (fluent In Mandarin & English)",
+   "location": "London"
+  },
+  "cddffa10edfed0a7e0074d897fce97b1": {
+   "id": "cddffa10edfed0a7e0074d897fce97b1",
+   "company": "Chubb Ltd.",
    "role": "Ai Solutions Analyst (fluent In Mandarin & English)",
    "location": "London"
   },
@@ -2449,30 +2473,6 @@
    "company": "Barclays",
    "role": "Business Analyst - Financial Services - Complex Products (private Markets & Hedge Funds)",
    "location": "Glasgow"
-  },
-  "ab53530ab5c94a561f2af048331b47b8": {
-   "id": "ab53530ab5c94a561f2af048331b47b8",
-   "company": "jobs.barclays",
-   "role": "Business Analyst - Financial Services - Complex Products (private Markets & Hedge Funds)",
-   "location": "Glasgow"
-  },
-  "77d735a4907edaec416d3355a9a34e44": {
-   "id": "77d735a4907edaec416d3355a9a34e44",
-   "company": "VFX Financial PLC",
-   "role": "Middle Office Analyst",
-   "location": "London"
-  },
-  "f7957e97500b71135a70e7ab5fc7cc29": {
-   "id": "f7957e97500b71135a70e7ab5fc7cc29",
-   "company": "Bord Gais Energy Ltd",
-   "role": "Business Enhancement Analyst",
-   "location": "London"
-  },
-  "d48cc9170a1f6af5fdcdbc3c0d1004a9": {
-   "id": "d48cc9170a1f6af5fdcdbc3c0d1004a9",
-   "company": "Pioneer Natural Resources",
-   "role": "Allegro Etrm Business Analyst",
-   "location": "London"
   },
   "f2dfd6d77bd2b8952efe0f937f79bfb8": {
    "id": "f2dfd6d77bd2b8952efe0f937f79bfb8",
@@ -2996,6 +2996,30 @@
    "role": "Loler Technician - Scotland, Uk",
    "location": "Scotland"
   },
+  "2e875e4bf5be3761bac7deca6b9e643e": {
+   "id": "2e875e4bf5be3761bac7deca6b9e643e",
+   "company": "KWS UK Ltd.",
+   "role": "Field Operations Technician",
+   "location": "Thriplow"
+  },
+  "67c599abccc4c04cfaf91a6aea13caa5": {
+   "id": "67c599abccc4c04cfaf91a6aea13caa5",
+   "company": "Kws Group",
+   "role": "Field Operations Technician",
+   "location": "Thriplow"
+  },
+  "0770097ea4494c6b52776cc2422fb9a2": {
+   "id": "0770097ea4494c6b52776cc2422fb9a2",
+   "company": "SMT Nederland",
+   "role": "Field Service Engineer",
+   "location": "Kent +3"
+  },
+  "d84989ca4e51940be1be30671d6a514a": {
+   "id": "d84989ca4e51940be1be30671d6a514a",
+   "company": "35",
+   "role": "Technician",
+   "location": "Wimbourne"
+  },
   "targetjobs:e1a15707-e0ae-4d56-bc98-e7980870cda9": {
    "id": "targetjobs:e1a15707-e0ae-4d56-bc98-e7980870cda9",
    "company": "Merck KGaA",
@@ -3409,30 +3433,6 @@
    "company": "JLL",
    "role": "Hvac/chiller Service Engineer",
    "location": "London"
-  },
-  "b0e8b9d55970aad8febb390a2da84840": {
-   "id": "b0e8b9d55970aad8febb390a2da84840",
-   "company": "77",
-   "role": "Hvac/chiller Service Engineer",
-   "location": "London"
-  },
-  "dab1399d06cffbd980800821a311a4b7": {
-   "id": "dab1399d06cffbd980800821a311a4b7",
-   "company": "Tunstall Nordic AB",
-   "role": "Field Service Engineer - Devon",
-   "location": "Devon"
-  },
-  "9cbe74ac0dfc31e2cf5e86b18594c6ef": {
-   "id": "9cbe74ac0dfc31e2cf5e86b18594c6ef",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "High Level Technician",
-   "location": "London"
-  },
-  "e151e6ea5e7f829527515b92e79d94f3": {
-   "id": "e151e6ea5e7f829527515b92e79d94f3",
-   "company": "Marshall Motor Group",
-   "role": "Master Technician",
-   "location": "Cambridge"
   },
   "54b8167fb75b6e496a93d108ebb12232": {
    "id": "54b8167fb75b6e496a93d108ebb12232",
@@ -3962,6 +3962,12 @@
    "role": "Sen Administrative Coordinator (ghes Outpatients)",
    "location": "Gloucestershire"
   },
+  "badab12917e444cb62b3beb29174f149": {
+   "id": "badab12917e444cb62b3beb29174f149",
+   "company": "SGS Australia Pty Ltd",
+   "role": "Laboratory Sample Receipt Assistant",
+   "location": "Glasgow"
+  },
   "dc10db1b0b9320fef30ebd534f5d0f27": {
    "id": "dc10db1b0b9320fef30ebd534f5d0f27",
    "company": "LEGO Group",
@@ -4356,12 +4362,6 @@
    "id": "bbf3b312bdaca48c68cb85060be26fa6",
    "company": "EDF Energy Ltd",
    "role": "Project Administrator - Fixed Term Contract",
-   "location": "United Kingdom"
-  },
-  "92c52d613e2965917e6abbb970172efb": {
-   "id": "92c52d613e2965917e6abbb970172efb",
-   "company": "EDF Energy Ltd",
-   "role": "Logistics Administrator - Stores (12 Month Fixed Term Contract)",
    "location": "United Kingdom"
   }
  }

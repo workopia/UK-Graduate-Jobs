@@ -3628,4 +3628,18 @@ _No archived roles yet._
 <tr><td>Sunbelt Rentals Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-08-28</td></tr>
 <tr><td>Air Products & Chemicals Inc</td><td>Installation & Maintenance Technician (customer Engineering)</td><td>Carrington</td><td>2026-08-28</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) Temp Pt 8h - St Helens</td><td>Liverpool</td><td>2026-08-28</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Finance Intern</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Wintermute Corporation</td><td>Full Stack Engineer</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jump Trading</td><td>Tech Services Helpdesk</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>jobs.barclays</td><td>Ai Ops Platform Engineer</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Iam Engineer</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>jobs.barclays</td><td>Business Analyst - Financial Services - Complex Products (private Markets & Hedge Funds)</td><td>Glasgow</td><td>2026-08-28</td></tr>
+<tr><td>VFX Financial PLC</td><td>Middle Office Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Business Enhancement Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>77</td><td>Hvac/chiller Service Engineer</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Tunstall Nordic AB</td><td>Field Service Engineer - Devon</td><td>Devon</td><td>2026-08-28</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>High Level Technician</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Marshall Motor Group</td><td>Master Technician</td><td>Cambridge</td><td>2026-08-28</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Logistics Administrator - Stores (12 Month Fixed Term Contract)</td><td>United Kingdom</td><td>2026-08-28</td></tr>
 </table>
