@@ -920,6 +920,12 @@
    "role": "Intermediate Software Engineer",
    "location": "London"
   },
+  "8415c15ccdd1dbfcba773a6cfae18a38": {
+   "id": "8415c15ccdd1dbfcba773a6cfae18a38",
+   "company": "BECU",
+   "role": "Collection & Recovery Support Specialist",
+   "location": "Tukwila"
+  },
   "56d28ad394b99d97f9057eaeb6866ff7": {
    "id": "56d28ad394b99d97f9057eaeb6866ff7",
    "company": "Atos",
@@ -1310,12 +1316,6 @@
    "role": "Backend Engineer",
    "location": "London"
   },
-  "8415c15ccdd1dbfcba773a6cfae18a38": {
-   "id": "8415c15ccdd1dbfcba773a6cfae18a38",
-   "company": "BECU",
-   "role": "Collection & Recovery Support Specialist",
-   "location": "Tukwila"
-  },
   "aff03fc609b24174f23d47e214372bc5": {
    "id": "aff03fc609b24174f23d47e214372bc5",
    "company": "Jobgether",
@@ -1416,6 +1416,18 @@
    "id": "e4d1deeffe7e4cd5b65937b04f522455",
    "company": "Bankstcharles",
    "role": "Applied Ai Engineer - Bpl",
+   "location": "London"
+  },
+  "1dc8f02b68f131f2e80e67ccdf4fab6a": {
+   "id": "1dc8f02b68f131f2e80e67ccdf4fab6a",
+   "company": "bp",
+   "role": "Control & Automation Engineer",
+   "location": "London"
+  },
+  "1bdae5dce82674d69d12d6ccb2ff68c9": {
+   "id": "1bdae5dce82674d69d12d6ccb2ff68c9",
+   "company": "Zebra Technologies Corporation",
+   "role": "Ai Software Engineer",
    "location": "London"
   },
   "1065e0f511073a0385e4d6621cb95af8": {
@@ -1880,18 +1892,6 @@
    "role": "Iam Engineer",
    "location": "United Kingdom"
   },
-  "6e775cd3641833a14e920485f00799b0": {
-   "id": "6e775cd3641833a14e920485f00799b0",
-   "company": "Gloucestershire County Council",
-   "role": "Data Analyst",
-   "location": "Gloucestershire"
-  },
-  "cc4ee0eec8f4fa4eea09c5f22558e2ae": {
-   "id": "cc4ee0eec8f4fa4eea09c5f22558e2ae",
-   "company": "Capita",
-   "role": "Data Analyst (mi Analyst)",
-   "location": "Home-Based"
-  },
   "bca8096cad7b7cdbe4542bdb55bb9b5c": {
    "id": "bca8096cad7b7cdbe4542bdb55bb9b5c",
    "company": "Milliman",
@@ -2010,6 +2010,24 @@
    "id": "60649173ecf6150e2ef67de73645efce",
    "company": "Salesforce",
    "role": "Private Equity, Analyst",
+   "location": "London"
+  },
+  "3a9675b2b993852bcd350a669486d5fc": {
+   "id": "3a9675b2b993852bcd350a669486d5fc",
+   "company": "Bank Pekao",
+   "role": "Analityk Biznesowy / Analityczka Biznesowa Bankowości Mobilnej",
+   "location": "United Kingdom"
+  },
+  "9f58c54b756ca8ee0ca3f3cf9e716cc2": {
+   "id": "9f58c54b756ca8ee0ca3f3cf9e716cc2",
+   "company": "Bank Pekao",
+   "role": "Analityk Biznesowy / Analityczka Biznesowa Systemu Murex Front Office",
+   "location": "United Kingdom"
+  },
+  "c3355cb97dd1e3e6ac611c3b303f9a95": {
+   "id": "c3355cb97dd1e3e6ac611c3b303f9a95",
+   "company": "TEAM LEWIS",
+   "role": "Finance Analyst",
    "location": "London"
   },
   "72cfef87fd231086d9f12887c964ff2e": {
@@ -2454,24 +2472,6 @@
    "id": "d48cc9170a1f6af5fdcdbc3c0d1004a9",
    "company": "Pioneer Natural Resources",
    "role": "Allegro Etrm Business Analyst",
-   "location": "London"
-  },
-  "dacb923301622efb9b289d84acc36ce6": {
-   "id": "dacb923301622efb9b289d84acc36ce6",
-   "company": "Pioneer Natural Resources",
-   "role": "Quant V&s G&p",
-   "location": "London"
-  },
-  "8fbd36aeac27b12a509b82b246c41098": {
-   "id": "8fbd36aeac27b12a509b82b246c41098",
-   "company": "Pioneer Natural Resources",
-   "role": "Trading Market Risk Advisor - Eame Freight",
-   "location": "London"
-  },
-  "90f5eac76227f822f894711cd8d57a31": {
-   "id": "90f5eac76227f822f894711cd8d57a31",
-   "company": "Pioneer Natural Resources",
-   "role": "Quantitative Analyst V&s - Crude, Products, And Freight",
    "location": "London"
   },
   "f2dfd6d77bd2b8952efe0f937f79bfb8": {
@@ -2966,6 +2966,36 @@
    "role": "Field Service Engineer",
    "location": "Uk"
   },
+  "4f9d3fd5615c140dcee1e4a7e1c2cc7f": {
+   "id": "4f9d3fd5615c140dcee1e4a7e1c2cc7f",
+   "company": "Sartorius",
+   "role": "Field Service Technician - Liquid Handling",
+   "location": "London"
+  },
+  "311d3d489ac8ddbde3d7c17345517ac8": {
+   "id": "311d3d489ac8ddbde3d7c17345517ac8",
+   "company": "Codan Limited",
+   "role": "Field Service Engineer (ip / Networking)",
+   "location": "Whiteley"
+  },
+  "6c326ce1a66b91bd1b10dc388e0bc6a9": {
+   "id": "6c326ce1a66b91bd1b10dc388e0bc6a9",
+   "company": "Codan Limited",
+   "role": "Manet - Field Service Representative - Row",
+   "location": "Whiteley"
+  },
+  "38d473af4b7d4eda45acd0974fcf4008": {
+   "id": "38d473af4b7d4eda45acd0974fcf4008",
+   "company": "Agfa",
+   "role": "Field Service Engineer - West Midland",
+   "location": "West Midland"
+  },
+  "699eec2f61d428520f1f3a7f8b8a93bf": {
+   "id": "699eec2f61d428520f1f3a7f8b8a93bf",
+   "company": "Arjo AB",
+   "role": "Loler Technician - Scotland, Uk",
+   "location": "Scotland"
+  },
   "targetjobs:e1a15707-e0ae-4d56-bc98-e7980870cda9": {
    "id": "targetjobs:e1a15707-e0ae-4d56-bc98-e7980870cda9",
    "company": "Merck KGaA",
@@ -3392,12 +3422,6 @@
    "role": "Field Service Engineer - Devon",
    "location": "Devon"
   },
-  "38d473af4b7d4eda45acd0974fcf4008": {
-   "id": "38d473af4b7d4eda45acd0974fcf4008",
-   "company": "Agfa",
-   "role": "Field Service Engineer - West Midland",
-   "location": "West Midland"
-  },
   "9cbe74ac0dfc31e2cf5e86b18594c6ef": {
    "id": "9cbe74ac0dfc31e2cf5e86b18594c6ef",
    "company": "ALSTOM TRANSPORT SA",
@@ -3409,30 +3433,6 @@
    "company": "Marshall Motor Group",
    "role": "Master Technician",
    "location": "Cambridge"
-  },
-  "68927d12790a31e74d6f09a48080c736": {
-   "id": "68927d12790a31e74d6f09a48080c736",
-   "company": "Oxford Nanopore Technologies",
-   "role": "Junior Maintenance Technician",
-   "location": "Oxfordshire"
-  },
-  "e963e115cf7e69e501a674c66a027dd9": {
-   "id": "e963e115cf7e69e501a674c66a027dd9",
-   "company": "Sunbelt Rentals Ltd",
-   "role": "Maintenance Technician",
-   "location": "Location"
-  },
-  "720824fc7b3ea5b26c8a1f73de6de17d": {
-   "id": "720824fc7b3ea5b26c8a1f73de6de17d",
-   "company": "Sunbelt Rentals Ltd",
-   "role": "Tools Technician",
-   "location": "Location"
-  },
-  "4c99b769bd06dbeb5846b26670ad92e6": {
-   "id": "4c99b769bd06dbeb5846b26670ad92e6",
-   "company": "Air Products & Chemicals Inc",
-   "role": "Installation & Maintenance Technician (customer Engineering)",
-   "location": "Carrington"
   },
   "54b8167fb75b6e496a93d108ebb12232": {
    "id": "54b8167fb75b6e496a93d108ebb12232",
@@ -3944,6 +3944,12 @@
    "role": "Healthcare Assistant",
    "location": "United Kingdom"
   },
+  "5cf1910630f1244515d550d3092795b7": {
+   "id": "5cf1910630f1244515d550d3092795b7",
+   "company": "Bombardier",
+   "role": "Proposal/planning Coordinator",
+   "location": "Westerham"
+  },
   "bbaceb8c6eac47ccf3064a81338ec82a": {
    "id": "bbaceb8c6eac47ccf3064a81338ec82a",
    "company": "Dbcargofrance",
@@ -4357,12 +4363,6 @@
    "company": "EDF Energy Ltd",
    "role": "Logistics Administrator - Stores (12 Month Fixed Term Contract)",
    "location": "United Kingdom"
-  },
-  "0fae52f8ecd3f7e0edd3b9f9277030a3": {
-   "id": "0fae52f8ecd3f7e0edd3b9f9277030a3",
-   "company": "Nike",
-   "role": "Retail Assistant (athlete) Temp Pt 8h - St Helens",
-   "location": "Liverpool"
   }
  }
 }

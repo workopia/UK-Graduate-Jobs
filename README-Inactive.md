@@ -3618,4 +3618,14 @@ _No archived roles yet._
 <tr><td>Knight Frank</td><td>Executive Assistant / Private Office / Mat Cover (ftc)</td><td>London</td><td>2026-08-28</td></tr>
 <tr><td>Drcf Org</td><td>Retail Saturday Assistant (liphook)</td><td>Basingstoke</td><td>2026-08-28</td></tr>
 <tr><td>LGC</td><td>Programme Coordinator</td><td>Fordham</td><td>2026-08-28</td></tr>
+<tr><td>Gloucestershire County Council</td><td>Data Analyst</td><td>Gloucestershire</td><td>2026-08-28</td></tr>
+<tr><td>Capita</td><td>Data Analyst (mi Analyst)</td><td>Home-Based</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quant V&s G&p</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quantitative Analyst V&s - Crude, Products, And Freight</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Oxford Nanopore Technologies</td><td>Junior Maintenance Technician</td><td>Oxfordshire</td><td>2026-08-28</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Maintenance Technician</td><td>Location</td><td>2026-08-28</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-08-28</td></tr>
+<tr><td>Air Products & Chemicals Inc</td><td>Installation & Maintenance Technician (customer Engineering)</td><td>Carrington</td><td>2026-08-28</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Temp Pt 8h - St Helens</td><td>Liverpool</td><td>2026-08-28</td></tr>
 </table>
