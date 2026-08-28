@@ -3511,4 +3511,111 @@ _No archived roles yet._
 <tr><td>Urpa</td><td>Administrative Assistant</td><td>Cardiff</td><td>2026-08-27</td></tr>
 <tr><td>Dazed Media</td><td>Social Media Assistant, Dazed Digital</td><td>London</td><td>2026-08-27</td></tr>
 <tr><td>Medline Industries LP</td><td>Quality Coordinator</td><td>Waukegan</td><td>2026-08-27</td></tr>
+<tr><td>Mountain Warehouse</td><td>Buyer's Admin Assistant</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>HP</td><td>C++ Ai/ml Software Engineer</td><td>Cambridge</td><td>2026-08-28</td></tr>
+<tr><td>Xantium Group</td><td>Quantitative Researcher Internship</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Taulia</td><td>Receivables Finance - Product Management Intern (fintech / Working Capital) 1</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Johnstons Of Elgin</td><td>RTW Technical Development Internship</td><td>Elgin</td><td>2026-08-28</td></tr>
+<tr><td>ME+EM</td><td>Buying Internship</td><td>West London</td><td>2026-08-28</td></tr>
+<tr><td>ERM Certification and Verification Services Limited</td><td>JD Young HR Efficiency Internship</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Interiors With Art</td><td>Architecture Intern (Paid Internship)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sony Music Entertainment</td><td>Artist Relations Intern</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Advocate Aurora Health</td><td>Radiologic Technologist Extern</td><td>Advocate Condell Medical Center</td><td>2026-08-28</td></tr>
+<tr><td>arztkarriere.de</td><td>Radiologic Technologist Extern</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Advocate Condell Medical Center</td><td>Radiologic Technologist Extern</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>SAP Concur</td><td>Junior Specialist Ai Innovation Frontrunner</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Ceremony Of Roses</td><td>Merchandise Intern - Ceremony Of Roses</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Apprentice - Gas Engineering</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>CMS LLC</td><td>Facilities Apprentice-18 Month Ftc</td><td>Manchester</td><td>2026-08-28</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Pumping Solutions Technical Specialist</td><td>Normanton</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Technical Customer Support Engineer</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Depopcareers</td><td>Backend Engineer</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Neo4j</td><td>Software Engineer - Infrastructure</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Founding Engineer</td><td>Uk</td><td>2026-08-28</td></tr>
+<tr><td>YLD</td><td>Contract Software Engineer (golang)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Citi</td><td>Full Stack Engineer (java Or Kotlin Or Python) – Vp</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>AM FRESH</td><td>It Support</td><td>Alconbury +1</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Software Engineer (associate) - Gmit Trade Processing</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>jobs.barclays</td><td>Software Engineer</td><td>Glasgow</td><td>2026-08-28</td></tr>
+<tr><td>bp</td><td>Staff Software Engineer</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Komatsu</td><td>It Desktop Support Technician</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>Capita (digital)</td><td>Data Analyst (mi Analyst)</td><td>Home-Based</td><td>2026-08-28</td></tr>
+<tr><td>jobs.barclays</td><td>Ai Engineer</td><td>Glasgow Campus</td><td>2026-08-28</td></tr>
+<tr><td>Barclays</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-08-28</td></tr>
+<tr><td>Brightonparkbank</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-08-28</td></tr>
+<tr><td>lovable.it</td><td>Data Scientist, Growth</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Ai Observability Engineer</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Royal London</td><td>Clo Operations Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Worldpay</td><td>Quality Assurance Analyst - Cambridge</td><td>Cambridge</td><td>2026-08-28</td></tr>
+<tr><td>Pgim</td><td>Pgim Credit / Investment Analyst, Corporate & Projects Workouts</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Risk Analyst (sizewell C)</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>EBRD</td><td>Assistant Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Concur</td><td>Customer Services & Delivery Market Unit Uki Head, Consulting Business</td><td>Middlesex</td><td>2026-08-28</td></tr>
+<tr><td>Heidi Health</td><td>Gtm Operations Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Playtech Plc</td><td>Data Protection Compliance Analyst</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Barclays</td><td>Internal Audit Avp - Data Analytics</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Brightonparkbank</td><td>Internal Audit Avp - Data Analytics</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Operations Associate (cx)</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (6 Months Contract)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Emea Cost Management Analytics / Financial Planning And Analytics(12 Months Mat Cover)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Operations Oversight Associate (6 Months Contract)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>High Yield Analyst - Associate/vice President</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Quantitative Research - Associate/vice President</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>aig.de</td><td>Pricing Actuary (aerospace)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Aig Com Mo</td><td>Pricing Actuary (aerospace)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>AIG</td><td>Pricing Actuary (aerospace)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>aig.no</td><td>Pricing Actuary (aerospace)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Bank Support Assistant</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant - Bank</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Spire Healthcare</td><td>Bank Physiotherapist - Pelvic Health</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Urpa</td><td>Bank Orthopaedic/rehabilitation Physiotherapist</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Maintenance Caretaker</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Greystar Australia Pty Ltd</td><td>Maintenance Technician</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Airproducts Com Pl</td><td>Installation & Maintenance Technician (customer Engineering)</td><td>Carrington</td><td>2026-08-28</td></tr>
+<tr><td>Helix International Group</td><td>Fire Alarm Service And Maintenance Engineer - Brighton & Hove</td><td>Brighton & Hove</td><td>2026-08-28</td></tr>
+<tr><td>BGIS</td><td>General Maintenance Technician</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Technical Services Representative - M3/m4 Corridor</td><td>M3/M4 Corridor</td><td>2026-08-28</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-08-28</td></tr>
+<tr><td>fcc-asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Severn Trent Plc</td><td>Field Technician</td><td>Berkshire +1</td><td>2026-08-28</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Maintenance Assistant</td><td>Donington</td><td>2026-08-28</td></tr>
+<tr><td>Candy Home</td><td>Field Service Engineer</td><td>Twickenham</td><td>2026-08-28</td></tr>
+<tr><td>SharkNinja</td><td>Digital Sharks: Sales Associate — Marketplaces (early Careers)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Motionsolutions</td><td>Warehouse Operative (outbound / Shipping Lanes)</td><td>Gbr Aag</td><td>2026-08-28</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Warehouse Operative (outbound / Shipping Lanes)</td><td>Gbr Aag</td><td>2026-08-28</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Warehouse Operative (outbound / Shipping Lanes)</td><td>Gbr Aag</td><td>2026-08-28</td></tr>
+<tr><td>Bmwramsey</td><td>Bank Administrative Assistant</td><td>Warwick</td><td>2026-08-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>Birmingham</td><td>2026-08-28</td></tr>
+<tr><td>Pret A Manger</td><td>Project Support</td><td>Cumbria</td><td>2026-08-28</td></tr>
+<tr><td>KBR</td><td>Project Support</td><td>Cumbria</td><td>2026-08-28</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Groups And Events Executive - St. Pancras London Autograph Collection</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Groups And Events Executive - St. Pancras London Autograph Collection</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Perceptric</td><td>Quality Coordinator</td><td>Hammersmith</td><td>2026-08-28</td></tr>
+<tr><td>Perceptive</td><td>Quality Coordinator</td><td>Hammersmith</td><td>2026-08-28</td></tr>
+<tr><td>smorekoppen.no</td><td>Exclusive Networking Event: Commercial Early Careers At S&p Global</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Sg360solutions</td><td>Exclusive Networking Event: Commercial Early Careers At S&p Global</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>S&P Global</td><td>Exclusive Networking Event: Commercial Early Careers At S&p Global</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-08-28</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-08-28</td></tr>
+<tr><td>newjob</td><td>Systems Support Assistant</td><td>Portsmouth</td><td>2026-08-28</td></tr>
+<tr><td>Pandora</td><td>Supervisor (part-time)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Executive Assistant, Investment Banking</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 40hrs - Clapham</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Trampardecasa Com Br</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-08-28</td></tr>
+<tr><td>Northumberland County Council</td><td>Learning Support Assistant Berwick / Alnwick , United Kingdom £13,318.33 - 14,195.52 (part Time, Term Time Salary Quoted) Fixed Term Apply By 3 September, 2026 Posted On 20 August, 2026</td><td>Edinburgh</td><td>2026-08-28</td></tr>
+<tr><td>mgstransport</td><td>Operational Support Coordinator</td><td>Diseworth</td><td>2026-08-28</td></tr>
+<tr><td>LSEAT</td><td>Graduate Assistant Private Secretary to the Group CEO</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>LSEC</td><td>Graduate Assistant Private Secretary to the Group CEO</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Efficio</td><td>Graduate Executive Assistant</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Knight Frank</td><td>Executive Assistant / Private Office / Mat Cover (ftc)</td><td>London</td><td>2026-08-28</td></tr>
+<tr><td>Drcf Org</td><td>Retail Saturday Assistant (liphook)</td><td>Basingstoke</td><td>2026-08-28</td></tr>
+<tr><td>LGC</td><td>Programme Coordinator</td><td>Fordham</td><td>2026-08-28</td></tr>
 </table>
