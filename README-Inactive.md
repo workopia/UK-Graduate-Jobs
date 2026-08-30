@@ -3754,4 +3754,120 @@ _No archived roles yet._
 <tr><td>EDF Energy Ltd</td><td>Temporary Works Coordinator (sizewell C)</td><td>United Kingdom</td><td>2026-08-29</td></tr>
 <tr><td>EDF Energy Ltd</td><td>Delivery Management System Coordinator (sizewell C)</td><td>Sizewell C</td><td>2026-08-29</td></tr>
 <tr><td>EDF Energy Ltd</td><td>Project Administrator - Fixed Term Contract</td><td>United Kingdom</td><td>2026-08-29</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Marriott International</td><td>Intern, International Hotel Development</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Exxon Mobil</td><td>Commercial Industrial Placement - Global Trading - London</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>dmgmedia</td><td>Editorial Innovation Intern</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Wiser Solutions Inc</td><td>Private Funds Group Industrial Placement (2027) / Evercore</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Wiser Solutions Inc</td><td>Private Funds Group Summer Internship (2027) / Evercore</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Evercore</td><td>M&a Advisory Summer Internship (2027) / Evercore</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Benefit Tool Developer (12 Month Fixed Term Contract)</td><td>Gb</td><td>2026-08-30</td></tr>
+<tr><td>Baker Hughes</td><td>Intern - Employer Brand & Content Creator</td><td>GB</td><td>2026-08-30</td></tr>
+<tr><td>Bombardier</td><td>Operations Intern</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>POP MART Global</td><td>Human Resources Intern</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Lanes Group</td><td>Safety, Health And Environment Apprentice</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Lanes Group</td><td>Business Administration Apprentice</td><td>Manchester</td><td>2026-08-30</td></tr>
+<tr><td>Bauer Systems KG</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-30</td></tr>
+<tr><td>Lifenet Health</td><td>Lifenet Health Careers - Support Services Technician</td><td>London Bridge</td><td>2026-08-30</td></tr>
+<tr><td>GEA</td><td>Technical Support Engineer</td><td>Ft Home Based</td><td>2026-08-30</td></tr>
+<tr><td>workday.gea</td><td>Technical Support Engineer</td><td>Ft Home Based</td><td>2026-08-30</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer – Full Stack Engineer (react)</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Capita</td><td>Technical Support Officer</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Capita (digital)</td><td>Technical Support Officer</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Sunlife Com Hk</td><td>Clinical Review Support Specialist</td><td>Milwaukee</td><td>2026-08-30</td></tr>
+<tr><td>Sun Life U.S.</td><td>Clinical Review Support Specialist</td><td>Milwaukee</td><td>2026-08-30</td></tr>
+<tr><td>Accenture</td><td>Ai Software Engineering Specialist</td><td>Newcastle Upon Tyne</td><td>2026-08-30</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Software Engineering Specialist</td><td>Newcastle Upon Tyne</td><td>2026-08-30</td></tr>
+<tr><td>Accenture Australia</td><td>Ai Software Engineering Specialist</td><td>Newcastle Upon Tyne</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Engineer</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Illuminaticelebrities</td><td>Software Engineer 2</td><td>Cambridge</td><td>2026-08-30</td></tr>
+<tr><td>workday.gea</td><td>Software Engineer - Belfast</td><td>Belfast</td><td>2026-08-30</td></tr>
+<tr><td>GEA</td><td>Software Engineer - Belfast</td><td>Belfast</td><td>2026-08-30</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Information Security & Assurance Officer (sizewell C)</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software Engineer</td><td>Nottingham</td><td>2026-08-30</td></tr>
+<tr><td>LSEG</td><td>Software Engineer</td><td>Nottingham</td><td>2026-08-30</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>Vice President, Full-stack Engineer</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer – Api Integrationen, Connectoren, Worker/jobs, Mailer Service, Qa</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Naimuri</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-30</td></tr>
+<tr><td>Togetherai</td><td>Staff Software Engineer, Inference / Compute Infrastructure Engineering</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>The Bank of New York Mellon</td><td>Vice President, Full-stack Engineer</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bank of New York Mellon</td><td>Vice President, Full-stack Engineer</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Wise</td><td>Data Analyst- Cloud Platform</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>LADbible Group</td><td>Youtube Data Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Foundever</td><td>Real-time Analyst</td><td>Kingston Upon Thames</td><td>2026-08-30</td></tr>
+<tr><td>QinetiQ</td><td>Junior It Engineer</td><td>Isle Of Benbecula</td><td>2026-08-30</td></tr>
+<tr><td>BBC</td><td>Data Scientist</td><td>London +1</td><td>2026-08-30</td></tr>
+<tr><td>Veolia UK</td><td>Energy Data Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Spanish (latin America) Language Data Contributor (multimodal) – Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Odevo</td><td>Iam Engineer</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Java Gen Ai Engineer</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Capital Partners Mortgage LLC</td><td>Core Ops - Equity Trade Operations Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Capital Group</td><td>Core Ops - Equity Trade Operations Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Experian</td><td>Revenue Operations Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>ZELLER</td><td>Payment Operations Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>SCOR</td><td>Pricing Actuary</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>SCOR</td><td>Pricing Actuary - Specialty</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>555</td><td>Governance & Delegated Audit Technician</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Markel Group</td><td>Governance & Delegated Audit Technician</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-08-30</td></tr>
+<tr><td>TD Bank Group</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-08-30</td></tr>
+<tr><td>M&G</td><td>Corporate Business Analyst</td><td>Reading</td><td>2026-08-30</td></tr>
+<tr><td>Mandg</td><td>Corporate Business Analyst</td><td>Reading</td><td>2026-08-30</td></tr>
+<tr><td>Rathbones</td><td>Crims Business/product Analyst</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>jobs.barclays</td><td>Quantitative Developer - Global Markets Linear Rates Quantitative Analytics</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bupaglobal</td><td>Registered Nurse</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Urpa</td><td>Registered Nurse</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Physiotherapist - Inpatient (bank)</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Leicestershire</td><td>2026-08-30</td></tr>
+<tr><td>Hitachi Energy</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-08-30</td></tr>
+<tr><td>Hitachi Rail</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-08-30</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Greystar</td><td>Maintenance Technician</td><td>Fizzy Walthamstow</td><td>2026-08-30</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Road Equipment</td><td>South Of England</td><td>2026-08-30</td></tr>
+<tr><td>Alstom</td><td>High Level Technician</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Infrastructure Maintenance Technician (sizewell C)</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Electrician (sizewell C)</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Technician</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Travelodge Hotels Limited</td><td>Emergency Maintenance Engineer</td><td>South London</td><td>2026-08-30</td></tr>
+<tr><td>VP PLC</td><td>Service Engineer (fitter) West Drayton, United Kingdom Competitive Permanent (full-time) Apply By 30 September, 2026 Posted On 21 August, 2026 Working Hours 40</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>afa'afea</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Decathlon S.A</td><td>Full-time (mountain Sports) Sport Advisor (sales Assitant)</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (24 Hours, Fix Term, One New Change)</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Mango</td><td>Sales Multifunctional Associate (full-time, Oxford St.)</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Bluewater, Kent</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Bluewater, Kent</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Entain</td><td>Retail Customer Service</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Levis Media</td><td>Seasonal- Stylist - Levi's London Regent Street-8</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 38hrs, Tottenham Court Road</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Christmas Shop (37.5 Hours) London, United Kingdom Competitive Plus Benefits Christmas Temp Apply By 6 September, 2026 Posted On 14 August, 2026</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>376</td><td>Part Time Sales Associate, Tommy Hilfiger Women & Kids - Bicester Village, 8 Hrs - Permanent</td><td>Oxford</td><td>2026-08-30</td></tr>
+<tr><td>Pvhcc</td><td>Part Time Sales Associate, Tommy Hilfiger Women & Kids - Bicester Village, 8 Hrs - Permanent</td><td>Oxford</td><td>2026-08-30</td></tr>
+<tr><td>GUCCI</td><td>Gucci Client Advisor, Harrods</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bottega Veneta</td><td>Bottega Veneta - Client Advisor, Mrtw Harrods</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Amey Ltd</td><td>Administrator</td><td>Berkeley</td><td>2026-08-30</td></tr>
+<tr><td>ASOS</td><td>Legal Administration Assistant</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>THALES</td><td>Personal Assistant To Ceo (and Team Administrator)</td><td>Oxford +1</td><td>2026-08-30</td></tr>
+<tr><td>jobs.barclays</td><td>Event Coordinator - 12 Months Fixed Term Contract</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bankstcharles</td><td>Event Coordinator - 12 Months Fixed Term Contract</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Brightonparkbank</td><td>Event Coordinator - 12 Months Fixed Term Contract</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-30</td></tr>
+<tr><td>Mindbody</td><td>Implementation Project Coordinator - Uk</td><td>United Kingdom</td><td>2026-08-30</td></tr>
+<tr><td>Marriott International</td><td>Groups And Events Executive - St. Pancras London Autograph Collection</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Invesco UK</td><td>Team Admin Assistant - Fixed Income</td><td>Henley</td><td>2026-08-30</td></tr>
+<tr><td>Smyths Toys</td><td>Sales Assistant-belfast Forestside</td><td>Belfast</td><td>2026-08-30</td></tr>
+<tr><td>Smyths Toys</td><td>Sales Assistant-uxbridge, London</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Nestle Ltd</td><td>Warehouse Systems Coordinator</td><td>Narberth</td><td>2026-08-30</td></tr>
+<tr><td>Dachser SE</td><td>Customer Service Administrator - Outbound</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Sun Chemical</td><td>Technical Application Specialist, Emea</td><td>Gb +1</td><td>2026-08-30</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-08-30</td></tr>
+<tr><td>UK Power Networks Ltd</td><td>Business Support Administrator</td><td>Basingstoke</td><td>2026-08-30</td></tr>
+<tr><td>Lineage</td><td>Transport Administrator - 4 On 4 Off Nights</td><td>Coleshill</td><td>2026-08-30</td></tr>
+<tr><td>Thelineageway</td><td>Transport Administrator - 4 On 4 Off Nights</td><td>Coleshill</td><td>2026-08-30</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator / Group Worker</td><td>Newcastle Upon Tyne</td><td>2026-08-30</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator</td><td>Newcastle Upon Tyne</td><td>2026-08-30</td></tr>
+<tr><td>DIMENSIONAL</td><td>Associate, Channel Marketing</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Drcf Org</td><td>Retail Sunday Assistant (newmarket)</td><td>Cambridge</td><td>2026-08-30</td></tr>
+<tr><td>Vanguard UK</td><td>Administrative Assistant</td><td>London</td><td>2026-08-30</td></tr>
 </table>
