@@ -3870,4 +3870,17 @@ _No archived roles yet._
 <tr><td>DIMENSIONAL</td><td>Associate, Channel Marketing</td><td>London</td><td>2026-08-30</td></tr>
 <tr><td>Drcf Org</td><td>Retail Sunday Assistant (newmarket)</td><td>Cambridge</td><td>2026-08-30</td></tr>
 <tr><td>Vanguard UK</td><td>Administrative Assistant</td><td>London</td><td>2026-08-30</td></tr>
+<tr><td>Bis Web Ltd</td><td>Early Years Educator Apprentice</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>QinetiQ</td><td>Software Engineer</td><td>Manchester</td><td>2026-08-31</td></tr>
+<tr><td>QinetiQ</td><td>Environmental Test Technical Specialist</td><td>Shoeburyness</td><td>2026-08-31</td></tr>
+<tr><td>SNC Lavalin</td><td>Data Analyst</td><td>Gb</td><td>2026-08-31</td></tr>
+<tr><td>BibliU</td><td>Ai & Automations Associate</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Monzo Bank</td><td>Anaplan Support Analyst</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-08-31</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Service Technician</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Arabelle Solutions</td><td>Mechanical Fitter Grade 5</td><td>Somerset</td><td>2026-08-31</td></tr>
+<tr><td>METLEN Energy & Metals</td><td>O&m Technician</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-31</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 8 Hour</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Johnson Matthey Catalysts GmbH</td><td>Business Support Administrator</td><td>London</td><td>2026-08-31</td></tr>
 </table>
