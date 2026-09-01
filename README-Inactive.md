@@ -3883,4 +3883,42 @@ _No archived roles yet._
 <tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-08-31</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 8 Hour</td><td>London</td><td>2026-08-31</td></tr>
 <tr><td>Johnson Matthey Catalysts GmbH</td><td>Business Support Administrator</td><td>London</td><td>2026-08-31</td></tr>
+<tr><td>Standard Chartered</td><td>Coverage Banking Intern UK 2027</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Standard Chartered</td><td>Global Banking Intern UK 2027</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Standard Chartered</td><td>Strategic Advisory & Solutions Intern UK 2027</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Xantium Group</td><td>Quantitative Developer Intern</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Royal Borough of Greenwich</td><td>Apprentice - Business Administration Eltham, United Kingdom Scale 1 - £28,617 Apprenticeships Apply By 27 July, 2026 Posted On 3 July, 2026</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Savers</td><td>Apprentice Sales Assistant</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>HCLTech UK</td><td>Salesforce Apex Technical Specialist</td><td>United Kingdom</td><td>2026-09-01</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Mes Domain Specialization</td><td>United Kingdom</td><td>2026-09-01</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Java, Spring Mvc, Html</td><td>Unknown</td><td>2026-09-01</td></tr>
+<tr><td>HCLTech UK</td><td>Sme - Miscrosoft Windows,microsoft Servers Rds,touch Services</td><td>Unknown</td><td>2026-09-01</td></tr>
+<tr><td>HowardKennedyFsi LLP</td><td>Information Security Analyst No.1 London Bridge, London, Se1 9bg, United Kingdom Competitive Permanent Apply By 23 September, 2026 Posted On 24 August, 2026</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-09-01</td></tr>
+<tr><td>British Broadcasting Corporation</td><td>Software Engineer</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Intermediate Capital Group</td><td>Analyst, Risk</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>KBR - Kellogg Brown & Root Pty Ltd</td><td>Benefits Analyst</td><td>Cumbria +1</td><td>2026-09-01</td></tr>
+<tr><td>Kreenergy</td><td>Benefits Analyst</td><td>Cumbria</td><td>2026-09-01</td></tr>
+<tr><td>KBR Inc</td><td>Benefits Analyst</td><td>Cumbria</td><td>2026-09-01</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Cra (level Ii)</td><td>United Kingdom</td><td>2026-09-01</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Wirral</td><td>2026-09-01</td></tr>
+<tr><td>Codan Limited</td><td>Field Service Engineer (ip / Networking)</td><td>Whiteley</td><td>2026-09-01</td></tr>
+<tr><td>Codan Limited</td><td>Manet - Field Service Representative - Row</td><td>Whiteley</td><td>2026-09-01</td></tr>
+<tr><td>Holcim Belgium</td><td>Mechanical Fitter</td><td>Hulland Ward</td><td>2026-09-01</td></tr>
+<tr><td>Getinge AB</td><td>Service Engineer - Field-based, South East Uk And London</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Tata Steel UK</td><td>Maintenance Engineer</td><td>Llanwern</td><td>2026-09-01</td></tr>
+<tr><td>Renault Trucks</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>South England +1</td><td>2026-09-01</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Sales Associate, Calvin Klein - Regent Street</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>John Lewis Partnership</td><td>Customer Assistant</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Cheese And Deli (37.5 Hours) London, United Kingdom Competitive Plus Benefits Permanent Apply By 6 September, 2026 Posted On 17 August, 2026</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Tumi</td><td>Sales Associate</td><td>Oxford</td><td>2026-09-01</td></tr>
+<tr><td>adidas AG</td><td>Salesfloor Assistant (part Time, Temp 30 Hrs), Croydon Factory Outlet Store 2</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Camden, London</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Camden, London</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>The Spectator</td><td>Reception And Facilities Assistant</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Indigo Telecom Group</td><td>Temporary Logistics Administrator</td><td>South Wales</td><td>2026-09-01</td></tr>
+<tr><td>Smiggle</td><td>Supervisor - Smiggle Uk - Romford</td><td>London</td><td>2026-09-01</td></tr>
+<tr><td>Johnson Matthey</td><td>Business Support Administrator</td><td>Brimsdown</td><td>2026-09-01</td></tr>
 </table>
