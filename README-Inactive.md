@@ -3921,4 +3921,44 @@ _No archived roles yet._
 <tr><td>Indigo Telecom Group</td><td>Temporary Logistics Administrator</td><td>South Wales</td><td>2026-09-01</td></tr>
 <tr><td>Smiggle</td><td>Supervisor - Smiggle Uk - Romford</td><td>London</td><td>2026-09-01</td></tr>
 <tr><td>Johnson Matthey</td><td>Business Support Administrator</td><td>Brimsdown</td><td>2026-09-01</td></tr>
+<tr><td>Vodafone</td><td>Junior Ai Software Engineer</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Tikehau Capital</td><td>Internship - Investment Specialist (Private Equity)</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Levis Media</td><td>Analytics Intern</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Standard Chartered</td><td>Transaction Services Intern UK 2027</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Getlegalmexico</td><td>Multiskilled Apprentice</td><td>Manchester</td><td>2026-09-02</td></tr>
+<tr><td>Ferrovial SE</td><td>Talent Apprentice</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>JOHNSON CONTROLS</td><td>Apprentice Internal Sales Advisor</td><td>Manchester</td><td>2026-09-02</td></tr>
+<tr><td>HCLTech UK</td><td>Azure Devops Technical Specialist</td><td>Unknown</td><td>2026-09-02</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Java, Node.js, Microservices, Aws</td><td>Unknown</td><td>2026-09-02</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Ml, Python</td><td>Unknown</td><td>2026-09-02</td></tr>
+<tr><td>HCLTech UK</td><td>Spring Boot Technical Specialist - Kafka</td><td>Unknown</td><td>2026-09-02</td></tr>
+<tr><td>HCLTech UK</td><td>Snowflake Technical Specialist</td><td>Unknown</td><td>2026-09-02</td></tr>
+<tr><td>BSI Group</td><td>Data Analyst (12 Month Ftc)</td><td>Covent Garden</td><td>2026-09-02</td></tr>
+<tr><td>Acushnet Golf</td><td>Business Intelligence Analyst</td><td>St. Ives</td><td>2026-09-02</td></tr>
+<tr><td>Southampton FC</td><td>Data Scientist</td><td>Staplewood Campus</td><td>2026-09-02</td></tr>
+<tr><td>Gloucestershire County Council</td><td>Information Requests Officer</td><td>Gloucestershire</td><td>2026-09-02</td></tr>
+<tr><td>TP ICAP</td><td>Client Lifecycle Onboarding Analyst - 12 Month Ftc</td><td>Belfast</td><td>2026-09-02</td></tr>
+<tr><td>Bankstcharles</td><td>Barclaycard Acquiring Payments - Internal Audit Vp (bpl)</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>jobs.barclays</td><td>Barclaycard Acquiring Payments - Internal Audit Vp (bpl)</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Helios Towers PLC</td><td>Internal Auditor</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Unilever Com Tr</td><td>Finance Analyst – Home Care</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Unilever</td><td>Finance Analyst – Home Care</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Intermediate Capital Group (ICG)</td><td>Analyst, Risk</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Severn Trent Plc</td><td>River Water Quality Monitoring Field Technician</td><td>Nottinghamshire</td><td>2026-09-02</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Mechanical Fitter (day Shift)</td><td>Auchinleck</td><td>2026-09-02</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-09-02</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Engineer- Nights</td><td>Central London</td><td>2026-09-02</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Engineer</td><td>UK</td><td>2026-09-02</td></tr>
+<tr><td>ABB UK</td><td>Field Service Engineer</td><td>UK</td><td>2026-09-02</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Univar Solutions</td><td>Maintenance Technician</td><td>United Kingdom</td><td>2026-09-02</td></tr>
+<tr><td>ALO / Australia</td><td>Sales Associate (part-time) - Battersea</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Unitedstatesofreaders Scholastic</td><td>Warehouse Associates (milwaukee) - Part Time, 2nd Shift, Weekdays - $16 + $1.50 (2nd Shift) P/hr!</td><td>Milwaukee</td><td>2026-09-02</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Hr Project Coordinator</td><td>UK & Ireland +1</td><td>2026-09-02</td></tr>
+<tr><td>newjob</td><td>Systems Support Assistant</td><td>Portsmouth</td><td>2026-09-02</td></tr>
+<tr><td>Medline</td><td>Quality Coordinator</td><td>Waukegan</td><td>2026-09-02</td></tr>
+<tr><td>Morgan Stanley</td><td>Exec Admin (technology Management) : Job Level - Associate</td><td>London</td><td>2026-09-02</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Pt 8h - Edinburgh Loanhead</td><td>Edinburgh</td><td>2026-09-02</td></tr>
+<tr><td>Agincare Group</td><td>Activities Coordinator Weymouth, United Kingdom (incl. Northern Ireland) £12.85 Full Time Apply By 24 September, 2026</td><td>Bournemouth</td><td>2026-09-02</td></tr>
 </table>
