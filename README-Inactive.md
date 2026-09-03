@@ -3961,4 +3961,46 @@ _No archived roles yet._
 <tr><td>Morgan Stanley</td><td>Exec Admin (technology Management) : Job Level - Associate</td><td>London</td><td>2026-09-02</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) Pt 8h - Edinburgh Loanhead</td><td>Edinburgh</td><td>2026-09-02</td></tr>
 <tr><td>Agincare Group</td><td>Activities Coordinator Weymouth, United Kingdom (incl. Northern Ireland) £12.85 Full Time Apply By 24 September, 2026</td><td>Bournemouth</td><td>2026-09-02</td></tr>
+<tr><td>ERM Certification and Verification Services Limited</td><td>JD Young HRSSC Efficiency Internship</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Brightonparkbank</td><td>Software Engineer</td><td>Glasgow</td><td>2026-09-03</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Send Core</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - London, United Kingdom</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Support Specialist</td><td>Unknown</td><td>2026-09-03</td></tr>
+<tr><td>HCLTech UK</td><td>Edi Technical Specialist - Sterling Integrator</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>HCLTech UK</td><td>Sme - Python</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>Eucalyptus</td><td>Marketing Analytics Analyst</td><td>Old Street</td><td>2026-09-03</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Data Scientist</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Quant V&s G&p</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>newjob</td><td>Health And Safety Officer Wcc624766</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Bupaglobal</td><td>Care Assistant</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Cancer Research UK</td><td>Clinical Research Associate</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>Drcf Org</td><td>Clinical Research Associate</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Clinical Research Associate Ii</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Nottinghamshire</td><td>2026-09-03</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Maintenance Caretaker</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Electrical Maintenance Technician</td><td>Fawley</td><td>2026-09-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Metals Trade Maintenance Technician</td><td>Fawley</td><td>2026-09-03</td></tr>
+<tr><td>Rehlko</td><td>Field Service Engineer,kup Uk</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-09-03</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Single</td><td>Shropshire</td><td>2026-09-03</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Electrical</td><td>Shropshire</td><td>2026-09-03</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-09-03</td></tr>
+<tr><td>Pvhcc</td><td>Seasonal Sales Associate, Calvin Klein St Pancras</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Hoofprinting</td><td>Seasonal Sales Associate, Calvin Klein St Pancras</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Marriott International</td><td>Guest Experience Expert Guest Service Associate - London Marriott Hotel Grosvenor Square</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Warehouse Associate</td><td>Tukwila</td><td>2026-09-03</td></tr>
+<tr><td>PJT Partners</td><td>Administrative Assistant - Restructuring And Special Situations Group</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant (jersey)</td><td>Jersey Shop</td><td>2026-09-03</td></tr>
+<tr><td>Drcf Org</td><td>Retail Store Assistant (jersey)</td><td>Jersey Shop</td><td>2026-09-03</td></tr>
+<tr><td>Drcf Org</td><td>Retail Sunday Assistant (east Sheen)</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Cfa Society Atlanta Inc</td><td>Speaker Coordinator</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Bmwramsey</td><td>Bank Bookings Admin Assistant</td><td>Chelmsford</td><td>2026-09-03</td></tr>
+<tr><td>Cleary Gottlieb Steen & Hamilton LLP</td><td>Business Development Assistant</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>70</td><td>Marketing Coordinator - Dermatology (aesthetics & Consumer Goods)</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Geldmarkt</td><td>Marketing Coordinator - Dermatology (aesthetics & Consumer Goods)</td><td>London</td><td>2026-09-03</td></tr>
+<tr><td>Nuffield Health</td><td>Customer Services Assistant</td><td>Bournemouth</td><td>2026-09-03</td></tr>
 </table>
