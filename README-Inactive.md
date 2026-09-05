@@ -4156,4 +4156,91 @@ _No archived roles yet._
 <tr><td>Mondelēz International</td><td>Administration Assistant</td><td>Minworth</td><td>2026-09-04</td></tr>
 <tr><td>William Grant & Sons Ltd</td><td>Global Corporate Communications Specialist Richmond, Uk, United Kingdom Competitive Salary And Benefits Full Time Apply By 11 September, 2026 Posted On 26 August, 2026</td><td>London</td><td>2026-09-04</td></tr>
 <tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>Birmingham</td><td>2026-09-04</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 1)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Internship Program - Risk And Compliance (london)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Summer Internship Program - Office Of The Cfo (london)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nortonrosefulbright</td><td>Rise - The Norton Rose Fulbright Work Experience Programme</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Apprentice Financial Risk</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>ReedPOP Group</td><td>Intermediate Software Engineer</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Rxglobal Com Cn</td><td>Intermediate Software Engineer</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>BECU</td><td>Collection & Recovery Support Specialist</td><td>Tukwila</td><td>2026-09-05</td></tr>
+<tr><td>FanDuel</td><td>Software Engineer - Core Marketing Platforms</td><td>Edinburgh</td><td>2026-09-05</td></tr>
+<tr><td>PhysicsX</td><td>Staff Backend Software Engineer - Go & Python</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Omnea</td><td>Frontend Engineer</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>jobs.barclays</td><td>Integrated Financial Crime (ifc) - Data Scientist</td><td>Glasgow Campus</td><td>2026-09-05</td></tr>
+<tr><td>News Corp</td><td>Audience Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>PostHog</td><td>Ai Research Engineer</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Deutsche Bank</td><td>Quant Strategist</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Manulife</td><td>Responsible Investment Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Responsible Investment Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Puig</td><td>Supply Chain Profit Protection Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Emea Cost Management Analytics / Financial Planning And Analytics(12 Months Mat Cover)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>High Yield Analyst - Associate/vice President</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Operations Oversight Associate (6 Months Contract)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Delta One Trader</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Equities Trade Surveillance Compliance Officer (6 Months Contract)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Distribution Compliance Contractor - 6-month Contract</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>sefe</td><td>Enterprise & Operational Risk Analyst (m/f/d)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>sefe</td><td>Credit Risk Analyst (m/f/d)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Roche Holding AG</td><td>Solutions Owner, Commercial Analytics</td><td>Welwyn</td><td>2026-09-05</td></tr>
+<tr><td>Roche</td><td>Solutions Owner, Commercial Analytics</td><td>Welwyn</td><td>2026-09-05</td></tr>
+<tr><td>Citi</td><td>Client Onboarding Analyst</td><td>Belfast</td><td>2026-09-05</td></tr>
+<tr><td>Citi Handlowy</td><td>Client Onboarding Analyst</td><td>Belfast</td><td>2026-09-05</td></tr>
+<tr><td>TP ICAP</td><td>Client Lifecycle Onboarding Analyst 1</td><td>Belfast</td><td>2026-09-05</td></tr>
+<tr><td>DWS Group</td><td>Capital Markets Specialist, Xtrackers/ Etfs</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Capital Markets Specialist, Xtrackers/ Etfs</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Salesforce</td><td>Private Equity, Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Salesforce Sites</td><td>Private Equity, Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Bank Pekao</td><td>Analityk Biznesowy / Analityczka Biznesowa Bankowości Mobilnej</td><td>United Kingdom</td><td>2026-09-05</td></tr>
+<tr><td>Bank Pekao</td><td>Analityk Biznesowy / Analityczka Biznesowa Systemu Murex Front Office</td><td>United Kingdom</td><td>2026-09-05</td></tr>
+<tr><td>SMT Nederland</td><td>Aftermarket Business Analyst (construction)</td><td>Duxford</td><td>2026-09-05</td></tr>
+<tr><td>Informa PLC</td><td>Digital Accessibility Auditor (12 Month Fixed-term Contract Or Internal Secondment)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>TEAM LEWIS</td><td>Finance Analyst</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Intercontinental Exchange</td><td>Analyst, Capital Markets</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Worldpay Inc</td><td>Financial Analyst Ii</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>DXC Technology</td><td>Reinsurance Business Analyst</td><td>United Kingdom</td><td>2026-09-05</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant - Bank</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Bmwramsey</td><td>Bank - Health Care Assistant - Outpatients</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Operose Health Ltd</td><td>Healthcare Assistant - Pm/rm Has Advised To Close London, United Kingdom 26000 - 30000 Permanent - Full Or Part Time Apply By 9 August, 2026 Job Posted Date 30 July, 2026</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Greystar Australia Property Manager</td><td>Maintenance Technician</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Serius</td><td>Field Service Technician - Liquid Handling</td><td>North Of England</td><td>2026-09-05</td></tr>
+<tr><td>Sartorius</td><td>Field Service Technician - Liquid Handling</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>stellen-freiburg.de</td><td>Field Service Technician - Liquid Handling</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer - West Midland</td><td>West Midland</td><td>2026-09-05</td></tr>
+<tr><td>Arjo AB</td><td>Loler Technician - Scotland, Uk</td><td>Scotland</td><td>2026-09-05</td></tr>
+<tr><td>KWS UK Ltd.</td><td>Field Operations Technician</td><td>Thriplow</td><td>2026-09-05</td></tr>
+<tr><td>Kws Group</td><td>Field Operations Technician</td><td>Thriplow</td><td>2026-09-05</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer</td><td>Kent +3</td><td>2026-09-05</td></tr>
+<tr><td>35</td><td>Technician</td><td>Wimbourne</td><td>2026-09-05</td></tr>
+<tr><td>Air Liquide</td><td>Technician</td><td>Wimbourne</td><td>2026-09-05</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Lift Service Engineer- Nights</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Escalator Service Engineer- Nights</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Maintenance Assistant</td><td>Donington</td><td>2026-09-05</td></tr>
+<tr><td>Phillips 66</td><td>Instrument/analyser Technician</td><td>South Killingholme</td><td>2026-09-05</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mobile Tools Technician</td><td>Location</td><td>2026-09-05</td></tr>
+<tr><td>Merck KGaA</td><td>Graduate/Junior Field Service Engineer</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Nuveen</td><td>Global Institutional, Sales Support Associate, Based In London</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Trafford (n125223)</td><td>Manchester</td><td>2026-09-05</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Experience Expert/guest Service Associate - London Marriott Hotel Grosvenor Square</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>W Brisbane</td><td>Guest Experience Expert/guest Service Associate - London Marriott Hotel Grosvenor Square</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>London Marriott Hotel Grosvenor Square</td><td>Guest Experience Expert/guest Service Associate - London Marriott Hotel Grosvenor Square</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (24 Hours, Long Acre)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (12 Hours, Fix Term, White City Man)</td><td>London</td><td>2026-09-05</td></tr>
+<tr><td>newjob</td><td>Systems Support Assistant</td><td>Portsmouth</td><td>2026-09-05</td></tr>
+<tr><td>Amey Ltd</td><td>Administrator</td><td>Berkeley</td><td>2026-09-05</td></tr>
+<tr><td>Nestle SA</td><td>Warehouse Systems Coordinator</td><td>Narberth</td><td>2026-09-05</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Burton On Trent</td><td>2026-09-05</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Salisbury</td><td>Bournemouth</td><td>2026-09-05</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Gunwharf Quays Outlet</td><td>Portsmouth</td><td>2026-09-05</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Chesterfield Ravenside Foodhall</td><td>Sheffield</td><td>2026-09-05</td></tr>
+<tr><td>Computershare</td><td>Business Support Administrator</td><td>Bristol</td><td>2026-09-05</td></tr>
+<tr><td>Computershare UK</td><td>Business Support Administrator</td><td>Bristol</td><td>2026-09-05</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Bristol</td><td>2026-09-05</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Rushden Lakes</td><td>Rushden Lakes</td><td>2026-09-05</td></tr>
 </table>
