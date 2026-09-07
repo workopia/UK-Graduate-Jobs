@@ -4374,4 +4374,9 @@ _No archived roles yet._
 <tr><td>HRtechX</td><td>Marketing Graduate At Hrtechx</td><td>London</td><td>2026-09-06</td></tr>
 <tr><td>HRtechX</td><td>Conference Marketing Associate At Hrtechx</td><td>London</td><td>2026-09-06</td></tr>
 <tr><td>RecTech Media</td><td>Conference Agenda Associate At Hrtechx</td><td>London</td><td>2026-09-06</td></tr>
+<tr><td>Bis Web Ltd</td><td>Level 4 Civil Engineering Apprentice X2</td><td>London</td><td>2026-09-07</td></tr>
+<tr><td>Bis Web Ltd</td><td>Apprentice Trading Standards Officer -level 6</td><td>London</td><td>2026-09-07</td></tr>
+<tr><td>Unilever Com Br</td><td>Run To Standard Focus Technician/multiskilled Maintenance Technician</td><td>Port Sunlight</td><td>2026-09-07</td></tr>
+<tr><td>Alphasense</td><td>Customer Success Associate</td><td>London</td><td>2026-09-07</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - New Bond Street</td><td>London</td><td>2026-09-07</td></tr>
 </table>

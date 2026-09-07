@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-06",
- "count": 748,
+ "asOf": "2026-09-07",
+ "count": 746,
  "jobs": {
   "27926": {
    "id": "27926",
@@ -770,18 +770,6 @@
    "role": "Hr Assistant Apprentice",
    "location": "London"
   },
-  "58be497b3219ae5239053c6edacdec17": {
-   "id": "58be497b3219ae5239053c6edacdec17",
-   "company": "Bis Web Ltd",
-   "role": "Level 4 Civil Engineering Apprentice X2",
-   "location": "London"
-  },
-  "b8158dde540e2fe1bb8658dabbc974c8": {
-   "id": "b8158dde540e2fe1bb8658dabbc974c8",
-   "company": "Bis Web Ltd",
-   "role": "Apprentice Trading Standards Officer -level 6",
-   "location": "London"
-  },
   "e2149f9505de0e047ea9845b960f07eb": {
    "id": "e2149f9505de0e047ea9845b960f07eb",
    "company": "NXP USA INC.",
@@ -1424,6 +1412,18 @@
    "role": "Trainee Robot & Automation Engineer",
    "location": "GB"
   },
+  "803785421f6236c7241e1068775bb974": {
+   "id": "803785421f6236c7241e1068775bb974",
+   "company": "Bank Pekao",
+   "role": "Ekspert / Ekspertka Business Intelligence",
+   "location": "United Kingdom"
+  },
+  "6a685fd7663ea079b6c04b9378230b2e": {
+   "id": "6a685fd7663ea079b6c04b9378230b2e",
+   "company": "Burford Capital Ltd",
+   "role": "Data Analyst",
+   "location": "London"
+  },
   "465b0bdd1a9994b5e3f6e5ad2f993a4f": {
    "id": "465b0bdd1a9994b5e3f6e5ad2f993a4f",
    "company": "Ameriprise Financial Services, LLC",
@@ -1730,12 +1730,6 @@
    "role": "Ai Software Engineer",
    "location": "London"
   },
-  "803785421f6236c7241e1068775bb974": {
-   "id": "803785421f6236c7241e1068775bb974",
-   "company": "Bank Pekao",
-   "role": "Ekspert / Ekspertka Business Intelligence",
-   "location": "United Kingdom"
-  },
   "3b053e292117a6142c201cc33c638b7b": {
    "id": "3b053e292117a6142c201cc33c638b7b",
    "company": "Sephora USA Inc",
@@ -1848,12 +1842,6 @@
    "id": "a047021e6f56d8ab79c3f61e50d09b70",
    "company": "Accenture Australia",
    "role": "Ai Native Sw Eng",
-   "location": "London"
-  },
-  "6a685fd7663ea079b6c04b9378230b2e": {
-   "id": "6a685fd7663ea079b6c04b9378230b2e",
-   "company": "Burford Capital Ltd",
-   "role": "Data Analyst",
    "location": "London"
   },
   "6c562d85aaccb1f2d2efb8f29dff6d3f": {
@@ -3074,6 +3062,12 @@
    "role": "Bank Care Assistant",
    "location": "London"
   },
+  "2e875e4bf5be3761bac7deca6b9e643e": {
+   "id": "2e875e4bf5be3761bac7deca6b9e643e",
+   "company": "Kws Group",
+   "role": "Field Operations Technician",
+   "location": "Thriplow"
+  },
   "167aa7dfd688d6e4ada19fa6f66943fb": {
    "id": "167aa7dfd688d6e4ada19fa6f66943fb",
    "company": "Bakkavor Group",
@@ -3548,11 +3542,17 @@
    "role": "Run To Standard Focus Technician/multiskilled Maintenance Technician",
    "location": "Port Sunlight"
   },
-  "4a0f27e245373140a632f2afe848f7f7": {
-   "id": "4a0f27e245373140a632f2afe848f7f7",
-   "company": "Unilever Com Br",
-   "role": "Run To Standard Focus Technician/multiskilled Maintenance Technician",
-   "location": "Port Sunlight"
+  "0a00a002d91cd4f0a99ba996ce0008dc": {
+   "id": "0a00a002d91cd4f0a99ba996ce0008dc",
+   "company": "Tommy Hilfiger",
+   "role": "Seasonal Sales Associate, Tommy Hilfiger Battersea",
+   "location": "London"
+  },
+  "3fb05d3a1235708a983059c5d52d98c7": {
+   "id": "3fb05d3a1235708a983059c5d52d98c7",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate (40hrs)",
+   "location": "Oxford"
   },
   "711abc47a82285d33347d60cdf97ab0e": {
    "id": "711abc47a82285d33347d60cdf97ab0e",
@@ -4002,18 +4002,6 @@
    "id": "b9ede3038b3e5b7a95723eef3709d723",
    "company": "Alphasense",
    "role": "Associate, Customer & Product Support",
-   "location": "London"
-  },
-  "b2dec30d2264ee1899baea58620abdab": {
-   "id": "b2dec30d2264ee1899baea58620abdab",
-   "company": "Alphasense",
-   "role": "Customer Success Associate",
-   "location": "London"
-  },
-  "83860bffeef6bfe2d70c2491f9721d6a": {
-   "id": "83860bffeef6bfe2d70c2491f9721d6a",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Sales Associate - New Bond Street",
    "location": "London"
   },
   "ba0c762a1e57c473183a27cd408f25de": {
