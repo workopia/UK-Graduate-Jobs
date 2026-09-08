@@ -4379,4 +4379,44 @@ _No archived roles yet._
 <tr><td>Unilever Com Br</td><td>Run To Standard Focus Technician/multiskilled Maintenance Technician</td><td>Port Sunlight</td><td>2026-09-07</td></tr>
 <tr><td>Alphasense</td><td>Customer Success Associate</td><td>London</td><td>2026-09-07</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - New Bond Street</td><td>London</td><td>2026-09-07</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Summer Internship Program - Audit (manchester)</td><td>Greater Manchester</td><td>2026-09-08</td></tr>
+<tr><td>Margaret Howell</td><td>Hr Assistant Apprentice</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Innovateedai</td><td>Threat Intelligence Analyst, Threat Disruption</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Nomura International PLC</td><td>Software Engineer (associate) - Gmit Trade Processing</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Haleon</td><td>Data Scientist</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Hr Operations Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>689</td><td>Hr Operations Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Hyperion Group</td><td>Junior Business Analyst And Project Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Howden</td><td>First Line Compliance Office</td><td>United Kingdom</td><td>2026-09-08</td></tr>
+<tr><td>Sims Metal</td><td>Operations Cost Control Support</td><td>United Kingdom</td><td>2026-09-08</td></tr>
+<tr><td>Mangroup</td><td>Junior Quant - Systematic Multi-strat</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>anglianwatercareers.co.uk</td><td>Business Analyst</td><td>Cambridge</td><td>2026-09-08</td></tr>
+<tr><td>Betway Group</td><td>Regulatory Compliance Officer</td><td>North London</td><td>2026-09-08</td></tr>
+<tr><td>Mytopsportsbettingsites</td><td>Regulatory Compliance Officer</td><td>North London</td><td>2026-09-08</td></tr>
+<tr><td>100</td><td>Gas Quant Structurer</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>gmcamiassembly.ca</td><td>Business Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Juditechsono</td><td>Accounting Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Sonymusicpub</td><td>Accounting Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Burberry</td><td>Client Experience & Insights Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>IQVIA Inc</td><td>Supplier Services Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>IQVIA UK</td><td>Supplier Services Analyst</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Codan Limited</td><td>Field Service Engineer (ip / Networking)</td><td>Whiteley</td><td>2026-09-08</td></tr>
+<tr><td>Codan Limited</td><td>Manet - Field Service Representative - Row</td><td>Whiteley</td><td>2026-09-08</td></tr>
+<tr><td>fcc-asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Fox News</td><td>Maintenance Engineer</td><td>Milwaukee</td><td>2026-09-08</td></tr>
+<tr><td>WITI FOX6</td><td>Maintenance Engineer</td><td>Milwaukee</td><td>2026-09-08</td></tr>
+<tr><td>Greystar Worldwide LLC</td><td>Maintenance Technician - The Duke Of Charleston</td><td>Ladson</td><td>2026-09-08</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Service Engineer</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Service Engineer</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Unilever</td><td>Run To Standard Focus Technician/multiskilled Maintenance Technician</td><td>Port Sunlight</td><td>2026-09-08</td></tr>
+<tr><td>Asda</td><td>Warehouse Colleague</td><td>Falkirk Cdc</td><td>2026-09-08</td></tr>
+<tr><td>Alphasense</td><td>Associate, Customer & Product Support</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Cytiva</td><td>Labour And Employee Relations Specialist - Discovery And Medical</td><td>Cardiff</td><td>2026-09-08</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Electrical Construction Planner</td><td>HPC</td><td>2026-09-08</td></tr>
+<tr><td>John Graham Construction Ltd</td><td>Digital Construction Coordinator - Hillsborough, Ni</td><td>Hillsborough</td><td>2026-09-08</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Hr Project Coordinator</td><td>United Kingdom</td><td>2026-09-08</td></tr>
+<tr><td>Celeros Flow Technology</td><td>Project Coordinator - Inspection</td><td>United Kingdom</td><td>2026-09-08</td></tr>
+<tr><td>Henderson Technology</td><td>Project Co-ordinator - Henderson Technology</td><td>Templepatrick</td><td>2026-09-08</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-09-08</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant (chelsea)</td><td>London</td><td>2026-09-08</td></tr>
 </table>
