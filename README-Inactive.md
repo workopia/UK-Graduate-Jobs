@@ -4419,4 +4419,67 @@ _No archived roles yet._
 <tr><td>Henderson Technology</td><td>Project Co-ordinator - Henderson Technology</td><td>Templepatrick</td><td>2026-09-08</td></tr>
 <tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-09-08</td></tr>
 <tr><td>Cancer Research UK</td><td>Retail Store Assistant (chelsea)</td><td>London</td><td>2026-09-08</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor - The Cosmetics Company Store, Bicester - 2 Days/15 Hours (saturday & Sunday)</td><td>Oxford</td><td>2026-09-09</td></tr>
+<tr><td>Severn Trent Plc</td><td>Register Your Interest - Summer Placements 2027</td><td>England</td><td>2026-09-09</td></tr>
+<tr><td>Tencent</td><td>Global Talent Sourcing Intern</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Tencent Cloud</td><td>Global Talent Sourcing Intern</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG Oceania</td><td>2027 Mufg Insight Event - Your Impact Starts Here: Women In Finance (in Person)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG Oceania</td><td>2027 Mufg Insight Event - Breaking Barriers: Social Mobility Insight Day (in Person)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG Oceania</td><td>2027 Mufg Insight Event - Discover Mufg (online)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG</td><td>2027 Mufg Insight Event - Growing Future Leaders: Black Heritage</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>689</td><td>2027 Mufg Insight Event - Growing Future Leaders: Black Heritage</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>689</td><td>2027 Mufg Insight Event - Discover Mufg (online)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>689</td><td>2027 Mufg Insight Event - Breaking Barriers: Social Mobility Insight Day (in Person)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>689</td><td>2027 Mufg Insight Event - Your Impact Starts Here: Women In Finance (in Person)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Apprentice - Housing</td><td>Manchester</td><td>2026-09-09</td></tr>
+<tr><td>jobs.abbott</td><td>Technical Service Specialist/engineer - Midlands</td><td>Midlands</td><td>2026-09-09</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Information Security & Assurance Officer (sizewell C)</td><td>Sizewell C</td><td>2026-09-09</td></tr>
+<tr><td>Eucalyptus</td><td>Full-stack Engineer - Shop/ecosystem</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Jobgether</td><td>Ai Augmented Software Engineer [gn] Data Intelligence Platform</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (python) — Programmable Networking</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>IKEA UK</td><td>Software Engineer – Backend With Ai - Range Experience</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Software Engineer</td><td>Waukesha</td><td>2026-09-09</td></tr>
+<tr><td>SpaceXAI</td><td>Backend Engineer - Api</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Royal London</td><td>Business Data Analyst (migrations)</td><td>Alderley Edge</td><td>2026-09-09</td></tr>
+<tr><td>NIQ</td><td>Insights Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Bdbk010</td><td>Database Engineering – Platform Tooling & Automation Engineer</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Severn Trent Plc</td><td>Flow Compliance Specialist</td><td>Search By Location</td><td>2026-09-09</td></tr>
+<tr><td>BBVA</td><td>Market Risk Analyst – Gmru London</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>RBC Capital Markets</td><td>Analyst, Margining Operations - Capital Markets (london)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>WEX Australia Pty Ltd</td><td>Financial Operations Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Amentumcareers</td><td>Pressure Compliance Engineer</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Save the Children International</td><td>Specialist, Business Analysis</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Pinnacle Group</td><td>Compliance Co-ordinator London, United Kingdom £28000 - £28000 Fixed Term Apply By 7 October, 2026 Posted On 3 September, 2026</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Hertz</td><td>Revenue Management Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Entrust</td><td>Revenue Operations Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Quant V&s G&p</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Bakkavor Group</td><td>Assistant Factory Accountant</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Domestic & General</td><td>Third Party Risk Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG Oceania</td><td>Nbfi Credit Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Nbfi Credit Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>689</td><td>Nbfi Credit Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>MUFG Oceania</td><td>Hr Operations Analyst</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Exxon Mobil</td><td>Electrical Maintenance Technician</td><td>Fawley</td><td>2026-09-09</td></tr>
+<tr><td>Severn Trent</td><td>Repair And Maintenance Operative</td><td>Gloucestershire</td><td>2026-09-09</td></tr>
+<tr><td>Severn Trent</td><td>Mechanical Maintenance Technician</td><td>Stoke Bardolph</td><td>2026-09-09</td></tr>
+<tr><td>Babcock International</td><td>Mechanical Technician</td><td>Holyhead</td><td>2026-09-09</td></tr>
+<tr><td>Alstom</td><td>High Level Technician</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Carrier</td><td>Field Service Technician</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>IXL Learning Inc</td><td>Customer Operations Executive, Mytutor</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Asda Stores Ltd</td><td>Warehouse Colleague</td><td>Falkirk Cdc</td><td>2026-09-09</td></tr>
+<tr><td>Space NK</td><td>Supervisor Parsons Green (22.5 Hours)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-09-09</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrative Assistant</td><td>Nottingham</td><td>2026-09-09</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>Cardiff</td><td>2026-09-09</td></tr>
+<tr><td>NPL Management Ltd</td><td>Programme Delivery Coordinator</td><td>United Kingdom</td><td>2026-09-09</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>GIC</td><td>Executive Assistant, Real Estate</td><td>London</td><td>2026-09-09</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Rochdale Riverside</td><td>Manchester</td><td>2026-09-09</td></tr>
 </table>
