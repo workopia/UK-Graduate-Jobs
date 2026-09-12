@@ -4822,4 +4822,115 @@ _No archived roles yet._
 <tr><td>UK Power Networks Ltd</td><td>Business Support Administrator</td><td>Basingstoke</td><td>2026-09-11</td></tr>
 <tr><td>UK Power Networks Ltd</td><td>Connection Coordinator</td><td>Bidder Street</td><td>2026-09-11</td></tr>
 <tr><td>Evri</td><td>Administrator: Transport & Warehouse</td><td>London</td><td>2026-09-11</td></tr>
+<tr><td>Delta Capita</td><td>Business Analyst - Technical</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Delta Capita</td><td>Business Analyst</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Intern - Account Analyst, London (arabic, French Or Italian Speaking)</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>United Media</td><td>Global Business Operations Internship At United Media</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>HRTechX</td><td>Entrepreneur In Residence Internship At Hrtechx</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>HRtechX</td><td>Entrepreneur In Residence Intern (spanish Speaker) Hrtechx</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>United Media</td><td>Entrepreneur In Residence Intern (spanish Speaker) United-media</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>HRtechX</td><td>Global Internship Program (spanish Speaker) Hrtechx</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>RecTech Media</td><td>Danish Speaker Intern</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Intern, International Hotel Development</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Valsoft Corporation</td><td>M&a Intern</td><td>Reading</td><td>2026-09-12</td></tr>
+<tr><td>692</td><td>Outpatient Pharmacy Intern - St. Luke's</td><td>Aurora St Lukes Medical Center</td><td>2026-09-12</td></tr>
+<tr><td>Prnatech</td><td>Outpatient Pharmacy Intern - St. Luke's</td><td>Aurora St Lukes Medical Center</td><td>2026-09-12</td></tr>
+<tr><td>Acathospital</td><td>Outpatient Pharmacy Intern - St. Luke's</td><td>Aurora St Lukes Medical Center</td><td>2026-09-12</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Intern, Innovation Programs</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Chnetwork</td><td>Intern, Innovation Programs</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Chanel</td><td>Intern, Innovation Programs</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Xantium Group</td><td>Quantitative Researcher Intern</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Tencent</td><td>3d Artist Intern</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Medtronic</td><td>Material Management Apprentice</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Capitalonecareers Com Ph</td><td>It Support Engineer</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Software Engineer</td><td>Belfast +5</td><td>2026-09-12</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Software Engineer - Extend</td><td>Belfast +5</td><td>2026-09-12</td></tr>
+<tr><td>Wayve</td><td>Software Engineer, Simulation</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Mimecast</td><td>Software Engineer I</td><td>Great Britain</td><td>2026-09-12</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer - Full-stack (react)</td><td>Bristol</td><td>2026-09-12</td></tr>
+<tr><td>Cloudflare</td><td>Software Engineer, Spectrum</td><td>Austin +1</td><td>2026-09-12</td></tr>
+<tr><td>Cloudflare</td><td>Software Engineer, R2 Gateway</td><td>Austin +1</td><td>2026-09-12</td></tr>
+<tr><td>Depopcareers</td><td>Backend Engineer - Search And Retrieval</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>GSK</td><td>Aiml Engineer, Ai For Science</td><td>United Kingdom</td><td>2026-09-12</td></tr>
+<tr><td>jobs.barclays</td><td>Applied Ai Engineer - Bpl</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>bp</td><td>Control & Automation Engineer</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bonneville International</td><td>Control & Automation Engineer</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (mfe), London</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Barclays</td><td>Banking Graduate Programme 2027 London</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Credit Risk Officer, Energy Trading Credit Risk Management</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Dnsdblookup</td><td>Credit Risk Officer, Energy Trading Credit Risk Management</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bdbk010</td><td>Quantitative Strategist Flow Rates</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Quantitative Developer, Trading And Client Controls (tacc)</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Dnsdblookup</td><td>Quantitative Strategist Flow Rates</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>DWS Group</td><td>Capital Markets Analyst - Xtrackers/ Etfs</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bdbk010</td><td>Natural Resources Group (nrg) - Investment Banking Coverage & Advisory</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bdbk010</td><td>Emerging Market Corporate Debt Structured Credit Trader</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Dnsdblookup</td><td>Natural Resources Group (nrg) - Investment Banking Coverage & Advisory</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Emerging Market Corporate Debt Structured Credit Trader</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Non-linear Rates & Structured Notes Strat</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Dnsdblookup</td><td>Non-linear Rates & Structured Notes Strat</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Valuation Control Quantitative Strategist – Commodities</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>DWS Group</td><td>Capital Markets Specialist, Xtrackers/ Etfs</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bdbk010</td><td>Quant Strategist</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Bank</td><td>Quant Strategist</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Deutsche Numis</td><td>Investment Banking Coverage Specialist Technology, Media & Telecommunications (deutsche Numis)</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Dnsdblookup</td><td>Investment Banking Coverage Specialist Technology, Media & Telecommunications (deutsche Numis)</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>BBVA</td><td>Market Risk Analyst – Gmru London</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Veolia UK</td><td>Risk & Assurance Advisor</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Veolia</td><td>Risk & Assurance Advisor</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Man Group</td><td>Business Onboarding Analyst</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>State Street UK</td><td>Efx Quant Analyst - Vp</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>State Street UK</td><td>Auditor, Officer</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Invesco</td><td>Quantitative Analyst, Solutions Research & Analytics</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>DXC Technology</td><td>Reinsurance Business Analyst</td><td>United Kingdom</td><td>2026-09-12</td></tr>
+<tr><td>Roche Holding AG</td><td>Solutions Owner, Commercial Analytics</td><td>Welwyn</td><td>2026-09-12</td></tr>
+<tr><td>CQS/Manulife</td><td>Responsible Investment Analyst</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>12</td><td>State And Local Tax Associate (fall 2027/winter 2028)</td><td>Milwaukee</td><td>2026-09-12</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Agincare Group</td><td>Bank Care Assistant Southwark, United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 9 September, 2026</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Aspens Services Ltd</td><td>Catering Assistant Croydon , United Kingdom £14.82 - £14.82 Permanent Apply By 9 September, 2026 Posted On 10 August, 2026</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Clinical Research Associate</td><td>Gatwick</td><td>2026-09-12</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Wards (bank)</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Asset Technician</td><td>Kitt Green</td><td>2026-09-12</td></tr>
+<tr><td>LINEAGE LOGISTICS</td><td>Multi-skilled Maintenance Engineer - Nights</td><td>United Kingdom</td><td>2026-09-12</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Road Equipment</td><td>South Of England</td><td>2026-09-12</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer</td><td>Kent +3</td><td>2026-09-12</td></tr>
+<tr><td>Arriva Inc</td><td>Master Technician</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Kws Group</td><td>Field Operations Technician</td><td>Thriplow</td><td>2026-09-12</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Maintenance Assistant</td><td>Donington</td><td>2026-09-12</td></tr>
+<tr><td>Stericycle Inc</td><td>Apprentice Maintenance Engineer</td><td>Knowsley</td><td>2026-09-12</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Duxford</td><td>Duxford</td><td>2026-09-12</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer (multi-skilled)</td><td>United Kingdom</td><td>2026-09-12</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>Great Britain</td><td>2026-09-12</td></tr>
+<tr><td>Bakkavor Group</td><td>Maintenance Engineer</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Cundall</td><td>Building Services Technician</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Roche Diagnostics</td><td>Field Service Representative (devon Area)</td><td>Hampshire/Dorset</td><td>2026-09-12</td></tr>
+<tr><td>Roche Holding AG</td><td>Field Service Representative (devon Area)</td><td>Devon</td><td>2026-09-12</td></tr>
+<tr><td>Roche</td><td>Field Service Representative (devon Area)</td><td>Devon</td><td>2026-09-12</td></tr>
+<tr><td>Roche</td><td>Field Service Engineer - West Scotland</td><td>West Scotland</td><td>2026-09-12</td></tr>
+<tr><td>Roche Diagnostics</td><td>Field Service Engineer - West Scotland</td><td>West Scotland</td><td>2026-09-12</td></tr>
+<tr><td>Veolia UK</td><td>Service Engineer (electrical Bias)</td><td>West Midlands</td><td>2026-09-12</td></tr>
+<tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Shift Maintenance Engineer</td><td>United Kingdom</td><td>2026-09-12</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Machine Technician</td><td>Severnside</td><td>2026-09-12</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Engineering Technician (site Services)</td><td>Severnside</td><td>2026-09-12</td></tr>
+<tr><td>Marriott International</td><td>Guest Experience Expert Full Time</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Cafe - Brixton</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Associates</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Birmingham</td><td>2026-09-12</td></tr>
+<tr><td>Unilever Com Br</td><td>Make Logistics Operator</td><td>Port Sunlight</td><td>2026-09-12</td></tr>
+<tr><td>Unilever</td><td>Make Logistics Operator</td><td>Port Sunlight</td><td>2026-09-12</td></tr>
+<tr><td>unilever.es</td><td>Make Logistics Operator</td><td>Port Sunlight</td><td>2026-09-12</td></tr>
+<tr><td>OLIVER</td><td>Home Team Assistant</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>OLIVER Agency</td><td>Home Team Assistant</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Account Specialist</td><td>London</td><td>2026-09-12</td></tr>
+<tr><td>Severn Trent</td><td>Customer Coordinator</td><td>Gloucestershire</td><td>2026-09-12</td></tr>
+<tr><td>SMT Nederland</td><td>Project Coordinator (12 Month Ftc)</td><td>Duxford</td><td>2026-09-12</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Quality Coordinator</td><td>Search By Location</td><td>2026-09-12</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Manchester</td><td>2026-09-12</td></tr>
+<tr><td>newjob</td><td>Systems Support Assistant</td><td>Portsmouth</td><td>2026-09-12</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Burton On Trent</td><td>2026-09-12</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Administrative Assistant</td><td>Belfast</td><td>2026-09-12</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Administrative Assistant</td><td>Belfast</td><td>2026-09-12</td></tr>
+<tr><td>Severn Trent Plc</td><td>Customer Coordinator</td><td>Not Specified</td><td>2026-09-12</td></tr>
 </table>
