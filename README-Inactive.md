@@ -4933,4 +4933,123 @@ _No archived roles yet._
 <tr><td>Caterpillar of Australia</td><td>Administrative Assistant</td><td>Belfast</td><td>2026-09-12</td></tr>
 <tr><td>Caterpillar Inc.</td><td>Administrative Assistant</td><td>Belfast</td><td>2026-09-12</td></tr>
 <tr><td>Severn Trent Plc</td><td>Customer Coordinator</td><td>Not Specified</td><td>2026-09-12</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Oxford</td><td>2026-09-13</td></tr>
+<tr><td>Marriott International</td><td>Intern, International Hotel Development</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Carrier Global</td><td>Intern, Mech Engrg</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HRTechX</td><td>Project Management Internship At Hrtechx</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>United Media</td><td>Project Management Internship At United Media</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HRTechX</td><td>Global Internship Program At Hrtechx</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>United Media</td><td>Global Internship Program At United Media</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HRTechX</td><td>Global Business Operations Internship At Hrtechx</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HRTechX</td><td>Global Consulting Internship At Hrtechx</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-09-13</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Technical Specialist - Active Medical Devices</td><td>Homebased</td><td>2026-09-13</td></tr>
+<tr><td>AM FRESH</td><td>It Support</td><td>Alconbury +1</td><td>2026-09-13</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer (react Native)</td><td>Bristol</td><td>2026-09-13</td></tr>
+<tr><td>Harrodscareers</td><td>It Service Delivery Analyst</td><td>Hammersmith</td><td>2026-09-13</td></tr>
+<tr><td>DARKTRACE AUSTRALIA PTY</td><td>Specialist Software Engineer</td><td>Cambridge</td><td>2026-09-13</td></tr>
+<tr><td>1920vfx</td><td>Freelance Junior System Support</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Barclays</td><td>Api Software Engineer</td><td>Glasgow</td><td>2026-09-13</td></tr>
+<tr><td>jobs.barclays</td><td>Api Software Engineer</td><td>Glasgow</td><td>2026-09-13</td></tr>
+<tr><td>Capital Group</td><td>Software Development Engineer Ii</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Accenture</td><td>Ai Native Software Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>The Francis Crick Institute</td><td>Software Engineer (machine Learning)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Inforcer Ltd</td><td>Soc Analyst</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Zurich Insurance UK</td><td>It Service Desk Administrator</td><td>Douglas</td><td>2026-09-13</td></tr>
+<tr><td>Willis Towers Watson</td><td>Full Stack Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Full Stack Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Roche</td><td>Software Development Engineer</td><td>Welwyn</td><td>2026-09-13</td></tr>
+<tr><td>Roche Holding AG</td><td>Software Development Engineer</td><td>Welwyn</td><td>2026-09-13</td></tr>
+<tr><td>Capital One Financial Corporation</td><td>It Support Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Capitalonecareers</td><td>It Support Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>Data Scientist – Incremental Player Value</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Welltower Inc.</td><td>Data Scientist - Onsite London - Phd Preferred</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Welltower</td><td>Data Scientist - Onsite London - Phd Preferred</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>husker.nu</td><td>Data Scientist</td><td>London Bankside</td><td>2026-09-13</td></tr>
+<tr><td>Eucalyptus</td><td>Marketing Analytics Analyst</td><td>Old Street</td><td>2026-09-13</td></tr>
+<tr><td>IKEA UK</td><td>Data Analyst</td><td>UK</td><td>2026-09-13</td></tr>
+<tr><td>Lidl GB</td><td>Business Intelligence Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Sailpoint Technologies Inc</td><td>Advisory Agentic Technologist</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>SailPoint</td><td>Advisory Agentic Technologist</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>SILHRMS</td><td>Project Controls Data & Reporting Analyst</td><td>Chamberlain Square</td><td>2026-09-13</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Project Controls Data & Reporting Analyst</td><td>Chamberlain Square</td><td>2026-09-13</td></tr>
+<tr><td>Bankstcharles</td><td>Applied Ai Engineer - Bpl</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Barclays</td><td>Applied Ai Engineer - Bpl</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Mercer</td><td>Investment Portfolio Operations Analyst</td><td>Tower Place</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Delta One Equity Swaps Trade Support Analyst (intermediate Level)</td><td>Belfast</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Operations Entry-level Analyst</td><td>Belfast</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Investment Banking Associate – Financial Sponsors (financial & Strategic Investors Group)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Investment Banking Associate, Energy</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Client Onboarding Analyst</td><td>Belfast</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets, Quantitative Analysis, Full Time Associate, London, 2027</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst - Cash Equity Electronic Execution</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Operations Intermediate Analyst - Cash Management Treasury Operations</td><td>Belfast</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst - Rates Options Desk Quant (vice President)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Payoff Structurer – Strategic Equity Derivatives</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Quantitative Analyst - Capital Analytics, Avp</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst / Developer – Multi-desk & Low-latency Electronic Execution</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>MUFG</td><td>2027 Mufg Uk Analyst Programme: Risk</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Intrum Justitia AB</td><td>Workforce Planning Analyst, Gbr</td><td>Glasgow</td><td>2026-09-13</td></tr>
+<tr><td>SCOR</td><td>Pricing Actuary, Longevity</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Activision Publishing, Inc</td><td>Accountant</td><td>Kyiv</td><td>2026-09-13</td></tr>
+<tr><td>PPL First</td><td>Licensing Analyst</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Northern Trust</td><td>Audit Specialist, Credit Risk</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Deutsche Bank</td><td>Central And Eastern Europe, The Middle East, And Africa (ceemea) Investment Banking Associate</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Deutsche Bank</td><td>Financial Institutions Group (fig) Associate</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Urpa</td><td>Care Assistant - Bank</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Study Start Up Associate Ii</td><td>Uk</td><td>2026-09-13</td></tr>
+<tr><td>RWE AG</td><td>Onshore Wind Turbine Technician- South East England (kent)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Service – Field Service Engineer – X-ray Multi-vendor Services – North England</td><td>North England</td><td>2026-09-13</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Field Service Engineer – Diagnostic Imaging (ct, Pet & Nuclear)</td><td>Midlands</td><td>2026-09-13</td></tr>
+<tr><td>GE HealthCare</td><td>Field Service Engineer – Diagnostic Imaging (ct, Pet & Nuclear)</td><td>Midlands</td><td>2026-09-13</td></tr>
+<tr><td>Paretofm</td><td>Mobile Maintenance Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Sureserve Group</td><td>Function Tester Technician</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>THALES</td><td>Field Service Engineer</td><td>Devonport</td><td>2026-09-13</td></tr>
+<tr><td>Baker Hughes</td><td>Mechanical Fitter</td><td>Bridge Of Don</td><td>2026-09-13</td></tr>
+<tr><td>Baker Hughes</td><td>Mechanical Technician</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>KION Group</td><td>Resident Maintenance Technician-1</td><td>Leicestershire</td><td>2026-09-13</td></tr>
+<tr><td>KION Group</td><td>Shift Maintenance Technician</td><td>Ellistown</td><td>2026-09-13</td></tr>
+<tr><td>Sureserve Group</td><td>Fire Maintenance Engineer</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Origin Coffee</td><td>Junior Field Technician</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>miele.kz</td><td>Field Service Technician - Talent Pool (london)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Danaher UK</td><td>Field Service Engineer - North London And Surrounding Counties</td><td>North London</td><td>2026-09-13</td></tr>
+<tr><td>Britvic plc</td><td>Field Technician</td><td>Central London</td><td>2026-09-13</td></tr>
+<tr><td>Britvic plc</td><td>Technical Service Trainee</td><td>Yorkshire</td><td>2026-09-13</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Online</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (full Time) - London (battersea Power Station)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (part Time - 16 Hours) - Manchester Trafford Centre</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate - Edinburgh St James (part Time - 16 Hours)</td><td>Edinburgh</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate - Bicester (full Time)</td><td>Oxford</td><td>2026-09-13</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (part Time - 24 Hours) - One New Change</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate 20 Hrs</td><td>Oxford</td><td>2026-09-13</td></tr>
+<tr><td>Stryker</td><td>Associate Sales Representative, Endoscopy Visualisation (central London)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) 30hrs - Kingston</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Experience Expert Full Time</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Peter Jones John Lewis</td><td>Part Time Brand Specialist, Tommy Hilfiger & Calvin Klein - Peter Jones John Lewis</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>PVH Corp.</td><td>Part Time Brand Specialist, Tommy Hilfiger & Calvin Klein - Peter Jones John Lewis</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Ahwatukeepa</td><td>Materials Attendant</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>692</td><td>Materials Attendant</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>Prnatech</td><td>Materials Attendant</td><td>Aurora</td><td>2026-09-13</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Analytics & Sales - Japanese Speakers</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>White Stuff</td><td>Customer Host (12 Hrs)</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Selfridges Group</td><td>Brand Specialist (supervisor) - Corneliani Menswear London, United Kingdom Competitive Plus Benefits Permanent Apply By 3 October, 2026 Posted On 3 September, 2026</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Experience Expert Full Time</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Cytiva</td><td>Labour And Employee Relations Specialist - Discovery And Medical</td><td>Cardiff</td><td>2026-09-13</td></tr>
+<tr><td>Selfridges Group</td><td>Brand Specialist (supervisor) Loewe Manchester, United Kingdom Competitive Plus Benefits Permanent Apply By 20 September, 2026 Posted On 7 September, 2026</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>Manchester City Council</td><td>Assistant Exams Officer</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>WSP</td><td>Project Coordinator - Nature Services</td><td>United Kingdom</td><td>2026-09-13</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Birmingham</td><td>2026-09-13</td></tr>
+<tr><td>The Body Shop</td><td>Property Administration Assistant</td><td>UK</td><td>2026-09-13</td></tr>
+<tr><td>JCI</td><td>Facilities Coordinator</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Facilities Coordinator</td><td>Manchester</td><td>2026-09-13</td></tr>
+<tr><td>IMG</td><td>Executive Assistant, Football</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>LNRS DATA SERVICES</td><td>Account Specialist</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>IPSEN</td><td>Executive Assistant/attache(e) De Direction</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Capita</td><td>Administrator (estates Team)</td><td>Upavon</td><td>2026-09-13</td></tr>
+<tr><td>Octopus Australia</td><td>Executive Assistant</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Cobham</td><td>Administrative Assistant</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Urpa</td><td>Administrative Assistant</td><td>London</td><td>2026-09-13</td></tr>
+<tr><td>Bupa</td><td>Administrative Assistant</td><td>Birmingham</td><td>2026-09-13</td></tr>
 </table>
