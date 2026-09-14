@@ -5052,4 +5052,71 @@ _No archived roles yet._
 <tr><td>Cobham</td><td>Administrative Assistant</td><td>London</td><td>2026-09-13</td></tr>
 <tr><td>Urpa</td><td>Administrative Assistant</td><td>London</td><td>2026-09-13</td></tr>
 <tr><td>Bupa</td><td>Administrative Assistant</td><td>Birmingham</td><td>2026-09-13</td></tr>
+<tr><td>Tencent Cloud</td><td>Large Model Ai Infrastructure Intern</td><td>United Kingdom</td><td>2026-09-14</td></tr>
+<tr><td>Target Corporation</td><td>Store Executive Intern (store Leadership Intern) - Milwaukee, Wi (starting Summer 2027) ​ ​</td><td>Milwaukee</td><td>2026-09-14</td></tr>
+<tr><td>Engelhart</td><td>Commodity Trading Analytics Internship Program</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Neo4j</td><td>Software Engineer - Software Delivery</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>GSK</td><td>Aiml Software Engineer, Ai For Science</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>AVEVA Group plc</td><td>R&d Software Engineer</td><td>Cambridge</td><td>2026-09-14</td></tr>
+<tr><td>Citco</td><td>It Junior Support Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Accenture</td><td>Ai Software Engineering Specialist</td><td>Newcastle Upon Tyne</td><td>2026-09-14</td></tr>
+<tr><td>PZ Cussons</td><td>Onsite It Support Engineer</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>EWOR GmbH</td><td>Ai Ai/ml Engineer (100 % Remote) (m/f/d)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>EWOR GmbH</td><td>Fintech Ai/ml Engineer (100 % Remote) (m/f/d)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Vodafone</td><td>Junior Ai Software Engineer</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Brave</td><td>Ai Systems Researcher/engineer</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>HCLTech UK</td><td>Data Scientist</td><td>Unknown</td><td>2026-09-14</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Performance Reporting Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>Data Scientist - Forecasting</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Brown & Brown Europe</td><td>Placement Analyst</td><td>Leeds</td><td>2026-09-14</td></tr>
+<tr><td>Hastings Insurance Services Ltd</td><td>Actuary Graduate</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>ERM</td><td>Consulting Associate - Supply Chain</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>DARKTRACE AUSTRALIA PTY</td><td>Reporting Accountant ( 12 Month Ftc)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Lbgroupcoaching</td><td>Credit Officer - Securitisation (financial Institutions)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Lbgroupcoaching</td><td>Credit Officer - Specialist Finance (financial Institutions)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Anglian Water</td><td>Business Analyst</td><td>Cambridge</td><td>2026-09-14</td></tr>
+<tr><td>Suncor Energy</td><td>Risk Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>AXIS Capital</td><td>Data Quality Business Partner</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>AXIS Capital</td><td>Compliance Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Axis Capital</td><td>Portfolio Pricing Actuary / Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Linklaters</td><td>People Transformation - Business Analyst (6 Month Temporary Contract)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>TD Bank</td><td>Tds Operations Analyst Iii</td><td>Belfast</td><td>2026-09-14</td></tr>
+<tr><td>Land Securities Group</td><td>External Workforce - Business Analyst (ftc)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Land Securities Group</td><td>Cdsclear Risk Analyst</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Land Securities Group</td><td>Controls Analyst (1lod Risk Management)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Land Securities Group</td><td>Issue Management Analyst (1lod Risk Management)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-09-14</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst - Fx Algo Quant (vice President)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Urpa</td><td>Healthcare Assistant - Paediatrics</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Veolia</td><td>Service Engineer (electrical Bias)</td><td>West Midlands</td><td>2026-09-14</td></tr>
+<tr><td>Mars Australia</td><td>Multi Skilled Technician-electrical Bias-mars Wrigley</td><td>Devon</td><td>2026-09-14</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Vanderlande UK</td><td>Service Technician</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>35</td><td>Technician</td><td>Wimbourne</td><td>2026-09-14</td></tr>
+<tr><td>Air Liquide</td><td>Technician</td><td>Wimbourne</td><td>2026-09-14</td></tr>
+<tr><td>Alstom</td><td>Maintenance Technician - Bletchley</td><td>Milton Keynes</td><td>2026-09-14</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Field Service Engineer</td><td>Staffordshire</td><td>2026-09-14</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-09-14</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Service - Field Service Engineer (fse) - Ultrasound - London</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>GE HealthCare</td><td>Service - Field Service Engineer (fse) - Ultrasound - London</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>GE HealthCare</td><td>Service – Field Service Engineer – X-ray Multi-vendor Services – North England</td><td>North England</td><td>2026-09-14</td></tr>
+<tr><td>GLAS</td><td>Client Services Associate (fixed Term Contract - 9 Months)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Battersea</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate (40hrs)</td><td>Oxford</td><td>2026-09-14</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate (10 Hours, Fixed Term) - Stratford, London</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Adanola (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 6 October, 2026 Posted On 6 September, 2026</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Womenswear 3rd Floor (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Permanent Apply By 6 October, 2026 Posted On 6 September, 2026</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (12 Hours, Battersea Power St Wn)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>LEGO Group</td><td>Sales Associate</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Decathlon S.A</td><td>20h Part-time Hiking Sport Advisor (sales Assistant)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Decathlon S.A</td><td>Ski Sport Advisor</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Stratford (n127207)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Pan Macmillan</td><td>Rights Assistant</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Mystarrbenefits</td><td>Claims Administration Assistant (6m Ftc)</td><td>United Kingdom</td><td>2026-09-14</td></tr>
+<tr><td>LINEAGE LOGISTICS</td><td>Transport Administrator - 4 On 4 Off Nights</td><td>Coleshill</td><td>2026-09-14</td></tr>
+<tr><td>SLR CONSULTING AUSTRALIA PTY</td><td>Lvia Specialist</td><td>Bristol</td><td>2026-09-14</td></tr>
+<tr><td>Kia UK</td><td>Social Media Assistant (Undergraduate Placement Year 2027-28)</td><td>London</td><td>2026-09-14</td></tr>
+<tr><td>Arriva Inc</td><td>Property Project Coordinator</td><td>Lacon House</td><td>2026-09-14</td></tr>
+<tr><td>Bombardier</td><td>Proposal/planning Coordinator</td><td>Westerham</td><td>2026-09-14</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Leamington Shopping Park</td><td>Leamington Shopping Park</td><td>2026-09-14</td></tr>
 </table>
