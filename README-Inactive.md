@@ -5212,4 +5212,18 @@ _No archived roles yet._
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Kidswear - Gyle</td><td>Gyle</td><td>2026-09-15</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Administration Assistant - Tunbridge Wells</td><td>Royal Tunbridge Wells</td><td>2026-09-15</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home And Beauty - Leamington Shopping Park</td><td>Warwick</td><td>2026-09-15</td></tr>
+<tr><td>Bupa Group</td><td>Business Information Security Officer, Dental & Care Services</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>bupa.co.uk</td><td>Business Information Security Officer, Dental & Care Services</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d</td><td>Cambridge</td><td>2026-09-15</td></tr>
+<tr><td>Cadence</td><td>Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d</td><td>Cambridge</td><td>2026-09-15</td></tr>
+<tr><td>Scale AI</td><td>Frontier Agents Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>It Engineer</td><td>Salwick Preston</td><td>2026-09-15</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Ot Engineer</td><td>Salwick Preston</td><td>2026-09-15</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Bupa UK</td><td>Registered Nurse</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Beckman Coulter Diagnostics</td><td>Field Service Engineer (north Kent)</td><td>North Kent</td><td>2026-09-15</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Edinburgh</td><td>2026-09-15</td></tr>
+<tr><td>Jll Com Au</td><td>Business Support, Administrative Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>bupa.co.uk</td><td>Administrative Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Bupa Group</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-09-15</td></tr>
 </table>

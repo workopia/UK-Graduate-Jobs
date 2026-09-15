@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 780,
+ "count": 781,
  "jobs": {
   "2712150": {
    "id": "2712150",
@@ -1190,11 +1190,23 @@
    "role": "Software Engineer",
    "location": "Cambridge"
   },
+  "d2008f931fd5a37d3957f01a0c1f0446": {
+   "id": "d2008f931fd5a37d3957f01a0c1f0446",
+   "company": "RELX (LexisNexis)",
+   "role": "Software Engineer",
+   "location": "Cambridge"
+  },
   "e36a6c2d9bfe1ee2bca412612af42a9b": {
    "id": "e36a6c2d9bfe1ee2bca412612af42a9b",
    "company": "Aveva Group",
    "role": "Software Development Engineer",
    "location": "Cambridge"
+  },
+  "ad3791c84929e92c5ee222b531333fac": {
+   "id": "ad3791c84929e92c5ee222b531333fac",
+   "company": "jobs.abbott",
+   "role": "Technical Service Specialist/engineer - Midlands",
+   "location": "Midlands"
   },
   "6302a22052d42c24b26b5633f841beb7": {
    "id": "6302a22052d42c24b26b5633f841beb7",
@@ -1205,6 +1217,12 @@
   "0fd85fecd92e050000c209e93deea08c": {
    "id": "0fd85fecd92e050000c209e93deea08c",
    "company": "Covance / Labcorp Drug Dev UK",
+   "role": "Technical Specialist - Physical Chemical Testing",
+   "location": "Eye"
+  },
+  "c58b66c65c83a0a1de39b76db3bace16": {
+   "id": "c58b66c65c83a0a1de39b76db3bace16",
+   "company": "Labcorp",
    "role": "Technical Specialist - Physical Chemical Testing",
    "location": "Eye"
   },
@@ -1219,6 +1237,12 @@
    "company": "LSEG (London Stock Exchange Group)",
    "role": "Software Engineer - Devops",
    "location": "Edinburgh"
+  },
+  "3e5854bea27865b3497a0191a3ed1e70": {
+   "id": "3e5854bea27865b3497a0191a3ed1e70",
+   "company": "LSEG (London Stock Exchange Group)",
+   "role": "Attack Monitoring Analyst (gsoc)",
+   "location": "London"
   },
   "25c919cf8f286685b7f4d8c4565aa933": {
    "id": "25c919cf8f286685b7f4d8c4565aa933",
@@ -1332,30 +1356,6 @@
    "id": "dc239e04bf4c0252af90181b8df00375",
    "company": "HP Wolf Security",
    "role": "C++ Ai/ml Software Engineer",
-   "location": "Cambridge"
-  },
-  "987b29c04e4ec70999d27721d89f2b9c": {
-   "id": "987b29c04e4ec70999d27721d89f2b9c",
-   "company": "Bupa Group",
-   "role": "Business Information Security Officer, Dental & Care Services",
-   "location": "London"
-  },
-  "b93793e100aca57a11d13cceeba573c5": {
-   "id": "b93793e100aca57a11d13cceeba573c5",
-   "company": "bupa.co.uk",
-   "role": "Business Information Security Officer, Dental & Care Services",
-   "location": "London"
-  },
-  "0a94b89689d9c0a0f34cc10590698531": {
-   "id": "0a94b89689d9c0a0f34cc10590698531",
-   "company": "Cadence Design Systems",
-   "role": "Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d",
-   "location": "Cambridge"
-  },
-  "360023713cfec7c083d8764c0df712ac": {
-   "id": "360023713cfec7c083d8764c0df712ac",
-   "company": "Cadence",
-   "role": "Software Engineer Ii - Clock Tree Synthesis (cts), Innovus R&d",
    "location": "Cambridge"
   },
   "b6d8eed3d225b9b8533525e60067dd16": {
@@ -1640,6 +1640,12 @@
    "role": "Data & Digital Analyst",
    "location": "London"
   },
+  "e9fae237b35ac3698610501e228c35e6": {
+   "id": "e9fae237b35ac3698610501e228c35e6",
+   "company": "Aig Com Mo",
+   "role": "Data & Digital Analyst",
+   "location": "London"
+  },
   "d28219d0deae37f81725b0d568199ffe": {
    "id": "d28219d0deae37f81725b0d568199ffe",
    "company": "EssenceMediacom Holdings Limited",
@@ -1658,6 +1664,12 @@
    "role": "Customer Data And Insights Analyst",
    "location": "London"
   },
+  "aa7654a776be725e829b5817de9943ee": {
+   "id": "aa7654a776be725e829b5817de9943ee",
+   "company": "Arch Capital Group Ltd",
+   "role": "Customer Data And Insights Analyst",
+   "location": "London"
+  },
   "d26c17beeca4361727f13fb00b6ae171": {
    "id": "d26c17beeca4361727f13fb00b6ae171",
    "company": "Welltower Inc.",
@@ -1667,6 +1679,12 @@
   "4ac560c37f4c6dfd1817f9d1458e3125": {
    "id": "4ac560c37f4c6dfd1817f9d1458e3125",
    "company": "Linklaters",
+   "role": "Bdm Data Analyst",
+   "location": "London"
+  },
+  "4cb88064cd08ff85df00791b59bd1136": {
+   "id": "4cb88064cd08ff85df00791b59bd1136",
+   "company": "Linklaters LLP",
    "role": "Bdm Data Analyst",
    "location": "London"
   },
@@ -1685,6 +1703,12 @@
   "9b6c818714da72fd687c24521e4ebdf2": {
    "id": "9b6c818714da72fd687c24521e4ebdf2",
    "company": "Case Law Reporter",
+   "role": "Data Scientist Iii",
+   "location": "United Kingdom"
+  },
+  "1ba6eea1b017b96d0a004ab20a04f85b": {
+   "id": "1ba6eea1b017b96d0a004ab20a04f85b",
+   "company": "RELX (LexisNexis)",
    "role": "Data Scientist Iii",
    "location": "United Kingdom"
   },
@@ -1898,35 +1922,11 @@
    "role": "Emerging Tech Innovation Specialist",
    "location": "London"
   },
-  "aa7654a776be725e829b5817de9943ee": {
-   "id": "aa7654a776be725e829b5817de9943ee",
-   "company": "Arch Capital Group",
-   "role": "Customer Data And Insights Analyst",
-   "location": "London"
-  },
   "a7a3a0213bae5fc3d2cef39e638c3bd4": {
    "id": "a7a3a0213bae5fc3d2cef39e638c3bd4",
    "company": "Jobgether",
    "role": "Staff Ai Engineer, Payments Intelligence",
    "location": "United Kingdom"
-  },
-  "8540cbf4ce9dc38781c66709114ff6e5": {
-   "id": "8540cbf4ce9dc38781c66709114ff6e5",
-   "company": "Scale AI",
-   "role": "Frontier Agents Engineer",
-   "location": "London"
-  },
-  "d7907c8a6380162f789bd2b61c0154b6": {
-   "id": "d7907c8a6380162f789bd2b61c0154b6",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "It Engineer",
-   "location": "Salwick Preston"
-  },
-  "680eec5e42f7a98ab3d216deaed705e7": {
-   "id": "680eec5e42f7a98ab3d216deaed705e7",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Ot Engineer",
-   "location": "Salwick Preston"
   },
   "1b7b843b1efe74de90fc6eac8d584fe8": {
    "id": "1b7b843b1efe74de90fc6eac8d584fe8",
@@ -1970,6 +1970,12 @@
    "role": "Actuarial Intern, Summer 2027",
    "location": "Milwaukee"
   },
+  "628fb779e9b8e86c4eb4b77ac4357466": {
+   "id": "628fb779e9b8e86c4eb4b77ac4357466",
+   "company": "Citi",
+   "role": "Markets, Quantitative Analysis, Off Cycle Placement , London, Uk, 2027",
+   "location": "London"
+  },
   "d955b8f26639fa5da73b621136345f4c": {
    "id": "d955b8f26639fa5da73b621136345f4c",
    "company": "Citi Handlowy",
@@ -2009,6 +2015,12 @@
   "e8a268826406057517a07cd752223664": {
    "id": "e8a268826406057517a07cd752223664",
    "company": "Citi Handlowy",
+   "role": "Internal Audit - Full-time Analyst, London, 2027(applicable For 2026 Citi Summer Interns Only)",
+   "location": "London"
+  },
+  "0e483b9a6c207a6c98678e15797bf4b5": {
+   "id": "0e483b9a6c207a6c98678e15797bf4b5",
+   "company": "Citi",
    "role": "Internal Audit - Full-time Analyst, London, 2027(applicable For 2026 Citi Summer Interns Only)",
    "location": "London"
   },
@@ -2082,12 +2094,6 @@
    "id": "targetjobs:c7107927-d62f-428f-95a1-cb2c8b9c5fef",
    "company": "Schroders",
    "role": "2027 Public Markets Quants Internship Programme",
-   "location": "London"
-  },
-  "628fb779e9b8e86c4eb4b77ac4357466": {
-   "id": "628fb779e9b8e86c4eb4b77ac4357466",
-   "company": "Citi",
-   "role": "Markets, Quantitative Analysis, Off Cycle Placement , London, Uk, 2027",
    "location": "London"
   },
   "targetjobs:a54a46eb-f27b-4b51-91da-f084d294a8ae": {
@@ -2846,9 +2852,21 @@
    "role": "Healthcare Assistant (bank)",
    "location": "London"
   },
+  "6751cd191947aad71dd583643b2a7443": {
+   "id": "6751cd191947aad71dd583643b2a7443",
+   "company": "Bupa UK",
+   "role": "Care Assistant",
+   "location": "London"
+  },
   "c94294137189940f7b4aadcd9a52adfa": {
    "id": "c94294137189940f7b4aadcd9a52adfa",
    "company": "Mericalherbs",
+   "role": "Clinical Research Associate - North West England",
+   "location": "North West England"
+  },
+  "6dc67e49f38d30c661554d113bf80039": {
+   "id": "6dc67e49f38d30c661554d113bf80039",
+   "company": "vetshired.us",
    "role": "Clinical Research Associate - North West England",
    "location": "North West England"
   },
@@ -2994,12 +3012,6 @@
    "id": "3807733d52f41169130682c4559b5715",
    "company": "Radfield Home Care",
    "role": "Care Assistant - Mornings",
-   "location": "London"
-  },
-  "d7e28e3f53b86e1be4bd57fd153e1b0a": {
-   "id": "d7e28e3f53b86e1be4bd57fd153e1b0a",
-   "company": "Bupa UK",
-   "role": "Care Assistant",
    "location": "London"
   },
   "c4e3cbd08b1b89242d3ba572add4318a": {
@@ -3233,12 +3245,6 @@
   "5dcede7aaee13081cb2ca9f58d883811": {
    "id": "5dcede7aaee13081cb2ca9f58d883811",
    "company": "Bupa Wilmington Manor Care Home",
-   "role": "Registered Nurse",
-   "location": "London"
-  },
-  "56e2ed0ee773e292f7f2b8019f80e903": {
-   "id": "56e2ed0ee773e292f7f2b8019f80e903",
-   "company": "Bupa UK",
    "role": "Registered Nurse",
    "location": "London"
   },
@@ -3686,6 +3692,12 @@
    "role": "Maintenance Technician",
    "location": "London"
   },
+  "eeeb4196cf3463ee6ecb2e69e4e6c32f": {
+   "id": "eeeb4196cf3463ee6ecb2e69e4e6c32f",
+   "company": "Greystar Australia Property Manager",
+   "role": "Maintenance Technician",
+   "location": "London"
+  },
   "63039810e39c72f930940c7af4aa7ba9": {
    "id": "63039810e39c72f930940c7af4aa7ba9",
    "company": "AGGREKO",
@@ -3715,12 +3727,6 @@
    "company": "RWE AG",
    "role": "Onshore Wind Turbine Technician - South Yorkshire, Notts, Cambs",
    "location": "Moorends"
-  },
-  "588f97fa2f6218e2b98a706d33941e72": {
-   "id": "588f97fa2f6218e2b98a706d33941e72",
-   "company": "Beckman Coulter Diagnostics",
-   "role": "Field Service Engineer (north Kent)",
-   "location": "North Kent"
   },
   "009f6a7e7e16e8281d0a21dca025d550": {
    "id": "009f6a7e7e16e8281d0a21dca025d550",
@@ -3992,12 +3998,6 @@
    "role": "Sales Associate (32 Hrs)",
    "location": "Oxford"
   },
-  "b141c7a5ea6622fb80f80b1d2acf5e2c": {
-   "id": "b141c7a5ea6622fb80f80b1d2acf5e2c",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
-   "location": "Edinburgh"
-  },
   "2dac90091e12adbac00a78e54bb40cff": {
    "id": "2dac90091e12adbac00a78e54bb40cff",
    "company": "Harrods",
@@ -4201,6 +4201,12 @@
    "company": "NEXT plc",
    "role": "Vs Seasonal Sales Associate - Vs Trafford (n127638)",
    "location": "Manchester"
+  },
+  "4c2d6d3aedbf87dcc445929d35fb79e7": {
+   "id": "4c2d6d3aedbf87dcc445929d35fb79e7",
+   "company": "Spire Healthcare",
+   "role": "Stores Assistant",
+   "location": "Wirral"
   },
   "40f7f168e8ca4f2b949af331381b7ecf": {
    "id": "40f7f168e8ca4f2b949af331381b7ecf",
@@ -4496,12 +4502,6 @@
    "role": "Facilities Coordinator",
    "location": "Reading"
   },
-  "5dc201a3e507a9b398983a48ae19228d": {
-   "id": "5dc201a3e507a9b398983a48ae19228d",
-   "company": "Jll Com Au",
-   "role": "Business Support, Administrative Assistant",
-   "location": "London"
-  },
   "f747409e74045aad0b9714c50b18b699": {
    "id": "f747409e74045aad0b9714c50b18b699",
    "company": "Pick Everard",
@@ -4525,6 +4525,12 @@
    "company": "Marks & Spencer Group",
    "role": "Customer Assistant - Fashion, Home & Beauty - Hammersmith",
    "location": "Hammersmith"
+  },
+  "20afa9e5781fea2a7e00377acc0fec92": {
+   "id": "20afa9e5781fea2a7e00377acc0fec92",
+   "company": "Nuffield Health",
+   "role": "Healthcare Assistant",
+   "location": "North Staffordshire"
   },
   "5fedb29cf80d71942cf8e087b326bd53": {
    "id": "5fedb29cf80d71942cf8e087b326bd53",
@@ -4562,6 +4568,12 @@
    "role": "Executive Assistant To Business Unit Head",
    "location": "United Kingdom"
   },
+  "a91cbbbb230d938541592a8694826ef5": {
+   "id": "a91cbbbb230d938541592a8694826ef5",
+   "company": "RELX (LexisNexis)",
+   "role": "Registration Executive",
+   "location": "London"
+  },
   "8b4c3c8c08fb96b5b5eecf17f3d42938": {
    "id": "8b4c3c8c08fb96b5b5eecf17f3d42938",
    "company": "RX",
@@ -4595,6 +4607,12 @@
   "c0867130ec836923d074e6160b87c572": {
    "id": "c0867130ec836923d074e6160b87c572",
    "company": "Citi Handlowy",
+   "role": "Desk Assistant - Trading",
+   "location": "Belfast"
+  },
+  "859e17f70a22e28ca6bef18eba4f5456": {
+   "id": "859e17f70a22e28ca6bef18eba4f5456",
+   "company": "Citi",
    "role": "Desk Assistant - Trading",
    "location": "Belfast"
   },
@@ -4669,18 +4687,6 @@
    "company": "Bupa Group",
    "role": "Administrative Assistant",
    "location": "London"
-  },
-  "5fe4f5a9f4bec2d5f210bbd225c2d011": {
-   "id": "5fe4f5a9f4bec2d5f210bbd225c2d011",
-   "company": "bupa.co.uk",
-   "role": "Administrative Assistant",
-   "location": "London"
-  },
-  "80c69529aac588373b794b4e28736ca6": {
-   "id": "80c69529aac588373b794b4e28736ca6",
-   "company": "Bupa Group",
-   "role": "Activity Coordinator",
-   "location": "Oxford"
   }
  }
 }
