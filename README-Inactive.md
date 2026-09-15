@@ -5119,4 +5119,97 @@ _No archived roles yet._
 <tr><td>Arriva Inc</td><td>Property Project Coordinator</td><td>Lacon House</td><td>2026-09-14</td></tr>
 <tr><td>Bombardier</td><td>Proposal/planning Coordinator</td><td>Westerham</td><td>2026-09-14</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Leamington Shopping Park</td><td>Leamington Shopping Park</td><td>2026-09-14</td></tr>
+<tr><td>IKEA UK</td><td>Communication & Interior Design Interns (4 - 6 Months)</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>IKEA UK</td><td>Internship - Customer Relations</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>It Hr And Legal Domain Intern</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Chanel</td><td>It Hr And Legal Domain Intern</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Tencent</td><td>Large Model Ai Infrastructure Intern</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Kpler SaS</td><td>Full Stack Engineer</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Wayve</td><td>Software Engineer, Ai Libraries</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Cisco</td><td>Software Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Cboe Global Markets</td><td>Python Software Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Motorola Solutions</td><td>Software Engineer, Frontend (typescript)</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Mid Level Back End Software Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>ESL FACEIT Group</td><td>Staff Software Engineer - Backend</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Preqin</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Solenis</td><td>Equipment Engineer, Technical Customer Support</td><td>Lower Midlands +1</td><td>2026-09-15</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Technical Support Officer - Council</td><td>Hackney</td><td>2026-09-15</td></tr>
+<tr><td>Neo4j</td><td>Software Engineer - Developer Experience</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Anduril</td><td>Security Operations Analyst, Uk</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Playtech Plc</td><td>T1 Security Analyst</td><td>Kyiv</td><td>2026-09-15</td></tr>
+<tr><td>ElevenLabs</td><td>Data Scientist - Ai Safety</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Sportradar</td><td>Data Scientist (m/f/d)</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Lightningaijobs</td><td>Research Engineer, Ai/ml Systems</td><td>San Francisco +3</td><td>2026-09-15</td></tr>
+<tr><td>Fred Perry Ltd</td><td>Bi Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Just Eat Takeaway</td><td>Data Analyst</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Sephora USA Inc</td><td>Forecasting Analyst (omnichannel) - Fixed Term Contract Until April 2027</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Statutory Accountant</td><td>Glasgow</td><td>2026-09-15</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Statutory Accountant</td><td>Glasgow</td><td>2026-09-15</td></tr>
+<tr><td>Precision Medicine Group</td><td>Analyst, Market Access Consulting</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Barclays</td><td>Options And Structured Rates Quant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>jobs.barclays</td><td>Options And Structured Rates Quant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Brightonparkbank</td><td>Sustainable / Project Finance - Investment Banking Avp</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Barclays</td><td>Pbwm Business Support Analyst -high Risk Reviewer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>jobs.barclays</td><td>Pbwm Business Support Analyst -high Risk Reviewer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Barclays</td><td>Business Analyst</td><td>Manchester</td><td>2026-09-15</td></tr>
+<tr><td>jobs.barclays</td><td>Business Analyst</td><td>Manchester</td><td>2026-09-15</td></tr>
+<tr><td>LTA Operations Ltd</td><td>Pos Workforce Compliance Coordinator</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Healthcare Investment Banking - Associate</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Debt Restructuring - Associate</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Client Account Management Team - Onboarding & Reviews Analyst</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>The New York Times</td><td>International Accountant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>The New York Times Company</td><td>International Accountant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>ASOS</td><td>Assistant Compliance Technologist</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Cancer Research UK</td><td>Internal Audit Manger</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>octopus.energy</td><td>Management Accountant (14-month Ftc)</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Operose Health Ltd</td><td>Practice Nurse Wembley, London, United Kingdom Depending On Experience Permanent - Full Time Apply By 31 August, 2026 Job Posted Date 11 August, 2026</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>SeeAbility</td><td>Female Support Worker</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant Rosebery Manor Care Home, 458 Reigate Road, Epsom, Surrey, United Kingdom £13.25 Per Hour Full Time Apply By 24 August, 2026 Posted On 10 August, 2026</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Bupa</td><td>Registered Nurse</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Bekaert</td><td>Multi-skilled Maintenance Technician</td><td>Willington Quay</td><td>2026-09-15</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Arabelle Solutions</td><td>Mechanical Fitter Grade 5</td><td>Somerset</td><td>2026-09-15</td></tr>
+<tr><td>SAICA</td><td>Maintenance Technician-1</td><td>Carrington</td><td>2026-09-15</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Traffic Signals Maintenance Engineer</td><td>South London</td><td>2026-09-15</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-09-15</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Fire Alarm Service Engineer</td><td>Tyne And Wear</td><td>2026-09-15</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Chiller Service Technician</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Customer Solutions Technician</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Service Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Leonardo</td><td>Field Service Representative</td><td>RAF Coningsby</td><td>2026-09-15</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Mro Mechanical Technician</td><td>Middle Wallop</td><td>2026-09-15</td></tr>
+<tr><td>Boeing Co</td><td>Fixed Wing Avionic Maintenance Technician</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Smith+Nephew</td><td>Field Technician (12-month Fixed-term Contract)</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Veolia UK</td><td>Landfill Aftercare & Maintenance Technician</td><td>Otterbourne</td><td>2026-09-15</td></tr>
+<tr><td>Veolia</td><td>Landfill Aftercare & Maintenance Technician</td><td>Otterbourne</td><td>2026-09-15</td></tr>
+<tr><td>Veolia UK</td><td>Service Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Veolia</td><td>Service Engineer</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Veolia UK</td><td>Mechanical Technician</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Veolia</td><td>Mechanical Technician</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Veolia UK</td><td>Mechanical/electrical Maintenance Technician</td><td>Yorkshire</td><td>2026-09-15</td></tr>
+<tr><td>Veolia</td><td>Mechanical/electrical Maintenance Technician</td><td>Yorkshire</td><td>2026-09-15</td></tr>
+<tr><td>Ukme</td><td>Stores Assistant (permanent)</td><td>Surrey</td><td>2026-09-15</td></tr>
+<tr><td>Genpt</td><td>Warehouse Associate</td><td>Tukwila</td><td>2026-09-15</td></tr>
+<tr><td>Bloomberg</td><td>2027 Analytics & Sales - Japanese Speakers</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor Covent Garden (15 Hours)</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs Arndale Centre (n127405)</td><td>Manchester</td><td>2026-09-15</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Assistant - Level 3</td><td>Oxford</td><td>2026-09-15</td></tr>
+<tr><td>bupa.co.uk</td><td>Activity Coordinator</td><td>Oxford</td><td>2026-09-15</td></tr>
+<tr><td>The Dermatology Partnership</td><td>Healthcare Assistant - Level 3</td><td>Oxford</td><td>2026-09-15</td></tr>
+<tr><td>bupa.co.uk</td><td>Healthcare Assistant</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Hitachi Vantara</td><td>Job Posting Title Project Planning & Controls Specialist</td><td>Birmingham</td><td>2026-09-15</td></tr>
+<tr><td>Gibson Dunn</td><td>Executive Assistant - Private Equity</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Space NK</td><td>Supervisor Hampstead (37.5 Hours)</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Invesco</td><td>Team Admin Assistant - Fixed Income</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>LEGO Group</td><td>Executive Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Acrisure</td><td>Executive Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>NTT DATA</td><td>Executive Assistant</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Xylem Inc</td><td>Project Administrator</td><td>Waukesha Ridgeview</td><td>2026-09-15</td></tr>
+<tr><td>Baker Hughes</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-09-15</td></tr>
+<tr><td>Medtronic</td><td>Administrative Assistant, Managed Equipment Services</td><td>London</td><td>2026-09-15</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Hammersmith</td><td>Hammersmith</td><td>2026-09-15</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Kidswear - Gyle</td><td>Gyle</td><td>2026-09-15</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Administration Assistant - Tunbridge Wells</td><td>Royal Tunbridge Wells</td><td>2026-09-15</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home And Beauty - Leamington Shopping Park</td><td>Warwick</td><td>2026-09-15</td></tr>
 </table>
