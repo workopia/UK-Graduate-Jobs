@@ -5323,4 +5323,41 @@ _No archived roles yet._
 <tr><td>Veolia</td><td>Transport Coordinator</td><td>Colwick</td><td>2026-09-16</td></tr>
 <tr><td>Novartis</td><td>Executive Assistant / Coordinator</td><td>Kyiv</td><td>2026-09-16</td></tr>
 <tr><td>Bupa Group</td><td>Administrative Assistant</td><td>London</td><td>2026-09-16</td></tr>
+<tr><td>Standard Chartered</td><td>Financial Markets Intern UK 2027</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Symphony Communication</td><td>Intern, Customer Success</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Rehlko</td><td>Apprentice</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Leonardo</td><td>C++ Software Engineer</td><td>Edinburgh</td><td>2026-09-17</td></tr>
+<tr><td>Monzo Bank</td><td>Backend Engineer Iii</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Accenture</td><td>Quality Automation Engineer</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Lexis+ AI</td><td>Data Scientist Iii</td><td>United Kingdom</td><td>2026-09-17</td></tr>
+<tr><td>Royal London Asset Management</td><td>Front Office Business Insights Analyst</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>IQVIA Holdings</td><td>Supplier Services Analyst</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Supplier Services Analyst</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Starling Bank</td><td>Finance Analyst</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Co-op</td><td>Business Analyst</td><td>Manchester</td><td>2026-09-17</td></tr>
+<tr><td>Co-op</td><td>Finance Service Analyst</td><td>Manchester</td><td>2026-09-17</td></tr>
+<tr><td>Howden</td><td>Legacy Iba Account Handler</td><td>Uk</td><td>2026-09-17</td></tr>
+<tr><td>Howden Insurance</td><td>Legacy Iba Account Handler</td><td>United Kingdom</td><td>2026-09-17</td></tr>
+<tr><td>Bupa</td><td>Care Assistant - Bank</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Bupa</td><td>Care Assistant</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>ICON Broadbean</td><td>Clinical Research Associate 1</td><td>UK</td><td>2026-09-17</td></tr>
+<tr><td>Turning Point</td><td>Female Waking Nights Support Worker Watford, United Kingdom £26,495 Based On 37 Hours / £31,850 Based On 45 Hours (inclusive Of Olw £1,722) Permanent Apply By 27 August, 2026 Posted On 13 August, 2026</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-09-17</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Lift Repairs Engineer</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Service Call Out Engineer - Escalators</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Maintenance Engineer - Nights</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Service Engineer - Escalators</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Escalator Engineer - Service Call Out</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Cubic Defense</td><td>Field Services Technician 2</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Online</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>JCI</td><td>Customer Experience Coordinator</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Recovery Focus</td><td>Administrator</td><td>Sheffield</td><td>2026-09-17</td></tr>
+<tr><td>Rivers Hospital</td><td>Outpatient Bookings Admin Assistant</td><td>Chelmsford</td><td>2026-09-17</td></tr>
+<tr><td>Ashtead Hospital</td><td>Bank Administration Assistant</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>Kronospan</td><td>Despatch Operations Administrator</td><td>Chirk</td><td>2026-09-17</td></tr>
+<tr><td>Syneos Health</td><td>Executive Assistant To Business Unit Head</td><td>United Kingdom</td><td>2026-09-17</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Registration Executive</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>RX</td><td>Registration Executive</td><td>London</td><td>2026-09-17</td></tr>
+<tr><td>LexisNexis Risk Solutions</td><td>Account Specialist</td><td>London</td><td>2026-09-17</td></tr>
 </table>
