@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-17",
- "count": 786,
+ "asOf": "2026-09-18",
+ "count": 787,
  "jobs": {
   "2712150": {
    "id": "2712150",
@@ -8,11 +8,53 @@
    "role": "Graduate Business Analyst, Insurtech",
    "location": "London"
   },
+  "da3c814439d32565e69e2115e421fb79": {
+   "id": "da3c814439d32565e69e2115e421fb79",
+   "company": "CMC Markets",
+   "role": "Ai Agent Developer Intern - Cmc Funded",
+   "location": "London"
+  },
+  "a1179a37017e71d4ecbe0817f4fac2ec": {
+   "id": "a1179a37017e71d4ecbe0817f4fac2ec",
+   "company": "Euronext Technologies SaS",
+   "role": "Sr Intern",
+   "location": "London"
+  },
+  "f7f5e9847b23fa04ba8552c3225d5a1d": {
+   "id": "f7f5e9847b23fa04ba8552c3225d5a1d",
+   "company": "Turner & Townsend",
+   "role": "Summer Placement 2027 - Cost Management And Commercial Management - London",
+   "location": "London"
+  },
   "536d951e140ffefbe38fffccbdde2151": {
    "id": "536d951e140ffefbe38fffccbdde2151",
    "company": "GOCal",
    "role": "Market Intelligence Revenue Associate Internship",
    "location": "London"
+  },
+  "e8fc1ec674394fc96292dd23cf35de80": {
+   "id": "e8fc1ec674394fc96292dd23cf35de80",
+   "company": "Schonfeld",
+   "role": "2027 Dmfi Quant Developer Intern",
+   "location": "London"
+  },
+  "40d99b8d63ec3edbf856c33854e81ea2": {
+   "id": "40d99b8d63ec3edbf856c33854e81ea2",
+   "company": "EBRD",
+   "role": "Intern",
+   "location": "London"
+  },
+  "d5e094d3c7e6091d6f3caa3d44e5add3": {
+   "id": "d5e094d3c7e6091d6f3caa3d44e5add3",
+   "company": "C.H. Robinson Worldwide",
+   "role": "Intern - Associate Portfolio Representative - Starting 2027",
+   "location": "Milwaukee"
+  },
+  "dd06c432e2fa7ff77ea53f80761a9474": {
+   "id": "dd06c432e2fa7ff77ea53f80761a9474",
+   "company": "Eucalyptus",
+   "role": "Mba Intern - Strategy Associate",
+   "location": "Uk"
   },
   "27457947ad5103d77a35900be8a17f4c": {
    "id": "27457947ad5103d77a35900be8a17f4c",
@@ -446,48 +488,6 @@
    "role": "Chubb Career Insight Week",
    "location": "London"
   },
-  "93bbaddf207872a26659c260f5592b56": {
-   "id": "93bbaddf207872a26659c260f5592b56",
-   "company": "RWE AG",
-   "role": "Internship Commodity Accounting & Reporting D/f/m",
-   "location": "Essen +1"
-  },
-  "48d4faea156c8d61d93bbf504b0e25f7": {
-   "id": "48d4faea156c8d61d93bbf504b0e25f7",
-   "company": "Schonfeld",
-   "role": "2027 Risk Analyst (dmfi) Intern",
-   "location": "London"
-  },
-  "22155d95c7e7d9c96e1541370b1731bd": {
-   "id": "22155d95c7e7d9c96e1541370b1731bd",
-   "company": "David Zwirner",
-   "role": "Frieze Intern",
-   "location": "London"
-  },
-  "913a630176dae118c9671e6a5eec1493": {
-   "id": "913a630176dae118c9671e6a5eec1493",
-   "company": "Mangroup",
-   "role": "Quant Researcher Internship",
-   "location": "London"
-  },
-  "94dd529b1992bf32fc7242a21e850890": {
-   "id": "94dd529b1992bf32fc7242a21e850890",
-   "company": "AECOM UK",
-   "role": "Industrial Placement Student - Tunnelling (summer 2027)",
-   "location": "London"
-  },
-  "43c5dd51e5ab656789c3f9c5c1dc4a94": {
-   "id": "43c5dd51e5ab656789c3f9c5c1dc4a94",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Quality Systems & Compliance Intern",
-   "location": "Covingham"
-  },
-  "2d10f52ea58ba6ea65a9d13b3ddab1b7": {
-   "id": "2d10f52ea58ba6ea65a9d13b3ddab1b7",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Quality Systems & Compliance Intern",
-   "location": "Covingham"
-  },
   "a8985a3cfed0fdfb0ab97214486f6953": {
    "id": "a8985a3cfed0fdfb0ab97214486f6953",
    "company": "AECOM UK",
@@ -776,20 +776,14 @@
    "role": "Hr Support Apprentice",
    "location": "London"
   },
-  "cd65119f7d6809fe05f9028182805dc2": {
-   "id": "cd65119f7d6809fe05f9028182805dc2",
-   "company": "Amey Ltd",
-   "role": "Administrator Apprentice",
-   "location": "Manchester"
-  },
   "3525b672a590d1aa962e9b0e2512a915": {
    "id": "3525b672a590d1aa962e9b0e2512a915",
    "company": "MBDA",
    "role": "Software Engineer - Undergraduate Placement 2027",
    "location": "Bristol"
   },
-  "e2149f9505de0e047ea9845b960f07eb": {
-   "id": "e2149f9505de0e047ea9845b960f07eb",
+  "42142f1c6871f653855dd63da22c5006": {
+   "id": "42142f1c6871f653855dd63da22c5006",
    "company": "NXP USA INC.",
    "role": "Intern Ai And Software Engineer - Automotive Mpus",
    "location": "Glasgow"
@@ -896,17 +890,83 @@
    "role": "Graduate Software Engineer",
    "location": "Glasgow"
   },
+  "eadbb816fe55b3be3a2d0b34173ce272": {
+   "id": "eadbb816fe55b3be3a2d0b34173ce272",
+   "company": "Motorola Solutions",
+   "role": "Software Engineer",
+   "location": "Edinburgh"
+  },
+  "bc96136a2c64f1ef47a5429dee99d156": {
+   "id": "bc96136a2c64f1ef47a5429dee99d156",
+   "company": "LKQ Europe",
+   "role": "Technical Specialist",
+   "location": "Field Based"
+  },
+  "606d6d09cd2f02daa21fc2cf225dfa3f": {
+   "id": "606d6d09cd2f02daa21fc2cf225dfa3f",
+   "company": "Cloudflare",
+   "role": "Software Engineer, Cdn Configuration Group",
+   "location": "London"
+  },
+  "50d1011cd5c2e7908518d7e48b8f9fbf": {
+   "id": "50d1011cd5c2e7908518d7e48b8f9fbf",
+   "company": "European Molecular Biology Laboratory",
+   "role": "Software Engineer (hpc Sustainability)",
+   "location": "Hinxton"
+  },
   "1a7bff89b62ede13292ab094525c3f0a": {
    "id": "1a7bff89b62ede13292ab094525c3f0a",
    "company": "Citi",
    "role": "Full Stack Engineer - React/typescript - Python (vp)",
    "location": "London"
   },
+  "0339742cf4eb3c72d25ddcf29400ae12": {
+   "id": "0339742cf4eb3c72d25ddcf29400ae12",
+   "company": "bet365",
+   "role": "Software Developer, Cerberus",
+   "location": "Manchester"
+  },
+  "b984fecd6e8642af123b7335732adbb0": {
+   "id": "b984fecd6e8642af123b7335732adbb0",
+   "company": "bet365",
+   "role": "Software Developer, Account Management & Onboarding",
+   "location": "Manchester"
+  },
+  "2f69c39cf6b4ac9d6d913cc6cdeab02c": {
+   "id": "2f69c39cf6b4ac9d6d913cc6cdeab02c",
+   "company": "Sonyinteractiveentertainmentglobal",
+   "role": "Software Engineer In Test, Toolchain Qe",
+   "location": "Bristol"
+  },
+  "76e83fe6da4c0df0b427415e30865344": {
+   "id": "76e83fe6da4c0df0b427415e30865344",
+   "company": "Emerson Electric",
+   "role": "Software Engineer",
+   "location": "Lviv"
+  },
+  "823aa51e0f121d83381e985482515367": {
+   "id": "823aa51e0f121d83381e985482515367",
+   "company": "Emerson",
+   "role": "Software Engineer",
+   "location": "Lviv"
+  },
   "5b7246dd318ffb6f11a085ac2a6b7aab": {
    "id": "5b7246dd318ffb6f11a085ac2a6b7aab",
    "company": "North Norfolk District Council",
    "role": "Estates Technical Support Officer",
    "location": "North Norfolk"
+  },
+  "c701f1c6c1c6657a4228a233bb49698c": {
+   "id": "c701f1c6c1c6657a4228a233bb49698c",
+   "company": "Compass Pathways",
+   "role": "It Support Engineer",
+   "location": "Jersey City +1"
+  },
+  "b5fd66048b4bc3df0fefb3ffc20086d8": {
+   "id": "b5fd66048b4bc3df0fefb3ffc20086d8",
+   "company": "Playtech",
+   "role": "Junior Backend Engineer",
+   "location": "Kyiv"
   },
   "b81120024120518cc955c455495cffbf": {
    "id": "b81120024120518cc955c455495cffbf",
@@ -1310,72 +1370,6 @@
    "role": "Index Distribution Software Engineer",
    "location": "London"
   },
-  "f731044478c3b7bd3e1da3111d3b930b": {
-   "id": "f731044478c3b7bd3e1da3111d3b930b",
-   "company": "LSEG (London Stock Exchange Group)",
-   "role": "Software Engineer - Devops",
-   "location": "Edinburgh"
-  },
-  "3e5854bea27865b3497a0191a3ed1e70": {
-   "id": "3e5854bea27865b3497a0191a3ed1e70",
-   "company": "LSEG (London Stock Exchange Group)",
-   "role": "Attack Monitoring Analyst (gsoc)",
-   "location": "London"
-  },
-  "25c919cf8f286685b7f4d8c4565aa933": {
-   "id": "25c919cf8f286685b7f4d8c4565aa933",
-   "company": "Land Securities Group",
-   "role": "Attack Monitoring Analyst (gsoc)",
-   "location": "London"
-  },
-  "70f37af8669043ffc79353642ce418ec": {
-   "id": "70f37af8669043ffc79353642ce418ec",
-   "company": "Land Securities Group",
-   "role": "Java Developer (blockchain)",
-   "location": "London"
-  },
-  "7042ada5298cfef4e5ffcced7acd31a3": {
-   "id": "7042ada5298cfef4e5ffcced7acd31a3",
-   "company": "Land Securities Group",
-   "role": "Software Engineer",
-   "location": "London"
-  },
-  "c829345010ea9da504be07189c1b56a3": {
-   "id": "c829345010ea9da504be07189c1b56a3",
-   "company": "gsfgroupcareers",
-   "role": "Technical Sales Specialist - Oil",
-   "location": "United Kingdom"
-  },
-  "06b19ece11cf72e208ac183899e2da16": {
-   "id": "06b19ece11cf72e208ac183899e2da16",
-   "company": "MBDA",
-   "role": "Software Engineer",
-   "location": "Bristol"
-  },
-  "0678e64bfa1a6bb7e6ed84315e1637ab": {
-   "id": "0678e64bfa1a6bb7e6ed84315e1637ab",
-   "company": "MBDA",
-   "role": "Software Engineer - Data Distribution Service (rti Dds)",
-   "location": "Bristol"
-  },
-  "2a39b8f4ad253481348aeff4abf28ea0": {
-   "id": "2a39b8f4ad253481348aeff4abf28ea0",
-   "company": "x.ai",
-   "role": "Backend Engineer - Api",
-   "location": "London"
-  },
-  "8184b9bbbfc683b626d582969435f214": {
-   "id": "8184b9bbbfc683b626d582969435f214",
-   "company": "x.ai",
-   "role": "Threat Intelligence Analyst, Threat Disruption",
-   "location": "London"
-  },
-  "1d82d215fa322016a8c54b5922d2a900": {
-   "id": "1d82d215fa322016a8c54b5922d2a900",
-   "company": "Clear Street",
-   "role": "Software Engineer - Front End - Studio (core)",
-   "location": "London"
-  },
   "b6d8eed3d225b9b8533525e60067dd16": {
    "id": "b6d8eed3d225b9b8533525e60067dd16",
    "company": "Boston Consulting Group",
@@ -1478,11 +1472,71 @@
    "role": "Trainee Robot & Automation Engineer",
    "location": "GB"
   },
+  "8b3636a3206f9982e56d56fffb7b18fb": {
+   "id": "8b3636a3206f9982e56d56fffb7b18fb",
+   "company": "Anaplan Asia Pte Ltd",
+   "role": "Sdet - Ai",
+   "location": "London"
+  },
+  "57a2e8ecd0b4d9925fa6ea59043b0551": {
+   "id": "57a2e8ecd0b4d9925fa6ea59043b0551",
+   "company": "Subsea 7 SA",
+   "role": "Hr Data Analyst",
+   "location": "London"
+  },
+  "43afbf0ae87aa76501b3f9cbfce99093": {
+   "id": "43afbf0ae87aa76501b3f9cbfce99093",
+   "company": "Bank Pekao",
+   "role": "Ekspert / Ekspertka Ds. Analiz I Raportowania",
+   "location": "United Kingdom"
+  },
+  "f1837b61b1dcdb33bf7cdac855f12b29": {
+   "id": "f1837b61b1dcdb33bf7cdac855f12b29",
+   "company": "Formula 1",
+   "role": "Data Analyst",
+   "location": "London"
+  },
   "53ba0b64e4104003751fec170d8466f9": {
    "id": "53ba0b64e4104003751fec170d8466f9",
    "company": "Bupa",
    "role": "Reporting Insight Analyst",
    "location": "Salford Quays"
+  },
+  "a5d33cc4824991ca8ea933e0a10e6543": {
+   "id": "a5d33cc4824991ca8ea933e0a10e6543",
+   "company": "Schneider Electric",
+   "role": "Data Analyst I",
+   "location": "England"
+  },
+  "4f2fed4ce036525806d9f8bcd454a3e6": {
+   "id": "4f2fed4ce036525806d9f8bcd454a3e6",
+   "company": "Databricks Lakehouse",
+   "role": "Ai Forward Deployed Engineer - London",
+   "location": "London"
+  },
+  "644d6b4703b2804b0789e5b94f4f98e1": {
+   "id": "644d6b4703b2804b0789e5b94f4f98e1",
+   "company": "EBRD",
+   "role": "Analyst, People Solutions & Advisory",
+   "location": "London"
+  },
+  "094b13648f6f234d81d3dac7f2f56b6c": {
+   "id": "094b13648f6f234d81d3dac7f2f56b6c",
+   "company": "Atkinsrealis",
+   "role": "Project Controls Data & Reporting Analyst",
+   "location": "Chamberlain Square"
+  },
+  "1679ea89b4cb2a15181fcd9a48d2de94": {
+   "id": "1679ea89b4cb2a15181fcd9a48d2de94",
+   "company": "Howdenre",
+   "role": "Data Insights Analyst",
+   "location": "United Kingdom"
+  },
+  "7585d87e60a4ec660478ed57592d1ebb": {
+   "id": "7585d87e60a4ec660478ed57592d1ebb",
+   "company": "Barings",
+   "role": "Forward Deployed Ai Engineer",
+   "location": "London"
   },
   "45bce18e825d5b615bfd8e0c7ac44525": {
    "id": "45bce18e825d5b615bfd8e0c7ac44525",
@@ -1495,6 +1549,12 @@
    "company": "Celltrion Com Br",
    "role": "Uk_business Intelligence Analyst",
    "location": "England"
+  },
+  "77fbe7a227887b438006c4e86f60661f": {
+   "id": "77fbe7a227887b438006c4e86f60661f",
+   "company": "Legora",
+   "role": "Legal Engineer - Applied Ai Knowledge",
+   "location": "London"
   },
   "ea23bdf59c3e2681c5a21eb7bb07cb26": {
    "id": "ea23bdf59c3e2681c5a21eb7bb07cb26",
@@ -1578,12 +1638,6 @@
    "id": "8011b2c18fe1bc70cb6a2dd52c18c477",
    "company": "Mercer",
    "role": "Performance Reporting Analyst",
-   "location": "London"
-  },
-  "644d6b4703b2804b0789e5b94f4f98e1": {
-   "id": "644d6b4703b2804b0789e5b94f4f98e1",
-   "company": "EBRD",
-   "role": "Analyst, People Solutions & Advisory",
    "location": "London"
   },
   "134a0a792e6376d11b45ba7606babdbb": {
@@ -1898,66 +1952,6 @@
    "role": "Devops, Ai And Automation Engineer (contract)",
    "location": "United Kingdom"
   },
-  "41ce32bf6a653097503251c627f80f56": {
-   "id": "41ce32bf6a653097503251c627f80f56",
-   "company": "Worldtrips",
-   "role": "Devops And Automation Engineer (contract)",
-   "location": "Uk"
-  },
-  "a098608916359866c41ae5bcdf4404f5": {
-   "id": "a098608916359866c41ae5bcdf4404f5",
-   "company": "Tokio Marine HCC",
-   "role": "Devops, Ai And Automation Engineer (contract)",
-   "location": "Uk"
-  },
-  "1bdae5dce82674d69d12d6ccb2ff68c9": {
-   "id": "1bdae5dce82674d69d12d6ccb2ff68c9",
-   "company": "Zebra Technologies Corporation",
-   "role": "Ai Software Engineer",
-   "location": "London"
-  },
-  "0d8385166a93750a9e6901ba2f6a589d": {
-   "id": "0d8385166a93750a9e6901ba2f6a589d",
-   "company": "Haleon",
-   "role": "Data Scientist",
-   "location": "London"
-  },
-  "a973cfb6c767e1c16ddb93b4f4c817a1": {
-   "id": "a973cfb6c767e1c16ddb93b4f4c817a1",
-   "company": "Merkle",
-   "role": "Digital Analytics Associate",
-   "location": "London"
-  },
-  "a35233fe7f22a5c2844eb519f06bbe3c": {
-   "id": "a35233fe7f22a5c2844eb519f06bbe3c",
-   "company": "Aig Com Mo",
-   "role": "Data Scientist, Genai",
-   "location": "London"
-  },
-  "803785421f6236c7241e1068775bb974": {
-   "id": "803785421f6236c7241e1068775bb974",
-   "company": "Bank Pekao",
-   "role": "Ekspert / Ekspertka Business Intelligence",
-   "location": "United Kingdom"
-  },
-  "6a685fd7663ea079b6c04b9378230b2e": {
-   "id": "6a685fd7663ea079b6c04b9378230b2e",
-   "company": "Burford Capital Ltd",
-   "role": "Data Analyst",
-   "location": "London"
-  },
-  "db51f74cc696120eb166a66450f512fd": {
-   "id": "db51f74cc696120eb166a66450f512fd",
-   "company": "Barclays",
-   "role": "Ai Engineer",
-   "location": "Glasgow"
-  },
-  "bbc6f1bfe2600c111de35b0570371bd5": {
-   "id": "bbc6f1bfe2600c111de35b0570371bd5",
-   "company": "jobs.barclays",
-   "role": "Ai Engineer",
-   "location": "Glasgow"
-  },
   "1b7b843b1efe74de90fc6eac8d584fe8": {
    "id": "1b7b843b1efe74de90fc6eac8d584fe8",
    "company": "PIMCO",
@@ -2180,6 +2174,18 @@
    "role": "Placement Analyst",
    "location": "Leeds"
   },
+  "afc1bd03b80ccea779f5293ed21ba1aa": {
+   "id": "afc1bd03b80ccea779f5293ed21ba1aa",
+   "company": "Barnett Waddingham",
+   "role": "2027 Graduate - Trainee Actuarial Consultant - Actuarial Insurance (london)",
+   "location": "London"
+  },
+  "fbce3781425c3cf7779ce071e463d490": {
+   "id": "fbce3781425c3cf7779ce071e463d490",
+   "company": "Barnett Waddingham",
+   "role": "2027 Graduate - Trainee Actuarial Consultant - Retirement (london)",
+   "location": "London"
+  },
   "244be17ce76379cf0adc104baeb5797e": {
    "id": "244be17ce76379cf0adc104baeb5797e",
    "company": "WTW (Willis Towers Watson)",
@@ -2318,6 +2324,66 @@
    "role": "Graduate Trainee Accountant - Aca & Aca/cta - September 2026 Start",
    "location": "United Kingdom"
   },
+  "9d25031189130c8cce6f54bcec99ecb9": {
+   "id": "9d25031189130c8cce6f54bcec99ecb9",
+   "company": "Deutsche Bank",
+   "role": "Business Functional Analyst",
+   "location": "London"
+  },
+  "0b130f26436df8503c9ced2272e5d407": {
+   "id": "0b130f26436df8503c9ced2272e5d407",
+   "company": "Jones Lang LaSalle Incorporated",
+   "role": "Analyst - Emea Hotels & Hospitality Capital Markets",
+   "location": "London"
+  },
+  "ff1fa28f9d04e388bd697ba03de8a0f2": {
+   "id": "ff1fa28f9d04e388bd697ba03de8a0f2",
+   "company": "Domestic & General",
+   "role": "Business Analyst",
+   "location": "London"
+  },
+  "1b8ecaf9689c86d976fc53e3d77e227c": {
+   "id": "1b8ecaf9689c86d976fc53e3d77e227c",
+   "company": "BP Retail UK",
+   "role": "Treasury Finance Analyst",
+   "location": "London"
+  },
+  "37281d2004254096cd2db90892fb34c5": {
+   "id": "37281d2004254096cd2db90892fb34c5",
+   "company": "Man Group",
+   "role": "Quant - Systematic Multi-strat",
+   "location": "London"
+  },
+  "47d0514baa9841ca4ef650b97cb07426": {
+   "id": "47d0514baa9841ca4ef650b97cb07426",
+   "company": "Bord Gais Energy Ltd",
+   "role": "Short Term Build Analyst",
+   "location": "Manchester"
+  },
+  "bba75d2ffa4d4379166b16a722912673": {
+   "id": "bba75d2ffa4d4379166b16a722912673",
+   "company": "WPP Media Australia & New Zealand",
+   "role": "Assistant Finance Analyst - 12 Month Ftc",
+   "location": "London"
+  },
+  "0ee27a0511d94b2434dbe9d20eff6bb5": {
+   "id": "0ee27a0511d94b2434dbe9d20eff6bb5",
+   "company": "Moelis & Company",
+   "role": "Analyst, Asset Management - London",
+   "location": "London"
+  },
+  "bd217a20193454caff049bffec366beb": {
+   "id": "bd217a20193454caff049bffec366beb",
+   "company": "Moelis & Company",
+   "role": "Analyst - Sponsors - London",
+   "location": "London"
+  },
+  "6053957080f9ebb5e86293a0f87f2298": {
+   "id": "6053957080f9ebb5e86293a0f87f2298",
+   "company": "Mytopsportsbettingsites",
+   "role": "Technical Compliance Specialist",
+   "location": "North London"
+  },
   "bebc9e2db3b65f776232c34e6f327a35": {
    "id": "bebc9e2db3b65f776232c34e6f327a35",
    "company": "Work From Home With CiCi",
@@ -2328,6 +2394,96 @@
    "id": "2a07ae6a476368ae831976fa1e2c5ce0",
    "company": "Work From Home With CiCi",
    "role": "Quantitative Analyst, Rates Xva, Avp",
+   "location": "London"
+  },
+  "aaa0321e4226430d20e592d339a33b0b": {
+   "id": "aaa0321e4226430d20e592d339a33b0b",
+   "company": "Schonfeld",
+   "role": "Junior Compliance Associate",
+   "location": "London"
+  },
+  "b8db088b1a8e790b257e4a1d09e2d7d8": {
+   "id": "b8db088b1a8e790b257e4a1d09e2d7d8",
+   "company": "Veolia UK",
+   "role": "Compliance Supervisor",
+   "location": "London"
+  },
+  "1da54f2b829787107a2b22929e467edb": {
+   "id": "1da54f2b829787107a2b22929e467edb",
+   "company": "Bakkavor Group",
+   "role": "Group Auditor",
+   "location": "Leeds"
+  },
+  "4356b843f5433432cef9ec7b349dc414": {
+   "id": "4356b843f5433432cef9ec7b349dc414",
+   "company": "DB Cargo France",
+   "role": "Industrials / Business Services - Investment Banking Coverage & Advisory",
+   "location": "London"
+  },
+  "01602c6f40d36bda9252892b5c6573d1": {
+   "id": "01602c6f40d36bda9252892b5c6573d1",
+   "company": "DB Cargo France",
+   "role": "Wealth Management Strat",
+   "location": "London"
+  },
+  "5660e791a943f7f7c9927e63f4bf5f6b": {
+   "id": "5660e791a943f7f7c9927e63f4bf5f6b",
+   "company": "LSEG",
+   "role": "Issue Management Analyst (1lod Risk Management)",
+   "location": "London"
+  },
+  "e4ff51eb3f5c0b917081efaa580f97a3": {
+   "id": "e4ff51eb3f5c0b917081efaa580f97a3",
+   "company": "EBRD",
+   "role": "Analyst",
+   "location": "London"
+  },
+  "9c9fcb7d8f44a8e1491e4dca446a42cb": {
+   "id": "9c9fcb7d8f44a8e1491e4dca446a42cb",
+   "company": "Swiss Re",
+   "role": "Pricing Actuary (hybrid, 80 - 100%)",
+   "location": "London"
+  },
+  "1ecb3601686812eb5ff22f5e1ee1ced1": {
+   "id": "1ecb3601686812eb5ff22f5e1ee1ced1",
+   "company": "Swiss Re",
+   "role": "Longevity Pricing Actuary (80-100%)",
+   "location": "London"
+  },
+  "7277bbdf09db5da45559ee12e22b462c": {
+   "id": "7277bbdf09db5da45559ee12e22b462c",
+   "company": "DARKTRACE AUSTRALIA PTY",
+   "role": "Cybersecurity Compliance Analyst",
+   "location": "London"
+  },
+  "9922720411fdb060a001bb9f974527bb": {
+   "id": "9922720411fdb060a001bb9f974527bb",
+   "company": "Thoughtworks",
+   "role": "Data & Ai Strategist",
+   "location": "London"
+  },
+  "4785ae35b72d0afc1a1af0b0bd732cca": {
+   "id": "4785ae35b72d0afc1a1af0b0bd732cca",
+   "company": "Ernst & Young",
+   "role": "Executive - Decision Modelling - London",
+   "location": "London"
+  },
+  "1d5de7bb1d164432190c2bf7698c59a6": {
+   "id": "1d5de7bb1d164432190c2bf7698c59a6",
+   "company": "Atkinsrealis",
+   "role": "Business Analyst",
+   "location": "United Kingdom"
+  },
+  "61347d3af138f3ce1eee451063c629f2": {
+   "id": "61347d3af138f3ce1eee451063c629f2",
+   "company": "conocophillips",
+   "role": "Etrm Support Analyst",
+   "location": "London"
+  },
+  "aaa4220cddaf35a0939e95d644b450e9": {
+   "id": "aaa4220cddaf35a0939e95d644b450e9",
+   "company": "VANGUARD AUSTRALIA",
+   "role": "Finance - Fund And Investment Operations",
    "location": "London"
   },
   "33aff522821c6286062dabc0ee3a0f3a": {
@@ -2341,6 +2497,24 @@
    "company": "Cobham",
    "role": "Tco & Finops Analyst",
    "location": "Salford Quays"
+  },
+  "8fd5d32ffd398bc2d1bb7aa1db52ffd0": {
+   "id": "8fd5d32ffd398bc2d1bb7aa1db52ffd0",
+   "company": "Lincolninternational",
+   "role": "Analyst, Business Services M&a",
+   "location": "London"
+  },
+  "5780068afef257a942c0c9a5ec69c899": {
+   "id": "5780068afef257a942c0c9a5ec69c899",
+   "company": "Charles River Associates",
+   "role": "[2027 Master's Graduates] Consulting Associate (european Competition Practice)",
+   "location": "London"
+  },
+  "0eaf86a4d1ad5ec4f555dd9cbed5e3c2": {
+   "id": "0eaf86a4d1ad5ec4f555dd9cbed5e3c2",
+   "company": "Citi",
+   "role": "Markets Operations Entry-level Analyst",
+   "location": "Belfast"
   },
   "50cea03851134d6a3cf7ded380ebb2fc": {
    "id": "50cea03851134d6a3cf7ded380ebb2fc",
@@ -2358,6 +2532,12 @@
    "id": "8fa4b535ad593d779a07a198909ae75a",
    "company": "Retirement World",
    "role": "Attribution Analyst (12 Month Fixed Term Contract)",
+   "location": "London"
+  },
+  "cf4c6808c30d13a17d14404c37905f46": {
+   "id": "cf4c6808c30d13a17d14404c37905f46",
+   "company": "Brightonparkbank",
+   "role": "Pbwm Business Support Analyst -high Risk Reviewer",
    "location": "London"
   },
   "fe75289194877228f203da2a8d2b53c9": {
@@ -2443,6 +2623,12 @@
    "company": "Nomura International PLC",
    "role": "Market Data Content Business Analyst - 12 Month Contract",
    "location": "London"
+  },
+  "65c10ad2ba755d82862dc44a43b35584": {
+   "id": "65c10ad2ba755d82862dc44a43b35584",
+   "company": "Pearson PLC",
+   "role": "Specialist, Compliance & Operations",
+   "location": "United Kingdom"
   },
   "e74bce3fe81c5d4155ba8954d789283f": {
    "id": "e74bce3fe81c5d4155ba8954d789283f",
@@ -2612,190 +2798,16 @@
    "role": "Business Analyst (rlam)",
    "location": "London"
   },
-  "b7e6e2977a9396b8352e4ef77a665af4": {
-   "id": "b7e6e2977a9396b8352e4ef77a665af4",
-   "company": "Swiss Re",
-   "role": "Longevity Pricing Actuary (80-100%)",
-   "location": "London"
-  },
-  "45d4796be84b43109ff6e81609c2d3be": {
-   "id": "45d4796be84b43109ff6e81609c2d3be",
-   "company": "Swiss Re",
-   "role": "Pricing Actuary (hybrid, 80 - 100%)",
-   "location": "London"
-  },
   "527b5bca74ab3075f8659b2158cd154e": {
    "id": "527b5bca74ab3075f8659b2158cd154e",
    "company": "Financial Technology Partners",
    "role": "Fintech Strategy And Business Development First Year Analyst",
    "location": "London"
   },
-  "e4ff51eb3f5c0b917081efaa580f97a3": {
-   "id": "e4ff51eb3f5c0b917081efaa580f97a3",
-   "company": "EBRD",
-   "role": "Analyst",
-   "location": "London"
-  },
-  "bd3e03a994dab2203aa6945ec87012f5": {
-   "id": "bd3e03a994dab2203aa6945ec87012f5",
-   "company": "Capco",
-   "role": "Business Change Analyst - Wealth, Investment & Asset Management",
-   "location": "United Kingdom"
-  },
-  "373fa1ffe335317009238a9e5b5ed668": {
-   "id": "373fa1ffe335317009238a9e5b5ed668",
-   "company": "Capco",
-   "role": "Business Analyst, Capital Markets - Glasgow",
-   "location": "Glasgow"
-  },
-  "1e4afa0645ffe903dfe8733f74be7223": {
-   "id": "1e4afa0645ffe903dfe8733f74be7223",
-   "company": "Capco",
-   "role": "Business Analyst - Commercial And Specialty Insurance",
-   "location": "London"
-  },
-  "1ece765a54213f2c3a58389ae5ef2efd": {
-   "id": "1ece765a54213f2c3a58389ae5ef2efd",
-   "company": "FITCH RATINGS Ltd",
-   "role": "Quantitative Analyst - Model Development Team",
-   "location": "London"
-  },
-  "57520e1b0c488a0bb7ed99b62975e80f": {
-   "id": "57520e1b0c488a0bb7ed99b62975e80f",
-   "company": "Deutsche Bank",
-   "role": "Business Finance Fic Financing Credit Uk",
-   "location": "London"
-  },
-  "d99534784f570a1ad215818c15a47060": {
-   "id": "d99534784f570a1ad215818c15a47060",
-   "company": "Deutsche Bank UK",
-   "role": "Business Finance Fic Financing Credit Uk",
-   "location": "London"
-  },
-  "2991c10a055f46f5594cc4b9cfe27e28": {
-   "id": "2991c10a055f46f5594cc4b9cfe27e28",
-   "company": "Db",
-   "role": "Business Finance Fic Financing Credit Uk",
-   "location": "London"
-  },
-  "c4edb6ca33ee0d72d9b9ab60bc2dab17": {
-   "id": "c4edb6ca33ee0d72d9b9ab60bc2dab17",
-   "company": "Ayvens Group",
-   "role": "Accountant",
-   "location": "Kyiv"
-  },
-  "fe7c0fc72c0fed49e1e4d160ff76c86b": {
-   "id": "fe7c0fc72c0fed49e1e4d160ff76c86b",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Private Medical Plan Auditor",
-   "location": "London"
-  },
-  "6f1bffe95fd984fc8264549cb804ef5a": {
-   "id": "6f1bffe95fd984fc8264549cb804ef5a",
-   "company": "Guy Carpenter",
-   "role": "Product Actuary",
-   "location": "London"
-  },
-  "dc5e454a856debdec21a62d3fd0a18e4": {
-   "id": "dc5e454a856debdec21a62d3fd0a18e4",
-   "company": "Capita PLC",
-   "role": "Actuarial Analyst Gmp",
-   "location": "United Kingdom"
-  },
-  "5c0b4726c98d2b2568335669d44f2a77": {
-   "id": "5c0b4726c98d2b2568335669d44f2a77",
-   "company": "Capita (digital)",
-   "role": "Actuarial Analyst Gmp",
-   "location": "United Kingdom"
-  },
-  "b0b8840ee7f9984092b0a19fbfc2a773": {
-   "id": "b0b8840ee7f9984092b0a19fbfc2a773",
-   "company": "Evri",
-   "role": "Transport Development Auditor",
-   "location": "United Kingdom"
-  },
-  "91d4d02a9d71bb07deb04f39b535cc01": {
-   "id": "91d4d02a9d71bb07deb04f39b535cc01",
-   "company": "HKEX",
-   "role": "Quantitative Analyst",
-   "location": "London"
-  },
-  "f1c5f48818010ec9b9d1c780ef3f78ac": {
-   "id": "f1c5f48818010ec9b9d1c780ef3f78ac",
-   "company": "Azenta Life Sciences",
-   "role": "Finance Analyst – Accounts Receivable & Credit Control",
-   "location": "Uk"
-  },
-  "4a2b635630ab0cdb3589348eda05b62c": {
-   "id": "4a2b635630ab0cdb3589348eda05b62c",
-   "company": "Houlihan Lokey, Inc.",
-   "role": "Financial Analyst, Real Estate Capital Solutions, London",
-   "location": "London"
-  },
-  "d9dcd192af49f83011d85c7effc37a4d": {
-   "id": "d9dcd192af49f83011d85c7effc37a4d",
-   "company": "RBC",
-   "role": "Analyst, Performance & Analytics",
-   "location": "London"
-  },
-  "0ab1507c243b0b74540e7d558d6b595d": {
-   "id": "0ab1507c243b0b74540e7d558d6b595d",
-   "company": "Talktalkgroup",
-   "role": "Risk Analyst — Risk And Compliance",
-   "location": "Circle Square"
-  },
-  "5fb068bf4494fa38eff1c35c0c1303c5": {
-   "id": "5fb068bf4494fa38eff1c35c0c1303c5",
-   "company": "GRUPO SANTANDER",
-   "role": "Vp, Global Banking - Technology, Media, & Telecommunications / Scib",
-   "location": "London"
-  },
-  "c0bcbfb2ae82a4526d71c8fb0aaee912": {
-   "id": "c0bcbfb2ae82a4526d71c8fb0aaee912",
-   "company": "Wellington Management",
-   "role": "Trade Operations Analyst",
-   "location": "London"
-  },
-  "41a061e139b6702686666dfaa8eaeb0a": {
-   "id": "41a061e139b6702686666dfaa8eaeb0a",
-   "company": "Kraft Heinz",
-   "role": "Regulatory Compliance Specialist",
-   "location": "London"
-  },
-  "c217f3442bc0100d607803bdf1f32785": {
-   "id": "c217f3442bc0100d607803bdf1f32785",
-   "company": "PIMCO",
-   "role": "People Operations Analyst - 12 Month Ftc",
-   "location": "London"
-  },
-  "1dcac7c086068f66ec09f2074ea19db4": {
-   "id": "1dcac7c086068f66ec09f2074ea19db4",
-   "company": "PIMCO",
-   "role": "Account Analyst, French Speaking",
-   "location": "London"
-  },
-  "b85ae7b70a369ff65ec3bab07aa3a75a": {
-   "id": "b85ae7b70a369ff65ec3bab07aa3a75a",
-   "company": "My Medical Sales Jobs",
-   "role": "Clinical Coding Auditor",
-   "location": "London"
-  },
-  "5986bac6dcf592a4284464b018c17cd1": {
-   "id": "5986bac6dcf592a4284464b018c17cd1",
-   "company": "Ivivamedical",
-   "role": "Clinical Coding Auditor",
-   "location": "London"
-  },
-  "ed7771e7e7be9e12ab19dcdbbd785afb": {
-   "id": "ed7771e7e7be9e12ab19dcdbbd785afb",
-   "company": "IQVIA Holdings",
-   "role": "Clinical Coding Auditor",
-   "location": "London"
-  },
-  "aeba826b73057537448bcb762f709428": {
-   "id": "aeba826b73057537448bcb762f709428",
-   "company": "Ivivamedical",
-   "role": "Supplier Services Analyst",
+  "dcbbd326f551aa1f0aaf26c8748559d1": {
+   "id": "dcbbd326f551aa1f0aaf26c8748559d1",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse - Pre Assessment/outpatients",
    "location": "London"
   },
   "b3e17db07579416d388b8830d3aae5e9": {
@@ -2809,6 +2821,12 @@
    "company": "Bupa",
    "role": "Care Assistant - Bank",
    "location": "London"
+  },
+  "91cb38952c5999e5deec9fe0bc065fa7": {
+   "id": "91cb38952c5999e5deec9fe0bc065fa7",
+   "company": "Syneos Health",
+   "role": "Single Sponsor Clinical Research Associate Ii (must Have Uk Monitoring Experience) Uk Only.",
+   "location": "United Kingdom"
   },
   "6ff675fc91729df9bf69c8818d5a2d89": {
    "id": "6ff675fc91729df9bf69c8818d5a2d89",
@@ -2826,6 +2844,12 @@
    "id": "7dac0c2306d56c2952bbef5491fa5247",
    "company": "Avery Healthcare Group",
    "role": "Care Assistant Wimbledon Common Care Home, 6 Victoria Drive, London, United Kingdom £13.85 Per Hour Permanent Apply By 5 October, 2026 Posted On 14 September, 2026",
+   "location": "London"
+  },
+  "87435e6a563371aa8e60dd584a334d44": {
+   "id": "87435e6a563371aa8e60dd584a334d44",
+   "company": "Bupa Abbotsleigh Mews Care Home",
+   "role": "Registered Nurse",
    "location": "London"
   },
   "6b4b7011d1c476e2476f019dea21d0be": {
@@ -3062,6 +3086,60 @@
    "role": "Registered Nurse - Poa",
    "location": "London"
   },
+  "51fb656deae8fe7a0910b8d5cf9b5e2f": {
+   "id": "51fb656deae8fe7a0910b8d5cf9b5e2f",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse - Oncology/sact (bank)",
+   "location": "London"
+  },
+  "63bf5521717584f5c80d440fe5b01eca": {
+   "id": "63bf5521717584f5c80d440fe5b01eca",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse - Pre Assessment (bank)",
+   "location": "London"
+  },
+  "0b92724f76e6f96b89e483151a52d9ee": {
+   "id": "0b92724f76e6f96b89e483151a52d9ee",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse (bank)",
+   "location": "London"
+  },
+  "0accdd89be75b86a798fe8bab5646eb8": {
+   "id": "0accdd89be75b86a798fe8bab5646eb8",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Physiotherapist - Inpatient (bank)",
+   "location": "London"
+  },
+  "c7de24d299679f788a9379f174a0441f": {
+   "id": "c7de24d299679f788a9379f174a0441f",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse",
+   "location": "London"
+  },
+  "39609b34c21ff2ff90abd02ae7d3a871": {
+   "id": "39609b34c21ff2ff90abd02ae7d3a871",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse - Outpatients (bank)",
+   "location": "London"
+  },
+  "f2dfd6d77bd2b8952efe0f937f79bfb8": {
+   "id": "f2dfd6d77bd2b8952efe0f937f79bfb8",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Registered Nurse - Oncology/haematology",
+   "location": "London"
+  },
+  "be141e3b82b6fdf2fe19f481a9646a8a": {
+   "id": "be141e3b82b6fdf2fe19f481a9646a8a",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Physiotherapist (bank)",
+   "location": "London"
+  },
+  "33ccd91d8dbccfd718bb7642f9314662": {
+   "id": "33ccd91d8dbccfd718bb7642f9314662",
+   "company": "BMI Healthcare (Circle)",
+   "role": "Physiotherapist - Outpatients Msk (bank)",
+   "location": "London"
+  },
   "f6744610810dc79a07f72d8c9cb7e884": {
    "id": "f6744610810dc79a07f72d8c9cb7e884",
    "company": "Radfield Home Care",
@@ -3098,12 +3176,6 @@
    "role": "Clinical Research Associate",
    "location": "UK"
   },
-  "4baf9dae6b1eb13bfb244f63e5d66588": {
-   "id": "4baf9dae6b1eb13bfb244f63e5d66588",
-   "company": "ICON Clinical Research, LP",
-   "role": "Clinical Research Associate",
-   "location": "UK"
-  },
   "455cd1b0d0e6d88d2de280206663661d": {
    "id": "455cd1b0d0e6d88d2de280206663661d",
    "company": "Spire Healthcare",
@@ -3120,12 +3192,6 @@
    "id": "9da31d4c39f04ff6311f7fe98ae5e0f2",
    "company": "Spire Healthcare",
    "role": "Womens Health Specialist Physiotherapist (bank) - Pelvic Health",
-   "location": "London"
-  },
-  "d55c8d221140bbcc2bab5ce227489fd6": {
-   "id": "d55c8d221140bbcc2bab5ce227489fd6",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Registered Nurse - Outpatients (bank)",
    "location": "London"
   },
   "117b60dfd3c2953903cd8d709ba901d8": {
@@ -3168,18 +3234,6 @@
    "id": "556767e2a6f74c357a7cb6b47cff7224",
    "company": "Operose Health Ltd",
    "role": "Healthcare Assistant Maida Vale, United Kingdom 26910 - 30000 Permanent - Full Time Apply By 14 September, 2026 Job Posted Date 28 August, 2026",
-   "location": "London"
-  },
-  "f2dfd6d77bd2b8952efe0f937f79bfb8": {
-   "id": "f2dfd6d77bd2b8952efe0f937f79bfb8",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Registered Nurse - Oncology/haematology",
-   "location": "London"
-  },
-  "be141e3b82b6fdf2fe19f481a9646a8a": {
-   "id": "be141e3b82b6fdf2fe19f481a9646a8a",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Physiotherapist (bank)",
    "location": "London"
   },
   "b17443651df0e180ef446dc84c547258": {
@@ -3230,59 +3284,83 @@
    "role": "Staff Nurse - Ward",
    "location": "London"
   },
-  "462ef11a51fa74e6dafb7263283c2340": {
-   "id": "462ef11a51fa74e6dafb7263283c2340",
-   "company": "Bupa UK",
-   "role": "Staff Nurse - Ward",
+  "1d374a830f18cc8dc7800ca0b7161f71": {
+   "id": "1d374a830f18cc8dc7800ca0b7161f71",
+   "company": "Greystar",
+   "role": "Maintenance Technician",
    "location": "London"
   },
-  "63bf5521717584f5c80d440fe5b01eca": {
-   "id": "63bf5521717584f5c80d440fe5b01eca",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Registered Nurse - Pre Assessment (bank)",
+  "6e59a7c062e24681ab30c77148f6fc25": {
+   "id": "6e59a7c062e24681ab30c77148f6fc25",
+   "company": "Alstom",
+   "role": "Maintenance Technician - Bletchley",
+   "location": "Milton Keynes"
+  },
+  "c69f253948ab2547e3d3c0892975f1a9": {
+   "id": "c69f253948ab2547e3d3c0892975f1a9",
+   "company": "Alstom",
+   "role": "Technician",
+   "location": "Barton-Under-Needwood"
+  },
+  "0e460f78e3e4e48a9abb8d1ace32e6cd": {
+   "id": "0e460f78e3e4e48a9abb8d1ace32e6cd",
+   "company": "Alstom",
+   "role": "Fleet Maintenance Engineer",
    "location": "London"
   },
-  "cabdb992a52b32554f597871abf4c3a2": {
-   "id": "cabdb992a52b32554f597871abf4c3a2",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Healthcare Assistant - 12 Months Fixed Term",
+  "8ab04711cd58e9a865ae4f2b10738baf": {
+   "id": "8ab04711cd58e9a865ae4f2b10738baf",
+   "company": "Alstom",
+   "role": "High Level Technician",
    "location": "London"
   },
-  "8c3c717f28f9625daa36b88259ceb793": {
-   "id": "8c3c717f28f9625daa36b88259ceb793",
-   "company": "Avante Care & Support",
-   "role": "Care & Support Assistant - Relief - Puddingstone Grange Plumstead, United Kingdom £13.20 - £13.40 Relief/ Bank/ Casual Apply By 18 September, 2026 Posted On 19 August, 2026",
-   "location": "London"
-  },
-  "9f1e8b99c2e6887c567d02b95b8ec1af": {
-   "id": "9f1e8b99c2e6887c567d02b95b8ec1af",
-   "company": "NMAC Bermuda",
-   "role": "Virtual General Practitioner (gp)",
-   "location": "London"
-  },
-  "b543313dfc6c143bb5605e7829edd706": {
-   "id": "b543313dfc6c143bb5605e7829edd706",
-   "company": "Agincare Group",
-   "role": "Bank Care Assistant Richmond , United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 16 September, 2026",
-   "location": "London"
-  },
-  "7160a308117f348643b71d727416954a": {
-   "id": "7160a308117f348643b71d727416954a",
-   "company": "Avante Care & Support",
-   "role": "Care & Support Assistant - Riverdale Days & Nights Riverdale Court, 17 Dovedale Close, Welling, United Kingdom £13.20 Part Time Apply By 16 September, 2026 Posted On 17 August, 2026",
-   "location": "London"
-  },
-  "66938fdf7e47bd45c7682d6ea97bd9d7": {
-   "id": "66938fdf7e47bd45c7682d6ea97bd9d7",
-   "company": "BMI Healthcare (Circle)",
-   "role": "Healthcare Assistant - Wards",
-   "location": "London"
+  "ec7d8ae9a801f3a29721f761167250d2": {
+   "id": "ec7d8ae9a801f3a29721f761167250d2",
+   "company": "SMT Nederland",
+   "role": "Field Service Engineer - Kent",
+   "location": "Kent"
   },
   "31935b6dee6b3076759831cf43c0564a": {
    "id": "31935b6dee6b3076759831cf43c0564a",
    "company": "Hiab",
    "role": "Field Service Engineer - Evergreen Vacancy",
    "location": "Ellesmere"
+  },
+  "0eee5f413a834d862f843654dea8e1fc": {
+   "id": "0eee5f413a834d862f843654dea8e1fc",
+   "company": "EDF Energy Ltd",
+   "role": "Maintenance Technician",
+   "location": "Search By Location"
+  },
+  "442c2818f507d861f6a35991d27c522d": {
+   "id": "442c2818f507d861f6a35991d27c522d",
+   "company": "pladis Global",
+   "role": "Maintenance Technician",
+   "location": "Mdc"
+  },
+  "e6e895a75571a01964fffa7b131db9da": {
+   "id": "e6e895a75571a01964fffa7b131db9da",
+   "company": "OTIS ELEVATOR COMPANY",
+   "role": "Lift Engineer - Service",
+   "location": "London"
+  },
+  "64e4de2f8c884379c0923b7c7436a4fd": {
+   "id": "64e4de2f8c884379c0923b7c7436a4fd",
+   "company": "SMT Nederland",
+   "role": "Field Service Engineer - North London",
+   "location": "North London"
+  },
+  "4440ce0360336fb48fd15372b81c0e6f": {
+   "id": "4440ce0360336fb48fd15372b81c0e6f",
+   "company": "Jotun AS",
+   "role": "Maintenance Technician",
+   "location": "Flixborough"
+  },
+  "59dd7c6544a8262eaedbd8b11b82e9fe": {
+   "id": "59dd7c6544a8262eaedbd8b11b82e9fe",
+   "company": "GE Vernova",
+   "role": "Wind Turbine Technician - South Lanarkshire",
+   "location": "South Lanarkshire"
   },
   "4076bfd34c3eb114922874af90169836": {
    "id": "4076bfd34c3eb114922874af90169836",
@@ -3326,12 +3404,6 @@
    "role": "Trainee Field Service Technician - Drinks Dispense",
    "location": "Yorkshire"
   },
-  "7047abc54c9f24a14d669b1a78f77a3b": {
-   "id": "7047abc54c9f24a14d669b1a78f77a3b",
-   "company": "Greystar",
-   "role": "Maintenance Technician",
-   "location": "London"
-  },
   "9f8e7fc0bffb7974180edb2c551d5f07": {
    "id": "9f8e7fc0bffb7974180edb2c551d5f07",
    "company": "KARL STORZ SE & Co. KG",
@@ -3367,6 +3439,12 @@
    "company": "Sunbelt Rentals Ltd",
    "role": "Mobile Mechanical Technician",
    "location": "Location"
+  },
+  "a674175b3bf7a5dfbfb4507d6c63c466": {
+   "id": "a674175b3bf7a5dfbfb4507d6c63c466",
+   "company": "BGIS",
+   "role": "Mobile Service Technician",
+   "location": "London"
   },
   "c21126630bdf1834fbdd0d45b0a90bb8": {
    "id": "c21126630bdf1834fbdd0d45b0a90bb8",
@@ -3422,6 +3500,12 @@
    "role": "Mobile Tools Technician",
    "location": "Location"
   },
+  "1191ceba75bd85ebe6d9055ed0203920": {
+   "id": "1191ceba75bd85ebe6d9055ed0203920",
+   "company": "Diebold Nixdorf",
+   "role": "Field Service Technician - London",
+   "location": "London"
+  },
   "f88948e689b816b9f07d3c2150a3b213": {
    "id": "f88948e689b816b9f07d3c2150a3b213",
    "company": "Welcome Break",
@@ -3433,12 +3517,6 @@
    "company": "Verisure S.A.",
    "role": "Field Maintenance Engineer Ote 50k",
    "location": "London"
-  },
-  "c69f253948ab2547e3d3c0892975f1a9": {
-   "id": "c69f253948ab2547e3d3c0892975f1a9",
-   "company": "Alstom",
-   "role": "Technician",
-   "location": "Barton-Under-Needwood"
   },
   "027b8d7446fe736322ff1c13573a70da": {
    "id": "027b8d7446fe736322ff1c13573a70da",
@@ -3662,12 +3740,6 @@
    "role": "Service Engineer",
    "location": "London"
   },
-  "0eee5f413a834d862f843654dea8e1fc": {
-   "id": "0eee5f413a834d862f843654dea8e1fc",
-   "company": "EDF Energy Ltd",
-   "role": "Maintenance Technician",
-   "location": "Search By Location"
-  },
   "fce637d167ba53c61da3f71a432b9471": {
    "id": "fce637d167ba53c61da3f71a432b9471",
    "company": "International Flavors & Fragrances",
@@ -3692,70 +3764,16 @@
    "role": "Service Technician",
    "location": "London"
   },
-  "6caca1699cc1b4fc1079769f0d66b5bc": {
-   "id": "6caca1699cc1b4fc1079769f0d66b5bc",
-   "company": "Schindler Group",
-   "role": "Lift Service Engineer- Nights",
-   "location": "Central London"
-  },
-  "f6e882dd5cd86f601b5b6ccb20b62ab8": {
-   "id": "f6e882dd5cd86f601b5b6ccb20b62ab8",
-   "company": "Rubax Lifts Limited",
-   "role": "Service And Callout Engineer",
-   "location": "East Midlands"
-  },
-  "6f96f8eeed17cff19dd866f3a8c83a23": {
-   "id": "6f96f8eeed17cff19dd866f3a8c83a23",
-   "company": "Marken, UPS Healthcare Precision Logistics",
-   "role": "Shift Maintenance Engineer",
-   "location": "United Kingdom"
-  },
-  "f5137f16c49ee5e9eb816d5d459ddb72": {
-   "id": "f5137f16c49ee5e9eb816d5d459ddb72",
-   "company": "UPS",
-   "role": "Shift Maintenance Engineer",
-   "location": "United Kingdom"
-  },
-  "ade4a0e11793e6eb0a6d57900b3e2a0b": {
-   "id": "ade4a0e11793e6eb0a6d57900b3e2a0b",
-   "company": "Thermofisher Scientific",
-   "role": "Double Days Shift Maintenance Engineer - Operations",
-   "location": "Covingham"
-  },
-  "49d6501d3781b6430b1ee22e1139f575": {
-   "id": "49d6501d3781b6430b1ee22e1139f575",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Double Days Shift Maintenance Engineer - Operations",
-   "location": "Covingham"
-  },
-  "8fe3a07c9b94834cc909f16b5c48b3fd": {
-   "id": "8fe3a07c9b94834cc909f16b5c48b3fd",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Field Service Engineer I (sdb/sem) Rtp",
-   "location": "RTP"
-  },
-  "6261adcfc2aadaa70efaaa70e1af6c23": {
-   "id": "6261adcfc2aadaa70efaaa70e1af6c23",
-   "company": "Hyve Solutions",
-   "role": "Facilities Tech Ii",
-   "location": "United Kingdom"
-  },
-  "56754356faf87be5ff8a8de0a6781c2e": {
-   "id": "56754356faf87be5ff8a8de0a6781c2e",
-   "company": "Rydon Group Ltd",
-   "role": "Multi-skilled Maintenance Operative",
+  "561ef706c17d9aa072a7ae0261420e6d": {
+   "id": "561ef706c17d9aa072a7ae0261420e6d",
+   "company": "GRUPO SANTANDER",
+   "role": "Scuk Financial Support Agent",
    "location": "London"
   },
-  "90ee5fafe3b4aa0c4d6f8f7157fe5552": {
-   "id": "90ee5fafe3b4aa0c4d6f8f7157fe5552",
-   "company": "DAT Deutsche Aufzugstechnik GmbH",
-   "role": "Maintenance Engineer",
-   "location": "London"
-  },
-  "d7736c0958b813beb88c3f4862b646f8": {
-   "id": "d7736c0958b813beb88c3f4862b646f8",
-   "company": "Otis",
-   "role": "Service Engineer",
+  "7aaaccd3ce210a8c98a50116c16bbb37": {
+   "id": "7aaaccd3ce210a8c98a50116c16bbb37",
+   "company": "Georg Jensen",
+   "role": "Sales Associate",
    "location": "London"
   },
   "dcebd04e10204158ac2b7b75908594a2": {
@@ -3768,6 +3786,114 @@
    "id": "282a98997f6cea9e88cf3a794c97c03d",
    "company": "Morrisons",
    "role": "Customer Assistant - Online",
+   "location": "London"
+  },
+  "d4d38b473e4f228066e35c671c096015": {
+   "id": "d4d38b473e4f228066e35c671c096015",
+   "company": "Waitrose & Partners",
+   "role": "Customer Assistant",
+   "location": "London"
+  },
+  "4b64bbd62a289dc451c5f0cbab801ae0": {
+   "id": "4b64bbd62a289dc451c5f0cbab801ae0",
+   "company": "White Stuff",
+   "role": "Customer Host (4 Hrs)",
+   "location": "London"
+  },
+  "a445640dbf7d311b7e055a2988fff77d": {
+   "id": "a445640dbf7d311b7e055a2988fff77d",
+   "company": "Space NK",
+   "role": "Beauty Advisor Ftc (22.5 Hours)",
+   "location": "London"
+  },
+  "508e1c63cd6d42e411098a75053320cf": {
+   "id": "508e1c63cd6d42e411098a75053320cf",
+   "company": "Space NK",
+   "role": "Beauty Advisor (15 Hours)",
+   "location": "London"
+  },
+  "238ef3eb969517835e4b9ef655996d5f": {
+   "id": "238ef3eb969517835e4b9ef655996d5f",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate (part Time - 16 Hours) - Manchester Trafford Centre",
+   "location": "Manchester"
+  },
+  "de6478c41a5790cc1768637eb40f2c4d": {
+   "id": "de6478c41a5790cc1768637eb40f2c4d",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate (full Time) - London (battersea Power Station)",
+   "location": "London"
+  },
+  "d94cc3e6e5911bcb3b322b2060159cf7": {
+   "id": "d94cc3e6e5911bcb3b322b2060159cf7",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate - Edinburgh St James (part Time - 16 Hours)",
+   "location": "Edinburgh"
+  },
+  "a11b8edfdc525bc2dd9b715efc6bb222": {
+   "id": "a11b8edfdc525bc2dd9b715efc6bb222",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate (part Time - 24 Hours) - One New Change",
+   "location": "London"
+  },
+  "9ffb923444b69cd68cdf6d092ab71993": {
+   "id": "9ffb923444b69cd68cdf6d092ab71993",
+   "company": "HUGO BOSS AG",
+   "role": "Sales Associate - Bicester (full Time)",
+   "location": "Oxford"
+  },
+  "b23304d8a06feac48ee28590eb3d0fe1": {
+   "id": "b23304d8a06feac48ee28590eb3d0fe1",
+   "company": "KITH",
+   "role": "Customer Experience Associate",
+   "location": "London"
+  },
+  "f76690fa861030a5e370472377f0077c": {
+   "id": "f76690fa861030a5e370472377f0077c",
+   "company": "Salomon",
+   "role": "Sales Associate Westfield - 20h/week",
+   "location": "London"
+  },
+  "0b7df8c31d43b82390bf3c8d3d40f442": {
+   "id": "0b7df8c31d43b82390bf3c8d3d40f442",
+   "company": "Lowes Companies Inc",
+   "role": "Warehouse Part Time Overnight",
+   "location": "Yukon"
+  },
+  "2ecb74d211ce13fc3cf6099167e24c80": {
+   "id": "2ecb74d211ce13fc3cf6099167e24c80",
+   "company": "Lowes Companies Inc",
+   "role": "Warehouse Part Time Days",
+   "location": "Yukon"
+  },
+  "eebf81a78d1ebb4c76182b66f780b675": {
+   "id": "eebf81a78d1ebb4c76182b66f780b675",
+   "company": "Kate Spade New York",
+   "role": "Sales Associate",
+   "location": "London"
+  },
+  "1532f1622069bba92ecd36e2c48307a0": {
+   "id": "1532f1622069bba92ecd36e2c48307a0",
+   "company": "Deckers",
+   "role": "Ugg Knightsbridge Seasonal/christmas - Part Time Sales Associate Ftc 4 Months",
+   "location": "London"
+  },
+  "f4e0b93f887aec49a61cb7aafb41e835": {
+   "id": "f4e0b93f887aec49a61cb7aafb41e835",
+   "company": "Converse",
+   "role": "Sales Associate 8h Pt",
+   "location": "London"
+  },
+  "73758ecec9e01ba0120b19e17734fb9a": {
+   "id": "73758ecec9e01ba0120b19e17734fb9a",
+   "company": "RXO, Inc.",
+   "role": "Warehouse Associate",
+   "location": "United Kingdom"
+  },
+  "b6cab9335ab51191e68e3837862ac57d": {
+   "id": "b6cab9335ab51191e68e3837862ac57d",
+   "company": "Space NK",
+   "role": "Beauty Advisor (20 Hours)",
    "location": "London"
   },
   "ddfdc08b046cc7043f5c30e4566ed0e4": {
@@ -3810,12 +3936,6 @@
    "id": "c3c11466d5461307dab6535d017c27e6",
    "company": "ARNE",
    "role": "Sales Associate",
-   "location": "London"
-  },
-  "009f6a7e7e16e8281d0a21dca025d550": {
-   "id": "009f6a7e7e16e8281d0a21dca025d550",
-   "company": "Space NK",
-   "role": "Beauty Advisor (15 Hours)",
    "location": "London"
   },
   "5b03949654cd5e1417976fbb92ef1f86": {
@@ -3926,12 +4046,6 @@
    "role": "Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection",
    "location": "London"
   },
-  "7c8dae39d974dd09f8e41769bfeeca2b": {
-   "id": "7c8dae39d974dd09f8e41769bfeeca2b",
-   "company": "Kate Spade New York",
-   "role": "Sales Associate",
-   "location": "London"
-  },
   "e61e6e64e77e12622718f9a209614eac": {
    "id": "e61e6e64e77e12622718f9a209614eac",
    "company": "Alo Yoga",
@@ -4004,6 +4118,12 @@
    "role": "Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection",
    "location": "London"
   },
+  "9d2e6e9ef6f2188ad89de94be20112d4": {
+   "id": "9d2e6e9ef6f2188ad89de94be20112d4",
+   "company": "St Pancras London Autograph Collection",
+   "role": "Guest Service Associate - Guest Experience Expert - St Pancras London Autograph Collection",
+   "location": "London"
+  },
   "680b4715ff11cc301f90983c3edf3ec2": {
    "id": "680b4715ff11cc301f90983c3edf3ec2",
    "company": "Agile Retail",
@@ -4039,12 +4159,6 @@
    "company": "Tommy Hilfiger",
    "role": "Part Time Sales Associate, Tommy Hilfiger - The O2",
    "location": "London"
-  },
-  "a83533aac67b8086000336707d5fcc31": {
-   "id": "a83533aac67b8086000336707d5fcc31",
-   "company": "Waitrose & Partners",
-   "role": "Customer Assistant",
-   "location": "Edinburgh"
   },
   "1e60b2b3b4c7c9a33b2dd9cf03ae0d97": {
    "id": "1e60b2b3b4c7c9a33b2dd9cf03ae0d97",
@@ -4130,112 +4244,28 @@
    "role": "Sales Stylist 8 Hour",
    "location": "London"
   },
-  "6485392d9a784879200d3cb1fafff8a1": {
-   "id": "6485392d9a784879200d3cb1fafff8a1",
-   "company": "Levi Strauss & Co.",
-   "role": "Sales Representative / Week Availability-1",
-   "location": "London"
+  "253ba0b7bcac7f15615e3d4d09e7e0d4": {
+   "id": "253ba0b7bcac7f15615e3d4d09e7e0d4",
+   "company": "Witherslack Group",
+   "role": "Admin Assistant",
+   "location": "Manchester"
   },
-  "754add714f56e56a83562e6d0b997f03": {
-   "id": "754add714f56e56a83562e6d0b997f03",
-   "company": "Levis Media",
-   "role": "Seasonal- Stylist - Levi's London Regent Street-8",
-   "location": "London"
+  "65d5a0d2b8f726ff3d8445f0fb355a58": {
+   "id": "65d5a0d2b8f726ff3d8445f0fb355a58",
+   "company": "Veolia",
+   "role": "Process Coordinator",
+   "location": "Elgin"
   },
-  "d604105afc34e27b0fef7fa5b0552b07": {
-   "id": "d604105afc34e27b0fef7fa5b0552b07",
-   "company": "Samsung",
-   "role": "Emerging Talent - Customer Support Placement",
-   "location": "London"
+  "a0cddd57f20946576ccc074d1107c463": {
+   "id": "a0cddd57f20946576ccc074d1107c463",
+   "company": "Screwfix",
+   "role": "Retail Assistant Ni",
+   "location": "Belfast"
   },
-  "71b65de7384f045f21e8a2294003a660": {
-   "id": "71b65de7384f045f21e8a2294003a660",
-   "company": "Samsung SDS",
-   "role": "Emerging Talent - Customer Support Placement",
-   "location": "London"
-  },
-  "9c519b960b026db1a93a2ddcd7f13dee": {
-   "id": "9c519b960b026db1a93a2ddcd7f13dee",
-   "company": "Marks & Spencer Group",
-   "role": "Customer Assistant - Operations - White City",
-   "location": "White City"
-  },
-  "f444f27bc336fe44f7f24b65562fe10c": {
-   "id": "f444f27bc336fe44f7f24b65562fe10c",
-   "company": "Calvin Klein",
-   "role": "Summer Sales Associate, Calvin Klein Battersea",
-   "location": "London"
-  },
-  "c2f5409591d270cbc9868884924bb837": {
-   "id": "c2f5409591d270cbc9868884924bb837",
-   "company": "Tommy Hilfiger",
-   "role": "Part Time Sales Associate, Tommy Hilfiger - Brompton Road",
-   "location": "London"
-  },
-  "c59e1baf16c14c6549e4f9bbdf082ba0": {
-   "id": "c59e1baf16c14c6549e4f9bbdf082ba0",
-   "company": "TOMMY HILFIGER",
-   "role": "Seasonal Sales Associate, Tommy Hilfiger Bicester Womens & Kids",
-   "location": "Oxford"
-  },
-  "37ee76d517e1ee1444670de650618a8b": {
-   "id": "37ee76d517e1ee1444670de650618a8b",
-   "company": "Tommy Hilfiger",
-   "role": "Part-time Sales Associate, Tommy Hilfiger - Oxford",
-   "location": "Oxford"
-  },
-  "eb4f2da3490cfc7c8a36ff665fa2bf60": {
-   "id": "eb4f2da3490cfc7c8a36ff665fa2bf60",
-   "company": "Tommy Hilfiger",
-   "role": "Part Time Sales Associate, Tommy Hilfiger - Wembley",
-   "location": "London"
-  },
-  "83b8ee412debd0bce90eb42877374778": {
-   "id": "83b8ee412debd0bce90eb42877374778",
-   "company": "Calvin Klein",
-   "role": "Part Time Sales Associates, Calvin Klein - Wembley",
-   "location": "London"
-  },
-  "9e71d7b060c00aa4b0f6cf49601205fe": {
-   "id": "9e71d7b060c00aa4b0f6cf49601205fe",
-   "company": "Hoofprinting",
-   "role": "Seasonal Sales Associate, Calvin Klein St Pancras",
-   "location": "London"
-  },
-  "03749c083b849f29989c580c4cc6f8a2": {
-   "id": "03749c083b849f29989c580c4cc6f8a2",
-   "company": "Calvin Klein",
-   "role": "Seasonal Sales Associate, Calvin Klein St Pancras",
-   "location": "London"
-  },
-  "47ad404d62516d7777fdc25cc6b38fed": {
-   "id": "47ad404d62516d7777fdc25cc6b38fed",
-   "company": "Tommy Hilfiger",
-   "role": "Seasonal Sales Associate, Tommy Hilfiger Regent Street",
-   "location": "London"
-  },
-  "e249792f63eaa0b0ae3c84220a43eb96": {
-   "id": "e249792f63eaa0b0ae3c84220a43eb96",
-   "company": "PVH",
-   "role": "Part Time Brand Specialist, Tommy Hilfiger & Calvin Klein - Peter Jones John Lewis",
-   "location": "London"
-  },
-  "c1e24756284a155b09eb4b8595418204": {
-   "id": "c1e24756284a155b09eb4b8595418204",
-   "company": "Johnson Controls Inc",
-   "role": "Customer Service Admin",
-   "location": "London"
-  },
-  "9ef22abb614c9788bfa5e313c0eeb683": {
-   "id": "9ef22abb614c9788bfa5e313c0eeb683",
-   "company": "JCI",
-   "role": "Customer Service Admin",
-   "location": "London"
-  },
-  "390ec7e3cbcae09fd1d827e22d83310e": {
-   "id": "390ec7e3cbcae09fd1d827e22d83310e",
-   "company": "Johnson Controls Inc",
-   "role": "Customer Experience Coordinator",
+  "fd8fefc8d31273b0272a4b5a6cb3d2f4": {
+   "id": "fd8fefc8d31273b0272a4b5a6cb3d2f4",
+   "company": "Moelis & Company",
+   "role": "Admin Assistant - London",
    "location": "London"
   },
   "864d74e635cd5262138e287a102ad1bf": {
@@ -4250,9 +4280,45 @@
    "role": "Executive Support Assistant",
    "location": "Saint Helier"
   },
+  "11d1374ae4ab108535a7264122880bf1": {
+   "id": "11d1374ae4ab108535a7264122880bf1",
+   "company": "Witherslack Group",
+   "role": "Administrative Assistant",
+   "location": "Bristol"
+  },
+  "cba301d960758b26bee85e014bc6a3f2": {
+   "id": "cba301d960758b26bee85e014bc6a3f2",
+   "company": "Space NK",
+   "role": "Supervisor (37.5 Hours)",
+   "location": "London"
+  },
+  "2a94c01fe15a3748691bf1a78cbe5402": {
+   "id": "2a94c01fe15a3748691bf1a78cbe5402",
+   "company": "GXO Logistics, Inc.",
+   "role": "Administrator",
+   "location": "Portsmouth"
+  },
+  "9fed4438f30124b4d66480e27f0af8cc": {
+   "id": "9fed4438f30124b4d66480e27f0af8cc",
+   "company": "Amey Ltd",
+   "role": "Highways Administrator",
+   "location": "Birmingham"
+  },
+  "bb6f819f09f53059d0d1ced4d5592f01": {
+   "id": "bb6f819f09f53059d0d1ced4d5592f01",
+   "company": "Cancer Research UK",
+   "role": "Retail Store Assistant Newbury Superstore",
+   "location": "Basingstoke"
+  },
   "0da5ea6c4cd3c2a5f3abd15a08f7cf5b": {
    "id": "0da5ea6c4cd3c2a5f3abd15a08f7cf5b",
    "company": "WSP",
+   "role": "Business Support Administrator",
+   "location": "London"
+  },
+  "c27e52cad2dee6aad829bc2ba65a71ce": {
+   "id": "c27e52cad2dee6aad829bc2ba65a71ce",
+   "company": "WSP in Canada",
    "role": "Business Support Administrator",
    "location": "London"
   },
@@ -4261,6 +4327,12 @@
    "company": "Dyer & Butler Ltd",
    "role": "Coordinator",
    "location": "Location"
+  },
+  "eda083d43cbb6803f2be82bb1f0c5e9c": {
+   "id": "eda083d43cbb6803f2be82bb1f0c5e9c",
+   "company": "Lloydseurope",
+   "role": "Personal Assistant (pa) To Ceo Business & Commercial Banking",
+   "location": "London"
   },
   "4de71b268a374bfbbf6d0e944429d5fa": {
    "id": "4de71b268a374bfbbf6d0e944429d5fa",
@@ -4290,6 +4362,12 @@
    "id": "08a05dd96713bf423da7b4185f9dbffe",
    "company": "Live Nation Entertainment",
    "role": "Benefits & Compensation Administrative Assistant",
+   "location": "London"
+  },
+  "489962615bff8905fec6ca021fdb7474": {
+   "id": "489962615bff8905fec6ca021fdb7474",
+   "company": "BKL",
+   "role": "Executive Assistant - C Suite",
    "location": "London"
   },
   "3fe6fa784125eab1dd931689772f41ff": {
@@ -4358,12 +4436,6 @@
    "role": "Payroll Processing And Administrative Assistant",
    "location": "Oxford"
   },
-  "142936b76d0651e465ced237b8937504": {
-   "id": "142936b76d0651e465ced237b8937504",
-   "company": "Space NK",
-   "role": "Supervisor (37.5 Hours)",
-   "location": "London"
-  },
   "7f640d61a1b70313ae1209c4a94c6bb6": {
    "id": "7f640d61a1b70313ae1209c4a94c6bb6",
    "company": "Sun Chemical",
@@ -4417,12 +4489,6 @@
    "company": "NPL Management Ltd",
    "role": "Marketing Coordinator",
    "location": "London"
-  },
-  "72f5b9bdc5c3f86096b081c8024941f5": {
-   "id": "72f5b9bdc5c3f86096b081c8024941f5",
-   "company": "GXO Logistics, Inc.",
-   "role": "Administrator",
-   "location": "Cardiff"
   },
   "11de9dbfd5918698fe2677efb3d27488": {
    "id": "11de9dbfd5918698fe2677efb3d27488",
@@ -4556,12 +4622,6 @@
    "role": "Healthcare Assistant",
    "location": "Aston Cross"
   },
-  "d361782ccf1278e482c651ba06eda33f": {
-   "id": "d361782ccf1278e482c651ba06eda33f",
-   "company": "Moelis & Company",
-   "role": "Admin Assistant - London",
-   "location": "London"
-  },
   "ef3be52c1c372ebae61241ec46a8ab36": {
    "id": "ef3be52c1c372ebae61241ec46a8ab36",
    "company": "Clyde & Co",
@@ -4663,60 +4723,6 @@
    "company": "Nexeo Solutions LLC",
    "role": "Export Coordinator",
    "location": "Cadishead +1"
-  },
-  "df212e6f450fb4da8228255f3b0fca02": {
-   "id": "df212e6f450fb4da8228255f3b0fca02",
-   "company": "KBR Inc",
-   "role": "Project Support",
-   "location": "Cumbria"
-  },
-  "0d1870f7c7d23138c9749889d0f45f8a": {
-   "id": "0d1870f7c7d23138c9749889d0f45f8a",
-   "company": "JLL (Jones Lang LaSalle)",
-   "role": "Facilities Coordinator",
-   "location": "Hertfordshire"
-  },
-  "2fe4076b9aa9f7b3430fa0a5e10f9133": {
-   "id": "2fe4076b9aa9f7b3430fa0a5e10f9133",
-   "company": "Jll Com Au",
-   "role": "Facilities Coordinator",
-   "location": "Reading"
-  },
-  "f747409e74045aad0b9714c50b18b699": {
-   "id": "f747409e74045aad0b9714c50b18b699",
-   "company": "Pick Everard",
-   "role": "Business Support Assistant - 6 Month Fixed Term Contract",
-   "location": "London"
-  },
-  "5cf6ad7dd146efc08965dae29597c5da": {
-   "id": "5cf6ad7dd146efc08965dae29597c5da",
-   "company": "Marks & Spencer Group",
-   "role": "Customer Assistant - Fashion Home & Beauty - Manchester",
-   "location": "Manchester"
-  },
-  "621c230037a4dffd17bfd933e5bc9fdb": {
-   "id": "621c230037a4dffd17bfd933e5bc9fdb",
-   "company": "NatWest Group",
-   "role": "Quality Automation Specialist",
-   "location": "Edinburgh"
-  },
-  "c97effe6bb8957174e5bd23d6852172d": {
-   "id": "c97effe6bb8957174e5bd23d6852172d",
-   "company": "Marks & Spencer Group",
-   "role": "Customer Assistant - Fashion, Home & Beauty - Hammersmith",
-   "location": "Hammersmith"
-  },
-  "20afa9e5781fea2a7e00377acc0fec92": {
-   "id": "20afa9e5781fea2a7e00377acc0fec92",
-   "company": "Nuffield Health",
-   "role": "Healthcare Assistant",
-   "location": "North Staffordshire"
-  },
-  "5fedb29cf80d71942cf8e087b326bd53": {
-   "id": "5fedb29cf80d71942cf8e087b326bd53",
-   "company": "Recovery Focus",
-   "role": "Administrator Volunteer",
-   "location": "Burton On Trent"
   }
  }
 }
