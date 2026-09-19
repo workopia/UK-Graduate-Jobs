@@ -5473,4 +5473,43 @@ _No archived roles yet._
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Hammersmith</td><td>Hammersmith</td><td>2026-09-18</td></tr>
 <tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>North Staffordshire</td><td>2026-09-18</td></tr>
 <tr><td>Recovery Focus</td><td>Administrator Volunteer</td><td>Burton On Trent</td><td>2026-09-18</td></tr>
+<tr><td>Universidad Carlos III de Madrid</td><td>Aircraft Operations Placement (12.5 Months)</td><td>Filton</td><td>2026-09-19</td></tr>
+<tr><td>Airbus Operations Limited</td><td>A320 Family Programme Development Team Placement (12.5 Months)</td><td>Filton</td><td>2026-09-19</td></tr>
+<tr><td>Hexcel</td><td>Global Quality Industrial Placement Student</td><td>Duxford</td><td>2026-09-19</td></tr>
+<tr><td>Chubb Limited</td><td>Chubb Career Insight Week</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Optical Assistant Apprentice</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Spectacle Technician Apprenticeship-</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Sureserve Group</td><td>Business Administration Apprentice</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Sureserve Group</td><td>Hr Support Apprentice</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>FTSE Russell / LSEG Technology</td><td>Index Distribution Software Engineer</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Atkinsrealis</td><td>Project Controls Data & Reporting Analyst</td><td>Chamberlain Square</td><td>2026-09-19</td></tr>
+<tr><td>BP Retail UK</td><td>Control & Automation Engineer</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>CoStar Group</td><td>Data Operations Support Analyst, Costar - London</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Worldtrips</td><td>Devops, Ai And Automation Engineer (contract)</td><td>United Kingdom</td><td>2026-09-19</td></tr>
+<tr><td>Bauer Systems KG</td><td>Business Analyst</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Sephora USA Inc</td><td>Forecasting Analyst (omnichannel) - Fixed Term Contract Until April 2027</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Bank Pekao</td><td>Analityk Biznesowy / Analityczka Biznesowa Bankowości Mobilnej</td><td>United Kingdom</td><td>2026-09-19</td></tr>
+<tr><td>Mercer</td><td>Investment Portfolio Operations Analyst</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Canary Wharf Group</td><td>Group Accountant (ftc)</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>TD Bank Group</td><td>Business Analysis Specialist</td><td>Belfast</td><td>2026-09-19</td></tr>
+<tr><td>MAERSK</td><td>Customs Declarant</td><td>Croatia +1</td><td>2026-09-19</td></tr>
+<tr><td>Royal London</td><td>Clo Operations Analyst</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Royal London</td><td>Business Analyst (rlam)</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Financial Technology Partners</td><td>Fintech Strategy And Business Development First Year Analyst</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-09-19</td></tr>
+<tr><td>IFF</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-09-19</td></tr>
+<tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-09-19</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Mango</td><td>Sales Multifunctional Associate (full-time, Oxford St.)</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate(16 Hours, Fixed Term, Kingston)</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 8 Hour</td><td>London</td><td>2026-09-19</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-09-19</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-09-19</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-09-19</td></tr>
+<tr><td>Northwestern Mutual Life Insurance Company</td><td>Administrative Assistant Iii</td><td>Milwaukee</td><td>2026-09-19</td></tr>
+<tr><td>Northwestern Mutual Life Insurance Company</td><td>Executive Assistant</td><td>Milwaukee</td><td>2026-09-19</td></tr>
+<tr><td>Vistry Group</td><td>Customer Service Coordinator</td><td>Basingstoke</td><td>2026-09-19</td></tr>
+<tr><td>JD</td><td>Logistics Operations Support (duke)</td><td>England</td><td>2026-09-19</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-09-19</td></tr>
 </table>
