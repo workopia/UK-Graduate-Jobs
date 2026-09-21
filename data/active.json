@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 815,
+ "count": 821,
  "jobs": {
   "2712150": {
    "id": "2712150",
@@ -80,10 +80,46 @@
    "role": "Summer 2027 Asset Management Intern - London",
    "location": "London"
   },
+  "targetjobs:e5839ecc-ff3b-4440-9a5d-7eda4cd2ef64": {
+   "id": "targetjobs:e5839ecc-ff3b-4440-9a5d-7eda4cd2ef64",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank Internship Programme – Investment Bank: Fixed Income and Currencies",
+   "location": "London"
+  },
+  "targetjobs:875c20b0-95e7-4ed1-942d-acb6671eae31": {
+   "id": "targetjobs:875c20b0-95e7-4ed1-942d-acb6671eae31",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Bank: Capital Markets - UK Coverage",
+   "location": "London"
+  },
+  "targetjobs:095c6251-fa9a-4f99-9235-963ae02033f1": {
+   "id": "targetjobs:095c6251-fa9a-4f99-9235-963ae02033f1",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank Internship Programme - Investment Banking & Capital Markets - UK Coverage",
+   "location": "London"
+  },
+  "targetjobs:6fbffeae-35a9-4802-8088-e2086cecc3fa": {
+   "id": "targetjobs:6fbffeae-35a9-4802-8088-e2086cecc3fa",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Banking & Capital Markets - Capital Markets",
+   "location": "London"
+  },
+  "targetjobs:7544d803-2167-422c-8b1e-d553f391f4c1": {
+   "id": "targetjobs:7544d803-2167-422c-8b1e-d553f391f4c1",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Banking & Capital Markets",
+   "location": "London"
+  },
   "9c83fdba6836883f19b9a2a402953068": {
    "id": "9c83fdba6836883f19b9a2a402953068",
    "company": "Brunswick Group",
    "role": "Intern, Brunswick Arts",
+   "location": "London"
+  },
+  "targetjobs:d6361948-7f7b-4443-8bd8-02285b021aa5": {
+   "id": "targetjobs:d6361948-7f7b-4443-8bd8-02285b021aa5",
+   "company": "WTW",
+   "role": "2027 Corporate Risk & Broking, Internship Programme – London",
    "location": "London"
   },
   "925ef66de30674b377ca4747f40713d8": {
@@ -92,10 +128,40 @@
    "role": "General Marketing Manager Intern- 2027",
    "location": "London"
   },
+  "targetjobs:89ac3982-8da8-49bb-bf8e-78ae8b037afe": {
+   "id": "targetjobs:89ac3982-8da8-49bb-bf8e-78ae8b037afe",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+   "location": "London"
+  },
+  "targetjobs:2c4f66bd-c17e-4537-9837-2129e5085b21": {
+   "id": "targetjobs:2c4f66bd-c17e-4537-9837-2129e5085b21",
+   "company": "Goldman Sachs",
+   "role": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
+   "location": "London"
+  },
+  "targetjobs:42d00f5f-14a0-4d56-a700-45eb7c9da8bf": {
+   "id": "targetjobs:42d00f5f-14a0-4d56-a700-45eb7c9da8bf",
+   "company": "Goldman Sachs",
+   "role": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
+   "location": "London"
+  },
+  "targetjobs:421dac20-0754-41a6-9137-5067af38e4bf": {
+   "id": "targetjobs:421dac20-0754-41a6-9137-5067af38e4bf",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Office of Regulatory Relations / Summer Analyst",
+   "location": "London"
+  },
   "targetjobs:03c52f4a-944d-4110-a8d8-ead4b6628514": {
    "id": "targetjobs:03c52f4a-944d-4110-a8d8-ead4b6628514",
    "company": "Goldman Sachs",
    "role": "2027 / EMEA / London / Corporate and Workplace Solutions / Summer Analyst",
+   "location": "London"
+  },
+  "targetjobs:b4561016-8014-4d02-85e5-620a6317fb85": {
+   "id": "targetjobs:b4561016-8014-4d02-85e5-620a6317fb85",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship",
    "location": "London"
   },
   "da3c814439d32565e69e2115e421fb79": {
@@ -128,18 +194,6 @@
    "role": "2027 Corporate Risk & Broking, Internship Programme – London",
    "location": "London"
   },
-  "28664e0502178af9d44441dbe0bdd0bb": {
-   "id": "28664e0502178af9d44441dbe0bdd0bb",
-   "company": "Coca-Cola",
-   "role": "Coca-Cola Ignite Intern - Marketing",
-   "location": "London"
-  },
-  "8e5c4f1b2cabc4954bebe202b3d72cbc": {
-   "id": "8e5c4f1b2cabc4954bebe202b3d72cbc",
-   "company": "WTW (Willis Towers Watson)",
-   "role": "2027 Corporate Risk & Broking, Internship Programme – London",
-   "location": "London"
-  },
   "536d951e140ffefbe38fffccbdde2151": {
    "id": "536d951e140ffefbe38fffccbdde2151",
    "company": "GOCal",
@@ -162,18 +216,6 @@
    "id": "40d99b8d63ec3edbf856c33854e81ea2",
    "company": "EBRD",
    "role": "Intern",
-   "location": "London"
-  },
-  "targetjobs:322c99d2-42ab-418a-b2fb-ef36a8c3699c": {
-   "id": "targetjobs:322c99d2-42ab-418a-b2fb-ef36a8c3699c",
-   "company": "Howden",
-   "role": "Investment Banking Summer Analyst Internship",
-   "location": "London"
-  },
-  "targetjobs:03d42a90-26db-4e58-8702-f2556a472c23": {
-   "id": "targetjobs:03d42a90-26db-4e58-8702-f2556a472c23",
-   "company": "Ferrero",
-   "role": "Finance Internship",
    "location": "London"
   },
   "targetjobs:e211a94c-ca58-43ad-9c6b-20ebf2c5d8b1": {
@@ -226,7 +268,7 @@
   },
   "targetjobs:2974d441-f005-4b24-a54a-4e0c2dab743d": {
    "id": "targetjobs:2974d441-f005-4b24-a54a-4e0c2dab743d",
-   "company": "Alpine Cars Racing",
+   "company": "Alpine Racing Limited",
    "role": "Stress Student Placement",
    "location": "Enstone"
   },
@@ -264,7 +306,7 @@
    "id": "targetjobs:79d1aacd-f6cc-4190-aa77-eab963c4df43",
    "company": "Airbus",
    "role": "A320 Family Programme Development Team Placement (12.5 months)",
-   "location": "Bristol"
+   "location": "Filton"
   },
   "targetjobs:60b3f873-3097-46f0-8852-288e384a2611": {
    "id": "targetjobs:60b3f873-3097-46f0-8852-288e384a2611",
@@ -289,12 +331,6 @@
    "company": "Airbus",
    "role": "Wing Structure Analysis Placement",
    "location": "Filton"
-  },
-  "targetjobs:341a12ed-8bbd-4108-a0fc-cc0698b0ea20": {
-   "id": "targetjobs:341a12ed-8bbd-4108-a0fc-cc0698b0ea20",
-   "company": "ALPINE RACING LIMITED",
-   "role": "Stress Student Placement",
-   "location": "Enstone"
   },
   "targetjobs:fe299f64-9743-45c4-9028-01a6ca6b551a": {
    "id": "targetjobs:fe299f64-9743-45c4-9028-01a6ca6b551a",
@@ -324,12 +360,6 @@
    "id": "targetjobs:0283e96e-08de-42e8-89de-3369d53f0658",
    "company": "ALPINE RACING LIMITED",
    "role": "Merch & Licensing Student Placement",
-   "location": "Enstone"
-  },
-  "targetjobs:1a9af147-e11c-4da0-93e2-911e0e1de986": {
-   "id": "targetjobs:1a9af147-e11c-4da0-93e2-911e0e1de986",
-   "company": "ALPINE RACING LIMITED",
-   "role": "Composite Design Student Placement",
    "location": "Enstone"
   },
   "d5e094d3c7e6091d6f3caa3d44e5add3": {
@@ -463,36 +493,6 @@
    "company": "IKEA UK",
    "role": "Customs Operation Intern",
    "location": "United Kingdom"
-  },
-  "7b845a66698649d1fb090a0332146fe5": {
-   "id": "7b845a66698649d1fb090a0332146fe5",
-   "company": "Schonfeld",
-   "role": "2027 Equity Middle Office Intern",
-   "location": "London"
-  },
-  "651b2d79069b9450214d584eb73f85ee": {
-   "id": "651b2d79069b9450214d584eb73f85ee",
-   "company": "Marsh",
-   "role": "Marsh Insight Day - Bristol",
-   "location": "Bristol"
-  },
-  "d5114f976f43fa38eb55b272cded335a": {
-   "id": "d5114f976f43fa38eb55b272cded335a",
-   "company": "Four Seasons Hotels & Resorts",
-   "role": "Kitchen Intern",
-   "location": "Hampshire"
-  },
-  "1826ce0d1da311c28044655771a33391": {
-   "id": "1826ce0d1da311c28044655771a33391",
-   "company": "BBVA",
-   "role": "Corporate Debt Capital Markets (dcm) Internship",
-   "location": "London"
-  },
-  "a20cb892de4acfef1fc8e9c54a8d490b": {
-   "id": "a20cb892de4acfef1fc8e9c54a8d490b",
-   "company": "The LEGO Group",
-   "role": "Employee Engagement & Analytics Intern",
-   "location": "London"
   },
   "cc9b1c74de5d2c77bd6e8411182d1015": {
    "id": "cc9b1c74de5d2c77bd6e8411182d1015",
@@ -1058,6 +1058,12 @@
    "role": "Software Engineer, Cdn Configuration Group",
    "location": "London"
   },
+  "targetjobs:7d8f4d65-b8c8-47db-b318-18d3e34e84ff": {
+   "id": "targetjobs:7d8f4d65-b8c8-47db-b318-18d3e34e84ff",
+   "company": "MI5",
+   "role": "Software Engineer Ref. 3685",
+   "location": "London"
+  },
   "50d1011cd5c2e7908518d7e48b8f9fbf": {
    "id": "50d1011cd5c2e7908518d7e48b8f9fbf",
    "company": "European Molecular Biology Laboratory",
@@ -1087,12 +1093,6 @@
    "company": "bet365",
    "role": "Software Developer, Account Management & Onboarding",
    "location": "Manchester"
-  },
-  "targetjobs:2b5f7742-737d-443b-999e-a694420437b7": {
-   "id": "targetjobs:2b5f7742-737d-443b-999e-a694420437b7",
-   "company": "BAE Systems",
-   "role": "Undergraduate Software Engineer",
-   "location": "Warton +2"
   },
   "2f69c39cf6b4ac9d6d913cc6cdeab02c": {
    "id": "2f69c39cf6b4ac9d6d913cc6cdeab02c",
@@ -1622,6 +1622,12 @@
    "role": "Data Scientist, Research, Reliability Analytics",
    "location": "London"
   },
+  "targetjobs:9cd530b5-8df9-402c-931e-d23426671452": {
+   "id": "targetjobs:9cd530b5-8df9-402c-931e-d23426671452",
+   "company": "Sparta Global",
+   "role": "Junior AI Engineer",
+   "location": "London"
+  },
   "daed12b274752b2db949eff4039c0af4": {
    "id": "daed12b274752b2db949eff4039c0af4",
    "company": "OpenAI",
@@ -2042,12 +2048,6 @@
    "role": "Ai Engineer",
    "location": "London"
   },
-  "dcc18d9fa07e7e2b08507b805234c4ac": {
-   "id": "dcc18d9fa07e7e2b08507b805234c4ac",
-   "company": "The Cigna Group",
-   "role": "Ai Quality Enablement Engineer - Cigna Healthcare",
-   "location": "Glasgow"
-  },
   "ee75453b35959302cd08b529058d0985": {
    "id": "ee75453b35959302cd08b529058d0985",
    "company": "Zurich Insurance UK",
@@ -2058,6 +2058,18 @@
    "id": "0cc2f180035ee203cef67858245d51d4",
    "company": "BGBx",
    "role": "Summer Associate Consultant, Life Sciences Strategy",
+   "location": "London"
+  },
+  "targetjobs:5fc91fc3-4eb3-47cd-9a66-5af0348a14bb": {
+   "id": "targetjobs:5fc91fc3-4eb3-47cd-9a66-5af0348a14bb",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank Quantitative FIC Internship Programme",
+   "location": "London"
+  },
+  "targetjobs:df437e40-f7cc-425e-88a6-73f51a05d471": {
+   "id": "targetjobs:df437e40-f7cc-425e-88a6-73f51a05d471",
+   "company": "Deutsche Bank",
+   "role": "Deutsche Bank Quantitative GSA Internship Programme",
    "location": "London"
   },
   "87bb819a50d7eb2c29d43c116229de06": {
@@ -2072,34 +2084,52 @@
    "role": "2027 Actuarial Consultant Internship Programme – P&c Insurance, London/reigate",
    "location": "London"
   },
+  "targetjobs:5cc2baa6-7aea-40a7-be4f-75b30ff3b419": {
+   "id": "targetjobs:5cc2baa6-7aea-40a7-be4f-75b30ff3b419",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Internal Audit / One Year Work Placement",
+   "location": "London"
+  },
+  "targetjobs:77e1b911-6f97-4623-95f2-e3a68b5ec058": {
+   "id": "targetjobs:77e1b911-6f97-4623-95f2-e3a68b5ec058",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Internal Audit / Summer Analyst",
+   "location": "London"
+  },
+  "targetjobs:e36c5014-bc7b-40ed-b630-d018b82c1ce2": {
+   "id": "targetjobs:e36c5014-bc7b-40ed-b630-d018b82c1ce2",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Investment Banking, Capital Solutions Group / Summer Analyst",
+   "location": "London"
+  },
+  "targetjobs:83b458a4-da57-423a-8bda-1fe1a41bec39": {
+   "id": "targetjobs:83b458a4-da57-423a-8bda-1fe1a41bec39",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
+   "location": "London"
+  },
+  "targetjobs:2f5d6a21-daa8-4d16-a475-8dbd0bcb0829": {
+   "id": "targetjobs:2f5d6a21-daa8-4d16-a475-8dbd0bcb0829",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Associate",
+   "location": "London"
+  },
+  "targetjobs:34c05e54-ec93-45c5-9978-6ea2f320b7c6": {
+   "id": "targetjobs:34c05e54-ec93-45c5-9978-6ea2f320b7c6",
+   "company": "Goldman Sachs",
+   "role": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
+   "location": "London"
+  },
   "8c70ec4ba470ab590dd8a1a7ce188bcf": {
    "id": "8c70ec4ba470ab590dd8a1a7ce188bcf",
    "company": "Zurich Insurance Company Ltd",
    "role": "Actuarial (general Insurance) Industrial Placement Programme 2027",
    "location": "London"
   },
-  "targetjobs:5561272b-a6b5-4f8d-be2e-c9c2ceaf85d9": {
-   "id": "targetjobs:5561272b-a6b5-4f8d-be2e-c9c2ceaf85d9",
-   "company": "Deutsche Bank",
-   "role": "Deutsche Bank Quantitative FIC Internship Programme",
-   "location": "London"
-  },
-  "targetjobs:1dcbad54-699b-4bf3-bed9-d5261ceda0cb": {
-   "id": "targetjobs:1dcbad54-699b-4bf3-bed9-d5261ceda0cb",
-   "company": "Deutsche Bank",
-   "role": "Deutsche Bank Quantitative GSA Internship Programme",
-   "location": "London"
-  },
   "targetjobs:1512ff62-b764-4765-b734-586658d37e32": {
    "id": "targetjobs:1512ff62-b764-4765-b734-586658d37e32",
    "company": "UBS",
    "role": "2027 12-month Industrial Placement Program - Global Banking",
-   "location": "London"
-  },
-  "targetjobs:6d1063be-3c5a-41f7-949a-66f4bda865b3": {
-   "id": "targetjobs:6d1063be-3c5a-41f7-949a-66f4bda865b3",
-   "company": "UBS",
-   "role": "2027 Off-Cycle Internship - Investment Bank Quants",
    "location": "London"
   },
   "1b7b843b1efe74de90fc6eac8d584fe8": {
@@ -2323,6 +2353,12 @@
    "company": "Berkeley Insurance Group",
    "role": "Placement Analyst",
    "location": "Leeds"
+  },
+  "targetjobs:af875d6f-2991-4b3a-9352-63eb6d1c84e6": {
+   "id": "targetjobs:af875d6f-2991-4b3a-9352-63eb6d1c84e6",
+   "company": "PwC",
+   "role": "Graduate Strategy",
+   "location": "London"
   },
   "targetjobs:37e158fd-fd35-498a-a1cb-d47ab4013ded": {
    "id": "targetjobs:37e158fd-fd35-498a-a1cb-d47ab4013ded",
@@ -2708,12 +2744,6 @@
    "role": "Rewards Data Specialist",
    "location": "London"
   },
-  "3b087c22475e4d5b1d42a575dccf00c7": {
-   "id": "3b087c22475e4d5b1d42a575dccf00c7",
-   "company": "WTW (Willis Towers Watson)",
-   "role": "Rewards Data Specialist",
-   "location": "London"
-  },
   "035f2b0f6d820a31dd75664e6ba917ef": {
    "id": "035f2b0f6d820a31dd75664e6ba917ef",
    "company": "Honda UK",
@@ -2791,6 +2821,12 @@
    "company": "COS",
    "role": "Business Analyst - Digital Product",
    "location": "London"
+  },
+  "targetjobs:7929b559-2a77-4bfa-995c-49b16094a519": {
+   "id": "targetjobs:7929b559-2a77-4bfa-995c-49b16094a519",
+   "company": "Audit Wales",
+   "role": "Auditor Accounts (Relief)",
+   "location": "Wales"
   },
   "1b8ecaf9689c86d976fc53e3d77e227c": {
    "id": "1b8ecaf9689c86d976fc53e3d77e227c",

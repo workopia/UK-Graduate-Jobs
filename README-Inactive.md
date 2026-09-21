@@ -5692,4 +5692,21 @@ _No archived roles yet._
 <tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Pt8hrs Edinburgh Loanhead</td><td>Edinburgh</td><td>2026-09-21</td></tr>
 <tr><td>Leidos UK</td><td>Training Specialist</td><td>Whiteley</td><td>2026-09-21</td></tr>
 <tr><td>Leidos Holdings Inc.</td><td>Training Specialist</td><td>Whiteley</td><td>2026-09-21</td></tr>
+<tr><td>Coca-Cola</td><td>Coca-Cola Ignite Intern - Marketing</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>2027 Corporate Risk & Broking, Internship Programme – London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Howden</td><td>Investment Banking Summer Analyst Internship</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Ferrero</td><td>Finance Internship</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Stress Student Placement</td><td>Enstone</td><td>2026-09-21</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Composite Design Student Placement</td><td>Enstone</td><td>2026-09-21</td></tr>
+<tr><td>Schonfeld</td><td>2027 Equity Middle Office Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Marsh</td><td>Marsh Insight Day - Bristol</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Kitchen Intern</td><td>Hampshire</td><td>2026-09-21</td></tr>
+<tr><td>BBVA</td><td>Corporate Debt Capital Markets (dcm) Internship</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>The LEGO Group</td><td>Employee Engagement & Analytics Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>BAE Systems</td><td>Undergraduate Software Engineer</td><td>Warton +2</td><td>2026-09-21</td></tr>
+<tr><td>The Cigna Group</td><td>Ai Quality Enablement Engineer - Cigna Healthcare</td><td>Glasgow</td><td>2026-09-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Quantitative FIC Internship Programme</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Quantitative GSA Internship Programme</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>UBS</td><td>2027 Off-Cycle Internship - Investment Bank Quants</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Rewards Data Specialist</td><td>London</td><td>2026-09-21</td></tr>
 </table>
