@@ -5625,4 +5625,71 @@ _No archived roles yet._
 <tr><td>Medline</td><td>Quality Coordinator</td><td>Waukegan</td><td>2026-09-20</td></tr>
 <tr><td>Salomon</td><td>Junior Marketing Specialist Sportstyle</td><td>London</td><td>2026-09-20</td></tr>
 <tr><td>CUSHMAN & WAKEFIELD</td><td>Facilities Coordinator</td><td>London</td><td>2026-09-20</td></tr>
+<tr><td>Severn Trent Plc</td><td>Register Your Interest - Summer Placements 2027</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Supply Chain Management Intern (fixed Wing) - 12 Month Placement</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Boeing United Kingdom Limited</td><td>Human Resources Services Specialist Intern - 12 Months Placement</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Finance Intern - 12 Months Placement</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Commercial Intern- 12 Months Placement</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Millennium Space Systems</td><td>Commercial Intern- 12 Months Placement</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>Boeing United Kingdom Limited</td><td>Government Affairs Intern- 12 Months Placement</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Boeing Commercial Aviation Services Europe Limited</td><td>Pmo Analyst Intern - 12 Month Placement</td><td>Reading</td><td>2026-09-21</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Intern - Account Analyst, London (arabic, French Or Italian Speaking)</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Rystad Energy</td><td>Management Consultant Intern - Summer 2027</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Severn Trent</td><td>Register Your Interest - Summer Placements 2027</td><td>Various</td><td>2026-09-21</td></tr>
+<tr><td>PATH</td><td>Office Of The President Intern</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Healthcaremarathon</td><td>Office Of The President Intern</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Coca-Cola India</td><td>Coca-cola Ignite Intern - Strategy</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Strategy</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Hughes</td><td>Intern –digitisation – 2026</td><td>Gb</td><td>2026-09-21</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Fp&a Cost – 2026</td><td>Gb</td><td>2026-09-21</td></tr>
+<tr><td>Trampardecasa Com Br</td><td>Intern –digitisation – 2026</td><td>Gb</td><td>2026-09-21</td></tr>
+<tr><td>Trampardecasa Com Br</td><td>Intern – Fp&a Cost – 2026</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Milliman</td><td>Customer Service Intern - Intelliscript (remote)</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Field Sales & Services Intern</td><td>UK</td><td>2026-09-21</td></tr>
+<tr><td>Barclays</td><td>Capital Markets Summer Internship Programme 2027 London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Barclays</td><td>Banking Summer Internship Programme 2027 London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>jobs.barclays</td><td>Capital Markets Summer Internship Programme 2027 London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Barclays</td><td>Sales, Trading And Structuring Off Cycle Internship Programme 2027 London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>jobs.barclays</td><td>Sales, Trading And Structuring Off Cycle Internship Programme 2027 London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Exxon Mobil</td><td>Commercial Industrial Placement - Global Trading - London</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Industrial Placement - Civil Engineering</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>POP MART Global</td><td>Human Resources Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>POP MART Global</td><td>Legal Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>POP MART Global</td><td>Office Administration Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Cyber Security Intern</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Samsung</td><td>Emerging Talent - Sustainability & Compliance Placement</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Samsung Electronics</td><td>Emerging Talent - Finance Placement</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Manchester City Council</td><td>Apprentice Finance Administrator</td><td>Manchester</td><td>2026-09-21</td></tr>
+<tr><td>MBDA</td><td>Software Engineer - Undergraduate Placement 2027</td><td>Bristol</td><td>2026-09-21</td></tr>
+<tr><td>NXP Semiconductors</td><td>Graduate Ai And Software Engineer - Automotive Mpus</td><td>Glasgow</td><td>2026-09-21</td></tr>
+<tr><td>Brightonparkbank</td><td>Api Software Engineer</td><td>Glasgow</td><td>2026-09-21</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>Vice President, Full-stack Engineer</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Lifenet Health</td><td>Lifenet Health Careers - Support Services Technician</td><td>London Bridge</td><td>2026-09-21</td></tr>
+<tr><td>JD</td><td>Software Engineer</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Citi</td><td>Full-stack Engineer – Generative Ai</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Cigna Healthcare</td><td>Ai Quality Enablement Engineer - Cigna Healthcare</td><td>Glasgow</td><td>2026-09-21</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Data, Analytics & Reporting Analyst - Data Engineering Team</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>PwC UK</td><td>Marketing Data Analytics Specialist (data Quality)</td><td>Lviv</td><td>2026-09-21</td></tr>
+<tr><td>Javelin Global Commodities</td><td>Graduate Accountant</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Charles River Associates</td><td>[2027 Master's Graduates] Consulting Associate (european Competition Practice)</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Citi</td><td>Markets Operations Entry-level Analyst</td><td>Belfast</td><td>2026-09-21</td></tr>
+<tr><td>Citi Handlowy</td><td>Relationship Analyst – Corporate Banking</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Citi Handlowy</td><td>In-business Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-09-21</td></tr>
+<tr><td>Retirement World</td><td>Attribution Analyst (12 Month Fixed Term Contract)</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Brightonparkbank</td><td>Pbwm Business Support Analyst -high Risk Reviewer</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Lloyd's Europe</td><td>Associate, Compliance And Oversight - 12month Ftc</td><td>United Kingdom</td><td>2026-09-21</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Hitachi Rail UK Limited</td><td>Maintenance Technician</td><td>Bounds Green</td><td>2026-09-21</td></tr>
+<tr><td>Hitachi Rail UK Limited</td><td>Overhaul And Modifications Technician</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Field Engineer (south West Region)</td><td>South West England</td><td>2026-09-21</td></tr>
+<tr><td>Miele Professional</td><td>Commercial Appliance Technician</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>sportsconnection.dk</td><td>Sales Associate, Westfield White City</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Milliken & Company</td><td>Customer Service Coordinator</td><td>Lancashire</td><td>2026-09-21</td></tr>
+<tr><td>Bakkavor Group</td><td>Replenishment Coordinator</td><td>Highbridge</td><td>2026-09-21</td></tr>
+<tr><td>Ryanair</td><td>Flight Ops - Admin</td><td>Chelmsford</td><td>2026-09-21</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant (glasgow, Queen Street)</td><td>Glasgow</td><td>2026-09-21</td></tr>
+<tr><td>bupa.co.uk</td><td>Administration Assistant</td><td>Newcastle Upon Tyne</td><td>2026-09-21</td></tr>
+<tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Pt8hrs Edinburgh Loanhead</td><td>Edinburgh</td><td>2026-09-21</td></tr>
+<tr><td>Leidos UK</td><td>Training Specialist</td><td>Whiteley</td><td>2026-09-21</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Training Specialist</td><td>Whiteley</td><td>2026-09-21</td></tr>
 </table>
