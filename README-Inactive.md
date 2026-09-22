@@ -5709,4 +5709,40 @@ _No archived roles yet._
 <tr><td>Deutsche Bank</td><td>Deutsche Bank Quantitative GSA Internship Programme</td><td>London</td><td>2026-09-21</td></tr>
 <tr><td>UBS</td><td>2027 Off-Cycle Internship - Investment Bank Quants</td><td>London</td><td>2026-09-21</td></tr>
 <tr><td>WTW (Willis Towers Watson)</td><td>Rewards Data Specialist</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>John Graham Construction Ltd</td><td>Graham Academy – Design Coordinator Summer Placement Student - Interior Fit Out - Northern Ireland</td><td>Northern Ireland</td><td>2026-09-22</td></tr>
+<tr><td>Ryan Companies</td><td>Ai-enabled Business Solutions Intern</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>RYAN</td><td>Ai-enabled Business Solutions Intern</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>IKEA UK</td><td>Customs Operation Intern</td><td>United Kingdom</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-09-22</td></tr>
+<tr><td>jobs.barclays</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-22</td></tr>
+<tr><td>Barclays</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-22</td></tr>
+<tr><td>jobs.barclays</td><td>Adoption Software Engineer Xdp</td><td>Glasgow</td><td>2026-09-22</td></tr>
+<tr><td>Barclays</td><td>Adoption Software Engineer Xdp</td><td>Glasgow</td><td>2026-09-22</td></tr>
+<tr><td>Alkegen</td><td>Automation Engineer</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>London Stock Exchange Group</td><td>Data Scientist</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>London Stock Exchange Group</td><td>Core Ai Engineer</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Planet Freedesktop</td><td>Ai Engineer</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Actuarial (general Insurance) Industrial Placement Programme 2027</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Lazard</td><td>Analyst - Equity Advisory Team - London</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>conocophillips</td><td>Etrm Support Analyst</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>VANGUARD AUSTRALIA</td><td>Finance - Fund And Investment Operations</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>DWS Group</td><td>Internal Auditor</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Cobham</td><td>Tco & Finops Analyst</td><td>Salford Quays</td><td>2026-09-22</td></tr>
+<tr><td>Lincolninternational</td><td>Analyst, Business Services M&a</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Bupa</td><td>Care Assistant</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Bupa</td><td>Registered Nurse</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Operose Health Ltd</td><td>General Practitioner Kings Road, London, United Kingdom £99000 - £112500 Permanent - Part Time Apply By 14 September, 2026 Job Posted Date 26 August, 2026</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Trane Technologies</td><td>Mobile Technician (greenford Depot)</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Representative</td><td>England</td><td>2026-09-22</td></tr>
+<tr><td>Philips</td><td>Field Service Engineer - South East</td><td>South East England</td><td>2026-09-22</td></tr>
+<tr><td>Koninklijke Philips</td><td>Field Service Engineer - South East</td><td>South East England</td><td>2026-09-22</td></tr>
+<tr><td>Philips UK</td><td>Field Service Engineer - South East</td><td>South East England</td><td>2026-09-22</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Asset Technician</td><td>Kitt Green</td><td>2026-09-22</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Sales Associate, Westfield White City</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>Portsmouth</td><td>2026-09-22</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Birmingham</td><td>2026-09-22</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Executive Assistant - Central Government</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-09-22</td></tr>
+<tr><td>NPL Management Ltd</td><td>Marketing Coordinator</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Babcock International</td><td>Business Support Administrator</td><td>Swindon</td><td>2026-09-22</td></tr>
 </table>
