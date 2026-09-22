@@ -5749,4 +5749,24 @@ _No archived roles yet._
 <tr><td>Bishopfleming</td><td>Graduate Trainee Accountant - Aca & Aca/cta - September 2026 Start</td><td>United Kingdom</td><td>2026-09-22</td></tr>
 <tr><td>Ernst & Young</td><td>Executive - Decision Modelling - London</td><td>London</td><td>2026-09-22</td></tr>
 <tr><td>Atkinsrealis</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-09-22</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Simulation Student Placement</td><td>Enstone</td><td>2026-09-22</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Merch & Licensing Student Placement</td><td>Enstone</td><td>2026-09-22</td></tr>
+<tr><td>C.H. Robinson Worldwide</td><td>Intern - Associate Portfolio Representative - Starting 2027</td><td>Milwaukee</td><td>2026-09-22</td></tr>
+<tr><td>Involved Group</td><td>Office & Label Intern</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Apple</td><td>Pmu Design Verification Intern</td><td>United Kingdom</td><td>2026-09-22</td></tr>
+<tr><td>Eucalyptus</td><td>Mba Intern - Strategy Associate</td><td>Uk</td><td>2026-09-22</td></tr>
+<tr><td>Howden</td><td>Investment Banking Summer Analyst Internship 2027</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Berkeley Research Group</td><td>Intern - Economics, Disputes And Investigations</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Shell Energy UK</td><td>Shell Assessed Internship Programme 2027 – United Kingdom</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Supply Chain - Technical Uk</td><td>Port Sunlight +3</td><td>2026-09-22</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Legal Uk</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Finance - Uk</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Supply Chain - Non-technical Uk</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Ferrero LADM</td><td>Finance Internship (9-12 Months)</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>BlackRock</td><td>2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>howdeninsurance.co.uk</td><td>Investment Banking Summer Analyst Internship 2027</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>RSM</td><td>Audit Placement - Bristol - September 2027</td><td>Bristol</td><td>2026-09-22</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Internship - Cyber Transformation Officer Gisec</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Dmgmedia</td><td>Product Design Intern</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>PIMCO</td><td>2027 Mba Summer Intern - Account Manager, London (arabic, Dutch, Nordic Language Speaking)</td><td>London</td><td>2026-09-22</td></tr>
 </table>
