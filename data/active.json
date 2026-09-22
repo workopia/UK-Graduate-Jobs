@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 822,
+ "count": 820,
  "jobs": {
   "2712150": {
    "id": "2712150",
@@ -787,12 +787,6 @@
    "company": "DHL UK",
    "role": "Marketing Apprentice (service Points)",
    "location": "London"
-  },
-  "c8e517db02835c7d63cf7107d9b496d8": {
-   "id": "c8e517db02835c7d63cf7107d9b496d8",
-   "company": "Mueller Service GmbH",
-   "role": "Md - Manufacturing Apprentice",
-   "location": "Manchester"
   },
   "2d7e0ba76d0a3bdf1c9a33a7c1f3aff0": {
    "id": "2d7e0ba76d0a3bdf1c9a33a7c1f3aff0",
@@ -2534,12 +2528,6 @@
    "role": "Graduate Accountant",
    "location": "London"
   },
-  "c3b7d962e18f76a4e6642a83705e7a9f": {
-   "id": "c3b7d962e18f76a4e6642a83705e7a9f",
-   "company": "Bishopfleming",
-   "role": "Graduate Trainee Accountant - Aca & Aca/cta - September 2026 Start",
-   "location": "United Kingdom"
-  },
   "1fb924a581a69a27d9d8659fd27371da": {
    "id": "1fb924a581a69a27d9d8659fd27371da",
    "company": "Free People (URBN)",
@@ -2574,6 +2562,18 @@
    "id": "6981a468a96411834e24e0ff4661b50a",
    "company": "EBRD",
    "role": "Analyst, Oversight And Enablement",
+   "location": "London"
+  },
+  "6f3fcf0d55015b14c3a04c062480c3fc": {
+   "id": "6f3fcf0d55015b14c3a04c062480c3fc",
+   "company": "Royal London",
+   "role": "Automation & Innovation Analyst",
+   "location": "Alderley Edge"
+  },
+  "4de44e39c80f85000ac6872801cb0b1d": {
+   "id": "4de44e39c80f85000ac6872801cb0b1d",
+   "company": "Royal London Asset Management",
+   "role": "Data Business Analyst (rlam)",
    "location": "London"
   },
   "89bf51b82ce9c23fcbd849561322b4ef": {
@@ -3001,18 +3001,6 @@
    "company": "Thoughtworks",
    "role": "Data & Ai Strategist",
    "location": "London"
-  },
-  "4785ae35b72d0afc1a1af0b0bd732cca": {
-   "id": "4785ae35b72d0afc1a1af0b0bd732cca",
-   "company": "Ernst & Young",
-   "role": "Executive - Decision Modelling - London",
-   "location": "London"
-  },
-  "1d5de7bb1d164432190c2bf7698c59a6": {
-   "id": "1d5de7bb1d164432190c2bf7698c59a6",
-   "company": "Atkinsrealis",
-   "role": "Business Analyst",
-   "location": "United Kingdom"
   },
   "47e4e5de7eea240bafbd050f6535d87a": {
    "id": "47e4e5de7eea240bafbd050f6535d87a",

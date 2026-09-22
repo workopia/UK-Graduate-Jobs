@@ -5745,4 +5745,8 @@ _No archived roles yet._
 <tr><td>Dyer & Butler Ltd</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-09-22</td></tr>
 <tr><td>NPL Management Ltd</td><td>Marketing Coordinator</td><td>London</td><td>2026-09-22</td></tr>
 <tr><td>Babcock International</td><td>Business Support Administrator</td><td>Swindon</td><td>2026-09-22</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Md - Manufacturing Apprentice</td><td>Manchester</td><td>2026-09-22</td></tr>
+<tr><td>Bishopfleming</td><td>Graduate Trainee Accountant - Aca & Aca/cta - September 2026 Start</td><td>United Kingdom</td><td>2026-09-22</td></tr>
+<tr><td>Ernst & Young</td><td>Executive - Decision Modelling - London</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>Atkinsrealis</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-09-22</td></tr>
 </table>
