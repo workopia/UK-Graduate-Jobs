@@ -5769,4 +5769,48 @@ _No archived roles yet._
 <tr><td>Chanel (Australia) Pty Ltd</td><td>Internship - Cyber Transformation Officer Gisec</td><td>London</td><td>2026-09-22</td></tr>
 <tr><td>Dmgmedia</td><td>Product Design Intern</td><td>London</td><td>2026-09-22</td></tr>
 <tr><td>PIMCO</td><td>2027 Mba Summer Intern - Account Manager, London (arabic, Dutch, Nordic Language Speaking)</td><td>London</td><td>2026-09-22</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Reliability Student Placement</td><td>Enstone</td><td>2026-09-23</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Market Security Analyst</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Elsevier</td><td>Software Engineer Iii (java & Javascript)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>BlackRock UK</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Leidos UK</td><td>Plc Software Engineer</td><td>Bedfordshire</td><td>2026-09-23</td></tr>
+<tr><td>gssi.world</td><td>Aiml Software Engineer, Ai For Science</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>GSK plc</td><td>Aiml Software Engineer, Ai For Science</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Finance Dataware Support Specialist</td><td>Trostyanets</td><td>2026-09-23</td></tr>
+<tr><td>Mondelēz International</td><td>Finance Dataware Support Specialist</td><td>Trostyanets</td><td>2026-09-23</td></tr>
+<tr><td>Worldpay</td><td>Java Software Engineer (cambridge)</td><td>Cambridge</td><td>2026-09-23</td></tr>
+<tr><td>Worldpay Inc</td><td>Software Engineer - Java (cambridge)</td><td>Cambridge</td><td>2026-09-23</td></tr>
+<tr><td>Worldpay Inc</td><td>Software Engineer Specialist - Agentic Commerce</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Worldpay Inc</td><td>Software Engineer - C# & .net</td><td>Manchester</td><td>2026-09-23</td></tr>
+<tr><td>Case Law Reporter</td><td>Data Scientist Iii</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Data Scientist Iii</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>SNC Lavalin</td><td>Project Controls Data & Reporting Analyst</td><td>Chamberlain Square</td><td>2026-09-23</td></tr>
+<tr><td>Hiscox</td><td>Data Scientist</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Bakkavor Group</td><td>Group Auditor</td><td>Leeds</td><td>2026-09-23</td></tr>
+<tr><td>DB Cargo France</td><td>Industrials / Business Services - Investment Banking Coverage & Advisory</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>DB Cargo France</td><td>Wealth Management Strat</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>LSEG</td><td>Issue Management Analyst (1lod Risk Management)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>EBRD</td><td>Analyst</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Swiss Re</td><td>Longevity Pricing Actuary (80-100%)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>DARKTRACE AUSTRALIA PTY</td><td>Cybersecurity Compliance Analyst</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Thoughtworks</td><td>Data & Ai Strategist</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Cobham</td><td>Care Assistant - Full Time</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant - Full Time</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Ashridge Home Care</td><td>Waking Night Care Assistant</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>DS Smith PLC</td><td>Conversion Machine Technician - L1</td><td>Fordham</td><td>2026-09-23</td></tr>
+<tr><td>Trane Technologies</td><td>Mobile Technician (aylesford Depot)</td><td>Aylesford</td><td>2026-09-23</td></tr>
+<tr><td>Evri</td><td>Warehouse Operative Twilights</td><td>Tyneside</td><td>2026-09-23</td></tr>
+<tr><td>John Lewis Partnership</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-09-23</td></tr>
+<tr><td>nationalgas</td><td>Business Support Admin</td><td>Nottingham</td><td>2026-09-23</td></tr>
+<tr><td>Amey Ltd</td><td>Highways Administrator</td><td>Birmingham</td><td>2026-09-23</td></tr>
+<tr><td>Legaloperators Com Inc</td><td>Admin Assistant – Billinge</td><td>Liverpool</td><td>2026-09-23</td></tr>
+<tr><td>HeliosX Group</td><td>Executive Assistant</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Argyll</td><td>Customer Services Assistant</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Payroll Processing And Administrative Assistant</td><td>Oxford</td><td>2026-09-23</td></tr>
+<tr><td>Sun Chemical</td><td>Technical Application Specialist, Emea</td><td>EMEA</td><td>2026-09-23</td></tr>
+<tr><td>Junior Adventures Group</td><td>Children's Activity Coordinator, Camberley</td><td>Reading</td><td>2026-09-23</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Battersea</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Uxbridge</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Altrincham</td><td>Manchester</td><td>2026-09-23</td></tr>
 </table>
