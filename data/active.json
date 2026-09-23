@@ -986,6 +986,12 @@
    "role": "Technical Support Specialist I",
    "location": "Farringdon"
   },
+  "d6ab3f4dad819d857055acb7a5fece05": {
+   "id": "d6ab3f4dad819d857055acb7a5fece05",
+   "company": "IKEA UK",
+   "role": "Software Engineer - Digital Automation",
+   "location": "United Kingdom"
+  },
   "3b1871eb833fc53a558fb64798ae581a": {
    "id": "3b1871eb833fc53a558fb64798ae581a",
    "company": "RELX (LexisNexis)",
@@ -1424,12 +1430,6 @@
    "role": "Software Engineer",
    "location": "London"
   },
-  "c3a4c5b88a23fe3b3905d93b01cb0866": {
-   "id": "c3a4c5b88a23fe3b3905d93b01cb0866",
-   "company": "ASOS",
-   "role": "Security Analyst",
-   "location": "London"
-  },
   "67a03b0c67a9221fb5f046ab20073b0e": {
    "id": "67a03b0c67a9221fb5f046ab20073b0e",
    "company": "Medtronic",
@@ -1591,6 +1591,12 @@
    "company": "Vrbo (Expedia Group)",
    "role": "Data Scientist Iii, Hotels.com Analytics",
    "location": "United Kingdom"
+  },
+  "6a685fd7663ea079b6c04b9378230b2e": {
+   "id": "6a685fd7663ea079b6c04b9378230b2e",
+   "company": "Burford Capital Ltd",
+   "role": "Data Analyst",
+   "location": "London"
   },
   "5f4e2a1ab5e7424c08b46aeee271815d": {
    "id": "5f4e2a1ab5e7424c08b46aeee271815d",
@@ -2059,12 +2065,6 @@
    "company": "Linklaters LLP",
    "role": "Bdm Data Analyst",
    "location": "London"
-  },
-  "9f06c322e89660e472cdf23694bdd061": {
-   "id": "9f06c322e89660e472cdf23694bdd061",
-   "company": "GXO Logistics",
-   "role": "Automation Engineer",
-   "location": "Crick"
   },
   "1be43416a9fdcab99f93c23ff7c1888e": {
    "id": "1be43416a9fdcab99f93c23ff7c1888e",
@@ -2624,16 +2624,16 @@
    "role": "Consulting Industry Partner- Energy",
    "location": "London"
   },
+  "997b7875f7f7470ba2a7f36d0c7c264f": {
+   "id": "997b7875f7f7470ba2a7f36d0c7c264f",
+   "company": "Expleo Group UK",
+   "role": "Business Analyst - Business Continuity",
+   "location": "Belfast"
+  },
   "1fb924a581a69a27d9d8659fd27371da": {
    "id": "1fb924a581a69a27d9d8659fd27371da",
    "company": "Free People (URBN)",
    "role": "Urbn Junior Tech Business Analyst",
-   "location": "London"
-  },
-  "480be514ccd2f68177dce6cd0f4fd62a": {
-   "id": "480be514ccd2f68177dce6cd0f4fd62a",
-   "company": "Teneo",
-   "role": "Cybersecurity Risk And Compliance Associate",
    "location": "London"
   },
   "7557951d8d985c3cbb9d69aad16769d9": {
@@ -3542,6 +3542,12 @@
    "role": "Field Service Technician - Drinks Dispense",
    "location": "Central London"
   },
+  "66d0a72da1a9a63fd8b172379605f64e": {
+   "id": "66d0a72da1a9a63fd8b172379605f64e",
+   "company": "Mueller Service GmbH",
+   "role": "Engineering Technician (site Services)",
+   "location": "Severnside"
+  },
   "35f0f3d635ee0a69a208a3f3c195af6d": {
    "id": "35f0f3d635ee0a69a208a3f3c195af6d",
    "company": "ICL ISRAEL Ltd",
@@ -3991,12 +3997,6 @@
    "company": "Johnson Controls International PLC",
    "role": "Service Engineer – Security",
    "location": "London"
-  },
-  "538598b8389063468561c691058b4838": {
-   "id": "538598b8389063468561c691058b4838",
-   "company": "Nestle Ltd",
-   "role": "Maintenance Engineer (day Shift Only)",
-   "location": "Tutbury"
   },
   "ae2cf056b8fc7283211d3213d4e07270": {
    "id": "ae2cf056b8fc7283211d3213d4e07270",
@@ -4550,6 +4550,12 @@
    "role": "Project Coordinator",
    "location": "Scotland"
   },
+  "9fbf21eb72b1e6a8cd05e8c2ec83a1df": {
+   "id": "9fbf21eb72b1e6a8cd05e8c2ec83a1df",
+   "company": "Cytiva",
+   "role": "Labour And Employee Relations Specialist - Discovery And Medical",
+   "location": "Cardiff"
+  },
   "32a3fe390cccc76978513ebd898e5f21": {
    "id": "32a3fe390cccc76978513ebd898e5f21",
    "company": "Nuffield Health",
@@ -4723,6 +4729,12 @@
    "company": "NEXT plc",
    "role": "Team Member (admin) - Liverpool Church Street (n129595)",
    "location": "Liverpool"
+  },
+  "6913e3e06ae142933e1940d6eb3b8641": {
+   "id": "6913e3e06ae142933e1940d6eb3b8641",
+   "company": "Poundland",
+   "role": "Merchandising Admin Assistant - Clothing Retail",
+   "location": "London"
   },
   "81938f175308a4c8a157425054400824": {
    "id": "81938f175308a4c8a157425054400824",
@@ -4945,18 +4957,6 @@
    "company": "Sanctuary Housing Association",
    "role": "Support Assistant",
    "location": "Manchester"
-  },
-  "9c2d9e2a212df2a58705b992102e4243": {
-   "id": "9c2d9e2a212df2a58705b992102e4243",
-   "company": "Nordson",
-   "role": "Associate Administrative Support",
-   "location": "Aylesbury"
-  },
-  "8322ec932663e6343524d12ebd164bdc": {
-   "id": "8322ec932663e6343524d12ebd164bdc",
-   "company": "Spinwell Global Pte Ltd",
-   "role": "Executive Personal Assistant - Central Government",
-   "location": "London"
   }
  }
 }

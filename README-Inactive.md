@@ -5839,4 +5839,10 @@ _No archived roles yet._
 <tr><td>Tommy Hilfiger</td><td>Part Time Sales Associate, Tommy Hilfiger - The O2</td><td>London</td><td>2026-09-23</td></tr>
 <tr><td>Atelier Ten</td><td>Bid And Marketing Coordinator</td><td>London</td><td>2026-09-23</td></tr>
 <tr><td>Smith & Nephew Inc</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>ASOS</td><td>Security Analyst</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>GXO Logistics</td><td>Automation Engineer</td><td>Crick</td><td>2026-09-23</td></tr>
+<tr><td>Teneo</td><td>Cybersecurity Risk And Compliance Associate</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Nestle Ltd</td><td>Maintenance Engineer (day Shift Only)</td><td>Tutbury</td><td>2026-09-23</td></tr>
+<tr><td>Nordson</td><td>Associate Administrative Support</td><td>Aylesbury</td><td>2026-09-23</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Executive Personal Assistant - Central Government</td><td>London</td><td>2026-09-23</td></tr>
 </table>
