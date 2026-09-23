@@ -12,8 +12,8 @@
   "as_of": "2026-09-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 18256,
-  "generated_at": "2026-09-23T10:29:39.931Z"
+  "country_live_total": 18241,
+  "generated_at": "2026-09-23T13:22:06.097Z"
  },
  "categories": [
   {
@@ -2898,23 +2898,6 @@
   },
   {
    "salary_display": null,
-   "id": "766d48b91c0140767eae0af49e2fcd39",
-   "source": "Workopia",
-   "company_name": "Slice",
-   "company_hi_slug": "slice",
-   "title": "Software Developer, Deploy & Run",
-   "location": "United Kingdom",
-   "skills": "Build and maintain Int, Create self-service to",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T14:27:26.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/766d48b91c0140767eae0af49e2fcd39",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "ef5b4af410f8c88f2028743e2f77bed6",
    "source": "Workopia",
    "company_name": "Accenture",
@@ -4083,6 +4066,23 @@
    "date_posted": "2026-09-11T17:19:46.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/b4aebd3ebcd94c1f05bd9618bf18a8c4",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "£26k–47k*",
+   "id": "c3a4c5b88a23fe3b3905d93b01cb0866",
+   "source": "Workopia",
+   "company_name": "ASOS",
+   "company_hi_slug": "asos",
+   "title": "Security Analyst",
+   "location": "London",
+   "skills": "physical security syst, risk mitigation techni",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-11T16:07:28.763Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/c3a4c5b88a23fe3b3905d93b01cb0866",
    "category": "tech",
    "tier": "Entry-level"
   },

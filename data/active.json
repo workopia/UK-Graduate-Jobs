@@ -1010,12 +1010,6 @@
    "role": "Staff Backend Engineer - Databases - Analytics / Uk / Remote",
    "location": "United Kingdom"
   },
-  "766d48b91c0140767eae0af49e2fcd39": {
-   "id": "766d48b91c0140767eae0af49e2fcd39",
-   "company": "Slice",
-   "role": "Software Developer, Deploy & Run",
-   "location": "United Kingdom"
-  },
   "ef5b4af410f8c88f2028743e2f77bed6": {
    "id": "ef5b4af410f8c88f2028743e2f77bed6",
    "company": "Accenture",
@@ -1428,6 +1422,12 @@
    "id": "b4aebd3ebcd94c1f05bd9618bf18a8c4",
    "company": "Genius Sports",
    "role": "Software Engineer",
+   "location": "London"
+  },
+  "c3a4c5b88a23fe3b3905d93b01cb0866": {
+   "id": "c3a4c5b88a23fe3b3905d93b01cb0866",
+   "company": "ASOS",
+   "role": "Security Analyst",
    "location": "London"
   },
   "67a03b0c67a9221fb5f046ab20073b0e": {

@@ -5845,4 +5845,5 @@ _No archived roles yet._
 <tr><td>Nestle Ltd</td><td>Maintenance Engineer (day Shift Only)</td><td>Tutbury</td><td>2026-09-23</td></tr>
 <tr><td>Nordson</td><td>Associate Administrative Support</td><td>Aylesbury</td><td>2026-09-23</td></tr>
 <tr><td>Spinwell Global Pte Ltd</td><td>Executive Personal Assistant - Central Government</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Slice</td><td>Software Developer, Deploy & Run</td><td>United Kingdom</td><td>2026-09-23</td></tr>
 </table>
