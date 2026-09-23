@@ -5813,4 +5813,30 @@ _No archived roles yet._
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Battersea</td><td>London</td><td>2026-09-23</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Uxbridge</td><td>London</td><td>2026-09-23</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Altrincham</td><td>Manchester</td><td>2026-09-23</td></tr>
+<tr><td>Kpler</td><td>Full Stack Engineer</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>Proofpoint</td><td>Staff Full-stack Software Engineer - Mission Control (satori)</td><td>Belfast</td><td>2026-09-23</td></tr>
+<tr><td>Proofpoint</td><td>Software Engineer - Ai Agents (satori)</td><td>Belfast</td><td>2026-09-23</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Staff Software Engineer</td><td>Edinburgh</td><td>2026-09-23</td></tr>
+<tr><td>LexisNexis</td><td>Data Scientist Iii</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>SP Energy Networks</td><td>Network Planning Analyst</td><td>Glasgow</td><td>2026-09-23</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Quantitative Analyst (rates Electronic Market Making)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Quantitative Analyst, Rates Xva, Avp</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Schonfeld</td><td>Junior Compliance Associate</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Veolia UK</td><td>Compliance Supervisor</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Operose Health Ltd</td><td>Healthcare Assistant Maida Vale, United Kingdom 26910 - 30000 Permanent - Full Time Apply By 14 September, 2026 Job Posted Date 28 August, 2026</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant - Full Time</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer - West Midland</td><td>West Midland</td><td>2026-09-23</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer (commercial Gas)</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>DS Smith PLC</td><td>Mechanical Craft Engineer</td><td>Kemsley</td><td>2026-09-23</td></tr>
+<tr><td>DS Smith PLC</td><td>Conversion Machine Technician</td><td>Cambridge</td><td>2026-09-23</td></tr>
+<tr><td>Kate Spade New York</td><td>Sales Associate</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Service Associate - Guest Experience Expert - St Pancras London Autograph Collection</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Agile Retail</td><td>Iqos Field Sales Representative- Romford</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>The North Face</td><td>Sales Associate</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>The North Face</td><td>Sales Associates (part Time)</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h (temporary)</td><td>Edinburgh</td><td>2026-09-23</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Sales Associate, Calvin Klein - St.pancras</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Part Time Sales Associate, Tommy Hilfiger - The O2</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Atelier Ten</td><td>Bid And Marketing Coordinator</td><td>London</td><td>2026-09-23</td></tr>
+<tr><td>Smith & Nephew Inc</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-09-23</td></tr>
 </table>
