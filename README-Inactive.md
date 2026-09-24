@@ -5899,4 +5899,139 @@ _No archived roles yet._
 <tr><td>Sureserve Group</td><td>Operation Support Assistant</td><td>Cambridge</td><td>2026-09-24</td></tr>
 <tr><td>SHISEIDO CO.,LTD</td><td>Executive Assistant</td><td>London</td><td>2026-09-24</td></tr>
 <tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Acturis Ltd</td><td>Graduate Business Analyst, Insurtech</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>GOCal</td><td>Market Intelligence Revenue Associate Internship</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Schonfeld</td><td>2027 Dmfi Quant Developer Intern</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Amazon</td><td>Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>GRAHAM GROUP</td><td>GRAHAM Academy – Design Coordinator Summer Placement Student - Interior Fit Out</td><td>Hillsborough</td><td>2026-09-24</td></tr>
+<tr><td>GRAHAM GROUP</td><td>GRAHAM academy - Student Planner (Year Out Placement)</td><td>Hillsborough</td><td>2026-09-24</td></tr>
+<tr><td>Shaw Trust</td><td>Job Coach Supported Internships</td><td>Redbridge</td><td>2026-09-24</td></tr>
+<tr><td>Airbusgroup</td><td>Wing Structure Analysis Placement</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbusgroup</td><td>Aircraft Operations Placement (12.5 months)</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Simulation Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Simulation Development Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Reliability Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Racing Limited</td><td>Stress Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>MEDTRONIC</td><td>Material Management Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>P D G</td><td>Multiskilled Apprentice</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Pharmapaywatch</td><td>Material Management Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Material Management Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Fennies Day Nurseries</td><td>Nursery Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Sales Apprentice</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Manchester City Council</td><td>Business Support Officer (apprentice)</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Turner & Townsend Pty Ltd</td><td>Corporate Responsibility Level 4 Data Analyst Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>McDermott International</td><td>Apprentice</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Product & Quality Specialist Apprenticeship Programme</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Jotun AS</td><td>Trainee- Technical Sales Support Engineer</td><td>Flixborough</td><td>2026-09-24</td></tr>
+<tr><td>Stripe</td><td>Software Engineer, New Grad</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Stripe Issuing</td><td>Software Engineer, New Grad</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Cloudscaler</td><td>Associate Engineer (Graduate Entry Role)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Acturis</td><td>Graduate Web Developer, London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>ICS.AI Limited</td><td>Graduate Software Engineer</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>DIGICO</td><td>GRADUATE APPLICATION SOFTWARE ENGINEER</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Samsara</td><td>Software Engineer I (new Grad)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Motorola Solutions</td><td>Graduate Software Engineer</td><td>Glasgow</td><td>2026-09-24</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Roquette</td><td>User Support Technical</td><td>Keokuk</td><td>2026-09-24</td></tr>
+<tr><td>Lubrizol</td><td>Data Scientist Intern (phd Level)</td><td>Hazelwood</td><td>2026-09-24</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Data Scientist Intern (phd Level)</td><td>Hazelwood</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Aggp2027 - Graduate Strategy And Data Analyst</td><td>Bristol Area</td><td>2026-09-24</td></tr>
+<tr><td>Newrocket</td><td>AI Engineer-Anthropic-University/Graduate Level</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Airbus SE</td><td>Aggp2027 - Graduate Ai Engineer</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbus SE</td><td>Aggp2027 – Graduate Airframe Automation Engineer</td><td>Bristol Area</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Operations Limited</td><td>Aggp2027 - Graduate Ai Engineer</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Operations Limited</td><td>Aggp2027 – Graduate Airframe Automation Engineer</td><td>Bristol Area</td><td>2026-09-24</td></tr>
+<tr><td>Testia</td><td>Aggp2027 – Graduate Airframe Automation Engineer</td><td>Bristol Area</td><td>2026-09-24</td></tr>
+<tr><td>GAMMA</td><td>Graduate / Early Career Reporting Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Pragma</td><td>Graduate / Early Career Reporting Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sharkninjaoperatingllc</td><td>Digital Sharks: Performance Data Associate — Marketplace Intelligence (early Careers)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>LCM Engineering & Consultancy</td><td>Trainee Robot & Automation Engineer</td><td>GB</td><td>2026-09-24</td></tr>
+<tr><td>Norton Rose Fulbright</td><td>Junior Data Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Morrisons</td><td>Data Specialist - Data Scientist</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>Nexgencloud</td><td>Data Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Arch Capital Group Ltd</td><td>Customer Data And Insights Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Barclays</td><td>2027 Internal Audit Analyst Summer Internship Programme London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets, Quantitative Analysis, Off Cycle Placement , London, Uk, 2027</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Full Time Analyst, London – United Kingdom 2027 - (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Full Time Associate, London – United Kingdom 2027 (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Summer Associate, London – United Kingdom 2027</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking – Corporate Broking, Placement Analyst, London – United Kingdom 2027</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Internal Audit - Full-time Analyst, London, 2027(applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Kia UK</td><td>Business Analyst - Service & Quality (Undergraduate Placement Year 2027-28)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Kia UK</td><td>Business Analyst - Product Marketing (Undergraduate Placement Year 2027-28)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Kia UK</td><td>Business Analyst - Network Development (Undergraduate Placement Year 2027-28)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Kia UK</td><td>Commercial Business Analyst (Undergraduate Placement Year 2027-28)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Financing, Full Time Analyst, London - United Kingdom 2027 (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Summer Internship 2027 - London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Harris Williams</td><td>2027 Summer Analyst, London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi</td><td>Banking, Investment Banking, Full Time Analyst, London – United Kingdom 2027 - (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Citi</td><td>Banking, Investment Banking, Full Time Associate, London – United Kingdom 2027 (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Banking, Investment Banking, Full Time Associate, London – United Kingdom 2027 (applicable For 2026 Citi Summer Interns Only)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Financialtechnologypartners</td><td>2027 January Ibd Intern Analyst (london)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Schroders</td><td>2027 Public Markets Quants Internship Programme</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Bank of America</td><td>Global Investment Banking 2027 Summer Analyst - London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>HRTechX</td><td>Business Analyst Internship At Hrtechx</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>United Media</td><td>Business Analyst Internship At United Media</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Milliman</td><td>Actuarial Intern - Milwaukee P&c - Summer 2027 - Onsite</td><td>Milwaukee</td><td>2026-09-24</td></tr>
+<tr><td>CTC Campus</td><td>Quant Trading Internship</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Berkeley Insurance Group</td><td>Placement Analyst</td><td>Leeds</td><td>2026-09-24</td></tr>
+<tr><td>Wandsworth Council</td><td>Trainee Auditor Wandsworth, London, United Kingdom £31,515 - £44,304 Fixed Term – Full Time (36 Hours) Apply By 20 September, 2026 Posted On 3 September, 2026</td><td>Wandsworth</td><td>2026-09-24</td></tr>
+<tr><td>Talentbrew</td><td>Banking Graduate Programme 2027</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Capital One</td><td>Strategy Analyst Graduate</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Oxford Nanopore Technologies</td><td>Graduate Accountant</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>Enstargrouplimited</td><td>Graduate Compliance Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Unum Group</td><td>Actuarial Trainee</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>G MASS</td><td>Graduate Operations Analyst - London Market Insurance</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>SS&C</td><td>Graduate Business Analyst [pa26q3grbajh88]</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Atomos</td><td>Graduate Business Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Nuveen</td><td>Global Client Experience - Rotational Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Graduate Actuarial Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Ryansg</td><td>Graduate Accountant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Ryan Specialty Group</td><td>Graduate Accountant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Ryan Specialty, LLC</td><td>Graduate Accountant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sizewell C</td><td>Cyber Requirements & Compliance Specialist</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Modulr Finance Ltd</td><td>Client Risk Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>COS</td><td>Business Analyst - Digital Product</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Audit Wales</td><td>Auditor Accounts (Relief)</td><td>Wales</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant (bank)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>bupa.co.uk</td><td>Registered Nurse</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Bupa Group</td><td>Registered Nurse</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant (nights)- Bank</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant (nights)- Bank</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant - Full Time (hourly)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant - Full Time (hourly)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Cleveland Clinic London</td><td>Healthcare Assistant - Aau</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>ICON plc</td><td>Cra</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>Radfield Home Care</td><td>Care Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Radfield Home Care</td><td>Care Assistant - Mornings</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Cobham</td><td>Care Assistant - Bank</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Bank Support Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Care</td><td>Care Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>ICON plc</td><td>Clinical Research Associate</td><td>UK</td><td>2026-09-24</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Recruitment Open Day - Epsom Rosebery Manor Care Home, 458 Reigate Road, Epsom, Surrey, United Kingdom Varied Depending On Role Permanent Apply By 23 September, 2026 Posted On 2 September, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Avante Care & Support</td><td>Care And Support Assistant - Days & Nights - Weybourne, Abbey Wood Weybourne, Abbey Wood , United Kingdom £13.20-£13.40 Part Time Apply By 2 October, 2026 Posted On 2 September, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Agincare Group</td><td>Care Assistant Nights Southwark, United Kingdom (incl. Northern Ireland) £14.80 Part Time Apply By 1 October, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Agincare Group</td><td>Night Care Assistant Hampton, United Kingdom (incl. Northern Ireland) £14.80 Full Time Apply By 1 October, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Agincare Group</td><td>Care Assistant Hampton, United Kingdom (incl. Northern Ireland) £14.80 Full Time Apply By 27 September, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>John Lewis Partnership</td><td>Customer Assistant (christmas)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Skechers</td><td>Sales Associate - Westgate Oxford Ox1</td><td>Oxford</td><td>2026-09-24</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n129274)</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>Selfridges Group</td><td>Christmas Sales Associate - Fashion Floors (various Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Christmas Temp Apply By 12 October, 2026 Posted On 12 September, 2026</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Alo Yoga</td><td>Sales Associate (part-time) - Westfield London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>ALO</td><td>Sales Associate (part-time) - Westfield London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Reformation</td><td>Sales Associate, Part-time - Battersea Power Station - Battersea, London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (12 Hours)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Mango</td><td>Multifuncional Sales Associate (30hours Fix-term, Oxford St.)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Coordinator</td><td>Location</td><td>2026-09-24</td></tr>
+<tr><td>Lloydseurope</td><td>Personal Assistant (pa) To Ceo Business & Commercial Banking</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Recovery Focus</td><td>Healthcare Assistant</td><td>North Devon</td><td>2026-09-24</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-09-24</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant - Theatres</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Facilities Coordinator</td><td>Warwick</td><td>2026-09-24</td></tr>
 </table>
