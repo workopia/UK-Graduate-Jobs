@@ -5846,4 +5846,57 @@ _No archived roles yet._
 <tr><td>Nordson</td><td>Associate Administrative Support</td><td>Aylesbury</td><td>2026-09-23</td></tr>
 <tr><td>Spinwell Global Pte Ltd</td><td>Executive Personal Assistant - Central Government</td><td>London</td><td>2026-09-23</td></tr>
 <tr><td>Slice</td><td>Software Developer, Deploy & Run</td><td>United Kingdom</td><td>2026-09-23</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Merch & Licensing Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Composite Design Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Alpine Cars Racing</td><td>Aero Performance Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Aircraft Operations Placement (12.5 months)</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Business Management Placement (12.5 months)</td><td>Bristol</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>A320 Family Programme Development Team Placement (12.5 months)</td><td>Bristol</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Programme Management Widebody Systems Placement (12.5 months)</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Flight Physics Placement</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Strategy & Innovation Placement (12.5 months)</td><td>Bristol</td><td>2026-09-24</td></tr>
+<tr><td>Airbus</td><td>Wing Structure Analysis Placement</td><td>Filton</td><td>2026-09-24</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Simulation Development Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>Aero Performance Student Placement</td><td>Enstone</td><td>2026-09-24</td></tr>
+<tr><td>DHL UK</td><td>Marketing Apprentice (service Points)</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer – Full Stack Engineer (node.js / Graphql)</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Enginner</td><td>United Kingdom</td><td>2026-09-24</td></tr>
+<tr><td>RELX</td><td>Software Engineer Iii (java & Javascript)</td><td>London Wall</td><td>2026-09-24</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Software Engineer Iii (java & Javascript)</td><td>London Wall</td><td>2026-09-24</td></tr>
+<tr><td>Creative Artists Agency (CAA)</td><td>Regional Office Support Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Genius Sports</td><td>Software Engineer</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>ASOS</td><td>Security Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Welltower Inc.</td><td>Data Scientist - Onsite London - Phd Required</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Linklaters</td><td>Bdm Data Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Linklaters LLP</td><td>Bdm Data Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>BP Retail UK</td><td>Treasury Finance Analyst</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Man Group</td><td>Quant - Systematic Multi-strat</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Greene King</td><td>Digital Business Analyst (web & Bookings)</td><td>Burton</td><td>2026-09-24</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Short Term Build Analyst</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Assistant Finance Analyst - 12 Month Ftc</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Moelis & Company</td><td>Analyst, Asset Management - London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Moelis & Company</td><td>Analyst - Sponsors - London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Mytopsportsbettingsites</td><td>Technical Compliance Specialist</td><td>North London</td><td>2026-09-24</td></tr>
+<tr><td>Diebold Nixdorf</td><td>Field Service Technician - London</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Maintenance Engineer Ote 50k</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer (entry Level)</td><td>Home</td><td>2026-09-24</td></tr>
+<tr><td>RWE AG</td><td>Onshore Wind Turbine Technician- South East England (kent)</td><td>Kent</td><td>2026-09-24</td></tr>
+<tr><td>Danish Crown AS</td><td>Maintenance Engineer</td><td>Bugle</td><td>2026-09-24</td></tr>
+<tr><td>Canary Wharf Group</td><td>Maintenance Operator</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Thales Group</td><td>Field Service Engineer</td><td>Devonport</td><td>2026-09-24</td></tr>
+<tr><td>Jabilbenefitsguide</td><td>Механік Відділу Експлуатації.</td><td>Uzhhorod</td><td>2026-09-24</td></tr>
+<tr><td>Johnson Controls</td><td>Service Engineer – Security</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Service Engineer – Security</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>Manchester</td><td>2026-09-24</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Autograph Collection</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>St Pancras London Autograph Collection</td><td>Guest Service Associate - Guest Experience Expert - St Pancras London Autograph Collection</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Chandlers Ford</td><td>2026-09-24</td></tr>
+<tr><td>WSP in Canada</td><td>Business Support Administrator</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Live Nation Entertainment</td><td>Benefits & Compensation Administrative Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>BKL</td><td>Executive Assistant - C Suite</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sureserve Group</td><td>Operation Support Assistant</td><td>Cambridge</td><td>2026-09-24</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Executive Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Manchester</td><td>2026-09-24</td></tr>
 </table>
