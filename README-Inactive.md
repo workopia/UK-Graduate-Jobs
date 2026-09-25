@@ -6126,4 +6126,22 @@ _No archived roles yet._
 <tr><td>WTW (Willis Towers Watson)</td><td>Global Marketing Coordinator</td><td>London</td><td>2026-09-25</td></tr>
 <tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-09-25</td></tr>
 <tr><td>Cobham</td><td>Administrative Assistant</td><td>Leeds</td><td>2026-09-25</td></tr>
+<tr><td>UPS</td><td>Treasury Finance Intern</td><td>Gb</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Leidos Holdings</td><td>Plc Software Engineer</td><td>Bedfordshire</td><td>2026-09-25</td></tr>
+<tr><td>FanDuel Group</td><td>Data Api Engineer</td><td>Edinburgh</td><td>2026-09-25</td></tr>
+<tr><td>Nasdaq</td><td>Avp - Data Science (nts)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>INVESTENGINE Ltd</td><td>Analyst (governance &amp; Compliance)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Renault Trucks</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Ashtead Hospital</td><td>Bank Administrative Assistant</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>New Victoria Hospital</td><td>Healthcare Assistant</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Witherslack Group</td><td>Admin Assistant</td><td>Manchester</td><td>2026-09-25</td></tr>
+<tr><td>Veolia</td><td>Process Coordinator</td><td>Elgin</td><td>2026-09-25</td></tr>
+<tr><td>Mulberry Group PLC</td><td>Pre-loved Admin Assistant</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Amazon</td><td>Executive Assistant - 12 months contract, Auto & Manuf. IBU</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Moelis & Company</td><td>Admin Assistant - London</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Willis Towers Watson</td><td>Executive Assistant - Professional Indemnity Practice</td><td>London</td><td>2026-09-25</td></tr>
 </table>

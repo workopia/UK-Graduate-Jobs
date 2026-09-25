@@ -20,6 +20,18 @@
    "role": "Intern",
    "location": "London"
   },
+  "9fe22b7ff5eabff057f082482f533130": {
+   "id": "9fe22b7ff5eabff057f082482f533130",
+   "company": "Kerry Group",
+   "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
+   "location": "Portbury"
+  },
+  "5cc071856580079007e77ca21ac4366c": {
+   "id": "5cc071856580079007e77ca21ac4366c",
+   "company": "UPS",
+   "role": "Treasury Finance Intern",
+   "location": "Gb"
+  },
   "0e17114095ff93ac0c985b96631209e2": {
    "id": "0e17114095ff93ac0c985b96631209e2",
    "company": "Fever",
@@ -31,6 +43,18 @@
    "company": "John Deere",
    "role": "Student Placement - Turf & Precision Guidance",
    "location": "Langar"
+  },
+  "e7264ed355260ff91c74829be45ac5a9": {
+   "id": "e7264ed355260ff91c74829be45ac5a9",
+   "company": "Ford Europe",
+   "role": "Hr Business Intern",
+   "location": "Dunton +1"
+  },
+  "a410ce852a0e8867228a8d8a15d2c7d0": {
+   "id": "a410ce852a0e8867228a8d8a15d2c7d0",
+   "company": "Willis Towers Watson",
+   "role": "2027 Work & Reward Internship Consulting Programme, London",
+   "location": "London"
   },
   "483a48f27bd9433c554b6b2377f7603b": {
    "id": "483a48f27bd9433c554b6b2377f7603b",
@@ -410,12 +434,6 @@
    "role": "International Arbitration Intern",
    "location": "London"
   },
-  "4b80f894a3fc6d75a6772534349f3ef3": {
-   "id": "4b80f894a3fc6d75a6772534349f3ef3",
-   "company": "UPS",
-   "role": "Treasury Finance Intern",
-   "location": "Gb"
-  },
   "65f3736d605d7f6305cf4562ef87d4b4": {
    "id": "65f3736d605d7f6305cf4562ef87d4b4",
    "company": "Harrison Street",
@@ -474,24 +492,6 @@
    "id": "925ef66de30674b377ca4747f40713d8",
    "company": "Amazon",
    "role": "General Marketing Manager Intern- 2027",
-   "location": "London"
-  },
-  "targetjobs:89ac3982-8da8-49bb-bf8e-78ae8b037afe": {
-   "id": "targetjobs:89ac3982-8da8-49bb-bf8e-78ae8b037afe",
-   "company": "Goldman Sachs",
-   "role": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
-   "location": "London"
-  },
-  "targetjobs:2c4f66bd-c17e-4537-9837-2129e5085b21": {
-   "id": "targetjobs:2c4f66bd-c17e-4537-9837-2129e5085b21",
-   "company": "Goldman Sachs",
-   "role": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
-   "location": "London"
-  },
-  "targetjobs:42d00f5f-14a0-4d56-a700-45eb7c9da8bf": {
-   "id": "targetjobs:42d00f5f-14a0-4d56-a700-45eb7c9da8bf",
-   "company": "Goldman Sachs",
-   "role": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
    "location": "London"
   },
   "73d9cfe68455aaea7bd49be63071cd2c": {
@@ -853,6 +853,18 @@
    "company": "PETA Ltd",
    "role": "It Support Apprentice",
    "location": "All Locations"
+  },
+  "61118cf312e5dad842d60033006869a0": {
+   "id": "61118cf312e5dad842d60033006869a0",
+   "company": "Darktrace",
+   "role": "Software Engineer (typescript Focused)",
+   "location": "Cambridge"
+  },
+  "fabc9e2b198a0a679bef5a4ac02618bc": {
+   "id": "fabc9e2b198a0a679bef5a4ac02618bc",
+   "company": "EDF Energy Ltd",
+   "role": "Information Security & Assurance Officer (sizewell C)",
+   "location": "Sizewell"
   },
   "ef4567cb3ca4e1f47080a33564a729bf": {
    "id": "ef4567cb3ca4e1f47080a33564a729bf",
@@ -1322,18 +1334,6 @@
    "role": "Server Tools Technical Specialist",
    "location": "United Kingdom"
   },
-  "3520f0f3327c82bd94cf6c9f94190568": {
-   "id": "3520f0f3327c82bd94cf6c9f94190568",
-   "company": "Leidos Holdings",
-   "role": "Plc Software Engineer",
-   "location": "Bedfordshire"
-  },
-  "391ac072ffa4d4093edaece9bfa6d083": {
-   "id": "391ac072ffa4d4093edaece9bfa6d083",
-   "company": "FanDuel Group",
-   "role": "Data Api Engineer",
-   "location": "Edinburgh"
-  },
   "67a03b0c67a9221fb5f046ab20073b0e": {
    "id": "67a03b0c67a9221fb5f046ab20073b0e",
    "company": "Medtronic",
@@ -1435,6 +1435,12 @@
    "company": "Gloucestershire County Council",
    "role": "Business Intelligence Officer",
    "location": "Gloucestershire"
+  },
+  "f7c76cbea6ef3dc94daf0cc74e6b6e30": {
+   "id": "f7c76cbea6ef3dc94daf0cc74e6b6e30",
+   "company": "Skanska UK",
+   "role": "It Automation Engineer",
+   "location": "London"
   },
   "1f078acab32e5272b641dbfed6ef8251": {
    "id": "1f078acab32e5272b641dbfed6ef8251",
@@ -1670,6 +1676,12 @@
    "role": "Data Analyst",
    "location": "London"
   },
+  "3a2efa3d5b7c236454d13dfecdb42821": {
+   "id": "3a2efa3d5b7c236454d13dfecdb42821",
+   "company": "Halfords Group",
+   "role": "Finance Data Analyst",
+   "location": "Worcestershire"
+  },
   "1a546320b9034337d6698542d8738694": {
    "id": "1a546320b9034337d6698542d8738694",
    "company": "Jobgether",
@@ -1891,18 +1903,6 @@
    "company": "GSK plc",
    "role": "Aiml Engineer, Ai For Science",
    "location": "Uk"
-  },
-  "f1a4d76030119e2a841590335c8d97e4": {
-   "id": "f1a4d76030119e2a841590335c8d97e4",
-   "company": "Nasdaq",
-   "role": "Avp - Data Science (nts)",
-   "location": "London"
-  },
-  "b62f12e6697340c07372d19f0dd1f9f6": {
-   "id": "b62f12e6697340c07372d19f0dd1f9f6",
-   "company": "INVESTENGINE Ltd",
-   "role": "Analyst (governance &amp; Compliance)",
-   "location": "London"
   },
   "ab4b5e3e201d8a3b64199a875da7c450": {
    "id": "ab4b5e3e201d8a3b64199a875da7c450",
@@ -3080,6 +3080,18 @@
    "role": "Maintenance Engineer",
    "location": "Bugle"
   },
+  "c8e0472fd13acc350daca7a30b11bc98": {
+   "id": "c8e0472fd13acc350daca7a30b11bc98",
+   "company": "Renault Trucks",
+   "role": "Nightshift Hgv Technician",
+   "location": "London"
+  },
+  "f4d6c0ec9807450b7ac2279164f36149": {
+   "id": "f4d6c0ec9807450b7ac2279164f36149",
+   "company": "Yunex Traffic",
+   "role": "Maintenance Engineer",
+   "location": "London"
+  },
   "510e2a0822b27a12f9dc66e121b96c8a": {
    "id": "510e2a0822b27a12f9dc66e121b96c8a",
    "company": "Linde Material Handling",
@@ -3338,12 +3350,6 @@
    "role": "Customer Solutions Technician",
    "location": "County Derry"
   },
-  "96354e553909d84c2dd7c2f0dfd5b62a": {
-   "id": "96354e553909d84c2dd7c2f0dfd5b62a",
-   "company": "Yunex Traffic",
-   "role": "Maintenance Engineer",
-   "location": "London"
-  },
   "52d9dbef8009b41735a6475568f0a18a": {
    "id": "52d9dbef8009b41735a6475568f0a18a",
    "company": "Codan Limited",
@@ -3390,12 +3396,6 @@
    "id": "f2cc6b27206c27709865694dccf7f400",
    "company": "Verisure S.A.",
    "role": "Field Service Engineer",
-   "location": "London"
-  },
-  "75ed0e1668cc857ce6e105792d791bff": {
-   "id": "75ed0e1668cc857ce6e105792d791bff",
-   "company": "Renault Trucks",
-   "role": "Nightshift Hgv Technician",
    "location": "London"
   },
   "6dab978b323e8228c75557c39423d6b7": {
@@ -4040,11 +4040,59 @@
    "role": "Retail Assistant Ni",
    "location": "Lurgan"
   },
+  "fdc58f61264d1a0b54b877f6b10247ae": {
+   "id": "fdc58f61264d1a0b54b877f6b10247ae",
+   "company": "Novartis",
+   "role": "Executive Assistant",
+   "location": "Kyiv"
+  },
+  "e54ea6b0caac1035315a03f2c8704a24": {
+   "id": "e54ea6b0caac1035315a03f2c8704a24",
+   "company": "689",
+   "role": "Executive Assistant, Emea Compliance",
+   "location": "London"
+  },
+  "b300e1f485d10501d47427b6e568ec03": {
+   "id": "b300e1f485d10501d47427b6e568ec03",
+   "company": "Marsh",
+   "role": "Executive Assistant",
+   "location": "London"
+  },
+  "c60d891984c01823e3dcf8d2ee14e411": {
+   "id": "c60d891984c01823e3dcf8d2ee14e411",
+   "company": "Michael Kors",
+   "role": "Digital Commerce Coordinator",
+   "location": "London"
+  },
+  "bb89fb937557dbbcda2cbef6281d1b94": {
+   "id": "bb89fb937557dbbcda2cbef6281d1b94",
+   "company": "Calvin Klein",
+   "role": "Part Time Supervisor, Calvin Klein - St. Pancras",
+   "location": "London"
+  },
+  "c4db70682f366751623a08089939b935": {
+   "id": "c4db70682f366751623a08089939b935",
+   "company": "EDF Energy Ltd",
+   "role": "Project Administrator - Fixed Term Contract",
+   "location": "Search By Location"
+  },
+  "18dd32d909ea9106420b32dd9d254d5f": {
+   "id": "18dd32d909ea9106420b32dd9d254d5f",
+   "company": "SNC Lavalin",
+   "role": "Project Co-ordinator",
+   "location": "United Kingdom"
+  },
   "4a9d13281bb85869a6be2ca1a4c3dc42": {
    "id": "4a9d13281bb85869a6be2ca1a4c3dc42",
    "company": "Nuffield Health",
    "role": "Administrator Support",
    "location": "Chandlers Ford"
+  },
+  "b23ffdc122a4514d47c0c2b7ed34db87": {
+   "id": "b23ffdc122a4514d47c0c2b7ed34db87",
+   "company": "Pantheon",
+   "role": "Executive Assistant (hybrid)",
+   "location": "London"
   },
   "a29c6b0487ce75285386de26701be5af": {
    "id": "a29c6b0487ce75285386de26701be5af",
@@ -4459,54 +4507,6 @@
    "company": "Ramsay Health Care UK",
    "role": "Booking Administrative Assistant",
    "location": "Chelmsford"
-  },
-  "8b026fe780fccd8335c67d13a0178476": {
-   "id": "8b026fe780fccd8335c67d13a0178476",
-   "company": "Ashtead Hospital",
-   "role": "Bank Administrative Assistant",
-   "location": "London"
-  },
-  "5ba45315151efd758d91ee083d5080d5": {
-   "id": "5ba45315151efd758d91ee083d5080d5",
-   "company": "New Victoria Hospital",
-   "role": "Healthcare Assistant",
-   "location": "London"
-  },
-  "253ba0b7bcac7f15615e3d4d09e7e0d4": {
-   "id": "253ba0b7bcac7f15615e3d4d09e7e0d4",
-   "company": "Witherslack Group",
-   "role": "Admin Assistant",
-   "location": "Manchester"
-  },
-  "65d5a0d2b8f726ff3d8445f0fb355a58": {
-   "id": "65d5a0d2b8f726ff3d8445f0fb355a58",
-   "company": "Veolia",
-   "role": "Process Coordinator",
-   "location": "Elgin"
-  },
-  "b36de43495a906765d3888e7ed0c56d1": {
-   "id": "b36de43495a906765d3888e7ed0c56d1",
-   "company": "Mulberry Group PLC",
-   "role": "Pre-loved Admin Assistant",
-   "location": "London"
-  },
-  "9ae9cdf3a90d18c58bae7140d1585307": {
-   "id": "9ae9cdf3a90d18c58bae7140d1585307",
-   "company": "Amazon",
-   "role": "Executive Assistant - 12 months contract, Auto & Manuf. IBU",
-   "location": "London"
-  },
-  "fd8fefc8d31273b0272a4b5a6cb3d2f4": {
-   "id": "fd8fefc8d31273b0272a4b5a6cb3d2f4",
-   "company": "Moelis & Company",
-   "role": "Admin Assistant - London",
-   "location": "London"
-  },
-  "9edc7e85c5f05ac89b0caaf281a90ef2": {
-   "id": "9edc7e85c5f05ac89b0caaf281a90ef2",
-   "company": "Willis Towers Watson",
-   "role": "Executive Assistant - Professional Indemnity Practice",
-   "location": "London"
   }
  }
 }
