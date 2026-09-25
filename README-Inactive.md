@@ -6034,4 +6034,64 @@ _No archived roles yet._
 <tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-09-24</td></tr>
 <tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant - Theatres</td><td>London</td><td>2026-09-24</td></tr>
 <tr><td>Magna Electronics Inc.</td><td>Facilities Coordinator</td><td>Warwick</td><td>2026-09-24</td></tr>
+<tr><td>Delta Capita</td><td>Financial Crime Business Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Euronext Technologies SaS</td><td>Sr Intern</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Turner & Townsend</td><td>Summer Placement 2027 - Cost Management And Commercial Management - London</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Levis Media</td><td>Analytics Intern</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Corporate Risk & Broking, Internship Programme – London</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Formula 1</td><td>It Support Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Unity Technologies</td><td>Software Engineer</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-25</td></tr>
+<tr><td>Lloydseurope</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-25</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>Aig Com Mo</td><td>Data & Digital Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>EssenceMediacom Holdings Limited</td><td>Data Scientist</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>EssenceMediacom Holdings Limited</td><td>Data Scientist - Geo Holdout (12 Month Ftc)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Arch Europe Insurance Services Ltd</td><td>Customer Data And Insights Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Willis Towers Watson</td><td>Rewards Data Specialist</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Honda UK</td><td>Contract - Business Analyst</td><td>Reading</td><td>2026-09-25</td></tr>
+<tr><td>WSP</td><td>Aerodrome Safety And Compliance Specialist - Aviation</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>WSP in Canada</td><td>Aerodrome Safety And Compliance Specialist - Aviation</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>Brent Council</td><td>Phs Licensing And Enforcement Processing Officer</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Live Nation</td><td>Financial Reporting Accountant, Festivals</td><td>Farringdon</td><td>2026-09-25</td></tr>
+<tr><td>CFM</td><td>Market Risk Quant</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Analyst, Pfi</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Associate Iii, Efx Quants</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Deutsche Bank</td><td>Business Functional Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Analyst - Emea Hotels & Hospitality Capital Markets</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Domestic & General</td><td>Business Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Metering Technician</td><td>SY1 +4</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technician</td><td>Barton-Under-Needwood</td><td>2026-09-25</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Maintenance Technician</td><td>Location</td><td>2026-09-25</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mobile Mechanical Technician</td><td>Location</td><td>2026-09-25</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-09-25</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-09-25</td></tr>
+<tr><td>BGIS</td><td>Mobile Service Technician</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>McDonald's UK</td><td>Cameron Park - Stock Handling/maintenance Person - Part Time - Flexible Availability</td><td>Tyne & Wear</td><td>2026-09-25</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Gloucestershire</td><td>2026-09-25</td></tr>
+<tr><td>Lidl GB</td><td>Warehouse Maintenance Operative 1</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Sureserve Group</td><td>Fire Maintenance Engineer</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Bekaert</td><td>Multi-skilled Maintenance Technician</td><td>Willington Quay</td><td>2026-09-25</td></tr>
+<tr><td>KONE Macedonia</td><td>Lift Service/call-out/repair Engineer</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>bu-uk</td><td>Fibre Field Technician</td><td>Winchester +2</td><td>2026-09-25</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mobile Tools Technician</td><td>Location</td><td>2026-09-25</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Autograph Collection</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>St Pancras London Autograph Collection</td><td>Guest Service Associate - Guest Experience Expert - St Pancras London Autograph Collection</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Service Associate - Guest Experience Expert - St Pancras London Autograph Collection</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Agile Retail</td><td>Iqos Field Sales Representative- Romford</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h (temporary)</td><td>Edinburgh</td><td>2026-09-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 30h, 20h And 16h (temporary)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Coach</td><td>Sales Associate</td><td>Manchester</td><td>2026-09-25</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate (32 Hrs)</td><td>Oxford</td><td>2026-09-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Network Logistics Technician</td><td>Derbyshire</td><td>2026-09-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Project Co-ordinator</td><td>Shropshire</td><td>2026-09-25</td></tr>
+<tr><td>PwC Sweden</td><td>Executive Support Assistant</td><td>Saint Helier</td><td>2026-09-25</td></tr>
+<tr><td>Witherslack Group</td><td>Administrative Assistant</td><td>Bristol</td><td>2026-09-25</td></tr>
+<tr><td>Space NK</td><td>Supervisor (37.5 Hours)</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant Newbury Superstore</td><td>Basingstoke</td><td>2026-09-25</td></tr>
+<tr><td>Agincare Group</td><td>Activities Coordinator Weymouth, United Kingdom (incl. Northern Ireland) £12.85 Full Time Apply By 16 October, 2026</td><td>Bournemouth</td><td>2026-09-25</td></tr>
+<tr><td>University of Edinburgh School of Engineering</td><td>Teaching Administrative Assistant</td><td>Edinburgh</td><td>2026-09-25</td></tr>
+<tr><td>WSP</td><td>Business Support Administrator</td><td>London</td><td>2026-09-25</td></tr>
 </table>
