@@ -6094,4 +6094,36 @@ _No archived roles yet._
 <tr><td>Agincare Group</td><td>Activities Coordinator Weymouth, United Kingdom (incl. Northern Ireland) £12.85 Full Time Apply By 16 October, 2026</td><td>Bournemouth</td><td>2026-09-25</td></tr>
 <tr><td>University of Edinburgh School of Engineering</td><td>Teaching Administrative Assistant</td><td>Edinburgh</td><td>2026-09-25</td></tr>
 <tr><td>WSP</td><td>Business Support Administrator</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Office of Regulatory Relations / Summer Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Corporate and Workplace Solutions / Summer Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>CMC Markets</td><td>Ai Agent Developer Intern - Cmc Funded</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Cybersecurity Incident Response Analyst</td><td>England</td><td>2026-09-25</td></tr>
+<tr><td>Kpler SaS</td><td>Fullstack Engineer</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Software Engineer – Ai Practice</td><td>Glasgow</td><td>2026-09-25</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer (react Native)</td><td>Bristol</td><td>2026-09-25</td></tr>
+<tr><td>DS Smith PLC</td><td>Threat Intelligence Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Brightonparkbank</td><td>Ai Engineer</td><td>Glasgow</td><td>2026-09-25</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Digital Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Aigfacdesklatam</td><td>Data & Digital Analyst</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>FDM Group</td><td>Business Analyst (multi-factor Authentication)- Remote</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Business Analyst - Central Government</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Syneos Health</td><td>Single Sponsor Clinical Research Associate Ii (must Have Uk Monitoring Experience) Uk Only.</td><td>United Kingdom</td><td>2026-09-25</td></tr>
+<tr><td>BGIS</td><td>Service Technician</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Network Optimisation Support Technician</td><td>Raynesway</td><td>2026-09-25</td></tr>
+<tr><td>Severn Trent Plc</td><td>Field Technician</td><td>Berkshire +1</td><td>2026-09-25</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcode So</td><td>South East</td><td>2026-09-25</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcode Bn</td><td>South East</td><td>2026-09-25</td></tr>
+<tr><td>Vaillant Group U.K. Ltd</td><td>Field Service Engineer - Covering Postcode Ls</td><td>North East</td><td>2026-09-25</td></tr>
+<tr><td>Vaillant</td><td>Field Service Engineer - Covering Postcode Se, Sm, Sw2,4,8,9,11-20.</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Britvic plc</td><td>Trainee Field Service Technician - Drinks Dispense</td><td>Yorkshire</td><td>2026-09-25</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Boots</td><td>Pdc Team Co-ordinator</td><td>Elgin</td><td>2026-09-25</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Executive Assistant - Professional Indemnity Practice</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Willis Towers Watson</td><td>Global Marketing Coordinator</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Global Marketing Coordinator</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Cobham</td><td>Administrative Assistant</td><td>Leeds</td><td>2026-09-25</td></tr>
 </table>
