@@ -6144,4 +6144,74 @@ _No archived roles yet._
 <tr><td>Amazon</td><td>Executive Assistant - 12 months contract, Auto & Manuf. IBU</td><td>London</td><td>2026-09-25</td></tr>
 <tr><td>Moelis & Company</td><td>Admin Assistant - London</td><td>London</td><td>2026-09-25</td></tr>
 <tr><td>Willis Towers Watson</td><td>Executive Assistant - Professional Indemnity Practice</td><td>London</td><td>2026-09-25</td></tr>
+<tr><td>Linklaters LLP</td><td>International Arbitration Intern</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Harrison Street</td><td>Summer 2027 Transactions Intern - London</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Harrison Street</td><td>Summer 2027 Asset Management Intern - London</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Internship Programme – Investment Bank: Fixed Income and Currencies</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Bank: Capital Markets - UK Coverage</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Internship Programme - Investment Banking & Capital Markets - UK Coverage</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Banking & Capital Markets - Capital Markets</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank March Seasonal 6 Month Internship Programme - Investment Banking & Capital Markets</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Brunswick Group</td><td>Intern, Brunswick Arts</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>WTW</td><td>2027 Corporate Risk & Broking, Internship Programme – London</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Amazon</td><td>General Marketing Manager Intern- 2027</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Magnet Forensics</td><td>Technical Support Engineer</td><td>United Kingdom</td><td>2026-09-26</td></tr>
+<tr><td>Compass Pathways</td><td>It Support Engineer</td><td>Jersey City +1</td><td>2026-09-26</td></tr>
+<tr><td>Playtech</td><td>Junior Backend Engineer</td><td>Kyiv</td><td>2026-09-26</td></tr>
+<tr><td>Harris Computer Systems Corporation</td><td>Platform Software Engineer</td><td>Cambridge</td><td>2026-09-26</td></tr>
+<tr><td>Naimuri</td><td>Software Engineer</td><td>Manchester</td><td>2026-09-26</td></tr>
+<tr><td>Smart Managed Solutions</td><td>It Support Engineer</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Hltech</td><td>Software Engineer</td><td>Home Based</td><td>2026-09-26</td></tr>
+<tr><td>Jobgether</td><td>Backend Developer (java/spring Boot)</td><td>United Kingdom</td><td>2026-09-26</td></tr>
+<tr><td>Atos SE</td><td>Server Tools Technical Specialist</td><td>United Kingdom</td><td>2026-09-26</td></tr>
+<tr><td>GSK</td><td>Aiml Engineer, Ai For Science</td><td>United Kingdom</td><td>2026-09-26</td></tr>
+<tr><td>GSK plc</td><td>Aiml Engineer, Ai For Science</td><td>Uk</td><td>2026-09-26</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>RBC</td><td>Analyst, Iccm Fund</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Worldpay</td><td>Wpg Business Process Analyst</td><td>Manchester</td><td>2026-09-26</td></tr>
+<tr><td>Aberdeenplc</td><td>Audit Specialist</td><td>United Kingdom</td><td>2026-09-26</td></tr>
+<tr><td>CMC MARKETS</td><td>Quantitative Researcher</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Rbsfuel</td><td>Algorithmic Trading Associate</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Vanguard UK</td><td>Disclosure Analyst</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Disney+</td><td>Finance Analyst</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Bupa</td><td>Capital Analyst</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Quantitative Strategist - Credit</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Investment Banking - France Fig - Associate</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Citi Handlowy</td><td>Front Office Equity Derivatives Quant (c++ Pricing Models), Vp</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>ASOS</td><td>Threat & Exposure Management Analyst</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Carrier Corporation</td><td>Modernization & Control Solutions Leader Europe</td><td>Uk</td><td>2026-09-26</td></tr>
+<tr><td>Brightonparkbank</td><td>Vp Corporate Banking -barclays Internal Audit</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Brightonparkbank</td><td>Business Analyst</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Argus Media</td><td>Compliance Officer (12 Month Ftc)</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>OTIS ELEVATOR COMPANY</td><td>Lift Engineer - Service</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - North London</td><td>North London</td><td>2026-09-26</td></tr>
+<tr><td>Jotun AS</td><td>Maintenance Technician</td><td>Flixborough</td><td>2026-09-26</td></tr>
+<tr><td>GE Vernova</td><td>Wind Turbine Technician - South Lanarkshire</td><td>South Lanarkshire</td><td>2026-09-26</td></tr>
+<tr><td>Hilton Worldwide</td><td>Maintenance Assistant</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Part-time Sales Associate - New Bond Street</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Coach</td><td>Sales Associate 20hrs</td><td>Oxford</td><td>2026-09-26</td></tr>
+<tr><td>Crocs, Inc.</td><td>Store Sales Associate</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>The LEGO Group</td><td>Sales Associate</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deckers</td><td>Part-time Sales Associate</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Decathlon S.A</td><td>Sport Advisor</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Marriott International</td><td>Guest Service Associate - Guest Experience Expert - Pancras London Autograph Collection</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 20h</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate - London Flagship Store (full Time 40 Hours)</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate - London Flagship (part Time 24 Hours)</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Cardiff</td><td>2026-09-26</td></tr>
+<tr><td>Google</td><td>Ai Sales Specialist, Retail And Cpg, Google Cloud, United Kingdom And Ireland</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Invesco UK</td><td>Team Admin Assistant, Fixed Income</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Springer Nature</td><td>Permissions Assistant</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Brightonparkbank</td><td>Executive Assistant - Global Markets</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Soho House & Co Inc.</td><td>Merchandise Admin Assistant, Soho Home</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>CUBE</td><td>Reception & Executive Assistant</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>WPP</td><td>Team Administrative Assistant</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>NEXT plc</td><td>Team Member (admin) - Liverpool Church Street (n129595)</td><td>Liverpool</td><td>2026-09-26</td></tr>
+<tr><td>Poundland</td><td>Merchandising Admin Assistant - Clothing Retail</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Jebel Ali Free Zone (JAFZA)</td><td>Goods In Administrator</td><td>Oxford</td><td>2026-09-26</td></tr>
+<tr><td>LTA Operations Ltd</td><td>Lta Wimbledon Ticket Coordinator - Ftc Until 31st July 2027</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Ea - Global Channels & Streaming</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Booking Administrative Assistant</td><td>Chelmsford</td><td>2026-09-26</td></tr>
 </table>
