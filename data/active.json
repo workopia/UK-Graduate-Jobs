@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-26",
- "count": 760,
+ "count": 761,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -3019,6 +3019,12 @@
    "company": "Cleveland Clinic London",
    "role": "Staff Nurse - Icu",
    "location": "London"
+  },
+  "ec965f767988d1f5ce5b28683957f87d": {
+   "id": "ec965f767988d1f5ce5b28683957f87d",
+   "company": "ICON plc",
+   "role": "Cra",
+   "location": "United Kingdom"
   },
   "4263d3208d780c97dfa9368c405eb5f0": {
    "id": "4263d3208d780c97dfa9368c405eb5f0",
