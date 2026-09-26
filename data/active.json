@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-26",
- "count": 753,
+ "count": 760,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -25,6 +25,18 @@
    "company": "Kerry Group",
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
+  },
+  "targetjobs:4754c9e1-6382-46cb-a082-040127651e20": {
+   "id": "targetjobs:4754c9e1-6382-46cb-a082-040127651e20",
+   "company": "WTW",
+   "role": "2027 Work & Reward Internship Consulting Programme, London",
+   "location": "London"
+  },
+  "targetjobs:713aa600-70aa-41c4-9d98-53bd7645402a": {
+   "id": "targetjobs:713aa600-70aa-41c4-9d98-53bd7645402a",
+   "company": "White & Case LLP",
+   "role": "Summer Vacation Scheme 2027",
+   "location": "London"
   },
   "40d99b8d63ec3edbf856c33854e81ea2": {
    "id": "40d99b8d63ec3edbf856c33854e81ea2",
@@ -86,11 +98,23 @@
    "role": "Product Development Industrial Placement, 2027, Weybridge, Uk",
    "location": "London"
   },
+  "04c8222dfc939bf79f7901b7ff50d3c0": {
+   "id": "04c8222dfc939bf79f7901b7ff50d3c0",
+   "company": "Equinor",
+   "role": "Summer Internship 2027 Uk - Market Analysis & Trading",
+   "location": "London"
+  },
   "5cc071856580079007e77ca21ac4366c": {
    "id": "5cc071856580079007e77ca21ac4366c",
    "company": "UPS",
    "role": "Treasury Finance Intern",
    "location": "Gb"
+  },
+  "targetjobs:b91c348e-6086-4660-8845-c530a232b0e8": {
+   "id": "targetjobs:b91c348e-6086-4660-8845-c530a232b0e8",
+   "company": "Lazard",
+   "role": "2027-2028 London Financial Advisory Industrial Placement",
+   "location": "London"
   },
   "0e17114095ff93ac0c985b96631209e2": {
    "id": "0e17114095ff93ac0c985b96631209e2",
@@ -234,12 +258,6 @@
    "id": "b97c39f1937eadf67d28223b2498c700",
    "company": "why LLP",
    "role": "International Arbitration Intern",
-   "location": "London"
-  },
-  "cece04fbe675c83619fb14a2a1726eee": {
-   "id": "cece04fbe675c83619fb14a2a1726eee",
-   "company": "Lazard",
-   "role": "2027 M&a Internship - Denmark",
    "location": "London"
   },
   "bb1124f4725de19d8372c8068cc578f9": {
@@ -474,24 +492,6 @@
    "id": "f8d0e8ae13f4bebb46fee720186d7d4b",
    "company": "Wiser Solutions Inc",
    "role": "Private Funds Group Industrial Placement (2027) / Evercore",
-   "location": "London"
-  },
-  "2dc785d005f516acf204ecbaf3379603": {
-   "id": "2dc785d005f516acf204ecbaf3379603",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Md&s Analytics Sales",
-   "location": "London"
-  },
-  "32593d10793936266831d4cdcfb6a23e": {
-   "id": "32593d10793936266831d4cdcfb6a23e",
-   "company": "WARNER MUSIC INC",
-   "role": "Warner Chappell Intern (12 Month Ftc)",
-   "location": "London"
-  },
-  "6c99fa0945a2f4d0d57f952ea5d7ba7e": {
-   "id": "6c99fa0945a2f4d0d57f952ea5d7ba7e",
-   "company": "Google",
-   "role": "Software Engineering, Site Reliability Engineering Bs/ms Intern, 2027",
    "location": "London"
   },
   "73d9cfe68455aaea7bd49be63071cd2c": {
@@ -1454,6 +1454,18 @@
    "role": "It Automation Engineer",
    "location": "London"
   },
+  "010698cbbbc43e1705de4e9c9a329be2": {
+   "id": "010698cbbbc43e1705de4e9c9a329be2",
+   "company": "Apple",
+   "role": "Machine Learning Data Scientist - Apple Pay Marketing",
+   "location": "United Kingdom"
+  },
+  "18662d85152c74d9831b2f546c9c9e62": {
+   "id": "18662d85152c74d9831b2f546c9c9e62",
+   "company": "Apple",
+   "role": "Data Scientist - Wpc - Analytics",
+   "location": "United Kingdom"
+  },
   "1f078acab32e5272b641dbfed6ef8251": {
    "id": "1f078acab32e5272b641dbfed6ef8251",
    "company": "Tripadvisor",
@@ -1892,22 +1904,16 @@
    "role": "Performance Reporting Analyst",
    "location": "London"
   },
-  "798c4ffc5dbc5c25051d66bfb112ff95": {
-   "id": "798c4ffc5dbc5c25051d66bfb112ff95",
-   "company": "OpenAI",
-   "role": "Applied Ai Engineer, Codex",
-   "location": "London"
-  },
-  "4c2e2eb8e8724dcc6140f302bcc96b5f": {
-   "id": "4c2e2eb8e8724dcc6140f302bcc96b5f",
-   "company": "Hastings Direct",
-   "role": "Pricing Automation Engineer",
-   "location": "London"
-  },
   "968446a0a5189ae8b200436145df4114": {
    "id": "968446a0a5189ae8b200436145df4114",
    "company": "Exclusive Networks Group",
    "role": "Data Quality & Business Data Analyst Intern 3 Month Ftc",
+   "location": "London"
+  },
+  "targetjobs:00c413f5-80dd-492a-ab1b-91868133319b": {
+   "id": "targetjobs:00c413f5-80dd-492a-ab1b-91868133319b",
+   "company": "WTW",
+   "role": "2027 Retirement Actuarial Trainee Consultant Internship Programme",
    "location": "London"
   },
   "ab4b5e3e201d8a3b64199a875da7c450": {
@@ -2120,6 +2126,42 @@
    "role": "Actuarial Intern - Summer 2027 - Intelliscript",
    "location": "United Kingdom"
   },
+  "targetjobs:522e5ccc-63cd-4840-b31c-b8173a1c9141": {
+   "id": "targetjobs:522e5ccc-63cd-4840-b31c-b8173a1c9141",
+   "company": "Howden",
+   "role": "Trainee Actuarial Consultant - Retirement (London)",
+   "location": "London"
+  },
+  "targetjobs:146dc9c0-483f-4eb7-91a4-e9264dc61d5a": {
+   "id": "targetjobs:146dc9c0-483f-4eb7-91a4-e9264dc61d5a",
+   "company": "Howden",
+   "role": "Trainee Actuarial Consultant - Actuarial Insurance (London)",
+   "location": "London"
+  },
+  "targetjobs:f924f52e-7941-41e4-a084-170f44d5958a": {
+   "id": "targetjobs:f924f52e-7941-41e4-a084-170f44d5958a",
+   "company": "Mott MacDonald",
+   "role": "2027 UK Graduate Health Consultancy Career Path",
+   "location": "London"
+  },
+  "targetjobs:7e77bfd3-736f-4ba3-af31-1160c09096c7": {
+   "id": "targetjobs:7e77bfd3-736f-4ba3-af31-1160c09096c7",
+   "company": "Mott MacDonald",
+   "role": "2027 UK Graduate Management Consultancy Career Path",
+   "location": "London"
+  },
+  "targetjobs:3980312a-d060-474b-bf23-a9da4bebcb1c": {
+   "id": "targetjobs:3980312a-d060-474b-bf23-a9da4bebcb1c",
+   "company": "AtkinsRéalis",
+   "role": "Management Consultancy Graduate Programme",
+   "location": "London"
+  },
+  "targetjobs:152ae1f7-e1fa-425c-a58e-e58eabb93d72": {
+   "id": "targetjobs:152ae1f7-e1fa-425c-a58e-e58eabb93d72",
+   "company": "Mott MacDonald",
+   "role": "2027 UK Graduate Risk Analysis Career Path",
+   "location": "London"
+  },
   "f34a8075e07b0ece566b0856546f572b": {
    "id": "f34a8075e07b0ece566b0856546f572b",
    "company": "Manulife Financial Inc",
@@ -2258,6 +2300,12 @@
    "role": "Fixed Income Valuation Analytics",
    "location": "London"
   },
+  "targetjobs:5e077f5a-487a-4730-a403-52fb55846506": {
+   "id": "targetjobs:5e077f5a-487a-4730-a403-52fb55846506",
+   "company": "Howden",
+   "role": "Investment Analyst - (London)",
+   "location": "London"
+  },
   "6c4b6ef5d294de0a43317ee012443efa": {
    "id": "6c4b6ef5d294de0a43317ee012443efa",
    "company": "Bankstcharles",
@@ -2311,6 +2359,12 @@
    "company": "Aviva",
    "role": "Revenue Finance Analyst",
    "location": "London"
+  },
+  "05112df88290a09aba86bdf30ea4686e": {
+   "id": "05112df88290a09aba86bdf30ea4686e",
+   "company": "Apple",
+   "role": "Policy And Compliance Analyst - Apple Ads",
+   "location": "United Kingdom"
   },
   "782cb93bdb287960a61d13558fb65ce0": {
    "id": "782cb93bdb287960a61d13558fb65ce0",
@@ -2682,18 +2736,6 @@
    "id": "6012c098d0c9021c2ab67c4d156b5e8a",
    "company": "Exxon Mobil Corporation",
    "role": "Valuation And Structuring Quantitative Analyst, Gas And Power",
-   "location": "London"
-  },
-  "77bab3a58390b8c18a36fd8ea5585584": {
-   "id": "77bab3a58390b8c18a36fd8ea5585584",
-   "company": "Exxon Mobil Corporation",
-   "role": "Trading Market Risk Advisor - Eame Freight",
-   "location": "London"
-  },
-  "462e461aeb325e8db36e928c97a87686": {
-   "id": "462e461aeb325e8db36e928c97a87686",
-   "company": "Exxon Mobil Corporation",
-   "role": "Trading Market Risk Advisor- Emea Power",
    "location": "London"
   },
   "cef7dc7f5729848a111fc250bbf899a1": {
@@ -3116,6 +3158,12 @@
    "role": "Maintenance Engineer",
    "location": "SWINDON"
   },
+  "8968ce732953f1d027d45e0fac1f3beb": {
+   "id": "8968ce732953f1d027d45e0fac1f3beb",
+   "company": "ASR Group",
+   "role": "Maintenance Technician",
+   "location": "London"
+  },
   "d6316446aec5be810df5a522d516c61d": {
    "id": "d6316446aec5be810df5a522d516c61d",
    "company": "Danish Crown AS",
@@ -3469,12 +3517,6 @@
    "company": "Holcim Belgium",
    "role": "Mechanical Fitter",
    "location": "Moorcroft Quarry"
-  },
-  "1c62df6b5a8b6310a187631fe94c7dee": {
-   "id": "1c62df6b5a8b6310a187631fe94c7dee",
-   "company": "ASR Group",
-   "role": "Maintenance Technician",
-   "location": "London"
   },
   "b0645eab76a63a68faf77a04b62b0dfd": {
    "id": "b0645eab76a63a68faf77a04b62b0dfd",
@@ -4094,6 +4136,18 @@
    "role": "Nursery Administrator",
    "location": "Portsmouth"
   },
+  "769f11b38942bf43584297b567d2675f": {
+   "id": "769f11b38942bf43584297b567d2675f",
+   "company": "Norton Rose Fulbright",
+   "role": "Executive Assistant",
+   "location": "London"
+  },
+  "4417bd9b7a83bdd0e6a668384b6a497c": {
+   "id": "4417bd9b7a83bdd0e6a668384b6a497c",
+   "company": "SLR CONSULTING AUSTRALIA PTY",
+   "role": "Administrator",
+   "location": "Bristol"
+  },
   "cf618fd985f99f480a00f5229cd74f47": {
    "id": "cf618fd985f99f480a00f5229cd74f47",
    "company": "Fresenius Medical Care",
@@ -4507,18 +4561,6 @@
    "company": "Starr",
    "role": "Executive Assistant",
    "location": "United Kingdom"
-  },
-  "b60b3658432c069cf31fe7eaad2cb65f": {
-   "id": "b60b3658432c069cf31fe7eaad2cb65f",
-   "company": "Nike Inc",
-   "role": "Retail Assistant (athlete) - Temp - Pt 8h - Birmingham Outlet Resorts World",
-   "location": "Birmingham"
-  },
-  "3d101d61aa8e5bd7623f72cc33323a6e": {
-   "id": "3d101d61aa8e5bd7623f72cc33323a6e",
-   "company": "Nike",
-   "role": "Retail Assistant (athlete) - Temp - Pt 8h - Portsmouth",
-   "location": "Portsmouth"
   }
  }
 }

@@ -6214,4 +6214,15 @@ _No archived roles yet._
 <tr><td>LTA Operations Ltd</td><td>Lta Wimbledon Ticket Coordinator - Ftc Until 31st July 2027</td><td>London</td><td>2026-09-26</td></tr>
 <tr><td>Bristish Broadcasting Corporation</td><td>Ea - Global Channels & Streaming</td><td>London</td><td>2026-09-26</td></tr>
 <tr><td>Ramsay Health Care UK</td><td>Booking Administrative Assistant</td><td>Chelmsford</td><td>2026-09-26</td></tr>
+<tr><td>Lazard</td><td>2027 M&a Internship - Denmark</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Md&s Analytics Sales</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>WARNER MUSIC INC</td><td>Warner Chappell Intern (12 Month Ftc)</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Google</td><td>Software Engineering, Site Reliability Engineering Bs/ms Intern, 2027</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Codex</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Hastings Direct</td><td>Pricing Automation Engineer</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-09-26</td></tr>
+<tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Birmingham Outlet Resorts World</td><td>Birmingham</td><td>2026-09-26</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Portsmouth</td><td>Portsmouth</td><td>2026-09-26</td></tr>
 </table>
