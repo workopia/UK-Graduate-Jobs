@@ -6225,4 +6225,48 @@ _No archived roles yet._
 <tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-09-26</td></tr>
 <tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Birmingham Outlet Resorts World</td><td>Birmingham</td><td>2026-09-26</td></tr>
 <tr><td>Nike</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Portsmouth</td><td>Portsmouth</td><td>2026-09-26</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Science & Ai Internship</td><td>Where</td><td>2026-09-27</td></tr>
+<tr><td>Chubb Limited</td><td>Chubb Career Insight Week</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Severn Trent Plc</td><td>Register Your Interest - Summer Placements 2027</td><td>England</td><td>2026-09-27</td></tr>
+<tr><td>Wiser Solutions Inc</td><td>Private Funds Group Industrial Placement (2027) / Evercore</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Emerson Electric</td><td>Software Engineer</td><td>Lviv</td><td>2026-09-27</td></tr>
+<tr><td>Emerson</td><td>Software Engineer</td><td>Lviv</td><td>2026-09-27</td></tr>
+<tr><td>North Norfolk District Council</td><td>Estates Technical Support Officer</td><td>North Norfolk</td><td>2026-09-27</td></tr>
+<tr><td>HedgePo Ltd</td><td>Agentic Ai Developer - Uk</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Data Operations Associate (insurance)</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>GlaxoSmithKline</td><td>Ai/ml Engineer - Controllable Biology</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Gsicareers</td><td>Ai/ml Engineer - Controllable Biology</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>MSX International Ltd</td><td>Automotive Uptime Analyst</td><td>Dunton</td><td>2026-09-27</td></tr>
+<tr><td>Workforcity</td><td>Ai Engineer, Rates Vp</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Ai Engineer, Rates Vp</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Performance Reporting Analyst</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>EBRD</td><td>Analyst, Oversight And Enablement</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Royal London</td><td>Automation & Innovation Analyst</td><td>Alderley Edge</td><td>2026-09-27</td></tr>
+<tr><td>Royal London Asset Management</td><td>Data Business Analyst (rlam)</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Severn Trent Plc</td><td>Rca (route Cause Analyst) Specialist</td><td>West Midlands</td><td>2026-09-27</td></tr>
+<tr><td>Mercer</td><td>Investment Portfolio Operations Analyst</td><td>Tower Place</td><td>2026-09-27</td></tr>
+<tr><td>Axis Capital</td><td>Risk Analyst</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Nomura International PLC</td><td>Delta One Trader</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Quantitative Research - Associate/vice President</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Valuation And Structuring Quantitative Analyst, Gas And Power</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Kent</td><td>Kent</td><td>2026-09-27</td></tr>
+<tr><td>GE Vernova</td><td>Field Service Supervisor</td><td>United Kingdom</td><td>2026-09-27</td></tr>
+<tr><td>Otis</td><td>Technician</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Callowayhealth</td><td>Maintenance Facility Tech 3rd Shift St Luke's Aurora</td><td>Aurora</td><td>2026-09-27</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer - Evergreen Vacancy</td><td>Ellesmere</td><td>2026-09-27</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Technician</td><td>Search By Location</td><td>2026-09-27</td></tr>
+<tr><td>pladis Global</td><td>Maintenance Technician</td><td>Mdc</td><td>2026-09-27</td></tr>
+<tr><td>Entain</td><td>Retail Customer Service</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cartier, Sales Associate (seasonal Ftc)</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Purdey</td><td>Sales Associate - Clothing & Accessories</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Cytiva</td><td>Labour And Employee Relations Specialist - Discovery And Medical</td><td>Cardiff</td><td>2026-09-27</td></tr>
+<tr><td>Cochlear</td><td>Customer Services Coordinator</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Recovery Focus</td><td>Business Change Support Officer</td><td>Home Based</td><td>2026-09-27</td></tr>
+<tr><td>Iron Mountain</td><td>Admin Assistant</td><td>Manchester</td><td>2026-09-27</td></tr>
+<tr><td>Boden</td><td>Merchandising Admin Assistant - Childrenswear</td><td>North Acton</td><td>2026-09-27</td></tr>
+<tr><td>Lancashire Holdings</td><td>Project Coordinator - Industrial Services</td><td>Stewartby</td><td>2026-09-27</td></tr>
+<tr><td>Starr</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-09-27</td></tr>
 </table>
