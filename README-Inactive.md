@@ -6269,4 +6269,17 @@ _No archived roles yet._
 <tr><td>Boden</td><td>Merchandising Admin Assistant - Childrenswear</td><td>North Acton</td><td>2026-09-27</td></tr>
 <tr><td>Lancashire Holdings</td><td>Project Coordinator - Industrial Services</td><td>Stewartby</td><td>2026-09-27</td></tr>
 <tr><td>Starr</td><td>Executive Assistant</td><td>United Kingdom</td><td>2026-09-27</td></tr>
+<tr><td>KPMG</td><td>KPMG 2027 Audit Vacation Programmes - Bristol</td><td>Bristol</td><td>2026-09-27</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Builder Intern</td><td>Where</td><td>2026-09-27</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>Software Engineer In Test, Toolchain Qe</td><td>Bristol</td><td>2026-09-27</td></tr>
+<tr><td>GE Vernova</td><td>Staff Software Engineer</td><td>Edinburgh</td><td>2026-09-27</td></tr>
+<tr><td>Citi</td><td>Quant Developer, Vp</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Tax Specialist</td><td>Where</td><td>2026-09-27</td></tr>
+<tr><td>Travelodge Hotels Limited</td><td>Group Reporting Accountant</td><td>Not Specified</td><td>2026-09-27</td></tr>
+<tr><td>ITV</td><td>Finance Analyst</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>EBRD</td><td>Assistant Analyst, Portfolio</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Alstom</td><td>Fleet Maintenance Engineer</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Alstom</td><td>High Level Technician</td><td>London</td><td>2026-09-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Bicester (maternity Cover)</td><td>Oxford</td><td>2026-09-27</td></tr>
+<tr><td>Nestlé</td><td>Supplier Quality Assurance Specialist</td><td>Tutbury</td><td>2026-09-27</td></tr>
 </table>

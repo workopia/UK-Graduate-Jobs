@@ -50,6 +50,12 @@
    "role": "Marsh Insight Day - Bristol",
    "location": "Bristol"
   },
+  "d07f2da28b00cf19adb014bee97da2e1": {
+   "id": "d07f2da28b00cf19adb014bee97da2e1",
+   "company": "Ingenico",
+   "role": "Hris & Internal Communications Data Governance Intern",
+   "location": "Courbevoie +1"
+  },
   "8c88460c984f01715a53e7cac8435c34": {
    "id": "8c88460c984f01715a53e7cac8435c34",
    "company": "Stripe Payments",
@@ -167,6 +173,12 @@
   "a410ce852a0e8867228a8d8a15d2c7d0": {
    "id": "a410ce852a0e8867228a8d8a15d2c7d0",
    "company": "Willis Towers Watson",
+   "role": "2027 Work & Reward Internship Consulting Programme, London",
+   "location": "London"
+  },
+  "72bcd6dc6dab5430a107147e1ba3c440": {
+   "id": "72bcd6dc6dab5430a107147e1ba3c440",
+   "company": "WTW (Willis Towers Watson)",
    "role": "2027 Work & Reward Internship Consulting Programme, London",
    "location": "London"
   },
@@ -487,18 +499,6 @@
    "company": "KPMG",
    "role": "KPMG 2027 Audit Vacation Programmes - London",
    "location": "London"
-  },
-  "targetjobs:4651847d-39e8-4ded-9288-9f12943933fc": {
-   "id": "targetjobs:4651847d-39e8-4ded-9288-9f12943933fc",
-   "company": "KPMG",
-   "role": "KPMG 2027 Audit Vacation Programmes - Bristol",
-   "location": "Bristol"
-  },
-  "2728c3dd375cfa16d6f1c7c6a0d58d58": {
-   "id": "2728c3dd375cfa16d6f1c7c6a0d58d58",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Builder Intern",
-   "location": "Where"
   },
   "73d9cfe68455aaea7bd49be63071cd2c": {
    "id": "73d9cfe68455aaea7bd49be63071cd2c",
@@ -890,11 +890,23 @@
    "role": "Software Engineer",
    "location": "London"
   },
+  "7a831d64142097cf34b66ad1682e3dc3": {
+   "id": "7a831d64142097cf34b66ad1682e3dc3",
+   "company": "NERA Economic Consulting",
+   "role": "Market Security Analyst",
+   "location": "London"
+  },
   "755958640790": {
    "id": "755958640790",
    "company": "Millennium Management",
    "role": "Software Engineer – Equity Derivatives Pricing & Risk",
    "location": "London"
+  },
+  "6e902794dbe7e2799557c85a071c1675": {
+   "id": "6e902794dbe7e2799557c85a071c1675",
+   "company": "Jobgether",
+   "role": "Software Engineer - Python And K8s",
+   "location": "United Kingdom"
   },
   "89e3f041d39e71cb04fb0c9e89b8b6d3": {
    "id": "89e3f041d39e71cb04fb0c9e89b8b6d3",
@@ -1334,18 +1346,6 @@
    "role": "Software Developer, Account Management & Onboarding",
    "location": "Manchester"
   },
-  "2f69c39cf6b4ac9d6d913cc6cdeab02c": {
-   "id": "2f69c39cf6b4ac9d6d913cc6cdeab02c",
-   "company": "Sonyinteractiveentertainmentglobal",
-   "role": "Software Engineer In Test, Toolchain Qe",
-   "location": "Bristol"
-  },
-  "784e32cbaf07607385b6b1ecfbb9e2a1": {
-   "id": "784e32cbaf07607385b6b1ecfbb9e2a1",
-   "company": "GE Vernova",
-   "role": "Staff Software Engineer",
-   "location": "Edinburgh"
-  },
   "67a03b0c67a9221fb5f046ab20073b0e": {
    "id": "67a03b0c67a9221fb5f046ab20073b0e",
    "company": "Medtronic",
@@ -1489,6 +1489,12 @@
    "company": "The Francis Crick Institute",
    "role": "Ai/ml Postdoctoral Fellow – F Rouhani Lab",
    "location": "London"
+  },
+  "0973e88b102b04d8240da612ef46ed15": {
+   "id": "0973e88b102b04d8240da612ef46ed15",
+   "company": "Hovis Ltd",
+   "role": "Automation Engineer",
+   "location": "Glasgow"
   },
   "911ba53e002305f0048b607acac4d65f": {
    "id": "911ba53e002305f0048b607acac4d65f",
@@ -1886,12 +1892,6 @@
    "role": "Architekt / Architektka Ai",
    "location": "United Kingdom"
   },
-  "0973e88b102b04d8240da612ef46ed15": {
-   "id": "0973e88b102b04d8240da612ef46ed15",
-   "company": "Hovis Ltd",
-   "role": "Automation Engineer",
-   "location": "Glasgow"
-  },
   "4f4bc640b3e65818670d7e2ee999d17a": {
    "id": "4f4bc640b3e65818670d7e2ee999d17a",
    "company": "Rathbone Brothers Plc",
@@ -1914,6 +1914,12 @@
    "id": "6f166756d8e3def03d8c9f762071b1da",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Summer Internship 2027 - London",
+   "location": "London"
+  },
+  "8c70ec4ba470ab590dd8a1a7ce188bcf": {
+   "id": "8c70ec4ba470ab590dd8a1a7ce188bcf",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Actuarial (general Insurance) Industrial Placement Programme 2027",
    "location": "London"
   },
   "968446a0a5189ae8b200436145df4114": {
@@ -2064,12 +2070,6 @@
    "id": "targetjobs:34c05e54-ec93-45c5-9978-6ea2f320b7c6",
    "company": "Goldman Sachs",
    "role": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
-   "location": "London"
-  },
-  "8c70ec4ba470ab590dd8a1a7ce188bcf": {
-   "id": "8c70ec4ba470ab590dd8a1a7ce188bcf",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Actuarial (general Insurance) Industrial Placement Programme 2027",
    "location": "London"
   },
   "targetjobs:1512ff62-b764-4765-b734-586658d37e32": {
@@ -2336,11 +2336,35 @@
    "role": "Accountant",
    "location": "London"
   },
+  "859038104545": {
+   "id": "859038104545",
+   "company": "Citi",
+   "role": "Quant Developer, Vp",
+   "location": "London"
+  },
+  "2f7bb195b02eb84a278a5c7b76f1a54a": {
+   "id": "2f7bb195b02eb84a278a5c7b76f1a54a",
+   "company": "Expleo Group UK",
+   "role": "Business Analyst – Retail , Cloud &amp; Data Transformation",
+   "location": "London"
+  },
+  "1168275560345": {
+   "id": "1168275560345",
+   "company": "Estée Lauder",
+   "role": "Artisanal Cluster Business Analyst, London",
+   "location": "London"
+  },
   "472c145b98ebc8c7a9e885b1e62eabde": {
    "id": "472c145b98ebc8c7a9e885b1e62eabde",
    "company": "Dachser SE",
    "role": "Business Analyst",
    "location": "London"
+  },
+  "3daecca1e9975e8b914caff95aed83c3": {
+   "id": "3daecca1e9975e8b914caff95aed83c3",
+   "company": "Jobgether",
+   "role": "Internal Auditor",
+   "location": "United Kingdom"
   },
   "563018697756712": {
    "id": "563018697756712",
@@ -2353,12 +2377,6 @@
    "company": "Vodafone",
    "role": "Vodafonethree - Business Analyst - Planning & Delivery Design",
    "location": "United Kingdom"
-  },
-  "4f0e11ec3215647bbf870d13f7578d41": {
-   "id": "4f0e11ec3215647bbf870d13f7578d41",
-   "company": "Citi",
-   "role": "Quant Developer, Vp",
-   "location": "London"
   },
   "755953450082": {
    "id": "755953450082",
@@ -2419,6 +2437,12 @@
    "company": "Entrust",
    "role": "Revenue Operations Analyst",
    "location": "London"
+  },
+  "d48680fdbefb574027293c2bbf892369": {
+   "id": "d48680fdbefb574027293c2bbf892369",
+   "company": "Welo Data",
+   "role": "Andromeda Sadiradra - Qa Audio Rater - English (united Kingdom)",
+   "location": "United Kingdom"
   },
   "3f575b3e79e30db7cb24a39c9ecaaa7f": {
    "id": "3f575b3e79e30db7cb24a39c9ecaaa7f",
@@ -2724,30 +2748,6 @@
    "id": "6fe59dee1838f74e0bb93528f7ce5463",
    "company": "MUFG",
    "role": "Analyst / Associate, Portfolio Monitoring And Support",
-   "location": "London"
-  },
-  "a5a9399d389471346a10b24203a461da": {
-   "id": "a5a9399d389471346a10b24203a461da",
-   "company": "Zurich Insurance UK",
-   "role": "Tax Specialist",
-   "location": "Where"
-  },
-  "075d590294f7f28de609f86db6d83382": {
-   "id": "075d590294f7f28de609f86db6d83382",
-   "company": "Travelodge Hotels Limited",
-   "role": "Group Reporting Accountant",
-   "location": "Not Specified"
-  },
-  "5441e671475af223795fe6ce5c754a41": {
-   "id": "5441e671475af223795fe6ce5c754a41",
-   "company": "ITV",
-   "role": "Finance Analyst",
-   "location": "London"
-  },
-  "609ee1f3c43bbfe142cd079b558b15f3": {
-   "id": "609ee1f3c43bbfe142cd079b558b15f3",
-   "company": "EBRD",
-   "role": "Assistant Analyst, Portfolio",
    "location": "London"
   },
   "ca976b3f771bd0b9ef673c358b0d8ce4": {
@@ -3206,6 +3206,18 @@
    "role": "Electrical Test Operator - Night Shift",
    "location": "Manchester"
   },
+  "03a925f5833f47f1bcdf93d46c5188c7": {
+   "id": "03a925f5833f47f1bcdf93d46c5188c7",
+   "company": "Codan Limited",
+   "role": "Field Service Engineer - Manet Systems",
+   "location": "Whiteley"
+  },
+  "38d473af4b7d4eda45acd0974fcf4008": {
+   "id": "38d473af4b7d4eda45acd0974fcf4008",
+   "company": "Agfa",
+   "role": "Field Service Engineer - West Midland",
+   "location": "West Midland"
+  },
   "34531581095738": {
    "id": "34531581095738",
    "company": "Advanced Sterilization Products (ASP)",
@@ -3632,23 +3644,17 @@
    "role": "Maintenance Technician - Bletchley",
    "location": "Milton Keynes"
   },
-  "0e460f78e3e4e48a9abb8d1ace32e6cd": {
-   "id": "0e460f78e3e4e48a9abb8d1ace32e6cd",
-   "company": "Alstom",
-   "role": "Fleet Maintenance Engineer",
-   "location": "London"
-  },
-  "8ab04711cd58e9a865ae4f2b10738baf": {
-   "id": "8ab04711cd58e9a865ae4f2b10738baf",
-   "company": "Alstom",
-   "role": "High Level Technician",
-   "location": "London"
-  },
   "5bc2dbff45d0ec86484899aa4c385ce3": {
    "id": "5bc2dbff45d0ec86484899aa4c385ce3",
    "company": "Aurora Health Care",
    "role": "Materials Attendant",
    "location": "South Shore"
+  },
+  "fdd2b0385a538fe71073a3294b405c38": {
+   "id": "fdd2b0385a538fe71073a3294b405c38",
+   "company": "John Lewis Partnership",
+   "role": "Customer Assistant Christmas",
+   "location": "London"
   },
   "563705892715654": {
    "id": "563705892715654",
@@ -4112,12 +4118,6 @@
    "role": "Sales Associate - New Bond Street",
    "location": "London"
   },
-  "00eb0cc55325b92ab87479aa296943fe": {
-   "id": "00eb0cc55325b92ab87479aa296943fe",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Sales Associate - Bicester (maternity Cover)",
-   "location": "Oxford"
-  },
   "e1ad84f8111f0efdca74c9b85b12cf1d": {
    "id": "e1ad84f8111f0efdca74c9b85b12cf1d",
    "company": "Live Nation Entertainment, Inc.",
@@ -4159,6 +4159,12 @@
    "company": "Cytiva",
    "role": "Labour And Employee Relations Specialist - Discovery And Medical",
    "location": "Cardiff"
+  },
+  "1168274779781": {
+   "id": "1168274779781",
+   "company": "Estée Lauder",
+   "role": "Visual Merchandising Coordinator, Skincare - Travel Retail West (based London)",
+   "location": "London"
   },
   "173518e99fd6702658ba9d9402120b6e": {
    "id": "173518e99fd6702658ba9d9402120b6e",
@@ -4591,12 +4597,6 @@
    "company": "Upprewards",
    "role": "Student Experience Coordinator",
    "location": "Reading"
-  },
-  "7917e8b08e826e8f9c6601b815777a6d": {
-   "id": "7917e8b08e826e8f9c6601b815777a6d",
-   "company": "Nestlé",
-   "role": "Supplier Quality Assurance Specialist",
-   "location": "Tutbury"
   }
  }
 }
