@@ -6282,4 +6282,30 @@ _No archived roles yet._
 <tr><td>Alstom</td><td>High Level Technician</td><td>London</td><td>2026-09-27</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Bicester (maternity Cover)</td><td>Oxford</td><td>2026-09-27</td></tr>
 <tr><td>Nestlé</td><td>Supplier Quality Assurance Specialist</td><td>Tutbury</td><td>2026-09-27</td></tr>
+<tr><td>HP</td><td>Placement Year - Workforce Solutions Intern</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>HP</td><td>Placement Year - Hp Solutions Intern</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>HP</td><td>Placement Year - Channel Services Intern</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>MUFG</td><td>2027 MUFG UK Summer Analyst Programme: Capital Markets</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>AWE</td><td>Logistics & Transport – Year in Industry</td><td>Aldermaston</td><td>2026-09-28</td></tr>
+<tr><td>AWE</td><td>Production – Year in Industry</td><td>Aldermaston</td><td>2026-09-28</td></tr>
+<tr><td>KPMG</td><td>KPMG 2027 Audit Vacation Programmes - Reading</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>KPMG</td><td>KPMG 2027 Audit Vacation Programmes - London</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (enterprise Experience, Backend)</td><td>United Kingdom</td><td>2026-09-28</td></tr>
+<tr><td>Citi</td><td>Full Stack Engineer - React/typescript - Python (vp)</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>bet365</td><td>Software Developer, Cerberus</td><td>Manchester</td><td>2026-09-28</td></tr>
+<tr><td>bet365</td><td>Software Developer, Account Management & Onboarding</td><td>Manchester</td><td>2026-09-28</td></tr>
+<tr><td>Subsea 7</td><td>Hr Data Analyst</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Concentrix CVG</td><td>Professional, Bi Analyst (tcf)</td><td>Maysfield</td><td>2026-09-28</td></tr>
+<tr><td>HP</td><td>Placement Year - Business Analyst Intern</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>Charles River Associates</td><td>[2027 Master's graduates] Consulting Associate (European Competition practice)</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Atos</td><td>Consulting Industry Partner - Manufacturing And Retail</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Atos</td><td>Consulting Industry Partner- Energy</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Hippo Digital</td><td>Intermediate Business Analyst (identity)</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Expleo Group UK</td><td>Business Analyst - Business Continuity</td><td>Belfast</td><td>2026-09-28</td></tr>
+<tr><td>Free People (URBN)</td><td>Urbn Junior Tech Business Analyst</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Dnsdblookup</td><td>Industrials/ Business Services - Investment Banking Coverage & Advisory</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>MUFG</td><td>Analyst / Associate, Portfolio Monitoring And Support</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Taylor Wimpey</td><td>Technical Coordinator</td><td>United Kingdom</td><td>2026-09-28</td></tr>
+<tr><td>Upprewards</td><td>Student Experience Coordinator</td><td>Reading</td><td>2026-09-28</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-27",
+ "asOf": "2026-09-28",
  "count": 766,
  "jobs": {
   "585090": {
@@ -26,11 +26,59 @@
    "role": "Junior Data Analyst (financial Crime & Kyc)",
    "location": "London"
   },
+  "44236077": {
+   "id": "44236077",
+   "company": "HP",
+   "role": "Placement Year - Office Of The Managing Director Intern",
+   "location": "Reading"
+  },
+  "44236084": {
+   "id": "44236084",
+   "company": "HP",
+   "role": "Placement Year - Workforce Solutions Intern",
+   "location": "Reading"
+  },
+  "44236128": {
+   "id": "44236128",
+   "company": "HP",
+   "role": "Placement Year - Channel Services Intern",
+   "location": "Reading"
+  },
+  "44236168": {
+   "id": "44236168",
+   "company": "HP",
+   "role": "Placement Year - Hp Solutions Intern",
+   "location": "Reading"
+  },
+  "44236195": {
+   "id": "44236195",
+   "company": "HP",
+   "role": "Placement Year - Channel Programs Intern",
+   "location": "Reading"
+  },
+  "44236216": {
+   "id": "44236216",
+   "company": "HP",
+   "role": "Placement Year - Business Analyst Intern",
+   "location": "Reading"
+  },
+  "44236221": {
+   "id": "44236221",
+   "company": "HP",
+   "role": "Placement Year - Nwe / Uk Communications Intern",
+   "location": "Reading"
+  },
   "9fe22b7ff5eabff057f082482f533130": {
    "id": "9fe22b7ff5eabff057f082482f533130",
    "company": "Kerry Group",
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
+  },
+  "53fc303ab85becfc3e24c624fb043f28": {
+   "id": "53fc303ab85becfc3e24c624fb043f28",
+   "company": "Exxon Mobil",
+   "role": "Commercial Industrial Placement - Global Trading - London",
+   "location": "London"
   },
   "6c99fa0945a2f4d0d57f952ea5d7ba7e": {
    "id": "6c99fa0945a2f4d0d57f952ea5d7ba7e",
@@ -60,6 +108,12 @@
    "id": "8c88460c984f01715a53e7cac8435c34",
    "company": "Stripe Payments",
    "role": "Software Engineer, Intern",
+   "location": "London"
+  },
+  "8a86e986a03be7eb7b91831a50dcd8be": {
+   "id": "8a86e986a03be7eb7b91831a50dcd8be",
+   "company": "HelloFresh",
+   "role": "Category Management Intern (f/m/x)",
    "location": "London"
   },
   "targetjobs:4754c9e1-6382-46cb-a082-040127651e20": {
@@ -218,18 +272,6 @@
    "role": "Summer Intern Project Management",
    "location": "London"
   },
-  "4051b87837fee265f9913915209d6a90": {
-   "id": "4051b87837fee265f9913915209d6a90",
-   "company": "HP",
-   "role": "Placement Year - Workforce Solutions Intern",
-   "location": "Reading"
-  },
-  "cc30349116f7bd8bdee9ca9a9ce226fc": {
-   "id": "cc30349116f7bd8bdee9ca9a9ce226fc",
-   "company": "HP",
-   "role": "Placement Year - Hp Solutions Intern",
-   "location": "Reading"
-  },
   "ff6cc4bd002cd994c89cf68a4703b298": {
    "id": "ff6cc4bd002cd994c89cf68a4703b298",
    "company": "Hydeparkbank",
@@ -246,12 +288,6 @@
    "id": "ca56f832d7f3d03ca3dfc9f1085f66b6",
    "company": "Hydeparkbank",
    "role": "Placement Year - Nwe / Uk Communications Intern",
-   "location": "Reading"
-  },
-  "67a7fc65c6b5a1ba123258f530d2906c": {
-   "id": "67a7fc65c6b5a1ba123258f530d2906c",
-   "company": "HP",
-   "role": "Placement Year - Channel Services Intern",
    "location": "Reading"
   },
   "78790806ef34f40adc172f910a84b351": {
@@ -468,36 +504,6 @@
    "id": "3675f0c0e23611cc83a5e623feb49d51",
    "company": "Haysmac",
    "role": "Audit Placement Year, September 2027 / Haysmac",
-   "location": "London"
-  },
-  "targetjobs:0120d26b-0463-42c1-ab33-b33195f6c0d8": {
-   "id": "targetjobs:0120d26b-0463-42c1-ab33-b33195f6c0d8",
-   "company": "MUFG",
-   "role": "2027 MUFG UK Summer Analyst Programme: Capital Markets",
-   "location": "London"
-  },
-  "targetjobs:e3cfc721-e57c-4242-93cb-8d60226ae097": {
-   "id": "targetjobs:e3cfc721-e57c-4242-93cb-8d60226ae097",
-   "company": "AWE",
-   "role": "Logistics & Transport – Year in Industry",
-   "location": "Aldermaston"
-  },
-  "targetjobs:5424bec3-e5ef-44e5-ad06-784089b38c1f": {
-   "id": "targetjobs:5424bec3-e5ef-44e5-ad06-784089b38c1f",
-   "company": "AWE",
-   "role": "Production – Year in Industry",
-   "location": "Aldermaston"
-  },
-  "targetjobs:0a583162-4e05-4288-ad6b-58204c0a0f53": {
-   "id": "targetjobs:0a583162-4e05-4288-ad6b-58204c0a0f53",
-   "company": "KPMG",
-   "role": "KPMG 2027 Audit Vacation Programmes - Reading",
-   "location": "Reading"
-  },
-  "targetjobs:124db215-edc1-406f-83e0-f6554a2a96e1": {
-   "id": "targetjobs:124db215-edc1-406f-83e0-f6554a2a96e1",
-   "company": "KPMG",
-   "role": "KPMG 2027 Audit Vacation Programmes - London",
    "location": "London"
   },
   "73d9cfe68455aaea7bd49be63071cd2c": {
@@ -866,6 +872,12 @@
    "role": "It Support Apprentice",
    "location": "All Locations"
   },
+  "859038082916": {
+   "id": "859038082916",
+   "company": "Citi",
+   "role": "Front End (ui) Software Engineer (fullstack)",
+   "location": "London"
+  },
   "bd04ac53c2232fc7be7a4c952a95f044": {
    "id": "bd04ac53c2232fc7be7a4c952a95f044",
    "company": "Google",
@@ -878,6 +890,12 @@
    "role": "Software Engineer Iii, Android, Jetpack Remote Compose",
    "location": "London"
   },
+  "7c4547f1934ec5b1196d4d21ea934944": {
+   "id": "7c4547f1934ec5b1196d4d21ea934944",
+   "company": "Jobgether",
+   "role": "Microservices Engineer",
+   "location": "United Kingdom"
+  },
   "072f7454e6a853d11d07951fa3d62481": {
    "id": "072f7454e6a853d11d07951fa3d62481",
    "company": "Labcorp",
@@ -889,6 +907,12 @@
    "company": "Unity",
    "role": "Software Engineer",
    "location": "London"
+  },
+  "4b93a686184c2a27b0f48f7b80c9e0c4": {
+   "id": "4b93a686184c2a27b0f48f7b80c9e0c4",
+   "company": "Jobgether",
+   "role": "Software Engineer: Backend",
+   "location": "United Kingdom"
   },
   "7a831d64142097cf34b66ad1682e3dc3": {
    "id": "7a831d64142097cf34b66ad1682e3dc3",
@@ -935,6 +959,12 @@
   "3fe556a6a434e4edae16b71ccbd59d3b": {
    "id": "3fe556a6a434e4edae16b71ccbd59d3b",
    "company": "WSP",
+   "role": "Software Developer (cloud & Data)",
+   "location": "United Kingdom"
+  },
+  "3ab892b641ac37d1e42dc088a1803138": {
+   "id": "3ab892b641ac37d1e42dc088a1803138",
+   "company": "WSP in Canada",
    "role": "Software Developer (cloud & Data)",
    "location": "United Kingdom"
   },
@@ -1322,30 +1352,6 @@
    "role": "Delphi Developer For A Sustainability Saas",
    "location": "United Kingdom"
   },
-  "6d0b868a1f0be2e20e12c68db384154d": {
-   "id": "6d0b868a1f0be2e20e12c68db384154d",
-   "company": "Jobgether",
-   "role": "Software Engineer (enterprise Experience, Backend)",
-   "location": "United Kingdom"
-  },
-  "1a7bff89b62ede13292ab094525c3f0a": {
-   "id": "1a7bff89b62ede13292ab094525c3f0a",
-   "company": "Citi",
-   "role": "Full Stack Engineer - React/typescript - Python (vp)",
-   "location": "London"
-  },
-  "0339742cf4eb3c72d25ddcf29400ae12": {
-   "id": "0339742cf4eb3c72d25ddcf29400ae12",
-   "company": "bet365",
-   "role": "Software Developer, Cerberus",
-   "location": "Manchester"
-  },
-  "b984fecd6e8642af123b7335732adbb0": {
-   "id": "b984fecd6e8642af123b7335732adbb0",
-   "company": "bet365",
-   "role": "Software Developer, Account Management & Onboarding",
-   "location": "Manchester"
-  },
   "67a03b0c67a9221fb5f046ab20073b0e": {
    "id": "67a03b0c67a9221fb5f046ab20073b0e",
    "company": "Medtronic",
@@ -1436,6 +1442,12 @@
    "role": "Aggp2027 - Graduate Ai Engineer",
    "location": "Filton"
   },
+  "456dfc0bc845bf24469aca1cbb9c5c90": {
+   "id": "456dfc0bc845bf24469aca1cbb9c5c90",
+   "company": "Subsea 7",
+   "role": "Hr Data Analyst",
+   "location": "London"
+  },
   "259a559d01a79b6e7b2153ca0c4ba74c": {
    "id": "259a559d01a79b6e7b2153ca0c4ba74c",
    "company": "Google",
@@ -1490,6 +1502,12 @@
    "role": "Ai/ml Postdoctoral Fellow – F Rouhani Lab",
    "location": "London"
   },
+  "2d5297f54763e7626745330ab5e2674f": {
+   "id": "2d5297f54763e7626745330ab5e2674f",
+   "company": "Jobgether",
+   "role": "Data Scientist",
+   "location": "United Kingdom"
+  },
   "0973e88b102b04d8240da612ef46ed15": {
    "id": "0973e88b102b04d8240da612ef46ed15",
    "company": "Hovis Ltd",
@@ -1506,12 +1524,6 @@
    "id": "71d72e463a650b119a5f2c50e66afe5b",
    "company": "Equifax",
    "role": "Data Scientist - Fraud",
-   "location": "London"
-  },
-  "aa33bb201143e6e13d425f7eb45babaf": {
-   "id": "aa33bb201143e6e13d425f7eb45babaf",
-   "company": "Subsea 7",
-   "role": "Hr Data Analyst",
    "location": "London"
   },
   "1c68b55f1750eb1a9944fe6917d45a72": {
@@ -1904,12 +1916,6 @@
    "role": "Professional, Bi Analyst (tcf)",
    "location": "Maysfield"
   },
-  "268ef1c3e6c4985667d927a84aa0d028": {
-   "id": "268ef1c3e6c4985667d927a84aa0d028",
-   "company": "Concentrix CVG",
-   "role": "Professional, Bi Analyst (tcf)",
-   "location": "Maysfield"
-  },
   "6f166756d8e3def03d8c9f762071b1da": {
    "id": "6f166756d8e3def03d8c9f762071b1da",
    "company": "Oliver Wyman",
@@ -1945,12 +1951,6 @@
    "company": "BAE Systems",
    "role": "Summer Intern Business Analyst",
    "location": "London"
-  },
-  "fade73d85ff8ccd738a0b7bf5fa41004": {
-   "id": "fade73d85ff8ccd738a0b7bf5fa41004",
-   "company": "HP",
-   "role": "Placement Year - Business Analyst Intern",
-   "location": "Reading"
   },
   "cfeb1045fc176ada5321ddfae860156d": {
    "id": "cfeb1045fc176ada5321ddfae860156d",
@@ -2270,6 +2270,48 @@
    "role": "Laboratory Sampling Section Technician (trainee Nuclear Material Accountant)",
    "location": "Salwick Preston"
   },
+  "859035351591": {
+   "id": "859035351591",
+   "company": "Citi",
+   "role": "Advisory & Execution Specialist – Global Equities & Fixed Income",
+   "location": "London"
+  },
+  "498c38daf9d52fec637265e39b0b0816": {
+   "id": "498c38daf9d52fec637265e39b0b0816",
+   "company": "Exxon Mobil",
+   "role": "Trading Market Risk Advisor - Eame Freight",
+   "location": "London"
+  },
+  "145d0885d4f4da7ca9dbde8c74a6ed84": {
+   "id": "145d0885d4f4da7ca9dbde8c74a6ed84",
+   "company": "Exxon Mobil",
+   "role": "Trading Market Risk Advisor- Emea Power",
+   "location": "London"
+  },
+  "2ebfe4269e138e8a446f0fc22a162dfa": {
+   "id": "2ebfe4269e138e8a446f0fc22a162dfa",
+   "company": "Exxon Mobil",
+   "role": "Trading Market Risk Advisor - Emea Gas",
+   "location": "London"
+  },
+  "565b95cee3e4233ac363cabf8d0f6f2b": {
+   "id": "565b95cee3e4233ac363cabf8d0f6f2b",
+   "company": "Exxon Mobil",
+   "role": "Trading Market Risk Advisor - Eame Crude",
+   "location": "London"
+  },
+  "a44a7f3285a96794ccfca890c9b0a828": {
+   "id": "a44a7f3285a96794ccfca890c9b0a828",
+   "company": "Exxon Mobil",
+   "role": "Allegro Etrm Business Analyst",
+   "location": "London"
+  },
+  "dcfdbe1ab540df79496ee2279c6fbb54": {
+   "id": "dcfdbe1ab540df79496ee2279c6fbb54",
+   "company": "Exxon Mobil",
+   "role": "Valuation And Structuring Quantitative Analyst, Gas And Power",
+   "location": "London"
+  },
   "301038bbd9c982f7e5222b0cc4f8980a": {
    "id": "301038bbd9c982f7e5222b0cc4f8980a",
    "company": "Shell plc",
@@ -2461,6 +2503,12 @@
    "company": "Aviva",
    "role": "Revenue Finance Analyst",
    "location": "London"
+  },
+  "48c8aee9d0958a8eaccc9fb6a5ac38ec": {
+   "id": "48c8aee9d0958a8eaccc9fb6a5ac38ec",
+   "company": "Marks & Spencer Group",
+   "role": "Compliance Process Support Op - Wk 2 Days",
+   "location": "United Kingdom"
   },
   "05112df88290a09aba86bdf30ea4686e": {
    "id": "05112df88290a09aba86bdf30ea4686e",
@@ -2702,52 +2750,10 @@
    "role": "Centre Accountant",
    "location": "London"
   },
-  "targetjobs:c60c4279-e572-42a6-b939-2960f7626067": {
-   "id": "targetjobs:c60c4279-e572-42a6-b939-2960f7626067",
-   "company": "Charles River Associates",
-   "role": "[2027 Master's graduates] Consulting Associate (European Competition practice)",
-   "location": "London"
-  },
-  "b487682b80f98d6c23a6b21ad2d5dd6d": {
-   "id": "b487682b80f98d6c23a6b21ad2d5dd6d",
-   "company": "Atos",
-   "role": "Consulting Industry Partner - Manufacturing And Retail",
-   "location": "London"
-  },
-  "28240e058beee5ecdf51827784c945b9": {
-   "id": "28240e058beee5ecdf51827784c945b9",
-   "company": "Atos",
-   "role": "Consulting Industry Partner- Energy",
-   "location": "London"
-  },
-  "ec6248331db66a34df7ded31cb15f233": {
-   "id": "ec6248331db66a34df7ded31cb15f233",
-   "company": "Hippo Digital",
-   "role": "Intermediate Business Analyst (identity)",
-   "location": "London"
-  },
-  "997b7875f7f7470ba2a7f36d0c7c264f": {
-   "id": "997b7875f7f7470ba2a7f36d0c7c264f",
-   "company": "Expleo Group UK",
-   "role": "Business Analyst - Business Continuity",
-   "location": "Belfast"
-  },
-  "1fb924a581a69a27d9d8659fd27371da": {
-   "id": "1fb924a581a69a27d9d8659fd27371da",
-   "company": "Free People (URBN)",
-   "role": "Urbn Junior Tech Business Analyst",
-   "location": "London"
-  },
-  "7557951d8d985c3cbb9d69aad16769d9": {
-   "id": "7557951d8d985c3cbb9d69aad16769d9",
-   "company": "Dnsdblookup",
-   "role": "Industrials/ Business Services - Investment Banking Coverage & Advisory",
-   "location": "London"
-  },
-  "6fe59dee1838f74e0bb93528f7ce5463": {
-   "id": "6fe59dee1838f74e0bb93528f7ce5463",
-   "company": "MUFG",
-   "role": "Analyst / Associate, Portfolio Monitoring And Support",
+  "9e84b6eb6e1b34a8149f1912becfb6d6": {
+   "id": "9e84b6eb6e1b34a8149f1912becfb6d6",
+   "company": "Sanctuary Housing Association",
+   "role": "Care Assistant",
    "location": "London"
   },
   "ca976b3f771bd0b9ef673c358b0d8ce4": {
@@ -2779,12 +2785,6 @@
    "company": "Syneos Health",
    "role": "Single Sponsor Clinical Research Associate Ii (must Have Uk Monitoring Experience) Uk Only",
    "location": "United Kingdom"
-  },
-  "a1e212edbd098d19b6c5a71a44e33d4d": {
-   "id": "a1e212edbd098d19b6c5a71a44e33d4d",
-   "company": "Sanctuary Housing Association",
-   "role": "Care Assistant",
-   "location": "London"
   },
   "e24c811611cedfc23cea2e4c773c24e7": {
    "id": "e24c811611cedfc23cea2e4c773c24e7",
@@ -4250,6 +4250,12 @@
    "role": "Bank Poa Administrator",
    "location": "Hertfordshire"
   },
+  "73a3e459876aa1ccb3e147bf22e8ba48": {
+   "id": "73a3e459876aa1ccb3e147bf22e8ba48",
+   "company": "Marks & Spencer Group",
+   "role": "Customer Assistant - Instore Bakery - Hedge End",
+   "location": "Portsmouth"
+  },
   "fdc58f61264d1a0b54b877f6b10247ae": {
    "id": "fdc58f61264d1a0b54b877f6b10247ae",
    "company": "Novartis",
@@ -4568,6 +4574,12 @@
    "role": "Co-ordinator B2b Events & Experiences, Emea - (15 Month Ftc)- London",
    "location": "London"
   },
+  "4ae3ac4a0ae2e4c9d07a368f50cb4957": {
+   "id": "4ae3ac4a0ae2e4c9d07a368f50cb4957",
+   "company": "St. Regis Hotels & Resorts",
+   "role": "Co-ordinator B2b Events & Experiences, Emea - (15 Month Ftc)- London",
+   "location": "London"
+  },
   "57491be80aa78698c7107bcc2e349c57": {
    "id": "57491be80aa78698c7107bcc2e349c57",
    "company": "GXO Logistics, Inc.",
@@ -4585,18 +4597,6 @@
    "company": "Celeros Flow Technology",
    "role": "Project Coordinator - Inspection",
    "location": "Unknown"
-  },
-  "1dccd41ac26ccbdab63c2544a0aa7e4b": {
-   "id": "1dccd41ac26ccbdab63c2544a0aa7e4b",
-   "company": "Taylor Wimpey",
-   "role": "Technical Coordinator",
-   "location": "United Kingdom"
-  },
-  "f6a988b48dd432dd6238c136d2adc3c9": {
-   "id": "f6a988b48dd432dd6238c136d2adc3c9",
-   "company": "Upprewards",
-   "role": "Student Experience Coordinator",
-   "location": "Reading"
   }
  }
 }
