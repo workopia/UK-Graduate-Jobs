@@ -6308,4 +6308,5 @@ _No archived roles yet._
 <tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-09-28</td></tr>
 <tr><td>Taylor Wimpey</td><td>Technical Coordinator</td><td>United Kingdom</td><td>2026-09-28</td></tr>
 <tr><td>Upprewards</td><td>Student Experience Coordinator</td><td>Reading</td><td>2026-09-28</td></tr>
+<tr><td>Haysmac</td><td>Audit Placement Year, September 2027 / Haysmac</td><td>London</td><td>2026-09-28</td></tr>
 </table>

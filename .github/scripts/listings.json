@@ -12,8 +12,8 @@
   "as_of": "2026-09-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 18469,
-  "generated_at": "2026-09-28T01:11:04.695Z"
+  "country_live_total": 18468,
+  "generated_at": "2026-09-28T06:58:28.741Z"
  },
  "categories": [
   {
@@ -530,6 +530,23 @@
    "date_posted": "2026-09-25T07:47:39.801Z",
    "active": true,
    "url": "https://workopia.io/jobs/04c8222dfc939bf79f7901b7ff50d3c0",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "targetjobs:5e920c44-bc73-4e22-bdbf-6776926eac44",
+   "source": "Workopia",
+   "company_name": "The PSC",
+   "company_hi_slug": null,
+   "title": "Internship - Summer 2027",
+   "location": "London",
+   "skills": "intellectual curiosity, passion for public ser",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-25T06:01:09.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/targetjobs:5e920c44-bc73-4e22-bdbf-6776926eac44",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-21T15:50:38.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/targetjobs:9a5cb17b-2093-4b52-b96f-4512e9cd7b83",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "3675f0c0e23611cc83a5e623feb49d51",
-   "source": "Workopia",
-   "company_name": "Haysmac",
-   "company_hi_slug": "haysmac",
-   "title": "Audit Placement Year, September 2027 / Haysmac",
-   "location": "London",
-   "skills": "Testing financial tran, Reviewing financial da",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T12:35:58.394Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3675f0c0e23611cc83a5e623feb49d51",
    "category": "grad",
    "tier": "Intern"
   },
