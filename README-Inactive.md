@@ -6377,4 +6377,6 @@ _No archived roles yet._
 <tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>London</td><td>2026-09-29</td></tr>
 <tr><td>Lloyd’s Register Foundation</td><td>Programme Coordinator</td><td>London</td><td>2026-09-29</td></tr>
 <tr><td>Celeros Flow Technology</td><td>Project Coordinator - Inspection</td><td>Unknown</td><td>2026-09-29</td></tr>
+<tr><td>Barclays</td><td>2027 Internal Audit Analyst Summer Internship Programme - London</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Agility Medical Group</td><td>Biomedical Technician Intern</td><td>West Milwaukee</td><td>2026-09-29</td></tr>
 </table>

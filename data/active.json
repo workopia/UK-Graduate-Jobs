@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-29",
- "count": 769,
+ "count": 773,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -96,6 +96,18 @@
    "id": "6debfb167eab16727937777eba1fe77f",
    "company": "Unilever",
    "role": "Unilever Industrial Placement Programme - Technology Uk",
+   "location": "London"
+  },
+  "targetjobs:7cbf28ce-735a-4c02-a2fa-5a533956d9e9": {
+   "id": "targetjobs:7cbf28ce-735a-4c02-a2fa-5a533956d9e9",
+   "company": "Ashurst Perkins Coie",
+   "role": "Summer Vacation Scheme 2027",
+   "location": "London"
+  },
+  "targetjobs:264b4bb0-78f0-4f47-b350-601e83bcc942": {
+   "id": "targetjobs:264b4bb0-78f0-4f47-b350-601e83bcc942",
+   "company": "Sidley Austin LLP",
+   "role": "2027 Spring/Summer Vacation Scheme",
    "location": "London"
   },
   "48ba0a89e1f9f24dadf580dab005a4df": {
@@ -493,18 +505,6 @@
    "company": "Alphasights",
    "role": "Placement, Client Service, French Speaker, 2027",
    "location": "London"
-  },
-  "targetjobs:0778f878-b6ae-4446-900b-1962d9ec7dac": {
-   "id": "targetjobs:0778f878-b6ae-4446-900b-1962d9ec7dac",
-   "company": "Barclays",
-   "role": "2027 Internal Audit Analyst Summer Internship Programme - London",
-   "location": "London"
-  },
-  "05c02f97a46a5942f0a3e0ebe6c9f0fe": {
-   "id": "05c02f97a46a5942f0a3e0ebe6c9f0fe",
-   "company": "Agility Medical Group",
-   "role": "Biomedical Technician Intern",
-   "location": "West Milwaukee"
   },
   "73d9cfe68455aaea7bd49be63071cd2c": {
    "id": "73d9cfe68455aaea7bd49be63071cd2c",
@@ -1388,6 +1388,12 @@
    "role": "Forward Deployed Ai Engineer, Internship, United Kingdom - Bcg X",
    "location": "United Kingdom"
   },
+  "targetjobs:c1e3612a-9068-441c-97ca-673a39c0bbe8": {
+   "id": "targetjobs:c1e3612a-9068-441c-97ca-673a39c0bbe8",
+   "company": "Kingspan",
+   "role": "Graduate Automation Engineer – 2027",
+   "location": "Pembridge"
+  },
   "fc219a14122fff65adeb878298bebbd7": {
    "id": "fc219a14122fff65adeb878298bebbd7",
    "company": "Anthropic",
@@ -1910,6 +1916,12 @@
    "role": "Architekt / Architektka Ai",
    "location": "United Kingdom"
   },
+  "targetjobs:6b2ed9f4-9e76-4290-9431-d208597f5365": {
+   "id": "targetjobs:6b2ed9f4-9e76-4290-9431-d208597f5365",
+   "company": "Deloitte",
+   "role": "Finance Transformation Consulting – Business Analyst - Industrial Placement - Belfast",
+   "location": "Belfast"
+  },
   "c59ef2f0d09699363781a52fcc34144f": {
    "id": "c59ef2f0d09699363781a52fcc34144f",
    "company": "Airbus",
@@ -2108,6 +2120,12 @@
    "role": "2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (mfe), London",
    "location": "London"
   },
+  "ef1b52434018b81b68cf8d1c5f1088c9": {
+   "id": "ef1b52434018b81b68cf8d1c5f1088c9",
+   "company": "Barclays",
+   "role": "2027 Internal Audit Analyst Summer Internship Programme London",
+   "location": "London"
+  },
   "5512207fb19bd8b5e7e62bb2d3c9815d": {
    "id": "5512207fb19bd8b5e7e62bb2d3c9815d",
    "company": "jobs.barclays",
@@ -2143,6 +2161,12 @@
    "company": "Milliman",
    "role": "Actuarial Intern - Summer 2027 - Intelliscript",
    "location": "United Kingdom"
+  },
+  "targetjobs:4c71f7ce-bfcd-4ccf-968b-bbe7414cc3ac": {
+   "id": "targetjobs:4c71f7ce-bfcd-4ccf-968b-bbe7414cc3ac",
+   "company": "Deloitte",
+   "role": "Finance Transformation Consulting – Business Analyst - Full Time Graduate - Belfast",
+   "location": "Belfast"
   },
   "targetjobs:522e5ccc-63cd-4840-b31c-b8173a1c9141": {
    "id": "targetjobs:522e5ccc-63cd-4840-b31c-b8173a1c9141",
