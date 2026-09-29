@@ -12,8 +12,8 @@
   "as_of": "2026-09-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 18447,
-  "generated_at": "2026-09-29T06:58:00.986Z"
+  "country_live_total": 18433,
+  "generated_at": "2026-09-29T10:25:38.598Z"
  },
  "categories": [
   {
@@ -8826,6 +8826,23 @@
    "date_posted": "2026-09-08T00:40:19.101Z",
    "active": true,
    "url": "https://workopia.io/jobs/ec965f767988d1f5ce5b28683957f87d",
+   "category": "healthcare",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "3c211e91ccdfddc74a7442d50a6b660a",
+   "source": "Workopia",
+   "company_name": "ICON Strategic Solutions",
+   "company_hi_slug": "icon-strategic-solutions",
+   "title": "Cra",
+   "location": "Uk",
+   "skills": "monitoring clinical tr, ensure adherence to st",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-08T00:40:19.101Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/3c211e91ccdfddc74a7442d50a6b660a",
    "category": "healthcare",
    "tier": "Entry-level"
   },

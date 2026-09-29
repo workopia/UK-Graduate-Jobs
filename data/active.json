@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-29",
- "count": 773,
+ "count": 774,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -3097,6 +3097,12 @@
    "company": "ICON plc",
    "role": "Cra",
    "location": "United Kingdom"
+  },
+  "3c211e91ccdfddc74a7442d50a6b660a": {
+   "id": "3c211e91ccdfddc74a7442d50a6b660a",
+   "company": "ICON Strategic Solutions",
+   "role": "Cra",
+   "location": "Uk"
   },
   "4263d3208d780c97dfa9368c405eb5f0": {
    "id": "4263d3208d780c97dfa9368c405eb5f0",
