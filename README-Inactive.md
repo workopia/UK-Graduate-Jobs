@@ -6309,4 +6309,72 @@ _No archived roles yet._
 <tr><td>Taylor Wimpey</td><td>Technical Coordinator</td><td>United Kingdom</td><td>2026-09-28</td></tr>
 <tr><td>Upprewards</td><td>Student Experience Coordinator</td><td>Reading</td><td>2026-09-28</td></tr>
 <tr><td>Haysmac</td><td>Audit Placement Year, September 2027 / Haysmac</td><td>London</td><td>2026-09-28</td></tr>
+<tr><td>Baker Hughes</td><td>Aspire – Finance – 2027</td><td>Gb</td><td>2026-09-29</td></tr>
+<tr><td>KKR</td><td>2027 Real Estate Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Ardian</td><td>Buyout Intern - November 2026 / London</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>why LLP</td><td>International Arbitration Intern</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>GlaxoSmithKline</td><td>Global Patient Safety And Pharmacovigilance Industrial Placement, Uk 2027</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>GlaxoSmithKline</td><td>Programming, Statistics & Data Science (multiple Roles) Industrial Placement, 2027</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Cleary Gottlieb Steen & Hamilton LLP</td><td>Spring Insight Day - 17 March 2027</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Tikehau Capital</td><td>Internship - Compliance</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Panmure Liberum</td><td>2027 Summer Internship Programme</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Celonis</td><td>AI & Management Consulting Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Savills</td><td>2027 Savills Sandwich Placement - Building and Project Consultancy</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Spglobal</td><td>Market Intelligence Revenue Associate Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>WTW External Careers Site</td><td>2027 Corporate Risk & Broking, Internship Programme</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>JD</td><td>JD Young Compensation & Incentives Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>JD Campus Career Site</td><td>JD Young Procurement Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>BCM One</td><td>Governance, Risk, and Compliance (GRC) Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>JD Campus Career Site</td><td>JD Young Business Analysis Internship</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Watford</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Slough</td><td>Reading</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Reading</td><td>Reading</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Penzance</td><td>Penzance</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Omagh</td><td>Omagh</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Uxbridge</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Greater London</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Inverness</td><td>Inverness</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Dartford</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Croydon</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Trowbridge</td><td>Bristol</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Cheshire</td><td>Cheshire</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Bristol</td><td>Bristol</td><td>2026-09-29</td></tr>
+<tr><td>Enterprise Mobility</td><td>One Year Management Placement / Internship - Bath</td><td>Bristol</td><td>2026-09-29</td></tr>
+<tr><td>McDermott International</td><td>Young Apprentice</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>MI5</td><td>Software Engineer Ref. 3685</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>European Molecular Biology Laboratory</td><td>Software Engineer (hpc Sustainability)</td><td>Hinxton</td><td>2026-09-29</td></tr>
+<tr><td>Apple</td><td>Software Engineer - Apple Pay</td><td>United Kingdom</td><td>2026-09-29</td></tr>
+<tr><td>Jobgether</td><td>Delphi Developer For A Sustainability Saas</td><td>United Kingdom</td><td>2026-09-29</td></tr>
+<tr><td>Rathbone Brothers Plc</td><td>Intelligent Automation Engineer</td><td>Glasgow</td><td>2026-09-29</td></tr>
+<tr><td>Concentrix</td><td>Professional, Bi Analyst (tcf)</td><td>Maysfield</td><td>2026-09-29</td></tr>
+<tr><td>Nomura International PLC</td><td>High Yield Analyst - Associate/vice President</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Nomura International PLC</td><td>Operations Oversight Associate (6 Months Contract)</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>GlaxoSmithKline</td><td>Global Category Leader, Travel, Meetings & Expenses</td><td>Uk</td><td>2026-09-29</td></tr>
+<tr><td>Brightonparkbank</td><td>Business Oversight Compliance Bbplc Cross Border Vp</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Sizewell C</td><td>Cyber Requirements & Compliance Specialist</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Talan</td><td>Front Office Quant Analyst</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Worldpay Inc</td><td>Global Cdd Business Process Analyst</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Nomura International PLC</td><td>Compliance Officer, Emea Investment Banking Compliance (3 Months Contract)</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Associate/vp, Credit Repo Trader / Scib</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Quilter</td><td>Remote Competency Assessor</td><td>England</td><td>2026-09-29</td></tr>
+<tr><td>Sharkninjaoperatingllc</td><td>Commercial Finance Analyst - Pricing</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Prudential Financial</td><td>Pgim Product / Associate, Product Data & Analytics</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>PGIM</td><td>Pgim Product / Associate, Product Data & Analytics</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>URW</td><td>Centre Accountant</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Holcim Belgium</td><td>Mechanical Fitter</td><td>Moorcroft Quarry</td><td>2026-09-29</td></tr>
+<tr><td>Landmarc Solutions</td><td>Gas And Heating Technician Lydd Camp, Romney Marsh, Kent , United Kingdom £41,688.61 - £47,864.70 (doe) Plus Excellent Benefits Permanent Apply By 4 October, 2026 Posted On 18 September, 2026</td><td>Lydd Camp</td><td>2026-09-29</td></tr>
+<tr><td>Tata Steel UK</td><td>Technical Maintenance Engineer</td><td>Trostre</td><td>2026-09-29</td></tr>
+<tr><td>Emerson Electric</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-09-29</td></tr>
+<tr><td>Rolls-Royce</td><td>Mobile Field Service Representative</td><td>Coningsby</td><td>2026-09-29</td></tr>
+<tr><td>Greystar</td><td>Maintenance Technician</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Alstom</td><td>Maintenance Technician - Bletchley</td><td>Milton Keynes</td><td>2026-09-29</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home, & Beauty -sutton</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Salesfloor Assistant (part Time, Temp 30 Hrs), Croydon Factory Outlet Store 2</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Salesfloor Assistant (part Time, Temp 24 Hrs), Croydon Factory Outlet Store</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - New Bond Street</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Co-ordinator B2b Events & Experiences, Emea - (15 Month Ftc)- London</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Co-ordinator B2b Events & Experiences, Emea - (15 Month Ftc)- London</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Lloyd’s Register Foundation</td><td>Programme Coordinator</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Celeros Flow Technology</td><td>Project Coordinator - Inspection</td><td>Unknown</td><td>2026-09-29</td></tr>
 </table>
