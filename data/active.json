@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-29",
- "count": 774,
+ "count": 772,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -744,18 +744,6 @@
    "id": "b406294b225a9a0d492a04f136ffd505",
    "company": "Arriva Inc",
    "role": "Mech/elec Apprentice",
-   "location": "London"
-  },
-  "5497d9676edb42aebb1a6568b971a25f": {
-   "id": "5497d9676edb42aebb1a6568b971a25f",
-   "company": "Workforcity",
-   "role": "Markets Coo Apprentice",
-   "location": "London"
-  },
-  "7b0356ef745c01091685c8c97e6d9cdc": {
-   "id": "7b0356ef745c01091685c8c97e6d9cdc",
-   "company": "Publix Serving (Civica)",
-   "role": "Markets Coo Apprentice",
    "location": "London"
   },
   "targetjobs:74ee5e38-b366-4207-ae4d-e8333855da8c": {

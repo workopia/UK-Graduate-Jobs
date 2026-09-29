@@ -12,8 +12,8 @@
   "as_of": "2026-09-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 18433,
-  "generated_at": "2026-09-29T10:25:38.598Z"
+  "country_live_total": 18415,
+  "generated_at": "2026-09-29T13:28:24.175Z"
  },
  "categories": [
   {
@@ -2111,40 +2111,6 @@
    "date_posted": "2026-08-01T03:13:08.686Z",
    "active": true,
    "url": "https://workopia.io/jobs/b406294b225a9a0d492a04f136ffd505",
-   "category": "grad",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
-   "id": "5497d9676edb42aebb1a6568b971a25f",
-   "source": "Workopia",
-   "company_name": "Workforcity",
-   "company_hi_slug": "workforcity",
-   "title": "Markets Coo Apprentice",
-   "location": "London",
-   "skills": "Data analysis, Control execution",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-31T13:26:22.707Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/5497d9676edb42aebb1a6568b971a25f",
-   "category": "grad",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
-   "id": "7b0356ef745c01091685c8c97e6d9cdc",
-   "source": "Workopia",
-   "company_name": "Publix Serving (Civica)",
-   "company_hi_slug": "publix-serving-civica",
-   "title": "Markets Coo Apprentice",
-   "location": "London",
-   "skills": "Data Analysis, Control Execution",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-31T13:26:22.707Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/7b0356ef745c01091685c8c97e6d9cdc",
    "category": "grad",
    "tier": "Graduate"
   },

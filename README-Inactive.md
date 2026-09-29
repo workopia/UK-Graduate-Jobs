@@ -6379,4 +6379,6 @@ _No archived roles yet._
 <tr><td>Celeros Flow Technology</td><td>Project Coordinator - Inspection</td><td>Unknown</td><td>2026-09-29</td></tr>
 <tr><td>Barclays</td><td>2027 Internal Audit Analyst Summer Internship Programme - London</td><td>London</td><td>2026-09-29</td></tr>
 <tr><td>Agility Medical Group</td><td>Biomedical Technician Intern</td><td>West Milwaukee</td><td>2026-09-29</td></tr>
+<tr><td>Workforcity</td><td>Markets Coo Apprentice</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Markets Coo Apprentice</td><td>London</td><td>2026-09-29</td></tr>
 </table>
