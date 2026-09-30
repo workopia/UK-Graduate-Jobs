@@ -884,12 +884,6 @@
    "role": "Api Software Engineer",
    "location": "Edinburgh"
   },
-  "116e5bdf1d5564cab9d20879b2683469": {
-   "id": "116e5bdf1d5564cab9d20879b2683469",
-   "company": "Rbsfuel",
-   "role": "Software Engineer, Backend",
-   "location": "London"
-  },
   "5cef9a9ed554f0707ddf3cee0a48a20c": {
    "id": "5cef9a9ed554f0707ddf3cee0a48a20c",
    "company": "Accenture Australia",
@@ -1351,6 +1345,12 @@
    "company": "Jobgether",
    "role": "Full Stack Software Engineer - Ai-first (java, Angular)",
    "location": "United Kingdom"
+  },
+  "eadbb816fe55b3be3a2d0b34173ce272": {
+   "id": "eadbb816fe55b3be3a2d0b34173ce272",
+   "company": "Motorola Solutions",
+   "role": "Software Engineer",
+   "location": "Edinburgh"
   },
   "67a03b0c67a9221fb5f046ab20073b0e": {
    "id": "67a03b0c67a9221fb5f046ab20073b0e",
