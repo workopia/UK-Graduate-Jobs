@@ -6461,4 +6461,5 @@ _No archived roles yet._
 <tr><td>EDF Energy Ltd</td><td>Administration Assistant</td><td>Hinkley Point C</td><td>2026-09-30</td></tr>
 <tr><td>Vestas</td><td>Offshore Warehouse Coordinator (f/m/d)</td><td>Stallingborough</td><td>2026-09-30</td></tr>
 <tr><td>Haleon</td><td>Team Assistant - Enterprise Transformation</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Arriva Inc</td><td>Mech/elec Apprentice</td><td>London</td><td>2026-09-30</td></tr>
 </table>

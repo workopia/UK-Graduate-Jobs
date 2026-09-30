@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-30",
- "count": 781,
+ "count": 780,
  "jobs": {
   "585090": {
    "id": "585090",
@@ -755,12 +755,6 @@
   "15350c2658289100bd7aca5945c67f38": {
    "id": "15350c2658289100bd7aca5945c67f38",
    "company": "merseysidebusjobs.co.uk",
-   "role": "Mech/elec Apprentice",
-   "location": "London"
-  },
-  "b406294b225a9a0d492a04f136ffd505": {
-   "id": "b406294b225a9a0d492a04f136ffd505",
-   "company": "Arriva Inc",
    "role": "Mech/elec Apprentice",
    "location": "London"
   },
