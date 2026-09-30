@@ -6381,4 +6381,84 @@ _No archived roles yet._
 <tr><td>Agility Medical Group</td><td>Biomedical Technician Intern</td><td>West Milwaukee</td><td>2026-09-29</td></tr>
 <tr><td>Workforcity</td><td>Markets Coo Apprentice</td><td>London</td><td>2026-09-29</td></tr>
 <tr><td>Publix Serving (Civica)</td><td>Markets Coo Apprentice</td><td>London</td><td>2026-09-29</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Work & Reward Internship Consulting Programme, London</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>2027 Work & Reward Internship Consulting Programme, London</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Marsh</td><td>Marsh Insight Day - London</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Global Banking Intern Uk 2027</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Transaction Services Intern Uk 2027</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Coverage Banking intern Uk 2027</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Fever</td><td>Event Producer Intern (turkish Speaker)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>BAE Systems</td><td>Summer Intern Project Management</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Hydeparkbank</td><td>Placement Year - Office Of The Managing Director Intern</td><td>Reading</td><td>2026-09-30</td></tr>
+<tr><td>HP, Inc.</td><td>Placement Year - Channel Programs Intern</td><td>Reading</td><td>2026-09-30</td></tr>
+<tr><td>Hydeparkbank</td><td>Placement Year - Nwe / Uk Communications Intern</td><td>Reading</td><td>2026-09-30</td></tr>
+<tr><td>HP Inc</td><td>Placement Year - Workforce Solutions Intern</td><td>Reading</td><td>2026-09-30</td></tr>
+<tr><td>Alphasights</td><td>Placement, Client Service, French Speaker, 2027</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Motorola Solutions</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>Php Engineer</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>Woven by Toyota</td><td>Software Engineer - Calibration</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Neo4j</td><td>Software Engineering - Clustering & Distributed Systems</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>Founding Software Engineer - New Product</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>octopusenergy.nz</td><td>Design Engineer (ui, Frontend)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Cloudflare</td><td>Software Engineer, Cdn Configuration Group</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Morrisons</td><td>Insight Specialist - Customer Data & Analytics</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Government, International</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>European Molecular Biology Laboratory</td><td>Scientific Developer (chemical Biology Resources)</td><td>Hinxton</td><td>2026-09-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Data Analyst - 12 Month Fixed Term Contract</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>MODAL SYSTEMS Ltd</td><td>Product Data Scientist Remote</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Bank Pekao</td><td>Architekt / Architektka Ai</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Tsb / Business Analyst / Grade D / Cio / flexible Across Our Main Sites / 12 Month Secondment</td><td>Barnwood</td><td>2026-09-30</td></tr>
+<tr><td>Magnet Forensics</td><td>Operations Analyst</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>Google</td><td>Financial Analyst, Emea Marketing</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Broco Glass</td><td>Finance Accountant</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>EDF Trading</td><td>Otc Settlements Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Hcuk Credit Analyst (wholesale)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Rates Trading Artificial Intelligence (ai) Specialist</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>International Accountant</td><td>United Kingdom</td><td>2026-09-30</td></tr>
+<tr><td>Mercer</td><td>Private Medical Plan Auditor</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Matter Management Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Distribution Compliance Officer</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>ASOS</td><td>Vulnerability, Threat & Exposure Management Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Rbsfuel</td><td>Associate, Technology, Media And Telecoms (tmt) Sector Coverage</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>RS Group</td><td>Vulnerability Management Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>MUFG</td><td>Project Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Business Analyst, Otcr, Operational Excellence & Risk Delivery</td><td>Bukit Jalil Kl +1</td><td>2026-09-30</td></tr>
+<tr><td>Morgan Stanley</td><td>Fixed Income Division - Vice President, Erates Strat (egb Signal Gen) (london)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Brightonparkbank</td><td>Ibk Client Transitions Vp</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Vp, Global Banking - Consumer, Retail & Healthcare / Scib</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Octus</td><td>Junior Credit Analyst - Private Credit</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Columbia Threadneedle Investments</td><td> performance Analyst</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Mars Australia</td><td>Royal Canin Srm Analyst North Europe</td><td>Castle Cary</td><td>2026-09-30</td></tr>
+<tr><td>Citi Global Wealth (CGW)</td><td>Advisory & Execution Specialist – Global Equities & Fixed Income</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>EBRD</td><td>Analyst, Green Financial Systems</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Outpatients (bank)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Renault Trucks</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>ABB UK</td><td>Field Service Engineer</td><td>UK</td><td>2026-09-30</td></tr>
+<tr><td>Abbott Laboratories</td><td>Field Service Engineer / Jr. Field Service Engineer - East Midlands Based (with Uk/i + Eu Travel)</td><td>East Midlands</td><td>2026-09-30</td></tr>
+<tr><td>77</td><td>Mobile Maintenance Technician</td><td>South Yorkshire</td><td>2026-09-30</td></tr>
+<tr><td>Entain</td><td>Retail Customer Service</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>Edinburgh</td><td>2026-09-30</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (20 Hours)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Greystar</td><td>Customer Service Associate</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Honey Birdette Ltd</td><td>Sales Associate (part Time) / Stratford</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Camden</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor Seasonal Temp (7.5 Hours)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (22.5 Hours)</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>ARNE</td><td>Sales Associate</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Skechers</td><td>Sales Associate Kingston Clarence Street</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Simulator</td><td>Accounts Receivable Admin Assistant - Part Time, Zero Hours Contract</td><td>Gatwick</td><td>2026-09-30</td></tr>
+<tr><td>Genesys</td><td>Executive Assistant</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Ashtead Hospital</td><td>Administration Assistant</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>nationalgas</td><td>Business Support Admin</td><td>Nottingham</td><td>2026-09-30</td></tr>
+<tr><td>MBDA</td><td>Business Support Officer (part Time Role, 18 Hours Per Week)</td><td>Bristol</td><td>2026-09-30</td></tr>
+<tr><td>Barings</td><td>Executive Assistant</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>Amey Ltd</td><td>Highways Administrator</td><td>Birmingham</td><td>2026-09-30</td></tr>
+<tr><td>CAE</td><td>Accounts Receivable Admin Assistant - Zero Hours Contract</td><td>Gatwick</td><td>2026-09-30</td></tr>
+<tr><td>Cancer Research UK</td><td>Store Assistant (edinburgh, Morningside)</td><td>Edinburgh</td><td>2026-09-30</td></tr>
+<tr><td>J. Murphy & Sons Ltd</td><td>Project Coordinator</td><td>Scotland</td><td>2026-09-30</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Delivery Pharmacy Administrative Assistant</td><td>Lincolnshire</td><td>2026-09-30</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-09-30</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Administration Assistant</td><td>Hinkley Point C</td><td>2026-09-30</td></tr>
+<tr><td>Vestas</td><td>Offshore Warehouse Coordinator (f/m/d)</td><td>Stallingborough</td><td>2026-09-30</td></tr>
+<tr><td>Haleon</td><td>Team Assistant - Enterprise Transformation</td><td>London</td><td>2026-09-30</td></tr>
 </table>
