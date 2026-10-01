@@ -6463,4 +6463,44 @@ _No archived roles yet._
 <tr><td>Haleon</td><td>Team Assistant - Enterprise Transformation</td><td>London</td><td>2026-09-30</td></tr>
 <tr><td>Arriva Inc</td><td>Mech/elec Apprentice</td><td>London</td><td>2026-09-30</td></tr>
 <tr><td>Rbsfuel</td><td>Software Engineer, Backend</td><td>London</td><td>2026-09-30</td></tr>
+<tr><td>OpenCorporates Ltd</td><td>Intern</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Lazard</td><td>2027-2028 London Financial Advisory Industrial Placement</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Fever</td><td>Event Producer (turkish Speaker) – Internship</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>John Deere</td><td>Student Placement - Turf & Precision Guidance</td><td>Langar</td><td>2026-10-01</td></tr>
+<tr><td>Ford Europe</td><td>Hr Business Intern</td><td>Dunton +1</td><td>2026-10-01</td></tr>
+<tr><td>Experian</td><td>Software Engineer - Java</td><td>Nottingham</td><td>2026-10-01</td></tr>
+<tr><td>nahc.io Recruitment Firm in Asia</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Specialist</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Software Engineer - Ai-first (java, Angular)</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Motorola Solutions</td><td>Software Engineer</td><td>Edinburgh</td><td>2026-10-01</td></tr>
+<tr><td>Chainalysis</td><td>Staff Data Scientist</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Celltrion Com Br</td><td>Uk_business Intelligence Analyst</td><td>England</td><td>2026-10-01</td></tr>
+<tr><td>Legora</td><td>Legal Engineer - Applied Ai Knowledge</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Credit Risk Analyst</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Assistant Finance Analyst</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Entrust</td><td>Revenue Operations Analyst</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Welo Data</td><td>Andromeda Sadiradra - Qa Audio Rater - English (united Kingdom)</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Hiscox</td><td>Syndicate Accountant - 12-month Ftc Or Day-rate Contract (inside Ir35)</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Avivainvestors</td><td>Revenue Finance Analyst</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Aviva</td><td>Revenue Finance Analyst</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Compliance Process Support Op - Wk 2 Days</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Apple</td><td>Policy And Compliance Analyst - Apple Ads</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>DHL UK</td><td>Internal Food Hygiene Auditor</td><td>Euston +6</td><td>2026-10-01</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>RWE AG</td><td>Onshore Wind Turbine Technician - South Yorkshire, Notts, Cambs</td><td>Moorends</td><td>2026-10-01</td></tr>
+<tr><td>Severn Trent Plc</td><td>Mechanical Maintenance Technician</td><td>Shropshire</td><td>2026-10-01</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Technician</td><td>Staverton</td><td>2026-10-01</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Service Engineer</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Rolls-Royce Group</td><td>Mobile Field Service Representative</td><td>Coningsby</td><td>2026-10-01</td></tr>
+<tr><td>Evri</td><td>Warehouse Operative Twilights</td><td>Pen</td><td>2026-10-01</td></tr>
+<tr><td>Converse</td><td>Sales Associate 8h Pt</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>RXO, Inc.</td><td>Warehouse Associate</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Quality Coordinator</td><td>Search By Location</td><td>2026-10-01</td></tr>
+<tr><td>DP World</td><td>Facilities Coordinator</td><td>Manchester</td><td>2026-10-01</td></tr>
+<tr><td>G&F Châtelain</td><td>Executive Assistant, Sustainability</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Bristol</td><td>2026-10-01</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>London</td><td>2026-10-01</td></tr>
+<tr><td>SILHRMS</td><td>Project Co-ordinator Ecology</td><td>United Kingdom</td><td>2026-10-01</td></tr>
+<tr><td>Bupa UK</td><td>Healthcare Assistant - Level 3</td><td>Harley Street</td><td>2026-10-01</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Royal Tunbridge Wells</td><td>2026-10-01</td></tr>
 </table>
