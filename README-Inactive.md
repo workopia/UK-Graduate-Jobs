@@ -6618,4 +6618,97 @@ _No archived roles yet._
 <tr><td>Ramsay Health Care UK</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-10-02</td></tr>
 <tr><td>BRE Group</td><td>Business Support Administrator</td><td>London</td><td>2026-10-02</td></tr>
 <tr><td>Nexeo Solutions LLC</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-10-02</td></tr>
+<tr><td>Coutts</td><td>Wealth Relationship Management - Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Rbsfuel</td><td>Wealth Product And Client Solutions - Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Natwest Markets</td><td>Natwest Markets - Quantitative Analytics- Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>NatWest Markets</td><td>Natwest Markets - Front Office - Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>NatWest Group</td><td>Commercial Banking - Relationship Management - Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Rbsfuel</td><td>Corporate And Institutional Banking - Internship</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>joinairbus.us</td><td>Uk Ethics & Compliance Placement (12.5 Months)</td><td>Bristol</td><td>2026-10-03</td></tr>
+<tr><td>Airbus Operations Limited</td><td>Uk National Sustainability Officer Placement (12.5 Months)</td><td>Filton</td><td>2026-10-03</td></tr>
+<tr><td>Airbus Operations Limited</td><td>Talent Acquisition Placement (12.5 Months)</td><td>Filton</td><td>2026-10-03</td></tr>
+<tr><td>Hyster Yale</td><td>Higher Level Apprentice - Business</td><td>Belfast</td><td>2026-10-03</td></tr>
+<tr><td>Johnson Controls</td><td>Apprentice Manufacturing Engineer</td><td>Manchester</td><td>2026-10-03</td></tr>
+<tr><td>PETA Ltd</td><td>It Support Apprentice</td><td>All Locations</td><td>2026-10-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>It Support Analyst</td><td>Greater London</td><td>2026-10-03</td></tr>
+<tr><td>LexisNexis</td><td>Technical Support Specialist I</td><td>Farringdon</td><td>2026-10-03</td></tr>
+<tr><td>IKEA UK</td><td>Software Engineer - Digital Automation</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Technical Support Specialist I</td><td>Farringdon</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-10-03</td></tr>
+<tr><td>Grafana Labs</td><td>Staff Backend Engineer - Databases - Analytics / Uk / Remote</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Accenture</td><td>Ai Native Software Engineer</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Scientist</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Subsea 7 SA</td><td>Hr Data Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>Mid Data Scientist</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Bank Pekao</td><td>Ekspert / Ekspertka Ds. Analiz I Raportowania</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Formula 1</td><td>Data Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Halfords Group</td><td>Finance Data Analyst</td><td>Worcestershire</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>Mid Qa Mobile Automation Engineer</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Atkinsrealis</td><td>Project Controls Data & Reporting Analyst</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Bupa</td><td>Reporting Insight Analyst</td><td>Salford Quays</td><td>2026-10-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Actuarial (general Insurance) Industrial Placement Programme 2027</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>DRW</td><td>Risk Product Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Avnet</td><td>Business Analyst</td><td>Leeds</td><td>2026-10-03</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Investment Banking Analyst, Consumer & Retail</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Deutsche Bank</td><td>Real Estate, Gaming, Lodging And Leisure (regll), Investment Banking & Capital Markets (ibcm) - Analyst/associate</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>OLIVER</td><td>Finance Erp Business Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Tripledot Studios</td><td>Fraud Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>Linguistic Quality Auditor – Ipa Phonetic Transcription Review</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Thunes</td><td>Internal Auditor</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Howden</td><td>Risk Associate - Risk Operations</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>NextWave Consulting</td><td>Camunda 8 Business Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>NextWave Consulting</td><td>Business Data Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>Transformation And Change Management Practitioner</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Nomura International PLC</td><td>Distribution Compliance Contractor - 6-month Contract</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner - Manufacturing And Retail</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner- Energy</td><td>Gb</td><td>2026-10-03</td></tr>
+<tr><td>Citi</td><td>Advisory & Execution Specialist – Global Equities & Fixed Income</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Exxon Mobil</td><td>Valuation And Structuring Quantitative Analyst, Gas And Power</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Shell plc</td><td>Gas Quant Structurer</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Credera</td><td>Technical Business Analyst, Technology Consulting- London, Leeds, Manchester Or Newcastle</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Weber Shandwick</td><td>Managing Partner - Growth Analytics</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Weber Shandwick</td><td>Value Analyst He</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>OMD EMEA</td><td>Managing Partner, Business Transformation</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Paretofm</td><td>Mobile Maintenance Engineer</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Higher Level Technician</td><td>Milton Keynes</td><td>2026-10-03</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Instruments Service Engineer</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Developer Services Technician - Water</td><td>Yorkshire</td><td>2026-10-03</td></tr>
+<tr><td>Marshall Motor Group</td><td>Master Technician</td><td>Cambridge</td><td>2026-10-03</td></tr>
+<tr><td>Avara Foods Ltd</td><td>Maintenance Engineer - Level 1</td><td>Milton Keynes</td><td>2026-10-03</td></tr>
+<tr><td>Veolia</td><td>Maintenance Technician</td><td>Seafield</td><td>2026-10-03</td></tr>
+<tr><td>Amey Ltd</td><td>Hgv Mechanical Technician</td><td>Charnock Richards</td><td>2026-10-03</td></tr>
+<tr><td>J. Murphy & Sons Ltd</td><td>Mobile Service Engineer - Heavy Plant</td><td>Scotland</td><td>2026-10-03</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Field Service Technician - Drinks Dispense</td><td>Central London</td><td>2026-10-03</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate - Edinburgh St James (part Time - 16 Hours)</td><td>Edinburgh</td><td>2026-10-03</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (part Time - 24 Hours) - One New Change</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate - Bicester (full Time)</td><td>Oxford</td><td>2026-10-03</td></tr>
+<tr><td>KITH</td><td>Customer Experience Associate</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Salomon</td><td>Sales Associate Westfield - 20h/week</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Lowes Companies Inc</td><td>Warehouse Part Time Overnight</td><td>Yukon</td><td>2026-10-03</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Project Administrator - Fixed Term Contract</td><td>Search By Location</td><td>2026-10-03</td></tr>
+<tr><td>SNC Lavalin</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Nuffield Health</td><td>Administrator Support</td><td>Chandlers Ford</td><td>2026-10-03</td></tr>
+<tr><td>Pantheon</td><td>Executive Assistant (hybrid)</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Jobgether</td><td>It Project Coordinator</td><td>United Kingdom</td><td>2026-10-03</td></tr>
+<tr><td>Amey Ltd</td><td>Administrator</td><td>Newcastle Upon Tyne</td><td>2026-10-03</td></tr>
+<tr><td>Recovery Focus</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-10-03</td></tr>
+<tr><td>Severn Trent Plc</td><td>Project Co-ordinator</td><td>Shelton</td><td>2026-10-03</td></tr>
+<tr><td>Severn Trent Plc</td><td>Network Logistics Technician</td><td>Midlands</td><td>2026-10-03</td></tr>
+<tr><td>Mango</td><td>Stock Assistant (8 Hours, Fixed Term- St James Quarter)</td><td>Edinburgh</td><td>2026-10-03</td></tr>
+<tr><td>Retirement World</td><td>Executive Assistant</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Edinburgh</td><td>2026-10-03</td></tr>
+<tr><td>Dorset & Wiltshire Fire and Rescue Service</td><td>Environmental Sustainability Administrator At Dorset & Wiltshire Fire And Rescue Service</td><td>Dorset</td><td>2026-10-03</td></tr>
+<tr><td>Manchester City Council</td><td>Administrative Support Assistant</td><td>Manchester</td><td>2026-10-03</td></tr>
+<tr><td>Carlisle Support Services</td><td>Events Resource Co-ordinator London, United Kingdom £17.25 Full Time Apply By 24 October, 2026 Posted On 24 September, 2026</td><td>London</td><td>2026-10-03</td></tr>
+<tr><td>Hippo Digital</td><td>Admin Assistant - People Team</td><td>Leeds</td><td>2026-10-03</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-10-03</td></tr>
+<tr><td>Nuffield Health</td><td>Administrator - Radiology</td><td>Oxford</td><td>2026-10-03</td></tr>
 </table>
