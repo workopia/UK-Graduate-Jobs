@@ -6711,4 +6711,105 @@ _No archived roles yet._
 <tr><td>Hippo Digital</td><td>Admin Assistant - People Team</td><td>Leeds</td><td>2026-10-03</td></tr>
 <tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-10-03</td></tr>
 <tr><td>Nuffield Health</td><td>Administrator - Radiology</td><td>Oxford</td><td>2026-10-03</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Elbow Lane</td><td>2026-10-04</td></tr>
+<tr><td>HP</td><td>Placement Year - Print Category Intern</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Ardian</td><td>Fund Finance Intern - November 2026 / London</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Technology UK</td><td>Wirral +1</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>It Industrial Placement 2027 - Core Technology</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>It Industrial Placement 2027 - Customer Experience Solutions</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>Procurement Industrial Placement 2027</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>Commercial Industrial Placement 2027</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>Manufacturing Industrial Placement 2027</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>McLaren</td><td>People And Culture Industrial Placement 2027</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Airbus</td><td>Landing Gear Business Operations Placement (12.5 Months)</td><td>Filton</td><td>2026-10-04</td></tr>
+<tr><td>Airbus</td><td>Programme Management Widebody Systems Placement (12.5 Months)</td><td>Filton</td><td>2026-10-04</td></tr>
+<tr><td>Airbus</td><td>Environment Health & Safety Filton Placement (12.5 Months)</td><td>Filton</td><td>2026-10-04</td></tr>
+<tr><td>Kenvue</td><td>Consumer & Shopper Insights Student Placement</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Kenvue</td><td>Commercial Student Placement</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Kenvue</td><td>Emea Finance Student Placement (tax) - June 2027 Start</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Extendicareporthope</td><td>Placement Year - Print Category Intern</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Ashurst Perkins Coie</td><td>Summer Vacation Scheme 2027</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Sidley Austin LLP</td><td>2027 Spring/Summer Vacation Scheme</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Monzo Bank</td><td>Associate Data Scientist - Intern</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Wellington Management</td><td>2027 Investment Platform Industrial Placement Internship Programme (london)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Wellington Management</td><td>2027 Client Platform Industrial Placement Internship Programme (london)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Rbsfuel</td><td>Engineering - Internship</td><td>Bristol</td><td>2026-10-04</td></tr>
+<tr><td>Haysmac</td><td>Audit School Leaver Apprentice, September 2027 / Haysmac</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Optical Assistant Apprentice</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Cell</td><td>Python Software Engineer</td><td>Cambridge</td><td>2026-10-04</td></tr>
+<tr><td>Emerson Electric Company</td><td>Software Engineer</td><td>Lviv</td><td>2026-10-04</td></tr>
+<tr><td>Sennheiser Consumer Hearing</td><td>Technical Consumer Experience Center Specialist - Sennheiser</td><td>Greater London</td><td>2026-10-04</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Python Software Engineer</td><td>Cambridge</td><td>2026-10-04</td></tr>
+<tr><td>UK Atomic Energy Authority</td><td>It Support Technician</td><td>Culham</td><td>2026-10-04</td></tr>
+<tr><td>Airwallex</td><td>Technical Support Engineer</td><td>Uk</td><td>2026-10-04</td></tr>
+<tr><td>Trustpilot</td><td>Software Engineer I</td><td>Edinburgh</td><td>2026-10-04</td></tr>
+<tr><td>Identosphere</td><td>Software Engineer – Query Engines</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Brightonparkbank</td><td>Api Software Engineer</td><td>Glasgow</td><td>2026-10-04</td></tr>
+<tr><td>MSX International Ltd</td><td>Telematics Service Desk Analyst</td><td>Gaydon</td><td>2026-10-04</td></tr>
+<tr><td>Clearwater Analytics</td><td>Associate Software Development Engineer</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Jobgether</td><td>Founding Full-stack Engineer</td><td>United Kingdom</td><td>2026-10-04</td></tr>
+<tr><td>Greene King</td><td>Digital Data Analyst</td><td>Burton</td><td>2026-10-04</td></tr>
+<tr><td>Anaplan</td><td>Sdet - Ai</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Anaplan Asia Pte Ltd</td><td>Sdet - Ai</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Amazon</td><td>Business Intelligence Engineer, Amazon Leo Europe Consumer</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Link Group</td><td>Associate, Share Plans Advisory</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Google</td><td>Financial Analyst, EMEA Marketing</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Primark</td><td>Business Analyst - Smart Retail Ordering</td><td>Reading</td><td>2026-10-04</td></tr>
+<tr><td>Tandem Money Ltd</td><td>Financial Planning And Analysis (fp&a) Accountant</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Fixed Income Division- Associate/ Vp, Junior Commodities Options Trader (london)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Aegislondon</td><td>Actuary</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Deutsche Bank</td><td>Credit Risk Change Business Analyst</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Hastings Direct</td><td>Payment Performance Analyst</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Martin-Baker</td><td>Continuous Improvement Analyst – Sales & Distribution</td><td>Denham</td><td>2026-10-04</td></tr>
+<tr><td>Wellcome Trust</td><td>Operations Risk & Controls Analyst</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Rbsfuel</td><td>Funds Financing, Nav Financing Analyst</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Jobgether</td><td>Powerpoint Contributor - Consulting And Strategy</td><td>United Kingdom</td><td>2026-10-04</td></tr>
+<tr><td>Sephora UK</td><td>Forecasting Analyst (omnichannel) - Fixed Term Contract Until April 2027</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>glowing.rocks</td><td>Treasury Operations — Payment Oversight Associate</td><td>United Kingdom</td><td>2026-10-04</td></tr>
+<tr><td>Accenture Australia</td><td>Management Consulting - Fraud / Risk</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>ConocoPhillips</td><td>Analyst, Commercial Compliance Europe</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Export Control Officer</td><td>United Kingdom</td><td>2026-10-04</td></tr>
+<tr><td>Selfridges Group</td><td>Internal Auditor London, United Kingdom Competitive Plus Benefits Permanent Apply By 26 October, 2026 Posted On 29 September, 2026</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>FDM Group</td><td>Business Case Writer- Various Locations Across The Uk</td><td>UK</td><td>2026-10-04</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Ariba Supplier Enablement Analyst</td><td>Milwaukee</td><td>2026-10-04</td></tr>
+<tr><td>Operose Health Ltd</td><td>General Practitioner Kings Road, London, United Kingdom £99000 - £112500 Permanent - Part Time Apply By 14 September, 2026 Job Posted Date 26 August, 2026</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Radfield Home Care</td><td>Live In Carer</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>NMAC Bermuda</td><td>Virtual General Practitioner (gp)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Lancashire</td><td>2026-10-04</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Maintenance Assistant</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Linde Material Handling</td><td>Field Service Engineer</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Biffa Waste Services</td><td>Maintenance Technician</td><td>Great Blakenham</td><td>2026-10-04</td></tr>
+<tr><td>IKEA UK</td><td>(maintenance Technician) Elektromechanik/-czka</td><td>UK</td><td>2026-10-04</td></tr>
+<tr><td>Roche</td><td>Field Service Installation Specialist (uk, Irl)</td><td>United Kingdom</td><td>2026-10-04</td></tr>
+<tr><td>GE Healthcare</td><td>Service - Field Service Engineer (fse) – Nuclear Medicine, Ct & Pet (nuc/ct/pet) - Scotland</td><td>Scotland</td><td>2026-10-04</td></tr>
+<tr><td>Hall & Kay</td><td>Service Engineer - Fire Alarms</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>Great Britain</td><td>2026-10-04</td></tr>
+<tr><td>unilever.fr</td><td>Run To Standard Focus Technician/multiskilled Maintenance Technician</td><td>Port Sunlight</td><td>2026-10-04</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-10-04</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technician</td><td>Barton-Under-Needwood</td><td>2026-10-04</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>High Level Technician</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Fleet Maintenance Engineer</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (22 Hours, Watford)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-04</td></tr>
+<tr><td>Flock</td><td>Customer Success Associate</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Scuk Financial Support Agent</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Georg Jensen</td><td>Sales Associate</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs White City (n129530)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Online</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Waitrose & Partners</td><td>Customer Assistant</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Guidepoint</td><td>Associate, Client Service, Bilingual French/english</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>White Stuff</td><td>Customer Host (4 Hrs)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor Ftc (22.5 Hours)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (15 Hours)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (part Time - 16 Hours) - Manchester Trafford Centre</td><td>Manchester</td><td>2026-10-04</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (full Time) - London (battersea Power Station)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>dorsetcouncil</td><td>Pa/secretarial/admin/finance Officer - Piddle Valley Ce First School</td><td>Piddle Valley</td><td>2026-10-04</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Instore Bakery - Hedge End</td><td>Portsmouth</td><td>2026-10-04</td></tr>
+<tr><td>Novartis</td><td>Executive Assistant</td><td>Kyiv</td><td>2026-10-04</td></tr>
+<tr><td>689</td><td>Executive Assistant, Emea Compliance</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Marsh</td><td>Executive Assistant</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Michael Kors</td><td>Digital Commerce Coordinator</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Supervisor, Calvin Klein - St. Pancras</td><td>London</td><td>2026-10-04</td></tr>
 </table>
