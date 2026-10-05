@@ -6812,4 +6812,51 @@ _No archived roles yet._
 <tr><td>Marsh</td><td>Executive Assistant</td><td>London</td><td>2026-10-04</td></tr>
 <tr><td>Michael Kors</td><td>Digital Commerce Coordinator</td><td>London</td><td>2026-10-04</td></tr>
 <tr><td>Calvin Klein</td><td>Part Time Supervisor, Calvin Klein - St. Pancras</td><td>London</td><td>2026-10-04</td></tr>
+<tr><td>Sizewell C</td><td>Sizewell C Digital & IT Industrial Placement</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Severn Trent</td><td>Register Your Interest - Summer Placements 2027</td><td>United Kingdom</td><td>2026-10-05</td></tr>
+<tr><td>McLaren</td><td>Finance Industrial Placement 2027</td><td>Reading</td><td>2026-10-05</td></tr>
+<tr><td>L'Arche UK</td><td>The L'Arche Internship</td><td>United Kingdom</td><td>2026-10-05</td></tr>
+<tr><td>Veritiongroupllc</td><td>2027 Technology Internship (london)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Wellington Management</td><td>2027 Infrastructure Platform Industrial Placement Internship Programme (london)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Iotech Systems</td><td>Graduate/Junior Software Engineer</td><td>Edinburgh</td><td>2026-10-05</td></tr>
+<tr><td>Jll Com Au</td><td>Helpdesk Support</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Helpdesk Support</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Arch Capital Group</td><td>Software Engineer Iii</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Crypto</td><td>United Kingdom</td><td>2026-10-05</td></tr>
+<tr><td>Sparta Global</td><td>Junior AI Engineer</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Jobgether</td><td>Marketing & Data Analyst</td><td>United Kingdom</td><td>2026-10-05</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Quants</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Operations Oversight Associate (6 Months Contract)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Investment Banker, Greentech Industrials & Infrastructure - Associate</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Market Data Content Business Analyst - 12 Month Contract</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Desk Aligned Strats, Structured Products - Associate</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Delta One Trader</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Nomura International PLC</td><td>Compliance Officer, Emea Investment Banking Compliance (3 Months Contract)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Sizewell C</td><td>Cyber Requirements & Compliance Specialist</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Quantitative Analyst - Model Development Team</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Royal London</td><td>Clo Operations Analyst</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Royal London</td><td>Automation & Innovation Analyst</td><td>Alderley Edge</td><td>2026-10-05</td></tr>
+<tr><td>Royal London Asset Management</td><td>Data Business Analyst (rlam)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Monzo Bank</td><td>Fraud Investigator, Part Time Team</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Swanwick</td><td>2026-10-05</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer (entry Level)</td><td>Inverness +1</td><td>2026-10-05</td></tr>
+<tr><td>Renault Trucks</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Danish Crown AS</td><td>Maintenance Engineer</td><td>Bugle</td><td>2026-10-05</td></tr>
+<tr><td>Candy Home</td><td>Field Service Engineer</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Mobile Field Service Representative</td><td>Coningsby</td><td>2026-10-05</td></tr>
+<tr><td>Decathlon S.A</td><td>Part-time Workshop Technician</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>hyve solutionsA AA</td><td>Repair Tech I</td><td>Gb</td><td>2026-10-05</td></tr>
+<tr><td>Severn Trent Plc</td><td>Metering Technician</td><td>SK17 +4</td><td>2026-10-05</td></tr>
+<tr><td>äº¬ä¸å¨çç</td><td>Equipment Maintenance Technician</td><td>England</td><td>2026-10-05</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Engineer- Nights</td><td>Central London</td><td>2026-10-05</td></tr>
+<tr><td>Bekaert</td><td>Multi-skilled Maintenance Technician</td><td>Willington Quay</td><td>2026-10-05</td></tr>
+<tr><td>Mt</td><td>Field Service Team Leader - Scotland</td><td>Scotland</td><td>2026-10-05</td></tr>
+<tr><td>Argyll</td><td>Customer Services Assistant - Maternity Cover</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>Norton Rose Fulbright</td><td>Executive Assistant</td><td>London</td><td>2026-10-05</td></tr>
+<tr><td>SLR CONSULTING AUSTRALIA PTY</td><td>Administrator</td><td>Bristol</td><td>2026-10-05</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Healthcare Assistant</td><td>Aston Cross</td><td>2026-10-05</td></tr>
+<tr><td>Screwfix</td><td>Retail Assistant Ni</td><td>Lurgan</td><td>2026-10-05</td></tr>
+<tr><td>Spire Healthcare</td><td>Bank Poa Administrator</td><td>Hertfordshire</td><td>2026-10-05</td></tr>
 </table>
