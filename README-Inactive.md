@@ -6859,4 +6859,70 @@ _No archived roles yet._
 <tr><td>Fresenius Medical Care</td><td>Healthcare Assistant</td><td>Aston Cross</td><td>2026-10-05</td></tr>
 <tr><td>Screwfix</td><td>Retail Assistant Ni</td><td>Lurgan</td><td>2026-10-05</td></tr>
 <tr><td>Spire Healthcare</td><td>Bank Poa Administrator</td><td>Hertfordshire</td><td>2026-10-05</td></tr>
+<tr><td>JD</td><td>JD Young Product Management Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>JD</td><td>JD Young Category Assistant Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>JD</td><td>JD Young Business Analysis Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Tencent</td><td>Cyber Security Intern</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Tencent</td><td>Project Management Intern (Gaming)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Tencent</td><td>PUBG Mobile Marketing Team Intern</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 ISG Central Risk Industrial Placement Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Sales & Trading Industrial Placement Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Financial Resources & Strategy Industrial Placement Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Institutional Equities Trading Off-Cycle Internship</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>J.P. Morgan</td><td>Aspiring Professionals Work Experience Program</td><td>United Kingdom</td><td>2026-10-06</td></tr>
+<tr><td>Amazon</td><td>Operations Human Resources Partner Intern (12 Months) - 2027</td><td>Bowburn +1</td><td>2026-10-06</td></tr>
+<tr><td>MUFG</td><td>2027 Mufg Emea: Application Master Class</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Cadillac Formula 1 Team</td><td>Aerodynamics Industrial Placements</td><td>Silverstone</td><td>2026-10-06</td></tr>
+<tr><td>Cadillac Formula 1 Team</td><td>Race Strategy Industrial Placement</td><td>Silverstone</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - NWE / UK Communications Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - Workforce Solutions Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - Channel Services Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - Channel Programs Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - Office of the Managing Director Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>HP</td><td>Placement Year - HP Solutions Intern</td><td>Reading</td><td>2026-10-06</td></tr>
+<tr><td>GRAHAM</td><td>GRAHAM Academy - Student Planner (Year Out Placement)</td><td>Hillsborough</td><td>2026-10-06</td></tr>
+<tr><td>John Deere</td><td>Student Industrial Placement</td><td>Langar</td><td>2026-10-06</td></tr>
+<tr><td>Graham Group</td><td>GRAHAM Academy – Design Coordinator Placement Student - Interior Fit Out</td><td>Hillsborough</td><td>2026-10-06</td></tr>
+<tr><td>Burges Salmon LLP</td><td>Bristol Winter Vacation Scheme</td><td>Bristol</td><td>2026-10-06</td></tr>
+<tr><td>AECOM UK</td><td>Industrial Placement - Rail Project Management - London/croydon (summer 2027)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Front End (ui) Software Engineer (fullstack)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer – Full Stack Engineer (node.js / Graphql)</td><td>Bristol</td><td>2026-10-06</td></tr>
+<tr><td>Wise</td><td>Backend Software Engineer</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Amentum Pr</td><td>Reporting And Intelligence Analyst</td><td>Uk</td><td>2026-10-06</td></tr>
+<tr><td>EBRD</td><td>Analyst, Fi Pdi</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Management Systems Auditor (south East London)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>TP ICAP</td><td>Quant Analyst – 5 Months Fixed Term Contract</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>Swe-bench Ai Task Auditor - Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-10-06</td></tr>
+<tr><td>Bank Pekao</td><td>Analityk Biznesowy / Analityczka Biznesowa Bankowości Mobilnej</td><td>United Kingdom</td><td>2026-10-06</td></tr>
+<tr><td>IQVIA</td><td>Business Process Analyst</td><td>Milwaukee</td><td>2026-10-06</td></tr>
+<tr><td>Citi Handlowy</td><td>Systematic Credit Trader</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>Fraud Analyst</td><td>United Kingdom</td><td>2026-10-06</td></tr>
+<tr><td>Nomura International PLC</td><td>High Yield Analyst - Associate/vice President</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>TE Connectivity</td><td>Maintenance Engineer</td><td>SWINDON</td><td>2026-10-06</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Timberland</td><td>Sales Associate (part-time 8hr)</td><td>Oxford</td><td>2026-10-06</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate (fixed-term, Part-time 8hr)</td><td>Oxford</td><td>2026-10-06</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate (bicester Village, 16 Hrs Per Week)</td><td>Oxford</td><td>2026-10-06</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Trafford Centre</td><td>Manchester</td><td>2026-10-06</td></tr>
+<tr><td>Salomon</td><td>Sales Associate Battersea - 20 H/week</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Kate Spade New York</td><td>Sales Associate</td><td>Oxford</td><td>2026-10-06</td></tr>
+<tr><td>Wells Fargo & Company</td><td>Business Relationship Support Associate</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Watford (n129973)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>skechers.dk</td><td>Sales Associate</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>skechers.dk</td><td>Sales Associate, Oxford Street</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Wineshop (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 21 October, 2026 Posted On 21 September, 2026</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>GAP</td><td>Gap Seasonal Sales Associate - Westfield White City (n129637)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Levis Media</td><td>Store Stylist(sales Assistant) 8hr Flexible Mon-sun</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Coach</td><td>Stock Associate 32hrs</td><td>Oxford</td><td>2026-10-06</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Part Time Sales Associate, Tommy Hilfiger - Battersea</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Sales Associate, Calvin Klein - Stratford (fixed Term Contract)</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Programme Coordinator</td><td>Gaydon</td><td>2026-10-06</td></tr>
+<tr><td>createyourowncareer</td><td>Rights Assistant</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Gibson Dunn</td><td>Executive Assistant - Tech</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Bmwramsey</td><td>Booking And Administrative Assistant</td><td>Chelmsford</td><td>2026-10-06</td></tr>
+<tr><td>Ashtead Hospital</td><td>Bank Administrative Assistant</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Recovery Focus</td><td>Healthcare Assistant</td><td>Calderdale</td><td>2026-10-06</td></tr>
+<tr><td>jll.co.in</td><td>Facilities Coordinator</td><td>London</td><td>2026-10-06</td></tr>
+<tr><td>Hopscotch Day Nurseries</td><td>Nursery Administrator</td><td>Portsmouth</td><td>2026-10-06</td></tr>
 </table>
