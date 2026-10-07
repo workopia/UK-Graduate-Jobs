@@ -6925,4 +6925,91 @@ _No archived roles yet._
 <tr><td>Recovery Focus</td><td>Healthcare Assistant</td><td>Calderdale</td><td>2026-10-06</td></tr>
 <tr><td>jll.co.in</td><td>Facilities Coordinator</td><td>London</td><td>2026-10-06</td></tr>
 <tr><td>Hopscotch Day Nurseries</td><td>Nursery Administrator</td><td>Portsmouth</td><td>2026-10-06</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 4)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Legal Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Distribution Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Creative Services Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Media Product Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Projects & Delivery Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Film Services Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Government & Regulatory Affairs Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Production Finance & Operations Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Pr & Communications Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Production & Operations Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Content Planning & Acquisitions Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Social Video Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Addleshaw Goddard</td><td>Summer Placement Schemes 2027 - London</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>IOM</td><td>Korean Visa Application Center (kvac) Intern</td><td>United Kingdom</td><td>2026-10-07</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Hse Internship (m/f/x)</td><td>Vyshhorod</td><td>2026-10-07</td></tr>
+<tr><td>Rothschild & Co</td><td>2026 Global Investor Advisory Long-Term Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Shell</td><td>Shell Assessed Internship Programme 2027</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Citadel Securities</td><td>Rates Trading - Intern (Europe)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Bain & Company</td><td>Summer Associate (MBA / advanced-degree internship)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Bain & Company</td><td>Associate Consultant Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Citadel</td><td>Investment & Trading - Intern (Europe)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Investment Management Off-Cycle Internship - Fixed Income</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>JD</td><td>PMO Intern</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Investment Management Off-Cycle Internship - International Consultant Relations</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Global Capital Markets Off-Cycle Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>JD</td><td>JD Young Product Photography Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>JD</td><td>JD Young Campus Recruitment Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Investment Banking Off-Cycle Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Morgan Stanley</td><td>2027 Equity Research Off-Cycle Internship</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Send Core</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>why LLP</td><td>Technology Support Service Engineer</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>IXL Learning Inc</td><td>It Support & Operations Specialist</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Kaluza</td><td>Software Engineer</td><td>Bristol</td><td>2026-10-07</td></tr>
+<tr><td>Capita (digital)</td><td>Gas Technical Support Officer</td><td>United Kingdom</td><td>2026-10-07</td></tr>
+<tr><td>Retirement World</td><td>Ai Engineer</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Meta</td><td>Research Scientist, Computer Vision Mgenai</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Nortonrosefulbright</td><td>Junior Data Scientist</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Norton Rose Fulbright</td><td>Ai Engineer</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Citi</td><td>Corporate Banking Associate - Power, Energy And Commodity Traders (uk Natural Resources)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Citi</td><td>Ceemea Emerging Markets Credit Trader</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>555</td><td>Reserving Actuary</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Mastercard</td><td>Technology Risk Analyst Ii</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Svenska Handelsbanken AB</td><td>Operational High Risk Analyst - London Or Manchester London, United Kingdom Competitive Permanent - Full Time Apply By 15 October, 2026 Posted On 1 October, 2026</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Verisk Analytics</td><td>System Configuration & Support Analyst</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Willis Towers Watson</td><td>Benefits Administration Analyst, Fixed Term Contract 12 Months</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Internal Auditor</td><td>United Kingdom</td><td>2026-10-07</td></tr>
+<tr><td>Barclays UK</td><td>Transaction Monitoring Barclays Uk Quality Assurance Analyst</td><td>Glasgow</td><td>2026-10-07</td></tr>
+<tr><td>Citi</td><td>Markets, Quantitative Analysis, Full Time Associate, London, 2027</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>J.P. Morgan</td><td>2027 Commercial & Investment Banking - Innovation Development Program - Full-Time Analyst</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Lloyds</td><td>Credit Officer – Financial Institutions (banks & Intragroup Sector)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Xero</td><td>Strategy & Operations Analyst - Uk</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>octopusenergy.nz</td><td>Accountant (6 Months Ftc)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>AQA</td><td>Business Analyst</td><td>Manchester</td><td>2026-10-07</td></tr>
+<tr><td>Lloyd's Europe</td><td>Associate, Compliance And Oversight - 12month Ftc</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Business Analyst, Otcr, Operational Excellence & Risk Delivery</td><td>Bukit Jalil +1</td><td>2026-10-07</td></tr>
+<tr><td>Clearview Healthcare Partners</td><td>Life Sciences Strategy Analyst (summer 2027 Start Dates)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Hiscox</td><td>Exposure Management Analyst</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Management Systems Auditor (south / South West London)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Cleveland Clinic London</td><td>Specialist Orthopaedic Physiotherapist</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cheshire</td><td>2026-10-07</td></tr>
+<tr><td>Codan Limited</td><td>Field Service Engineer - Manet Systems</td><td>Whiteley</td><td>2026-10-07</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer - West Midland</td><td>West Midland</td><td>2026-10-07</td></tr>
+<tr><td>Advanced Sterilization Products (ASP)</td><td>Junior Field Service Engineer - Fixed Term Contract - North West England</td><td>North West England</td><td>2026-10-07</td></tr>
+<tr><td>Vodafone</td><td>Vodafonethree - Field Specialist</td><td>United Kingdom</td><td>2026-10-07</td></tr>
+<tr><td>GE VERNOVA</td><td>Hvdc & Facts Field Service Engineer</td><td>United Kingdom</td><td>2026-10-07</td></tr>
+<tr><td>Greystar Australia Pty Ltd</td><td>Maintenance Technician</td><td>Portobello</td><td>2026-10-07</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 39h</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate 16 Hours</td><td>Edinburgh</td><td>2026-10-07</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (15 Hours, Fix Term, Bluewater)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Dyson</td><td>Retail Expert - London Oxford Street (part Time)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Analytics & Sales - Japanese Speakers</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Analytics & Sales - Arabic Speakers (november 2026 Or Feburary 2027 Start)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Timberland Com Tr</td><td>Sales Associate (part-time 8hr)</td><td>Oxford</td><td>2026-10-07</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Aylesbury</td><td>2026-10-07</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>Lincolnshire</td><td>2026-10-07</td></tr>
+<tr><td>Boots</td><td>Assistant</td><td>Nottingham</td><td>2026-10-07</td></tr>
+<tr><td>Live Nation Entertainment, Inc.</td><td>Benefits & Compensation Administrative Assistant</td><td>Farringdon</td><td>2026-10-07</td></tr>
+<tr><td>Nike Inc.</td><td>Retail Assistant (athlete) - Pt8hrs Edinburgh Loanhead</td><td>Edinburgh</td><td>2026-10-07</td></tr>
+<tr><td>Nike Inc.</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Birmingham Outlet Resorts World</td><td>Birmingham</td><td>2026-10-07</td></tr>
+<tr><td>Nike Inc.</td><td>Retail Assistant (athlete) - Temp - Pt 8h - Portsmouth</td><td>Portsmouth</td><td>2026-10-07</td></tr>
+<tr><td>Rackspace Technology</td><td>Executive Assistant</td><td>Uk</td><td>2026-10-07</td></tr>
+<tr><td>Rakutenadvertising</td><td>Account Specialist</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Cytiva</td><td>Labour And Employee Relations Specialist - Discovery And Medical</td><td>Cardiff</td><td>2026-10-07</td></tr>
+<tr><td>Estée Lauder</td><td>Visual Merchandising Coordinator, Skincare - Travel Retail West (based London)</td><td>London</td><td>2026-10-07</td></tr>
+<tr><td>Capita</td><td>Training Support Administrator</td><td>Portsmouth</td><td>2026-10-07</td></tr>
 </table>
