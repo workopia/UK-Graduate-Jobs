@@ -7012,4 +7012,77 @@ _No archived roles yet._
 <tr><td>Cytiva</td><td>Labour And Employee Relations Specialist - Discovery And Medical</td><td>Cardiff</td><td>2026-10-07</td></tr>
 <tr><td>Estée Lauder</td><td>Visual Merchandising Coordinator, Skincare - Travel Retail West (based London)</td><td>London</td><td>2026-10-07</td></tr>
 <tr><td>Capita</td><td>Training Support Administrator</td><td>Portsmouth</td><td>2026-10-07</td></tr>
+<tr><td>Dow Jones and Company</td><td>The Wall Street Journal Production Editing Internship, London (summer 2027)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Procter & Gamble</td><td>Finance And Business Placement 2027</td><td>Cobalt Park Go</td><td>2026-10-08</td></tr>
+<tr><td>Marks & Spencer</td><td>Food Technology Industrial Placement</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Addleshaw Goddard</td><td>Insight Days - March 2027</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Bauer Media Audio</td><td>Software Engineer</td><td>Manchester</td><td>2026-10-08</td></tr>
+<tr><td>Slice</td><td>Software Developer, Services</td><td>Belfast</td><td>2026-10-08</td></tr>
+<tr><td>Wise</td><td>Backend Software Engineer - Product Eligibility</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Jobgether</td><td>Ai Science Writer, Nebius Academy (contract)</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>MUFG Oceania</td><td>Avp, Ai Engineer</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Veeva</td><td>Data Scientist - Analytics Business Consulting</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Vrbo (Expedia Group)</td><td>Data Scientist Iii, Hotels.com Analytics</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>Starling Bank</td><td>Treasury Transaction Reporting Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Burford Capital Ltd</td><td>Data Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Automation Engineer</td><td>Crick</td><td>2026-10-08</td></tr>
+<tr><td>Cobham</td><td>Actuarial Placement Student</td><td>Salford Quays</td><td>2026-10-08</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor- Emea Power</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Emea Gas</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Exxon Mobil</td><td>Trading Market Risk Advisor - Eame Crude</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Exxon Mobil</td><td>Valuation And Structuring Quantitative Analyst, Gas And Power</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Imperial Oil</td><td>Trading Market Risk Advisor - Eame Freight</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>AEGIS London</td><td>Operations Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst (rates Electronic Market Making), Vp</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst – Fx Options Electronic Pricing & Automation, Vp</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Delta Capita</td><td>Business Unit Risk Analyst (mors)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Sonata One (Holdings) Limited</td><td>Business Analyst (private Markets)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Howden Group</td><td>First Line Compliance Office</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>Jobgether</td><td>Psp Financial Analyst</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>American International Group, Inc. (AIG)</td><td>Complaint Operations And Oversight Officer</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>TP ICAP</td><td>Business Analyst (energy And Commodities)</td><td>Belfast</td><td>2026-10-08</td></tr>
+<tr><td>MUFG</td><td>2027 MUFG UK Analyst Programme: Risk</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>IQVIA Holdings</td><td>Supplier Services Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Ebury</td><td>Regulatory Compliance Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Freshfields</td><td>Associate - Leveraged Finance</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Compliance Analyst</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Oncology/haematology</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Physiotherapist (bank)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Physiotherapist - Outpatients Msk (bank)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Wards (bank)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Spire Healthcare</td><td>Surgical Registered Nurse (bank)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Spire Bushey Hospital</td><td>Women's Health Physiotherapist - Pelvic Health (bank)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Spire Healthcare</td><td>Womens Health Specialist Physiotherapist (bank) - Pelvic Health</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cornwall</td><td>2026-10-08</td></tr>
+<tr><td>Aurora Health Care</td><td>Maintenance Facility Tech 3rd Shift St Luke's Aurora</td><td>Aurora St Lukes Medical Center</td><td>2026-10-08</td></tr>
+<tr><td>Haemonetics</td><td>Field Service Engineer - Uk East England</td><td>East England</td><td>2026-10-08</td></tr>
+<tr><td>Danaher Corporation</td><td>Field Service Engineer - North London And Surrounding Counties</td><td>North London</td><td>2026-10-08</td></tr>
+<tr><td>Beckman Coulter Diagnostics</td><td>Field Service Engineer (north Kent)</td><td>North Kent</td><td>2026-10-08</td></tr>
+<tr><td>Trane Technologies</td><td>Mobile Vmu Technician</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>MBDA</td><td>Electrical Test Operator - Night Shift</td><td>Manchester</td><td>2026-10-08</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-08</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 30 Hours/week - Stockport</td><td>Manchester</td><td>2026-10-08</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - Barkingside</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - London Chiswick</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein Bicester</td><td>Oxford</td><td>2026-10-08</td></tr>
+<tr><td>Deckers</td><td>8 Hours Seasonal Sales Associate</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>CoStar Group</td><td>Inside Sales Associate, Str - London</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (12 Hours)</td><td>Manchester</td><td>2026-10-08</td></tr>
+<tr><td>DFS</td><td>Retail Sales Advisor - 30 Hours - 9 Months Fixed Term Enfield, United Kingdom £12.71 Per Hour With An Ote Of £35,000 Part Time Apply By 31 October, 2026 Posted On 25 September, 2026</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Harrods</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Greystar</td><td>Administration Assistant</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Disney Enterprises Inc</td><td>Brand Marketing Coordinator, Uk</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Neara</td><td>Executive Assistant</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Winfield Hospital</td><td>Administrative Assistant</td><td>Gloucester</td><td>2026-10-08</td></tr>
+<tr><td>Firstglobalmanagementservicesinc</td><td>Event Service Specialist - 6-month Fixed-term Contract</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Shiseido</td><td>Executive Assistant</td><td>London</td><td>2026-10-08</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Rushden Lakes</td><td>Rushden Lakes</td><td>2026-10-08</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Cheltenham</td><td>Gloucester</td><td>2026-10-08</td></tr>
+<tr><td>WSP</td><td>Bim Co-ordinator</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>WSP in Canada</td><td>Bim Co-ordinator</td><td>United Kingdom</td><td>2026-10-08</td></tr>
+<tr><td>BCD Travel</td><td>Executive Assistant</td><td>London</td><td>2026-10-08</td></tr>
 </table>
