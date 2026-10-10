@@ -7169,4 +7169,33 @@ _No archived roles yet._
 <tr><td>TP ICAP</td><td>Executive Assistant</td><td>London</td><td>2026-10-09</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - In-store Bakery - Bury The Rock</td><td>Manchester</td><td>2026-10-09</td></tr>
 <tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-10-09</td></tr>
+<tr><td>G-Research</td><td>HR Placement Year</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Kws Group</td><td>Industrial Agricultural Student Placement (m/w/d)</td><td>Thriplow</td><td>2026-10-10</td></tr>
+<tr><td>Church and Dwight</td><td>Consumer Relations Intern</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>PwC</td><td>Legal Vacation Scheme 2027</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>PG Solutions</td><td>Research & Development Industrial Placement 2027</td><td>Reading</td><td>2026-10-10</td></tr>
+<tr><td>AlphaSights</td><td>Placement, Client Service, French Speaker, 2027</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Grant Thornton UK</td><td>Financial Services Audit 12 Month Placement Programme (Summer 2027) - London</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>afa'afea</td><td>Apprentice Technician - Year 1</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Market Security Analyst</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Millennium Management</td><td>Software Engineer – Equity Derivatives Pricing & Risk</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python And K8s</td><td>United Kingdom</td><td>2026-10-10</td></tr>
+<tr><td>Apple</td><td>Data Scientist - Wpc - Analytics</td><td>United Kingdom</td><td>2026-10-10</td></tr>
+<tr><td>Tripadvisor</td><td>Data Scientist, Experimentation</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Entrust</td><td>Customer Performance Analyst</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Laboratory Sampling Section Technician (trainee Nuclear Material Accountant)</td><td>Salwick Preston</td><td>2026-10-10</td></tr>
+<tr><td>Man Group</td><td>Quantitative Developer - Systematic</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Wells Fargo</td><td>International Fund Finance Analyst</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Merseyside</td><td>2026-10-10</td></tr>
+<tr><td>Britvic plc</td><td>Field Service Technician - Drinks Dispense</td><td>Field</td><td>2026-10-10</td></tr>
+<tr><td>Exertis</td><td>Field Service Technician</td><td>Field Based – Southern Region</td><td>2026-10-10</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Wickes</td><td>Customer Service Assistant</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Bluewater, Kent</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate (seasonal Ftc) - Marble Arch, London</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>DFS</td><td>Retail Sales Advisor - 20 Hours New Malden, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Part Time Apply By 31 October, 2026 Posted On 29 September, 2026</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>DFS</td><td>Retail Sales Advisor - 20 Hours Romford, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Part Time Apply By 31 October, 2026 Posted On 29 September, 2026</td><td>London</td><td>2026-10-10</td></tr>
+<tr><td>SEDGWICK</td><td>Administration Assistant</td><td>United Kingdom</td><td>2026-10-10</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home And Beauty - Ealing Broadway</td><td>Ealing Broadway</td><td>2026-10-10</td></tr>
 </table>
