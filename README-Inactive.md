@@ -7198,4 +7198,136 @@ _No archived roles yet._
 <tr><td>DFS</td><td>Retail Sales Advisor - 20 Hours Romford, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Part Time Apply By 31 October, 2026 Posted On 29 September, 2026</td><td>London</td><td>2026-10-10</td></tr>
 <tr><td>SEDGWICK</td><td>Administration Assistant</td><td>United Kingdom</td><td>2026-10-10</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home And Beauty - Ealing Broadway</td><td>Ealing Broadway</td><td>2026-10-10</td></tr>
+<tr><td>Delta Capita</td><td>Junior Data Analyst (financial Crime & Kyc)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Mdcrecruiting</td><td>Student Placement - Corporate Affairs</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Mdcrecruiting</td><td>Student Placement - Regulatory Affairs Cmc</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Commercial Strategy & Operations Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Business Data (film It) Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Audience Insights & Analytics Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Consumer Products Creative Operations Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Business Solutions Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Content Strategy And Distribution Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Employment And Labour Law Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Product Intern (hayu)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Business Licensing Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Sizewell C</td><td>Sizewell C Digital & It Industrial Placement</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Church and Dwight</td><td>Uk Sales (e-commerce) Intern</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Harrison Street</td><td>Summer 2027 Investor Solutions Group Intern - London</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Software Engineering, Site Reliability Engineering Bs/ms Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Strategy And Operations Mba Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Associate Product Manager Bs/ms Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Data Center Technician Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Data Center Facilities Technician Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Associate Product Marketing Manager Bs/ms Intern, 2027</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Evercore</td><td>Financial Sponsors Group Off-cycle Intern (2026/27 Start Date) / Evercore</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Cummins Inc</td><td>Placement Student- Business Development Support Specialist</td><td>Sandwich</td><td>2026-10-11</td></tr>
+<tr><td>Rbsfuel</td><td>Api Software Engineer</td><td>Edinburgh</td><td>2026-10-11</td></tr>
+<tr><td>Accenture Australia</td><td>Security Analyst – Emerging Technology - Financial Services</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Python Engineer</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Linux Kernel Engineer</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Deutsche Bank</td><td>Quantitative Trading Engineer</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Lseg</td><td>Software Engineering Opportunities</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NextWave Consulting</td><td>Backend Java Developer Birmingham Hybrid 50 65k Not London</td><td>Birmingham</td><td>2026-10-11</td></tr>
+<tr><td>Citi</td><td>Front End (ui) Software Engineer (fullstack)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Android, Jetpack Remote Compose</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Microservices Engineer</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Labcorp</td><td>Technical Specialist - Physical Chemical Testing</td><td>Eye</td><td>2026-10-11</td></tr>
+<tr><td>Unity</td><td>Software Engineer</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Backend</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Cummins Inc</td><td>Placement Student - Data Analyst</td><td>Sandwich</td><td>2026-10-11</td></tr>
+<tr><td>Equifax</td><td>Data Scientist - Fraud</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Gloucestershire County Council</td><td>Business Intelligence Officer</td><td>Gloucestershire</td><td>2026-10-11</td></tr>
+<tr><td>Skanska UK</td><td>It Automation Engineer</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Apple</td><td>Machine Learning Data Scientist - Apple Pay Marketing</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Cummins Inc</td><td>Placement Student- Finance Analyst</td><td>Sandwich</td><td>2026-10-11</td></tr>
+<tr><td>Deutsche Bank</td><td>Business Functional Analyst</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Franke Group</td><td>Compliance Engineer Apply Now »</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner - Manufacturing And Retail</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Atos SE</td><td>Consulting Industry Partner- Energy</td><td>Gb</td><td>2026-10-11</td></tr>
+<tr><td>Lloydseurope</td><td>Cib Analyst</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Financial Analyst, Emea Marketing</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>octopusenergy.es</td><td>Group Strategic Finance Analyst</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>SP Energy Networks</td><td>Performance Accountant</td><td>Glasgow</td><td>2026-10-11</td></tr>
+<tr><td>Retirement World</td><td>Analyst/associate, Dcm (frankfurt Or London)</td><td>Frankfurt +1</td><td>2026-10-11</td></tr>
+<tr><td>Sokin</td><td>Business Tooling Analyst - London</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Business Oversight Compliance - Rates, Fx And Emerging Markets Vp</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Genpact</td><td>[c]-business Analyst Level 4</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Amex GBT</td><td>Business Analyst</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse (bank)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Leicestershire</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent Plc</td><td>Metering Technician</td><td>SK17 +4</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent Plc</td><td>Field Technician</td><td>Berkshire +1</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent Plc</td><td>Repair And Maintenance Operative</td><td>Not Specified</td><td>2026-10-11</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer Apply Now »</td><td>North Of England</td><td>2026-10-11</td></tr>
+<tr><td>Spirit Energy</td><td>Nui Mechanical Technician</td><td>Morecambe O/S</td><td>2026-10-11</td></tr>
+<tr><td>Baker Hughes</td><td>Field Specialist I - Io</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Paretofm</td><td>Mobile Maintenance Engineer</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>euNetworks</td><td>Bau Field Services Engineer Fibre</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Crowcon Detection Instruments Ltd</td><td>Field Service Engineer - Slough Area - Maidenhead / Bracknell / Hounslow</td><td>Slough Area</td><td>2026-10-11</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Regional Powered Access Technician</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Powered Access Technician</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Tiffany & Co.</td><td>Seasonal Workshop Technician - London Service Centre (dartford)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Tiffany</td><td>Seasonal Workshop Technician - London Service Centre (dartford)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Trane Technologies</td><td>Hvac Field Service Technician</td><td>Milwaukee</td><td>2026-10-11</td></tr>
+<tr><td>TOMRA</td><td>Field Service Engineers - London</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent</td><td>Mechanical Maintenance Technician</td><td>Trimpley +1</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent Services</td><td>Field Technician</td><td>Berkshire +1</td><td>2026-10-11</td></tr>
+<tr><td>Honeywell</td><td>Field Service Engineer – Grid Entry Units</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Honeywell International Inc.</td><td>Field Service Engineer – Grid Entry Units</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>VP PLC</td><td>Service Engineer Staines, United Kingdom Competitive Permanent (full-time) Apply By 31 October, 2026 Posted On 30 September, 2026 Working Hours 40</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>jll.co.in</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Wickes</td><td>Customer Service Assistant</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n130813)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n130738)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Gap Seasonal Sales Associate - Covent Garden (n130758)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n130741)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n130739)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs White City (n130740)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Gap Seasonal Sales Associate - Covent Garden (n130759)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Arndale Centre (n130811)</td><td>Manchester</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Trafford (n130841)</td><td>Manchester</td><td>2026-10-11</td></tr>
+<tr><td>Kering</td><td>Saint Laurent - Sales Associate - Sloane St.</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Ramp</td><td>Customer Experience Associate - London</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Bloomberg LP</td><td>2026 Analytics & Sales - French Speakers - September Or November Start</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>The North Face</td><td>Sales Associate (part-time 5hr)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Cotton On</td><td>Christmas Sales Associate (part-time, Temporary) - Typo Kingston United Kingdom</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>NEXT plc</td><td>Bath And Body Works Fragrance Associate - Stratford Westfield (n130610)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>GAP</td><td>Gap Seasonal Sales Associate - Covent Garden (n130644)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>GAP</td><td>Gap Seasonal Sales Associate - Covent Garden (n130645)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>GAP</td><td>Gap Seasonal Sales Associate - Covent Garden (n130646)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Seedlegals</td><td>Graduate Sales</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Bicester</td><td>Oxford</td><td>2026-10-11</td></tr>
+<tr><td>Evri</td><td>Warehouse Operative Twilights</td><td>Normanton</td><td>2026-10-11</td></tr>
+<tr><td>VANS</td><td>Seasonal Sales Associate (part-time 24hr)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) – Pt8hr – Croydon</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Deliveroo</td><td>Warehouse Associate - Kentish Town - Part-time</td><td>Kentish Town</td><td>2026-10-11</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Seasonal Sales Associate, Tommy Hilfiger Wembley</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Estée Lauder</td><td>Ll Liberty/fragrance Specialist 15 Hrs</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent - Client Advisor Bicester Village</td><td>Oxford</td><td>2026-10-11</td></tr>
+<tr><td>Sedgwick</td><td>Administration Assistant</td><td>Bristol</td><td>2026-10-11</td></tr>
+<tr><td>Pepper Money UK</td><td>Events Coordinator</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Reed Treasury Ltd</td><td>Programme Coordinator</td><td>Burton On Trent</td><td>2026-10-11</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) - Temp - Pt 12h - Bournemouth</td><td>Bournemouth</td><td>2026-10-11</td></tr>
+<tr><td>Boden</td><td>Brand Admin Assistant</td><td>North Acton</td><td>2026-10-11</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Theatre Administration Assistant</td><td>Nottingham</td><td>2026-10-11</td></tr>
+<tr><td>Interior Logic Group Inc</td><td>Project Coordinator</td><td>Pewaukee</td><td>2026-10-11</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Pantheon</td><td>United Kingdom</td><td>2026-10-11</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Uxbridge</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>markel.de</td><td>Underwriting Support Assistant (professional & Management Risks)</td><td>Leeds</td><td>2026-10-11</td></tr>
+<tr><td>KBR Inc</td><td>Project Support</td><td>Cumbria</td><td>2026-10-11</td></tr>
+<tr><td>Bombardier</td><td>Proposal/planning Coordinator</td><td>Westerham</td><td>2026-10-11</td></tr>
+<tr><td>NIKE</td><td>Administrative Assistant</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Nuffield Health</td><td>Physiotherapy Administration (bank))</td><td>Newcastle Upon Tyne</td><td>2026-10-11</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant (cheam)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>jcdecaux.co.uk</td><td>Executive Assistant (12 Months Maternity Cover)</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>jobs.barclays</td><td>Executive Assistant - Global Markets</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Ifrsfoundation</td><td>Executive Assistant - Ftc Parental Cover</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>PGIM Credit</td><td>Pgim Credit / Executive Assistant</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent</td><td>Project Co-ordinator</td><td>Shelton</td><td>2026-10-11</td></tr>
+<tr><td>Severn Trent</td><td>Network Logistics Technician</td><td>Midlands</td><td>2026-10-11</td></tr>
+<tr><td>PGIM Real Estate (Prudential)</td><td>Pgim Credit / Executive Assistant</td><td>London</td><td>2026-10-11</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Ealing Broadway</td><td>Ealing Broadway</td><td>2026-10-11</td></tr>
 </table>
