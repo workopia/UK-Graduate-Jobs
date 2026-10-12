@@ -7330,4 +7330,29 @@ _No archived roles yet._
 <tr><td>Severn Trent</td><td>Network Logistics Technician</td><td>Midlands</td><td>2026-10-11</td></tr>
 <tr><td>PGIM Real Estate (Prudential)</td><td>Pgim Credit / Executive Assistant</td><td>London</td><td>2026-10-11</td></tr>
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Ealing Broadway</td><td>Ealing Broadway</td><td>2026-10-11</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Optical Assistant Apprentice</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Apple</td><td>Software Engineer (virtualisation)</td><td>United Kingdom</td><td>2026-10-12</td></tr>
+<tr><td>Paddle</td><td>Software Engineer (go)</td><td>Uk</td><td>2026-10-12</td></tr>
+<tr><td>Ao Ds</td><td>Part-time Remote Member Services Specialist</td><td>Suffolk</td><td>2026-10-12</td></tr>
+<tr><td>Hudl</td><td>Software Engineer Ii - Athlete Performance</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Crisis & Incident Data Analyst</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>John Graham Construction Ltd</td><td>Asset And Compliance Officer</td><td>West Midlands</td><td>2026-10-12</td></tr>
+<tr><td>EBRD</td><td>Analyst, Tfp</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>EBRD</td><td>Analyst, Fi Pdi</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Exxon Mobil</td><td>Allegro Etrm Business Analyst</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Carlsberg Britvic</td><td>Customer Investment Analyst</td><td>Hemel Hempstead</td><td>2026-10-12</td></tr>
+<tr><td>Mercer</td><td>Private Medical Plan Auditor</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Oncology/sact (bank)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Pre Assessment (bank)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Vanderlande</td><td>Service Technician</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>NEXT plc</td><td>Gap Seasonal Sales Associate - Wembley Outlet (n129672)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>United Parcel Service</td><td>Service Associate , Warehousing</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>adidas AG</td><td>Flagship Generalist, Men's Department - (full Time) - Adidas Flagship Store</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours, Fix Term, King´s Rd.)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (14 Hours, Fix Term, Watford)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Edinburgh</td><td>Edinburgh</td><td>2026-10-12</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-10-12</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-12</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Contractor Coordinator</td><td>Burton On Trent</td><td>2026-10-12</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Administration Assistant - Sterile Service</td><td>United Kingdom</td><td>2026-10-12</td></tr>
 </table>
