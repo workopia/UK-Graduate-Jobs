@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-12",
- "count": 871,
+ "asOf": "2026-10-13",
+ "count": 878,
  "jobs": {
   "2756262": {
    "id": "2756262",
@@ -13,6 +13,18 @@
    "company": "Kerry Group",
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
+  },
+  "092b19153e104bafb07a74c525d7a6cb": {
+   "id": "092b19153e104bafb07a74c525d7a6cb",
+   "company": "OSF HealthCare",
+   "role": "Summer Nurse Intern",
+   "location": "Saint Luke Medical Center"
+  },
+  "85bab5326d4e8df48b7a42c67581d1f4": {
+   "id": "85bab5326d4e8df48b7a42c67581d1f4",
+   "company": "Severn Trent Plc",
+   "role": "Register Your Interest - Summer Placements 2027",
+   "location": "England"
   },
   "5d4251990e72f4bee8a64fae7a6555ee": {
    "id": "5d4251990e72f4bee8a64fae7a6555ee",
@@ -476,17 +488,35 @@
    "role": "Intern - Power Generation Civil Engineering",
    "location": "Milwaukee"
   },
-  "f95a4ba9b7e05ce03b26de7434748d94": {
-   "id": "f95a4ba9b7e05ce03b26de7434748d94",
-   "company": "WEC Energy Group",
-   "role": "Intern - Renewables Engineering",
-   "location": "Milwaukee"
+  "4cb0da85912ae178bd05a9344818d962": {
+   "id": "4cb0da85912ae178bd05a9344818d962",
+   "company": "122",
+   "role": "Commercial Surveying Apprentice - London (september 2027 Start)",
+   "location": "London"
   },
-  "156a5128e31e79d8f8d9799d3b58e0b7": {
-   "id": "156a5128e31e79d8f8d9799d3b58e0b7",
-   "company": "WEC Energy Group",
-   "role": "Intern - Safety (chicago, Il)",
-   "location": "Chicago"
+  "29aa451e332183636689a9ecd98a5aaf": {
+   "id": "29aa451e332183636689a9ecd98a5aaf",
+   "company": "122",
+   "role": "Quantity Surveying Apprentice - London (september 2027 Start)",
+   "location": "London"
+  },
+  "32c2ac391a1a525826e3a4c6f74a7671": {
+   "id": "32c2ac391a1a525826e3a4c6f74a7671",
+   "company": "122",
+   "role": "Commercial Surveying Apprentice - Manchester (september 2027 Start)",
+   "location": "Manchester"
+  },
+  "3c5605f6d0bc14b2e1b894034cd0aa1b": {
+   "id": "3c5605f6d0bc14b2e1b894034cd0aa1b",
+   "company": "122",
+   "role": "Quantity Surveying Apprentice - Manchester (september 2027 Start)",
+   "location": "Manchester"
+  },
+  "309a4e48278642e5f4acf87754968713": {
+   "id": "309a4e48278642e5f4acf87754968713",
+   "company": "MBDA",
+   "role": "Finance Level 4 Higher Apprenticeship 2027",
+   "location": "Manchester"
   },
   "dc1d0bda16fd3d597b863fb2f72d1260": {
    "id": "dc1d0bda16fd3d597b863fb2f72d1260",
@@ -612,6 +642,12 @@
    "id": "targetjobs:90e9e0c1-ed90-4352-995f-304df77dd437",
    "company": "Weil, Gotshal & Manges LLP",
    "role": "Solicitor Apprenticeship Programme - September 2027",
+   "location": "London"
+  },
+  "targetjobs:900230b1-54f6-4be7-b6ab-30e9addd2b59": {
+   "id": "targetjobs:900230b1-54f6-4be7-b6ab-30e9addd2b59",
+   "company": "Slaughter and May",
+   "role": "Solicitor Apprenticeship Programme",
    "location": "London"
   },
   "2d0500561be24ca225decb13fa6853fa": {
@@ -1069,6 +1105,18 @@
    "company": "HCLTech UK",
    "role": "Trainee-support",
    "location": "United Kingdom"
+  },
+  "88a9e14fbf59a01a5462218352df7e42": {
+   "id": "88a9e14fbf59a01a5462218352df7e42",
+   "company": "Meta",
+   "role": "Software Engineer, Infrastructure",
+   "location": "London"
+  },
+  "1fd574fb9b6e1a7b9cfc5172492f4752": {
+   "id": "1fd574fb9b6e1a7b9cfc5172492f4752",
+   "company": "Meta",
+   "role": "Software Engineer, Product",
+   "location": "London"
   },
   "71b376496ec5a3ca6545167115e3b093": {
    "id": "71b376496ec5a3ca6545167115e3b093",
@@ -1538,18 +1586,6 @@
    "role": "Software Engineer Ii",
    "location": "Manchester"
   },
-  "980428d0d52a4432813c03163ab5b563": {
-   "id": "980428d0d52a4432813c03163ab5b563",
-   "company": "Lloyds Banking Group",
-   "role": "Software Engineer - Backend",
-   "location": "Bristol"
-  },
-  "fb8be33f0a0983fb206202f7b41828c0": {
-   "id": "fb8be33f0a0983fb206202f7b41828c0",
-   "company": "Hargreaves Lansdown",
-   "role": "Software Engineer - Investment Growth",
-   "location": "United Kingdom"
-  },
   "targetjobs:5da1cd07-3aa6-43f1-9511-7c675773c437": {
    "id": "targetjobs:5da1cd07-3aa6-43f1-9511-7c675773c437",
    "company": "Cummins Inc.",
@@ -1688,6 +1724,12 @@
    "role": "Aggp2027 - Graduate Ai Engineer",
    "location": "Filton"
   },
+  "cdc6dc542c45b8cf1f4c8c8311335bb4": {
+   "id": "cdc6dc542c45b8cf1f4c8c8311335bb4",
+   "company": "Turner & Townsend",
+   "role": "Security Cleared Data Analyst - Defence Programme",
+   "location": "Uk Wide"
+  },
   "6b859dec515fdcd5cbc5948def297a68": {
    "id": "6b859dec515fdcd5cbc5948def297a68",
    "company": "Nasdaq Inc.",
@@ -1698,6 +1740,12 @@
    "id": "4abc513f8decf6d7fb186328b6a4c791",
    "company": "Two Sigma",
    "role": "Data Operations Analyst - Global Data Operations",
+   "location": "London"
+  },
+  "310b11b73d58a0d30bf2da6097486b9c": {
+   "id": "310b11b73d58a0d30bf2da6097486b9c",
+   "company": "Chevron",
+   "role": "Risk Analytics & Digital Analyst",
    "location": "London"
   },
   "48f2ee42790890fb5ccabddaf2c5c949": {
@@ -2156,18 +2204,6 @@
    "role": "Ai/ml Postdoctoral Fellow – F Rouhani Lab",
    "location": "London"
   },
-  "2d5297f54763e7626745330ab5e2674f": {
-   "id": "2d5297f54763e7626745330ab5e2674f",
-   "company": "Jobgether",
-   "role": "Data Scientist",
-   "location": "United Kingdom"
-  },
-  "0973e88b102b04d8240da612ef46ed15": {
-   "id": "0973e88b102b04d8240da612ef46ed15",
-   "company": "Hovis Ltd",
-   "role": "Automation Engineer",
-   "location": "Glasgow"
-  },
   "a91b3ac6469d60b93b9a8f350460bfde": {
    "id": "a91b3ac6469d60b93b9a8f350460bfde",
    "company": "MUFG Oceania",
@@ -2600,6 +2636,12 @@
    "role": "Actuarial Intern - Summer 2027 - Intelliscript",
    "location": "United Kingdom"
   },
+  "50043373ce11dcadb6d72780f7e22114": {
+   "id": "50043373ce11dcadb6d72780f7e22114",
+   "company": "Aon Corporation",
+   "role": "Aon Graduate Programme 2027 - Insurance Actuarial Consulting & Reinsurance Analytics",
+   "location": "London"
+  },
   "targetjobs:70591163-3b4f-4eca-b385-9fd5dd8a9c61": {
    "id": "targetjobs:70591163-3b4f-4eca-b385-9fd5dd8a9c61",
    "company": "TD",
@@ -2832,6 +2874,18 @@
    "id": "bb6e7865bac2f4a8238d138229d87da1",
    "company": "Monzo Bank",
    "role": "Graduate Credit Analyst",
+   "location": "London"
+  },
+  "cc80e47d8ace47b02738f84362a49f84": {
+   "id": "cc80e47d8ace47b02738f84362a49f84",
+   "company": "Royal London",
+   "role": "Clo Operations Analyst",
+   "location": "London"
+  },
+  "ad8e2a13d8714d1d5fd803bcdfe6498c": {
+   "id": "ad8e2a13d8714d1d5fd803bcdfe6498c",
+   "company": "Adamsstreetpartners",
+   "role": "Analyst, Primary",
    "location": "London"
   },
   "c9135de768f7ac2a0c85cbdf503bda3f": {
@@ -3301,18 +3355,6 @@
    "company": "Springer Nature",
    "role": "Group Data Protection Officer",
    "location": "Berlin +1"
-  },
-  "051c9c228463779c1df30596367a9d2f": {
-   "id": "051c9c228463779c1df30596367a9d2f",
-   "company": "M&G plc",
-   "role": "Credit Analyst",
-   "location": "London"
-  },
-  "d9acc5cdc8016880a7dd103fff77ba44": {
-   "id": "d9acc5cdc8016880a7dd103fff77ba44",
-   "company": "Crypto",
-   "role": "Systematic Trader",
-   "location": "London"
   },
   "7b1a8dddfc76a85fc05b46ed66305496": {
    "id": "7b1a8dddfc76a85fc05b46ed66305496",
@@ -3788,6 +3830,24 @@
    "role": "Cra",
    "location": "Uk"
   },
+  "39a6af0339cefe2e2def94c51453c967": {
+   "id": "39a6af0339cefe2e2def94c51453c967",
+   "company": "Dematic Inc",
+   "role": "Maintenance Support Technician-1",
+   "location": "Leicestershire"
+  },
+  "a2b79f76561520e927ecf75e244e61a4": {
+   "id": "a2b79f76561520e927ecf75e244e61a4",
+   "company": "Hitachi Rail GTS UK Limited",
+   "role": "Radio Technician",
+   "location": "London"
+  },
+  "5c456684f923a15ac958ce18e71a6d3a": {
+   "id": "5c456684f923a15ac958ce18e71a6d3a",
+   "company": "EDF Energy Ltd",
+   "role": "Maintenance Electrician (sizewell C)",
+   "location": "Sizewell C"
+  },
   "66e22cf35c581ed30931ef083dd3695d": {
    "id": "66e22cf35c581ed30931ef083dd3695d",
    "company": "Nestle SA",
@@ -4250,23 +4310,17 @@
    "role": "Technician - Airport",
    "location": "London"
   },
-  "c3c7a6e415bb337d46855796e3f6076b": {
-   "id": "c3c7a6e415bb337d46855796e3f6076b",
-   "company": "Nu Heat",
-   "role": "Maintenance Engineer",
-   "location": "United Kingdom"
+  "958b812ce4d4adc108fa6fc2aca4f83a": {
+   "id": "958b812ce4d4adc108fa6fc2aca4f83a",
+   "company": "Calvin Klein",
+   "role": "Seasonal Sales Associate, Calvin Klein Battersea",
+   "location": "London"
   },
-  "df7b4bc2e8e8ba4c30e622f1ce279812": {
-   "id": "df7b4bc2e8e8ba4c30e622f1ce279812",
-   "company": "Philips UK",
-   "role": "Field Service Engineer - South East",
-   "location": "South East England"
-  },
-  "31195320f9a9658e73f5f5883cbd470c": {
-   "id": "31195320f9a9658e73f5f5883cbd470c",
-   "company": "Sunbelt Rentals Ltd",
-   "role": "Mechanical Technician",
-   "location": "Location"
+  "57e90867867b5bb236443790887926ae": {
+   "id": "57e90867867b5bb236443790887926ae",
+   "company": "Tommy Hilfiger",
+   "role": "Seasonal Sales Associate, Tommy Hilfiger Liverpool Street",
+   "location": "London"
   },
   "3e4736ba2a1e941d27a2b147fb62de60": {
    "id": "3e4736ba2a1e941d27a2b147fb62de60",
@@ -4736,16 +4790,22 @@
    "role": "Sales Associate (16hrs)",
    "location": "Oxford"
   },
-  "e3444ac395c304e1d95c93e220bfb440": {
-   "id": "e3444ac395c304e1d95c93e220bfb440",
-   "company": "NEXT plc",
-   "role": "Gap Seasonal Sales Associate - Wembley Outlet (n129673)",
-   "location": "London"
+  "eab9646131c48877d9d9f4ddb69fd7e4": {
+   "id": "eab9646131c48877d9d9f4ddb69fd7e4",
+   "company": "Boden",
+   "role": "Buying Admin Assistant - 6 Month Maternity Cover",
+   "location": "United Kingdom"
   },
-  "dce58ea1e8654b4e54a36335f1498ca7": {
-   "id": "dce58ea1e8654b4e54a36335f1498ca7",
-   "company": "NEXT plc",
-   "role": "Gap Seasonal Sales Associate - Wembley Outlet (n129674)",
+  "8e6b718badd218965b476033eb785ee9": {
+   "id": "8e6b718badd218965b476033eb785ee9",
+   "company": "UnitedHealth Group",
+   "role": "Facilities Coordinator",
+   "location": "UK"
+  },
+  "75fb0916e59f47af7546a354779fa482": {
+   "id": "75fb0916e59f47af7546a354779fa482",
+   "company": "Mastercard",
+   "role": "Executive Assistant",
    "location": "London"
   },
   "1397f1a30d9b2d63f405f1b430239d1f": {
@@ -5209,24 +5269,6 @@
    "company": "Blue Owl Capital",
    "role": "Administrative Assistant",
    "location": "London"
-  },
-  "e0dad96e5f414264b2398619fbc85402": {
-   "id": "e0dad96e5f414264b2398619fbc85402",
-   "company": "Nestle SA",
-   "role": "Warehouse Systems Coordinator",
-   "location": "Narberth"
-  },
-  "d93a7837a9b979071a2152af215929d0": {
-   "id": "d93a7837a9b979071a2152af215929d0",
-   "company": "Stanley Black & Decker, Inc.",
-   "role": "Administrator (trade Support & Training)",
-   "location": "Reading"
-  },
-  "db79632d869d469db2cc27aa696248bf": {
-   "id": "db79632d869d469db2cc27aa696248bf",
-   "company": "John Graham Construction Ltd",
-   "role": "Yard Services Administrator, Dromore, Ni",
-   "location": "Dromore"
   }
  }
 }

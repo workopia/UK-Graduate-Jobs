@@ -7355,4 +7355,20 @@ _No archived roles yet._
 <tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-12</td></tr>
 <tr><td>Jones Lang LaSalle Incorporated</td><td>Contractor Coordinator</td><td>Burton On Trent</td><td>2026-10-12</td></tr>
 <tr><td>BMI Healthcare (Circle)</td><td>Administration Assistant - Sterile Service</td><td>United Kingdom</td><td>2026-10-12</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Renewables Engineering</td><td>Milwaukee</td><td>2026-10-13</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Safety (chicago, Il)</td><td>Chicago</td><td>2026-10-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Software Engineer - Backend</td><td>Bristol</td><td>2026-10-13</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer - Investment Growth</td><td>United Kingdom</td><td>2026-10-13</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>United Kingdom</td><td>2026-10-13</td></tr>
+<tr><td>Hovis Ltd</td><td>Automation Engineer</td><td>Glasgow</td><td>2026-10-13</td></tr>
+<tr><td>M&G plc</td><td>Credit Analyst</td><td>London</td><td>2026-10-13</td></tr>
+<tr><td>Crypto</td><td>Systematic Trader</td><td>London</td><td>2026-10-13</td></tr>
+<tr><td>Nu Heat</td><td>Maintenance Engineer</td><td>United Kingdom</td><td>2026-10-13</td></tr>
+<tr><td>Philips UK</td><td>Field Service Engineer - South East</td><td>South East England</td><td>2026-10-13</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-10-13</td></tr>
+<tr><td>NEXT plc</td><td>Gap Seasonal Sales Associate - Wembley Outlet (n129673)</td><td>London</td><td>2026-10-13</td></tr>
+<tr><td>NEXT plc</td><td>Gap Seasonal Sales Associate - Wembley Outlet (n129674)</td><td>London</td><td>2026-10-13</td></tr>
+<tr><td>Nestle SA</td><td>Warehouse Systems Coordinator</td><td>Narberth</td><td>2026-10-13</td></tr>
+<tr><td>Stanley Black & Decker, Inc.</td><td>Administrator (trade Support & Training)</td><td>Reading</td><td>2026-10-13</td></tr>
+<tr><td>John Graham Construction Ltd</td><td>Yard Services Administrator, Dromore, Ni</td><td>Dromore</td><td>2026-10-13</td></tr>
 </table>
