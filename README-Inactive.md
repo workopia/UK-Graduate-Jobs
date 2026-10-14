@@ -7371,4 +7371,98 @@ _No archived roles yet._
 <tr><td>Nestle SA</td><td>Warehouse Systems Coordinator</td><td>Narberth</td><td>2026-10-13</td></tr>
 <tr><td>Stanley Black & Decker, Inc.</td><td>Administrator (trade Support & Training)</td><td>Reading</td><td>2026-10-13</td></tr>
 <tr><td>John Graham Construction Ltd</td><td>Yard Services Administrator, Dromore, Ni</td><td>Dromore</td><td>2026-10-13</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Employment & Labour Law Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Distribution Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Creative Services Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Creative Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Content Strategy & Distribution Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Content Planning & Acquisitions Intern</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>WSP</td><td>2027 Summer Placements (uk)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Wiser Solutions Inc</td><td>Spring Insight (2027) / Evercore</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Civil Engineering</td><td>Milwaukee</td><td>2026-10-14</td></tr>
+<tr><td>KION</td><td>Sales Apprentice</td><td>Manchester</td><td>2026-10-14</td></tr>
+<tr><td>Amentumcareers</td><td>It Support Technician</td><td>Uk</td><td>2026-10-14</td></tr>
+<tr><td>Harris Computer Systems Corporation</td><td>Platform Software Engineer</td><td>Cambridge</td><td>2026-10-14</td></tr>
+<tr><td>Oxford Nanopore Technologies</td><td>Software Engineer</td><td>Oxfordshire</td><td>2026-10-14</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software Engineer - Equity Index Platform</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>bet365</td><td>Software Developer, Sports Content</td><td>Manchester</td><td>2026-10-14</td></tr>
+<tr><td>Open Cosmos</td><td>Edge Computing Software Engineer, Earth Observation</td><td>Harwell</td><td>2026-10-14</td></tr>
+<tr><td>Newcastlehc</td><td>Service Desk Adviser</td><td>Cobalt Business Park</td><td>2026-10-14</td></tr>
+<tr><td>SILHRMS</td><td>Offshore Renewables Software Engineer</td><td>United Kingdom</td><td>2026-10-14</td></tr>
+<tr><td>ITV</td><td>Scala Engineer</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Couchbaseinc</td><td>Software Engineer Ii</td><td>Manchester</td><td>2026-10-14</td></tr>
+<tr><td>Weber Shandwick</td><td>Data Analyst</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman – Ai Engineer (m/f/d) – Quotient Ai Specialist – Madrid / London</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Performance Reporting Analyst</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Snap Inc.</td><td>Machine Learning Engineer, Generative Ai (image & Video)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>The Francis Crick Institute</td><td>Ai/ml Postdoctoral Fellow – F Rouhani Lab</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Citi</td><td>Ceemea Emerging Markets Credit Trader</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst (rates Electronic Market Making), Vp</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst – Fx Options Electronic Pricing & Automation, Vp</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Citi</td><td>Corporate Banking Associate - Power, Energy And Commodity Traders (uk Natural Resources)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>689</td><td>Analyst, Growth Markets</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Octus</td><td>Junior Credit Analyst - Private Credit</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Delta Capita</td><td>Business Analyst – Securities Lending & Triparty</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Student Loans Company</td><td>Technical And Capital Accountant</td><td>Glasgow</td><td>2026-10-14</td></tr>
+<tr><td>JLL</td><td>Analyst Scs</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Thoughtworks</td><td>Data & Ai Strategist</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>STATE STREET</td><td>Efx Quant Analyst - Vp</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Wells Fargo & Company</td><td>Capital Markets Middle Office Specialist Governance And Oversight Analyst - 12 Month Fixed Term Contract</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Greene King</td><td>Central Projects Business Analyst</td><td>Burton</td><td>2026-10-14</td></tr>
+<tr><td>Springer Nature</td><td>Group Data Protection Officer</td><td>Berlin +1</td><td>2026-10-14</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant - Wards (bank)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Bupa Group</td><td>Registered Nurse</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Vacancyz</td><td>Clinical Research Associate</td><td>Field</td><td>2026-10-14</td></tr>
+<tr><td>Cleveland Clinic London</td><td>Staff Nurse - Icu</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>ICON plc</td><td>Cra</td><td>United Kingdom</td><td>2026-10-14</td></tr>
+<tr><td>ICON Strategic Solutions</td><td>Cra</td><td>Uk</td><td>2026-10-14</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Worcestershire</td><td>2026-10-14</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician - Multi</td><td>East Nottinghamshire</td><td>2026-10-14</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Higher Level Technician</td><td>Milton Keynes</td><td>2026-10-14</td></tr>
+<tr><td>Alstom</td><td>Technician</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Maintenance Technician</td><td>East Ham</td><td>2026-10-14</td></tr>
+<tr><td>Univar Solutions</td><td>Maintenance Technician</td><td>Cadishead</td><td>2026-10-14</td></tr>
+<tr><td>Welcome Break</td><td>Hotel Maintenance Assistant</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Mro Mechanical Technician</td><td>Middle Wallop</td><td>2026-10-14</td></tr>
+<tr><td>fcc-asrgroup</td><td>Maintenance Technician</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>jcdecaux.co.uk</td><td>Technician - Airport</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-14</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 30h</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Stryker</td><td>Associate Sales Representative, Endoscopy Visualisation (central London)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Online</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Skechers.fi</td><td>Sales Associate - London Designer Outlet, Wembley</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Throwbackpacks</td><td>Seasonal Sales Associate, Tommy Hilfiger Kingston</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Throwbackpacks</td><td>Part Time Sales Associate, Tommy Hilfiger - Liverpool Street</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>IKEA UK</td><td>Colaborador De Ventas (3 A 4 Días A La Semana) Por Temporada</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Fisher Investments</td><td>Danish Client Service Associate</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Fisher Investments</td><td>Dutch Client Service Associate</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Fisher Investments</td><td>Italian Client Service Associate</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Childrenswear, Designer Ready To Wear (various Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 5 November, 2026 Posted On 6 October, 2026</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Toys, Jellycat (various Hours) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 5 November, 2026 Posted On 6 October, 2026</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Sales Associate</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Sales Associate - Watford</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein Trafford Centre</td><td>Manchester</td><td>2026-10-14</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Tommy Hilfiger Bicester Mens</td><td>Oxford</td><td>2026-10-14</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs White City (n126676)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>DFS</td><td>Retail Sales Advisor - 20 Hours. 9 Months Fixed Term Greenwich, United Kingdom £12.71 Per Hour With An Ote Of £25,000 Fixed Term Apply By 23 November, 2026 Posted On 5 October, 2026</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate (16hrs)</td><td>Oxford</td><td>2026-10-14</td></tr>
+<tr><td>Deckers</td><td>Full-time Sales Associate, Ugg – Covent Garden</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Deckers</td><td>Part-time Sales Associate, Ugg – Covent Garden</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Cartier</td><td>Cartier, Sales Associate - Talent Pool</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>WH Smith</td><td>30hr Fixed Term Christmas Bookseller</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Coach</td><td>Sales Associate (16hrs)</td><td>Oxford</td><td>2026-10-14</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>LTA Operations Ltd</td><td>Event Coordinator – Hsbc Championships</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>LTA Operations Ltd</td><td>Event Assistant – Hsbc Championships (ftc November 2026 - July 2027)</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>The Prince's Trust</td><td>Executive Assistant</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>nationalgas</td><td>Business Support Admin</td><td>Manchester</td><td>2026-10-14</td></tr>
+<tr><td>Civil Aviation Authority</td><td>Airspace Regulation Project Specialist</td><td>Gatwick</td><td>2026-10-14</td></tr>
+<tr><td>Sweaty Betty</td><td>Buying Admin Assistant - 6m Ftc - Sweaty Betty</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Univar Solutions</td><td>Export Coordinator</td><td>Cadishead +1</td><td>2026-10-14</td></tr>
+<tr><td>Urpa</td><td>Administrative Assistant</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Ft 40h - Ftc - Wembley</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-10-14</td></tr>
+<tr><td>Blue Owl Capital</td><td>Administrative Assistant</td><td>London</td><td>2026-10-14</td></tr>
 </table>
