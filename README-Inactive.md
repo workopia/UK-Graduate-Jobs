@@ -7465,4 +7465,95 @@ _No archived roles yet._
 <tr><td>Nike Inc</td><td>Retail Assistant (athlete) - Ft 40h - Ftc - Wembley</td><td>London</td><td>2026-10-14</td></tr>
 <tr><td>Thermofisher Scientific</td><td>Quality Coordinator</td><td>Brighton</td><td>2026-10-14</td></tr>
 <tr><td>Blue Owl Capital</td><td>Administrative Assistant</td><td>London</td><td>2026-10-14</td></tr>
+<tr><td>Prudential Financial</td><td>Pgim Institutional Client Group / 2027 Summer Internship</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Fisher Investments</td><td>Uk Account Executive Internship</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>UBER</td><td>2027 Operations Intern - London</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>IQVIA Holdings</td><td>Intern - Graduate Programme</td><td>Reading</td><td>2026-10-15</td></tr>
+<tr><td>CVS Health</td><td>Pharmacy Intern</td><td>Yukon +1</td><td>2026-10-15</td></tr>
+<tr><td>HPE</td><td>Customer Success Intern</td><td>Bristol</td><td>2026-10-15</td></tr>
+<tr><td>Deloitte</td><td>Tax Transformation & Technology - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Sales & Commercial – 2027</td><td>United Kingdom</td><td>2026-10-15</td></tr>
+<tr><td>Deloitte</td><td>Technology - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Corporate Communications Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Social Video Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Projects & Delivery Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Production Finance & Operations Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Production & Operations Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Pr & Communications Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Media Product Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Marketing, Promotions & Creative Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Legal Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>It Workplace Operations Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Government & Regulatory Affairs Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Finance Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Film Services Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Facilities & Operations Intern</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>AECOM UK</td><td>Ground Engineering Apprentice - London (fy27)</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>AECOM UK</td><td>Bridge Structures Engineering Apprentice - Manchester (2027 Start)</td><td>Manchester</td><td>2026-10-15</td></tr>
+<tr><td>LyondellBasell</td><td>Quality Apprentice</td><td>Manchester</td><td>2026-10-15</td></tr>
+<tr><td>Capital Group</td><td>Software Development Engineer Iii</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>MBDA</td><td>Scene Generation Software Engineer (rf/eo Simulation)</td><td>Bristol</td><td>2026-10-15</td></tr>
+<tr><td>MBDA</td><td>Scene Generation Rf/eo Software Engineer</td><td>Bristol</td><td>2026-10-15</td></tr>
+<tr><td>Omnea</td><td>Software Engineer, Engineering Acceleration</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Nofence</td><td>Sales And Support Specialist</td><td>Shropshire</td><td>2026-10-15</td></tr>
+<tr><td>BlackRock</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Mta</td><td>United Kingdom</td><td>2026-10-15</td></tr>
+<tr><td>Citi Handlowy</td><td>Devsecops Software Engineering Expert</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Formula 1</td><td>It Support Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Halma (safety)</td><td>Cyber Risk And Resilience Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>OLIVER</td><td>E-commerce Data Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Tripledot Studios</td><td>Data Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Financial Conduct Authority</td><td>People Data & Reporting Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Subsea 7</td><td>Hr Data Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Google</td><td>Data Scientist, Research, Reliability Analytics</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Weber Shandwick</td><td>Data Scientist</td><td>Cheshire</td><td>2026-10-15</td></tr>
+<tr><td>CoorB</td><td>Business Analyst</td><td>Jeddah +1</td><td>2026-10-15</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Business Analyst</td><td>Location</td><td>2026-10-15</td></tr>
+<tr><td>Xfinity (Comcast)</td><td>Auditor, Cybersecurity</td><td>Great Britain</td><td>2026-10-15</td></tr>
+<tr><td>Morrisons</td><td>Accountant - Treasury</td><td>Hilmore House</td><td>2026-10-15</td></tr>
+<tr><td>Capita (digital)</td><td>Finance & Operations Analyst</td><td>United Kingdom</td><td>2026-10-15</td></tr>
+<tr><td>Greystar</td><td>Investment Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Barclays</td><td>Business Analyst</td><td>Glasgow Campus</td><td>2026-10-15</td></tr>
+<tr><td>Web Corporativa Santander</td><td>Vice President, Quantitative Analyst – Fx Options / Scib</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Fidelity International</td><td>Credit Analyst</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Settlement Operations Analyst - 6-month Ftc</td><td>Greater London</td><td>2026-10-15</td></tr>
+<tr><td>42</td><td>Supplier Finance Analyst</td><td>Norfolk</td><td>2026-10-15</td></tr>
+<tr><td>Deloitte</td><td>Audit & Assurance - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Quilter</td><td>Firm Compliance Partner</td><td>England</td><td>2026-10-15</td></tr>
+<tr><td>Barings</td><td>Analyst Programme - Capital Solutions</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Capco</td><td>Business Analyst - Commercial And Specialty Insurance</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Citi</td><td>Etf Quant Trader</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>FDM Group</td><td>Change & Transformation Ex-forces Programme - Uk</td><td>All Locations</td><td>2026-10-15</td></tr>
+<tr><td>Bupa</td><td>Reporting Actuary</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Care Assistant</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Bupa Group</td><td>Specialist Oncology Physiotherapist (fixed Term Post)</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>bupa.co.uk</td><td>Bank Cardiothoracic Physiotherapist</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>aerzteforum.info</td><td>Clinical Research Associate</td><td>Field</td><td>2026-10-15</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Somerset</td><td>2026-10-15</td></tr>
+<tr><td>Schindler Group</td><td>Escalator Service Engineer</td><td>Central London</td><td>2026-10-15</td></tr>
+<tr><td>Schindler Group</td><td>Lift Service Engineer- Nights</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-10-15</td></tr>
+<tr><td>Babcock International</td><td>Mechanical Fitter</td><td>Coulport</td><td>2026-10-15</td></tr>
+<tr><td>Babcock International</td><td>Mobile Repair Technician</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>JLL</td><td>Fabric Maintenance Engineer</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer (entry Level)</td><td>Gb</td><td>2026-10-15</td></tr>
+<tr><td>Spirit Energy</td><td>Mechanical Technician</td><td>Barrow Gas Terminal</td><td>2026-10-15</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>Edinburgh</td><td>2026-10-15</td></tr>
+<tr><td>Ebury</td><td>Fx Sales Associate</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Agile Retail</td><td>Sales Associate</td><td>Manchester</td><td>2026-10-15</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h, 16h And 20h</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Space NK</td><td>Winter Seasonal Beauty Advisor (8 Hours)</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Lowes Companies Inc</td><td>Warehouse Part Time Overnight</td><td>Milwaukie</td><td>2026-10-15</td></tr>
+<tr><td>Lowes Companies Inc</td><td>Warehouse Part Time Days</td><td>Milwaukie</td><td>2026-10-15</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Cheese (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 6 November, 2026 Posted On 7 October, 2026</td><td>London</td><td>2026-10-15</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Tenby</td><td>2026-10-15</td></tr>
+<tr><td>Lion Corporate</td><td>Export Logistics Administrator</td><td>East Tamaki</td><td>2026-10-15</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Horden</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-onehunga</td><td>Onehunga</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-newmarket</td><td>Cambridge</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-northwest</td><td>Westgate</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-st Lukes</td><td>Mount Albert</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-albany</td><td>Albany</td><td>2026-10-15</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-15</td></tr>
 </table>
