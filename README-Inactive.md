@@ -7556,4 +7556,128 @@ _No archived roles yet._
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-st Lukes</td><td>Mount Albert</td><td>2026-10-15</td></tr>
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-albany</td><td>Albany</td><td>2026-10-15</td></tr>
 <tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-15</td></tr>
+<tr><td>Baker Hughes</td><td>Aspire – Finance – 2027</td><td>Gb</td><td>2026-10-16</td></tr>
+<tr><td>Associated Bank</td><td>2027 Corporate Intern - Finance (controller Group)</td><td>Milwaukee</td><td>2026-10-16</td></tr>
+<tr><td>Pgim</td><td>Pgim Global Wealth / 2027 Summer Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>British Rowing</td><td>Communications Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>BLP Digital AG</td><td>Internship - Engineering</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Tikehau Capital</td><td>Internship - Private Equity - January 2027</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Procter And Gamble</td><td>Research & Development Industrial Placement 2027</td><td>Reading</td><td>2026-10-16</td></tr>
+<tr><td>Libertyglobal Liberty Global Careers</td><td>UK Emerging Technology Industrial Placements</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Superscript</td><td>Finance Graduate Intern</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Dow Jones & Company, Inc.</td><td>The Wall Street Journal Production Editing Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Dow Jones & Company, Inc.</td><td>The Wall Street Journal Business and Finance News Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>News Corp</td><td>The Wall Street Journal Production Editing Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>News Corp</td><td>The Wall Street Journal Business and Finance News Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>P&G</td><td>It Management Industrial Placement 2027</td><td>Brooklands Go +3</td><td>2026-10-16</td></tr>
+<tr><td>Veritiongroupllc</td><td>2027 Platform Internship, Non-investment (london)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>MSD</td><td>Student Placement - Global End User Services</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Mdcrecruiting</td><td>Student Placement - Global End User Services</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Procter & Gamble</td><td>Information Technology Industrial Placement 2027</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Prudential Financial</td><td>Pgim Global Wealth / 2027 Summer Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Anduril</td><td>2027 Deployment Logistics Intern</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>BNY</td><td>2027 BNY Internship Program - Risk and Compliance (London)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>BNY</td><td>2027 BNY Summer Internship Program - Office of the CFO (London)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>BNY</td><td>2027 BNY Summer Internship Program - Audit (London)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>KKR</td><td>2027 Off-cycle Intern - Real Estate</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>OzMRS</td><td>Intern, Real Estate Investments (summer 2027)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Pr & Celebrity Relations Intern</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Rolls-Royce</td><td>Business Year-Long Internship - UK</td><td>Bristol</td><td>2026-10-16</td></tr>
+<tr><td>Pgim</td><td>Pgim Institutional Client Group / 2027 Summer Internship</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Eaton</td><td>Health And Safety Intern</td><td>Reading</td><td>2026-10-16</td></tr>
+<tr><td>pgcareers.ru</td><td>Multiskilled Apprentice</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Finance Apprentice</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>CMS Distribution Ltd</td><td>Vendor Manager Apprentice</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Lonza Group</td><td>Payroll Apprentice</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Apprentice - Gas Engineering</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Bis Web Ltd</td><td>Level 3 Early Years Educator Apprentice</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Dachser SE</td><td>Transit Terminal Apprentice</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>Dachser SE</td><td>Warehouse Apprentice</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Cubic Transportation Systems</td><td>Field Services Apprentice</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Answer Digital</td><td>Bid Co-ordinator Apprentice</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>Atos</td><td>Server Tools Technical Specialist</td><td>United Kingdom</td><td>2026-10-16</td></tr>
+<tr><td>Google</td><td>Firmware Engineer, Modem/telephony Protocol And Ai Automation</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Google</td><td>Software Engineer, Android Digital Wellbeing</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Contacts Team</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Fx Markets</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Recorded Future</td><td>Threat Intelligence Response Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer/c Developer-pgd</td><td>United Kingdom</td><td>2026-10-16</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Recurring Payin</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>PZ Cussons</td><td>Onsite It Support Engineer</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Associate Software Engineer</td><td>Bristol</td><td>2026-10-16</td></tr>
+<tr><td>Liberty Interactive Corporation</td><td>Full Stack Engineer</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Phillips 66</td><td>Digital & Ai Analyst Placement</td><td>South Killingholme</td><td>2026-10-16</td></tr>
+<tr><td>Royal London Asset Management</td><td>Data Management Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>FitFlop</td><td>Finance Reporting &amp; Data Analyst (ftc)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Sportradar</td><td>Business Intelligence Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>The Francis Crick Institute</td><td>Junior Data Scientist</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Citi</td><td>Markets, Quantitative Analysis, Off Cycle Placement, London, UK, 2027</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial (general Insurance) Industrial Placement Programme 2027</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>WTW</td><td>2027 Corporate Risk & Broking – Actuarial Graduate Analyst, London</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Hiscox</td><td>Exposure Management Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Domestic & General</td><td>Third Party Risk Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Komatsu</td><td>It Cybersecurity Compliance Analyst</td><td>Milwaukee</td><td>2026-10-16</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Assistant Finance Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Dachser SE</td><td>Business Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Koch</td><td>Trade Support Analyst</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Barclays</td><td>Analyst - Customer Journey Mapping</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Star LLC</td><td>Divisional Pricing Actuary - Marine</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Investment Banker, Greentech Industrials & Infrastructure - Associate</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Market Data Content Business Analyst - 12 Month Contract</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Desk Aligned Strats, Structured Products - Associate</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Liquidity Business Analyst - Treasury (9 Months-contract)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Distribution Compliance Contractor - 6-month Contract</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Compliance Officer, Emea Investment Banking Compliance (3 Months Contract)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Etrading Developer (fixed Income)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Celeros Flow Technology</td><td>Trade Compliance Specialist</td><td>Glasgow</td><td>2026-10-16</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Quantitative Analyst, Rates Xva, Avp</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Citi Handlowy</td><td>Front Office Equity Derivatives Quant (c++ Pricing Models), Vp</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Sefe</td><td>Quantitative Risk Analyst (m/f/d)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Metlen Energy & Metals</td><td>Permit To Work Officer</td><td>County Durham</td><td>2026-10-16</td></tr>
+<tr><td>BNY</td><td>2027 BNY Analyst Program - Risk and Compliance (London)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>EBRD</td><td>Analyst, Infra Eurasia</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Payment Analyst</td><td>Uk</td><td>2026-10-16</td></tr>
+<tr><td>Bupa Group</td><td>Bank Cardiothoracic Physiotherapist</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Lancashire</td><td>2026-10-16</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-10-16</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Mro Vertical Lift Mechanical Technician</td><td>United Kingdom</td><td>2026-10-16</td></tr>
+<tr><td>Boeing Defence United Kingdom Limited</td><td>Fixed Wing Avionic Maintenance Technician</td><td>Gbr</td><td>2026-10-16</td></tr>
+<tr><td>IKEA UK</td><td>(maintenance Technician) Elektromechanik/-czka</td><td>UK</td><td>2026-10-16</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Machine Technician</td><td>Severnside</td><td>2026-10-16</td></tr>
+<tr><td>Flogas</td><td>Field Service Technician</td><td>Southern Region</td><td>2026-10-16</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Tools Technician</td><td>Location</td><td>2026-10-16</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Mechanical Technician</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>VP PLC</td><td>Service Engineer (fitter) West Drayton, United Kingdom Competitive Permanent (full-time) Apply By 30 November, 2026 Posted On 6 October, 2026 Working Hours 40</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Lidl GB</td><td>Warehouse Maintenance Operative</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Chubb Corp</td><td>Field Service Engineer - Systems</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Britvic Softdrinks</td><td>Maintenance Technician</td><td>Rugby</td><td>2026-10-16</td></tr>
+<tr><td>Renault Trucks</td><td>Nightshift Hgv Technician</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Engineering Technician (site Services)</td><td>Severnside</td><td>2026-10-16</td></tr>
+<tr><td>Kägwerks</td><td>Field Service Engineer - Manet Systems</td><td>Whiteley</td><td>2026-10-16</td></tr>
+<tr><td>DCC PLC</td><td>Commercial Gas Service Engineer</td><td>Glasgow</td><td>2026-10-16</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Schindler Group</td><td>Lift & Escalator Service Engineer</td><td>Central London</td><td>2026-10-16</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (24 Hours, Fix Term, Brent Cross)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (20 Hours)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (30 Hours)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor Ftc (22.5 Hours)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Menasha Corporate</td><td>Warehouse Associate</td><td>Pewaukee</td><td>2026-10-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Harrods</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs Arndale Centre</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate</td><td>Manchester</td><td>2026-10-16</td></tr>
+<tr><td>Throwbackpacks</td><td>Seasonal Sales Associate, Tommy Hilfiger Battersea</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 4)</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate (seasonal Ftc) - Brushfields, London</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Bexleyheath</td><td>2026-10-16</td></tr>
+<tr><td>WPP</td><td>Executive Assistant</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Ellesmere</td><td>2026-10-16</td></tr>
+<tr><td>Osborne Clarke LLP</td><td>Administrative Assistant</td><td>Bristol</td><td>2026-10-16</td></tr>
+<tr><td>Hilton Worldwide</td><td>Casual Membercare Assistant</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Project Coordinator</td><td>Location</td><td>2026-10-16</td></tr>
+<tr><td>AB Agri Ltd</td><td>Customer Service Coordinator</td><td>Leeds</td><td>2026-10-16</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Royal Tunbridge Wells</td><td>2026-10-16</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 40hrs - Clapham</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Iron Mountain</td><td>Project Coordinator</td><td>Sellafield</td><td>2026-10-16</td></tr>
+<tr><td>Weil, Gotshal & Manges LLP</td><td>Events 2026 and 2027</td><td>London</td><td>2026-10-16</td></tr>
 </table>
