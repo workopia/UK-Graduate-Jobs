@@ -7680,4 +7680,40 @@ _No archived roles yet._
 <tr><td>Jimmy Fairly</td><td>Sales Assistant 40hrs - Clapham</td><td>London</td><td>2026-10-16</td></tr>
 <tr><td>Iron Mountain</td><td>Project Coordinator</td><td>Sellafield</td><td>2026-10-16</td></tr>
 <tr><td>Weil, Gotshal & Manges LLP</td><td>Events 2026 and 2027</td><td>London</td><td>2026-10-16</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Technology Uk</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Invidia</td><td>Cpu Compiler Intern - 2027</td><td>Uk</td><td>2026-10-17</td></tr>
+<tr><td>HP</td><td>Placement Year - Hp Solutions Intern</td><td>Reading</td><td>2026-10-17</td></tr>
+<tr><td>BBVA</td><td>Business Administration Intern – Engineering</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Business Digitalisation & Ai Automation Intern</td><td>Denham</td><td>2026-10-17</td></tr>
+<tr><td>Disney Enterprises Inc</td><td>Production Safety And Sustainability Internship</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>NXP</td><td>Intern Ai And Software Engineer - Automotive Mpus</td><td>Glasgow</td><td>2026-10-17</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Data Scientist</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Inclusion & Impact Reporting Analyst</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Citi</td><td>Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Raiffeisen Bank International</td><td>Compliance Officer & Money Laundering Reporting Officer (f/m/x)</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>CFM</td><td>Market Risk Quant</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Evelyn Partners</td><td>Finance Analyst - 6 Month Ftc</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Axis Capital</td><td>Portfolio Pricing Actuary / Analyst</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>AXA</td><td>Business Analyst - 14 Month Ftc</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>UBS</td><td>Qis Quantitative Analyst</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>American International Group</td><td>Actuary - Risk Management</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Partner Finance Accountant - 12 Month Ftc</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Leicestershire</td><td>2026-10-17</td></tr>
+<tr><td>MC Machinery</td><td>Laser Field Service Technician</td><td>Milwaukee</td><td>2026-10-17</td></tr>
+<tr><td>SPX Corporation</td><td>Field Service Technician</td><td>UK</td><td>2026-10-17</td></tr>
+<tr><td>SPX Corporation</td><td>Site Technician</td><td>Ireland +1</td><td>2026-10-17</td></tr>
+<tr><td>äº¬ä¸å¨çç</td><td>Equipment Maintenance Technician</td><td>England</td><td>2026-10-17</td></tr>
+<tr><td>Schneider Electric</td><td>Service Engineer</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-17</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs Trafford (n131278)</td><td>Manchester</td><td>2026-10-17</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate (seasonal Ftc) - Battersea, London</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Sales Associate</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 8h, 12h And 20h (temporary)</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 20h (temporary)</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Subsea 7</td><td>Executive Personal Assistant</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>QTS Data Centers</td><td>Executive Assistant</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Lancashire Holdings</td><td>Transport Coordinator</td><td>Bromley</td><td>2026-10-17</td></tr>
+<tr><td>Space NK</td><td>Executive Assistant (ceo)</td><td>London</td><td>2026-10-17</td></tr>
+<tr><td>Sun Chemical</td><td>Technical Application Specialist, Emea</td><td>EMEA</td><td>2026-10-17</td></tr>
+<tr><td>Acturis Ltd</td><td>Women In Stem Insight Day, London, November 2026</td><td>London</td><td>2026-10-17</td></tr>
 </table>
