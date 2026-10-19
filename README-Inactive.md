@@ -7851,4 +7851,80 @@ _No archived roles yet._
 <tr><td>The Ritz-Carlton</td><td>Event Coordinator - Jw Marriott Grosvenor House London</td><td>London</td><td>2026-10-18</td></tr>
 <tr><td>Intertek</td><td>Project Co-ordinator</td><td>Surrey</td><td>2026-10-18</td></tr>
 <tr><td>Bupa Group</td><td>Administrative Assistant</td><td>Fulham Broadway</td><td>2026-10-18</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>It Infrastructure - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Internal Communications - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Final Assembly - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Field Quality - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Exterior Surface &amp; Paint Centre Intern - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Exterior Service Planning - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Body In White (manufacturing) - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>BMW Group</td><td>Bespoke &amp; Innovations - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Accessories - Placement Year</td><td>Goodwood</td><td>2026-10-19</td></tr>
+<tr><td>CNH</td><td>Product Development, Vehicle And Structural Test Intern</td><td>Unknown</td><td>2026-10-19</td></tr>
+<tr><td>Ferrovial</td><td>Talent Apprentice</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Depop</td><td>It Support Engineer (6 Month Ftc)</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Wise</td><td>Backend Engineer</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>DXC Technology UK</td><td>Onsite Desktop Support</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Expedia Group</td><td>Software Development Engineer Iii</td><td>UK</td><td>2026-10-19</td></tr>
+<tr><td>Axon</td><td>Software Engineer</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>OpenTable</td><td>Help Desk - It Support Technician Ii</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Hargreaves Lansdown Jobs</td><td>Software Engineer</td><td>Bristol</td><td>2026-10-19</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-10-19</td></tr>
+<tr><td>ElevenLabs</td><td>Full-stack Engineer (backend Leaning) - Creativevoices</td><td>United Kingdom</td><td>2026-10-19</td></tr>
+<tr><td>octopusenergy.es</td><td>Full Stack Software Engineer</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>mthree</td><td>Software Engineer</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>bet365</td><td>Software Developer, Offers</td><td>Manchester</td><td>2026-10-19</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer</td><td>Uk</td><td>2026-10-19</td></tr>
+<tr><td>Debenhams Group</td><td>Software Engineer - Integration</td><td>Manchester</td><td>2026-10-19</td></tr>
+<tr><td>BlackRock</td><td>Associate, Software Engineer (typescript) – Enterprise Resilience</td><td>Edinburgh</td><td>2026-10-19</td></tr>
+<tr><td>Isomorphic Labs</td><td>Software Engineer (compute Efficiency), London</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Cadent Gas</td><td>Pam Technical Specialist</td><td>UK</td><td>2026-10-19</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Scientist</td><td>Onde</td><td>2026-10-19</td></tr>
+<tr><td>Lidl GB</td><td>Business Intelligence Engineer</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Morrisons</td><td>Data Specialist - Data Scientist</td><td>United Kingdom</td><td>2026-10-19</td></tr>
+<tr><td>Monzo Bank</td><td>Data Scientist</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Apex Group Ltd</td><td>Digital Product Data Analyst</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Three Corporate Consulting Ltd</td><td>Junior Compliance & Business Operations Analyst</td><td>Uk</td><td>2026-10-19</td></tr>
+<tr><td>Raiffeisen Bank International</td><td>Compliance Officer & Money Laundering Reporting Officer (f/m/x) - London, Uk</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>jobs.barclays</td><td>Credit Risk Business Analyst</td><td>Glasgow</td><td>2026-10-19</td></tr>
+<tr><td>Shieldpay</td><td>Financial Crime Operations Analyst</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>2027 Mufg Uk Analyst Programme: Global Markets – Markets Engineering</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>TP ICAP</td><td>Business Analyst</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>TD</td><td>Operations Analyst</td><td>Belfast</td><td>2026-10-19</td></tr>
+<tr><td>mthree</td><td>Technology Risk And Controls Analyst</td><td>UK</td><td>2026-10-19</td></tr>
+<tr><td>ASOS</td><td>Finance Analyst</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Komatsu</td><td>Ediscovery & Cybersecurity Compliance Analyst</td><td>Milwaukee</td><td>2026-10-19</td></tr>
+<tr><td>TD</td><td>Tds Operations Analyst I</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Vp, Global Banking - Consumer, Retail & Healthcare / Scib</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>ABRDN</td><td>Audit Specialist</td><td>Uk</td><td>2026-10-19</td></tr>
+<tr><td>Brightonparkbank</td><td>Barclays Internal Audit Prudential Regulatory Reporting Vp</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Severn Trent Plc</td><td>Field Technician</td><td>Berkshire</td><td>2026-10-19</td></tr>
+<tr><td>TE Connectivity</td><td>Maintenance Engineer</td><td>SWINDON</td><td>2026-10-19</td></tr>
+<tr><td>Harrods</td><td>Assistant Technician</td><td>Knightsbridge</td><td>2026-10-19</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Fleet Fitter</td><td>Location</td><td>2026-10-19</td></tr>
+<tr><td>Britvic plc</td><td>Field Service Technician - Drinks Dispense</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Sales Advisor, 16h And 30h</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h (temporary)</td><td>Edinburgh</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 30h</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Liverpool Street</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Christmas Customer Assistant- Fashion, Home & Beauty - Sutton</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Jabil</td><td>Молодший Службовець На Склад</td><td>Uzhhorod</td><td>2026-10-19</td></tr>
+<tr><td>Kate Spade New York</td><td>Sales Associate</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours Fixed Term Kingston)</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours Fixed Term Kingston)</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (40 Hours, Kingston)</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Fisher Investments</td><td>Swedish Client Service Associate</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Reformation</td><td>Sales Associate, Part-time - Covent Garden</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Shiseido</td><td>Shiseido Beauty Expert - Harrods (37.5 Hours)</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Wickes</td><td>Customer Service Assistant</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate - Sloane Street</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Harrods</td><td>Merchandising Admin Assistant</td><td>Knightsbridge</td><td>2026-10-19</td></tr>
+<tr><td>Harrods</td><td>Packaging Design Admin Assistant</td><td>Hammersmith</td><td>2026-10-19</td></tr>
+<tr><td>Harrods</td><td>Technical Admin Assistant</td><td>Hammersmith</td><td>2026-10-19</td></tr>
+<tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>International SOS</td><td>Executive Assistant, Cfo</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Executive Personal Assistant - Central Government</td><td>London</td><td>2026-10-19</td></tr>
+<tr><td>Morrisons</td><td>Manufacturing Operative - Administration</td><td>Flaxby Chippindale</td><td>2026-10-19</td></tr>
 </table>
