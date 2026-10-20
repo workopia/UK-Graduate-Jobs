@@ -7927,4 +7927,56 @@ _No archived roles yet._
 <tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant</td><td>London</td><td>2026-10-19</td></tr>
 <tr><td>Spinwell Global Pte Ltd</td><td>Executive Personal Assistant - Central Government</td><td>London</td><td>2026-10-19</td></tr>
 <tr><td>Morrisons</td><td>Manufacturing Operative - Administration</td><td>Flaxby Chippindale</td><td>2026-10-19</td></tr>
+<tr><td>Red Carnation Hotels Central Office</td><td>Culinary Internship Programme</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Carlsquare GmbH</td><td>M&A Internship</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Nvidia Corporation</td><td>Data Processing Developer Technology Intern - 2027</td><td>Uk</td><td>2026-10-20</td></tr>
+<tr><td>Baker Hughes</td><td>Aspire – Finance – 2027</td><td>United Kingdom</td><td>2026-10-20</td></tr>
+<tr><td>Aon</td><td>Aon Summer Internship Programme 2027 - Investment Consulting (London Only)</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Retail Qualification - Placement Year</td><td>Goodwood</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Parts Quality - Placement Year</td><td>Goodwood</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Painted Body - Finish, Repair And Coachline Intern- Placement Year</td><td>Goodwood</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Ownership Services Regional Dealer Support - Placement Year</td><td>Goodwood</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Governance &amp; Compliance - Placement Year</td><td>Goodwood</td><td>2026-10-20</td></tr>
+<tr><td>Arriva</td><td>Mech/elec Apprentice</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Harrods</td><td>It Service Delivery Analyst</td><td>Hammersmith</td><td>2026-10-20</td></tr>
+<tr><td>ElevenLabs</td><td>Fullstack Engineer (backend Leaning) - Flows</td><td>United Kingdom</td><td>2026-10-20</td></tr>
+<tr><td>ElevenLabs</td><td>Fullstack Engineer (frontend Leaning) - Studio</td><td>United Kingdom</td><td>2026-10-20</td></tr>
+<tr><td>Jobgether</td><td>Application Programmer</td><td>Uk</td><td>2026-10-20</td></tr>
+<tr><td>gsfgroupcareers</td><td>Operational Support Specialist</td><td>Kent</td><td>2026-10-20</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Data Science Specialist, Computational Real-world Evidence (crwe), Data Science, London</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>EBRD</td><td>Analyst, People Solutions & Advisory</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Acushnet Golf</td><td>Data Analyst - Fixed Term Contract</td><td>St. Ives</td><td>2026-10-20</td></tr>
+<tr><td>Bank Pekao</td><td>Ekspert / Ekspertka Ds. Analiz I Raportowania</td><td>Wyszukiwanie Wed</td><td>2026-10-20</td></tr>
+<tr><td>TUI Musement</td><td>Reporting and Analysis Specialist M&CP</td><td>Luton</td><td>2026-10-20</td></tr>
+<tr><td>DXC Technology</td><td>Site Support It Engineer - Warton</td><td>Warton</td><td>2026-10-20</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Compliance Officer - Global Markets Compliance Advisory</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Scottish Widows (Lloyds)</td><td>Credit Officer - Fi Insurance</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>BSI Group</td><td>Strategy Delivery & Insights Analyst</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Amentum</td><td>Regulatory Compliance Officer</td><td>UK</td><td>2026-10-20</td></tr>
+<tr><td>londoncouncils</td><td>Strategic Financial Analyst Arthur Street, United Kingdom Starting From £62,742 Fixed Term Apply By 26 October, 2026 Posted On 14 October, 2026</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking - Emea Consumer & Retail M&a – Associate – London</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Starling Bank</td><td>Risk & Compliance Associate - Engine By Starling</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>JPMorgan Chase</td><td>Emea Credit Risk Analyst - Diversified Industries</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>NPL Management Ltd</td><td>Service Operations Analyst</td><td>All Locations</td><td>2026-10-20</td></tr>
+<tr><td>Workforcity</td><td>Cross Asset Xva Quantitative Analyst - Assistant Vice President</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Workforcity</td><td>C++/python Quantitative Developer - Cross Asset Xva And Capital Analytics (vice President)</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant - Bank</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Anglian Water</td><td>Electrical Maintenance Technician</td><td>Milton Keynes</td><td>2026-10-20</td></tr>
+<tr><td>Bekaert</td><td>Multi-skilled Maintenance Technician</td><td>Willington Quay</td><td>2026-10-20</td></tr>
+<tr><td>Severn Trent Plc</td><td>Repair And Maintenance Operative</td><td>Derbyshire</td><td>2026-10-20</td></tr>
+<tr><td>Severn Trent Plc</td><td>Metering Technician</td><td>SK17 +4</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate - Islington, London</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate - Coal Drops Yard, London</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Trafford Centre, Manchester</td><td>Manchester</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Bluewater, Kent</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate (seasonal Ftc) - Regent Street, London</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate (seasonal Ftc)- Manchester, Uk</td><td>Manchester</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein Battersea</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Bristol</td><td>2026-10-20</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Gibson Dunn</td><td>Executive Assistant - Tech</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Scheduling/administration Assistant</td><td>Reading</td><td>2026-10-20</td></tr>
+<tr><td>Operose Health Ltd</td><td>Administrative Assistant Home Working - With Occasional Travel When Required , United Kingdom £26000 - £28000 Permanent - Full Time Apply By 23 October, 2026 Job Posted Date 9 October, 2026</td><td>United Kingdom</td><td>2026-10-20</td></tr>
+<tr><td>Smiggle</td><td>Supervisor - Smiggle Uk - Stratford</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>WPP</td><td>Executive Assistant - (12 M Maternity Cover)</td><td>London</td><td>2026-10-20</td></tr>
 </table>
