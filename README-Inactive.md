@@ -7979,4 +7979,102 @@ _No archived roles yet._
 <tr><td>Operose Health Ltd</td><td>Administrative Assistant Home Working - With Occasional Travel When Required , United Kingdom £26000 - £28000 Permanent - Full Time Apply By 23 October, 2026 Job Posted Date 9 October, 2026</td><td>United Kingdom</td><td>2026-10-20</td></tr>
 <tr><td>Smiggle</td><td>Supervisor - Smiggle Uk - Stratford</td><td>London</td><td>2026-10-20</td></tr>
 <tr><td>WPP</td><td>Executive Assistant - (12 M Maternity Cover)</td><td>London</td><td>2026-10-20</td></tr>
+<tr><td>The Walt Disney Company</td><td>Graphic and Digital Design Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>Accounting and Finance Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>Fashion, Home & Stationery Product Design and Development Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>ESPN Digital Production and Social Content Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>Hardlines Product Design & Development Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>Consumer Research and Data Insights Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Aon Corporation</td><td>Aon Summer Internship Programme 2027- Strategic Consulting</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>The Walt Disney Company</td><td>Digital Product Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Creative Artists Agency</td><td>Creators Intern</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Creative Chutzpah</td><td>Executive Search Intern</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Creative Artists Agency</td><td>Information Technology Intern</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Creative Chutzpah</td><td>Caa Base Intern</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Creative Chutzpah</td><td>Music Touring Intern</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Aon Corporation</td><td>Aon Summer Internship Programme 2027 - Commercial Risk And Reinsurance Broking</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Kenvue</td><td>Medical Safety Industrial Student Placement</td><td>Reading</td><td>2026-10-21</td></tr>
+<tr><td>CrowdStrike</td><td>Incident Response Internship - Professional Services - Summer 2027 (remote, Uk)</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Talent Acquisition Transformation Intern</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Procurement Intern - Year In Industry</td><td>Flexible</td><td>2026-10-21</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Communications Intern</td><td>Salwick Preston</td><td>2026-10-21</td></tr>
+<tr><td>Vertex</td><td>Summer Intern, Commercial Haematology</td><td>Paddington</td><td>2026-10-21</td></tr>
+<tr><td>Chanel</td><td>Intern, Finance And Esg Performance Management</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>bp</td><td>One Year Internship - Supply, Trading & Shipping - Uk</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Customer Success Architect Intern</td><td>Winnersh</td><td>2026-10-21</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Customer Success Intern</td><td>Winnersh</td><td>2026-10-21</td></tr>
+<tr><td>Disneycareers</td><td>Production Safety and Sustainability Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Cirrus Logic</td><td>2027 Software Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>PGIM</td><td>PGIM Global Wealth / 2027 Summer Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Mastek</td><td>Internship - Global Immersion Programme</td><td>Reading</td><td>2026-10-21</td></tr>
+<tr><td>Edyn Group</td><td>Hotelschool The Hague Internships</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Prudential</td><td>PGIM Global Wealth / 2027 Summer Internship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>PZ Cussons</td><td>Production Apprentice</td><td>Manchester</td><td>2026-10-21</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Cyber Security Analyst</td><td>Salwick Preston</td><td>2026-10-21</td></tr>
+<tr><td>LKQ Europe</td><td>Technical Specialist</td><td>Field Based</td><td>2026-10-21</td></tr>
+<tr><td>goassetworks.com</td><td>Technical Support Engineer – Cloud & Hosting (uk)</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>Nomura International PLC</td><td>Java Software Engineer, Prime Technology</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Nomura International PLC</td><td>Software Engineer (associate) - Gmit Trade Processing</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Citi Handlowy</td><td>Java Developer With Kotlin (prime Brokerage Technology)</td><td>Belfast</td><td>2026-10-21</td></tr>
+<tr><td>Halfspace ApS</td><td>Customer Ai Engineer</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Bonneville International</td><td>Expert Data Scientist</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Google</td><td>Forward Deployed Engineer Iii, Applied Ai</td><td>ZüRich +1</td><td>2026-10-21</td></tr>
+<tr><td>Google</td><td>Research Scientist, Safety Oversight, Deepmind</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Data, Analytics & Reporting Analyst - Data Engineering Team</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Celltrion Com Br</td><td>Uk_business Intelligence Analyst</td><td>England</td><td>2026-10-21</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (mfe), London</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Barclays</td><td>2027 Internal Audit Analyst Summer Internship Programme London</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>jobs.barclays</td><td>2027 Internal Audit Analyst Summer Internship Programme London</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Northwestern Mutual Life Insurance Company</td><td>Actuarial Intern, Summer 2027</td><td>Milwaukee</td><td>2026-10-21</td></tr>
+<tr><td>Bank of America</td><td>GM Credit 2027 Summer Analyst - London</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Milliman</td><td>Actuarial Intern - Summer 2027 - Intelliscript</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>Genpact</td><td>Analyst - Enterprise Risk Advisory 5a</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>JLL (Jones Lang LaSalle)</td><td>Associate - Cost Management</td><td>Greater Manchester</td><td>2026-10-21</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Analyst - Emea Hotels & Hospitality Capital Markets</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Credit Officer</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Markets, Quantitative Analysis, Full Time Associate, London, 2027</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Kyndryl</td><td>Kyndryl Consult Partner - Insurance</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>Primark</td><td>Business Analyst Digital</td><td>Reading</td><td>2026-10-21</td></tr>
+<tr><td>Operis</td><td>Financial Modelling Analyst</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>designjobs.money</td><td>Compliance Advisory Analyst</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Aon</td><td>Insurance Actuarial Consulting & Reinsurance Analytics</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Risk Methodology Specialist</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Credit Risk Change Business Analyst</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>Income Reconciliation Accountant</td><td>United Kingdom</td><td>2026-10-21</td></tr>
+<tr><td>Delta Capita</td><td>Kyc Onboarding Analyst</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>mthree</td><td>Junior Compliance & Business Operations Analyst - Belfast</td><td>Belfast</td><td>2026-10-21</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>Consulting - Software Tmt – Bsco Md</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>PIMCO</td><td>People Operations Analyst - 12 Month Ftc</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Chevron</td><td>Quantitative Analyst</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Bupa</td><td>Care Assistant</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Bupa</td><td>Registered Nurse</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>KION</td><td>Field Service Engineer</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cornwall</td><td>2026-10-21</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-10-21</td></tr>
+<tr><td>Marshall Motor Group</td><td>Service Technician</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Severn Trent</td><td>Repair And Maintenance Operative</td><td>Derbyshire</td><td>2026-10-21</td></tr>
+<tr><td>Hitachi Rail UK Limited</td><td>Engineering Maintenance Technician Apprentice</td><td>Bounds Green</td><td>2026-10-21</td></tr>
+<tr><td>Rehlko</td><td>Field Service Engineer,kup Uk</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Boeing Australia Holdings</td><td>Mro Mechanical Technician</td><td>Middle Wallop</td><td>2026-10-21</td></tr>
+<tr><td>Bakkavor Group</td><td>Maintenance Engineer</td><td>Park Royal</td><td>2026-10-21</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Regional Maintenance Operative</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Getinge AB</td><td>Service, Service Ic, Field Service Engineer (fukuoka)</td><td>Fukuoka</td><td>2026-10-21</td></tr>
+<tr><td>Metlen Energy & Metals</td><td>O&m Technician</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 4)</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-21</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours, Fix Term, Kensington)</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Skechers.fi</td><td>Stratford Westfield Sales Associate</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) – Pt20 – London Flagship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) – Ft40 – London Flagship</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Activewear, Womenswear (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 12 November, 2026 Posted On 13 October, 2026</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate - Edinburgh, Scotland</td><td>Edinburgh</td><td>2026-10-21</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-21</td></tr>
+<tr><td>Sedgwick</td><td>Administration Assistant</td><td>Bristol</td><td>2026-10-21</td></tr>
+<tr><td>Haleon</td><td>Executive Assistant</td><td>Uk</td><td>2026-10-21</td></tr>
+<tr><td>IOLLA Ltd</td><td>Administration Assistantpart-timeiolla Hq</td><td>Glasgow</td><td>2026-10-21</td></tr>
+<tr><td>HeliosX Group</td><td>Junior Executive Assistant</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Support Assistant</td><td>Bristol</td><td>2026-10-21</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Smyths Toys</td><td>Sales Assistant-uxbridge, London</td><td>London</td><td>2026-10-21</td></tr>
+<tr><td>Top Cut Foods</td><td>Casual Procurement Administration Assistant</td><td>Ormeau</td><td>2026-10-21</td></tr>
 </table>
