@@ -8167,4 +8167,90 @@ _No archived roles yet._
 <tr><td>TD Bank</td><td>Executive Assistant Cib</td><td>London</td><td>2026-10-22</td></tr>
 <tr><td>SNC Lavalin</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-10-22</td></tr>
 <tr><td>Jllcareers</td><td>Facilities Management Coordinator</td><td>Burton On Trent</td><td>2026-10-22</td></tr>
+<tr><td>Tencent Games</td><td>Pubg Mobile Marketing Team Intern</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Tencent Games</td><td>Cyber Security Intern</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>CNH Industrial</td><td>Product Demonstration Support Intern</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>CNH Industrial</td><td>Product Development, Vehicle And Structural Test Intern</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>CNH Industrial</td><td>Marketing And Social Media Support Intern</td><td>UK +1</td><td>2026-10-22</td></tr>
+<tr><td>CNH Industrial</td><td>Field Test Precision Technology Intern</td><td>Suffolk</td><td>2026-10-22</td></tr>
+<tr><td>GOCal</td><td>Market Intelligence Revenue Associate Internship</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Unilever</td><td>Unilever Industrial Placement Programme - Supply Chain - Technical Uk</td><td>Port Sunlight +3</td><td>2026-10-22</td></tr>
+<tr><td>Gartner</td><td>Client Success Associate Internship, Summer 2026 (2027 Graduates) - Swedish Speaker</td><td>Surrey</td><td>2026-10-22</td></tr>
+<tr><td>Visa</td><td>Marketing Services Intern - Students Graduating Summer 2028 Or December 2027</td><td>Ua</td><td>2026-10-22</td></tr>
+<tr><td>Visa</td><td>Vca Intern - Students Graduating Summer 2028 Or December 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Thomson Reuters Corp.</td><td>Applied Science Intern</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Networking Intern - Placement Year</td><td>Winnersh</td><td>2026-10-22</td></tr>
+<tr><td>EY</td><td>Consulting Summer Internship Programmes - July 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>EY</td><td>EY-Parthenon Summer Internship Programme, July2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>L'Oreal Groupe</td><td>Finance Industrial Placement 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Siemens Mobility</td><td>Strategy & Transformation Intern (12 months)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Siemens Mobility</td><td>Business Development Internship -12 Months</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Siemens Mobility</td><td>Sustainability Internship (12 Months)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Environmental Analyst Intern - Year In Industry</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>BNY</td><td>2027 Bny Summer Internship Program - Delivery (london)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Citco</td><td>Product Intern</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Intern R2r</td><td>Lviv +2</td><td>2026-10-22</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Expression Of Interest / Undergraduate Assurance Internship 2027 / Guernsey, Ey Channel Islands</td><td>Guernsey</td><td>2026-10-22</td></tr>
+<tr><td>HP, Inc.</td><td>Cryptography Intern</td><td>Bristol</td><td>2026-10-22</td></tr>
+<tr><td>Google</td><td>Product Deployment Engineer Bs/ms, Intern - 2027 (english)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Google</td><td>Business Program Manager Mba Intern, 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Amazon</td><td>Associate Solutions Architect Internship 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Change &amp; Technology Management Summer Internship 2027 (whiteley)</td><td>Whiteley</td><td>2026-10-22</td></tr>
+<tr><td>The Walt Disney Company</td><td>Post Production Technology Internship</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Zynga</td><td>Software Engineer - Unannounced Project</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Wayve</td><td>Software Engineer - Platform Integration, Robot Software</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Terex</td><td>Nester/ Programmer</td><td>Belfast</td><td>2026-10-22</td></tr>
+<tr><td>Rbsfuel</td><td>Software Engineer</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>BSI</td><td>Technical Specialist - Active Medical Devices</td><td>Homebased</td><td>2026-10-22</td></tr>
+<tr><td>TSYS</td><td>Software Engineer - Java (cambridge)</td><td>Cambridge</td><td>2026-10-22</td></tr>
+<tr><td>dorsetcouncil</td><td>User Support Officer - Level 3</td><td>All Locations</td><td>2026-10-22</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Database Platform</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>C++ Video Streaming Engineer</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Specialist</td><td>Uk</td><td>2026-10-22</td></tr>
+<tr><td>NaturalMotion Ltd</td><td>Software Engineer - Unannounced Project</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Welsh Language Specialist - Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>AtkinsRéalis</td><td>Data Analyst</td><td>Gb</td><td>2026-10-22</td></tr>
+<tr><td>Dunelm Careers</td><td>Esg Reporting Analyst</td><td>All Locations</td><td>2026-10-22</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Associate</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>UBS</td><td>2027 12-month Industrial Placement Program - Global Banking</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Intern - Credit Research Analyst, Emea</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Arcadis</td><td>Graduate Facilities Management Consultant</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Offshore Energies UK</td><td>Business Adviser</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Alixpartners</td><td>Strategic Finance Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Internal Auditor - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Analyst, Structured Credit Emea</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Advisory - Financial Risk - Traded & Quantitative Risk - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Bureau Veritas</td><td>Kitchen Extract Auditor</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Risk and Controls Consulting – Controls Advisory - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Risk & Controls Consulting - Cyber - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>BetMakers Technology Group</td><td>Junior Racing & Sports Risk Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>RBC</td><td>Analyst, Corporate Banking</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>689</td><td>Equity Capital Markets, Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking - Emea Real Estate - Analyst / Associate - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>FDM Group</td><td>Automation Business Analyst-remote</td><td>All Locations</td><td>2026-10-22</td></tr>
+<tr><td>FDM Group</td><td>Business Data Analyst (binder & Bordereaux)- London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>FDM Group</td><td>Business Data Analyst (data Continual Improvement)- London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>S&P Global Inc.</td><td>Operations Analyst (derivative Pricing)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Greystar Australia Property Manager</td><td>Maintenance Technician</td><td>Ealing</td><td>2026-10-22</td></tr>
+<tr><td>Baker Hughes</td><td>Field Engineer I – Well Intervention Team</td><td>Gb</td><td>2026-10-22</td></tr>
+<tr><td>Fives</td><td>Uk Fives Service Technician (fives Conveying)</td><td>Baginton</td><td>2026-10-22</td></tr>
+<tr><td>Kion Na</td><td>Maintenance Support Technician-1</td><td>Leicestershire</td><td>2026-10-22</td></tr>
+<tr><td>unilever.fr</td><td>Multi Maintenance Skilled Technician (continuous Improvement)</td><td>Port Sunlight</td><td>2026-10-22</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Manchester</td><td>2026-10-22</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 35h</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (24 Hours, Fix Term, Brent Cross)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate (part Time 12 Hours)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>230</td><td>Sales Associate</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Johnson Controls</td><td>Customer Service Admin</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Trafford (n131886)</td><td>Manchester</td><td>2026-10-22</td></tr>
+<tr><td>Samsonite</td><td>Sales Associate</td><td>Oxford</td><td>2026-10-22</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>Executive Support Assistant</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>SILHRMS</td><td>Project Co-ordinator Ecology</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Greenberg Traurig</td><td>Marketing Coordinator</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Nike</td><td>Retail Assistant (athlete) Pt 20h - Bicester</td><td>Oxford</td><td>2026-10-22</td></tr>
+<tr><td>Space NK</td><td>Merchandising Admin Assistant</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Boden</td><td>Buying Admin Assistant - 6 Month Maternity Cover</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Margaret Howell</td><td>Sustainability Assistant</td><td>London</td><td>2026-10-22</td></tr>
 </table>
