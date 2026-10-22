@@ -8077,4 +8077,94 @@ _No archived roles yet._
 <tr><td>Sanctuary Housing Association</td><td>Housing Support Assistant</td><td>London</td><td>2026-10-21</td></tr>
 <tr><td>Smyths Toys</td><td>Sales Assistant-uxbridge, London</td><td>London</td><td>2026-10-21</td></tr>
 <tr><td>Top Cut Foods</td><td>Casual Procurement Administration Assistant</td><td>Ormeau</td><td>2026-10-21</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Managed Creator Operations, Project Intern (tsp, Uk), 2026 Start (bs/ms)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>University Intern - Medical Affairs</td><td>Winnersh</td><td>2026-10-22</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>University Intern - Corporate Affairs</td><td>Winnersh</td><td>2026-10-22</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>University Intern - Commercial Strategy & Private Markets - Obesity & Liver Health</td><td>Winnersh</td><td>2026-10-22</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>University Intern - Human Resources</td><td>Winnersh</td><td>2026-10-22</td></tr>
+<tr><td>The Walt Disney Company</td><td>People and Culture Internship</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Finance Apprentice</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Barclays</td><td>2027 Operations Analyst Degree Apprenticeship Programme London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Meta</td><td>Software Engineer, Machine Learning</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Meta</td><td>Software Engineer, Infrastructure</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Meta</td><td>Software Engineer, Product</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - Java</td><td>Glasgow</td><td>2026-10-22</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Ring Cloud Computer Vision</td><td>Cambridge</td><td>2026-10-22</td></tr>
+<tr><td>Amazon</td><td>Frontend Engineer, Amazon Advertising - Brand Innovation Lab</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Backend Development, Google Health Labs</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Citigroup</td><td>Java Developer With Kotlin (prime Brokerage Technology)</td><td>Belfast</td><td>2026-10-22</td></tr>
+<tr><td>Oxford Instruments</td><td>Technical Sales Support Engineer</td><td>Severn Beach</td><td>2026-10-22</td></tr>
+<tr><td>IKEA UK</td><td>Software Engineer / Simulation & Testing / Range Operations</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Thunes</td><td>Software Engineer</td><td>Barcelona +1</td><td>2026-10-22</td></tr>
+<tr><td>ElevenLabs</td><td>Finance Data Scientist</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Coding Specialist (fluent In Dutch) - Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Native Sw Eng</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Native Sw Engineering</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Accenture</td><td>Ai Native Sw Eng</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Accenture</td><td>Ai Native Sw Engineering</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Business Transformation Consulting - Customer Products - Industrial Placement - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Business Transformation Consulting - Customer Products - Full Time Graduate - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Business Transformation Consulting - Human Capital - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>JPMorgan Chase</td><td>Structured Investments Operations - Trading Services Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>T&amp;e Accountant</td><td>Ukraine</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Fixed Asset Accountant</td><td>Gatwick</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Accounting Operations Accountant With Knowledge Of French</td><td>Ukraine</td><td>2026-10-22</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Sap Grief Analyst</td><td>Desford</td><td>2026-10-22</td></tr>
+<tr><td>Aon Corporation</td><td>Power Risk Engineer</td><td>UK</td><td>2026-10-22</td></tr>
+<tr><td>Lincolninternational</td><td>Experienced Analyst, Transaction Opinions & Board Advisory</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Deloitte</td><td>Actuarial - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>VFX Financial PLC</td><td>Middle Office Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Home</td><td>Sub Contractor Assessor</td><td>UK-Wide</td><td>2026-10-22</td></tr>
+<tr><td>Equiniti</td><td>Continuous Improvement Analyst</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>AJG United Kingdom</td><td>Analyst - Operations Management</td><td>Limpembury</td><td>2026-10-22</td></tr>
+<tr><td>Man Group</td><td>Analyst, Solutions Middle Office</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Workforcity</td><td>Corporate Banking Associate - Metals & Mining (uk Industrials)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>DS Smith PLC</td><td>Business Analyst</td><td>Manchester</td><td>2026-10-22</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Mes Business Analyst</td><td>Midlands +2</td><td>2026-10-22</td></tr>
+<tr><td>Axis Capital</td><td>Risk Analyst</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Rbsfuel</td><td>Customer Service & Operations Analyst</td><td>St Helier</td><td>2026-10-22</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Assurance Advisor</td><td>Gb</td><td>2026-10-22</td></tr>
+<tr><td>M&G</td><td>Model Validation Analyst (fixed Term Contract)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Mericalherbs</td><td>Clinical Research Associate - North West England</td><td>North West England</td><td>2026-10-22</td></tr>
+<tr><td>vetshired.us</td><td>Clinical Research Associate - North West England</td><td>North West England</td><td>2026-10-22</td></tr>
+<tr><td>bupa.co.uk</td><td>Care Assistant - Bank</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Bupa UK</td><td>Care Assistant - Bank</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Spire Healthcare</td><td>Pre Assessment - Registered Nurse (bank)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Derbyshire</td><td>2026-10-22</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Field Technician</td><td>Craven</td><td>2026-10-22</td></tr>
+<tr><td>Blain's Farm & Fleet (Blain Supply, Inc.)</td><td>Maintenance Associate</td><td>Waukesha</td><td>2026-10-22</td></tr>
+<tr><td>Performance Food Group</td><td>Beverage &amp; Chemical Technician</td><td>Milwaukee</td><td>2026-10-22</td></tr>
+<tr><td>Dematic Inc</td><td>Maintenance Support Technician-1</td><td>Leicestershire</td><td>2026-10-22</td></tr>
+<tr><td>Hitachi Rail GTS UK Limited</td><td>Radio Technician</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Maintenance Electrician (sizewell C)</td><td>Sizewell C</td><td>2026-10-22</td></tr>
+<tr><td>Honeywell</td><td>Field Service Engineer – Grid Entry Units</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Getinge</td><td>Field Service Engineer</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Ecolab</td><td>Service Specialist</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Technician</td><td>Staverton</td><td>2026-10-22</td></tr>
+<tr><td>Rydon Group Ltd</td><td>Multi-skilled Maintenance Operative</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Codan Limited</td><td>Field Service Engineer - Tactical Communications</td><td>Whiteley</td><td>2026-10-22</td></tr>
+<tr><td>Digicel Ltd</td><td>Field Technician Rigger</td><td>Nuku’Alofa</td><td>2026-10-22</td></tr>
+<tr><td>Balenciaga UK Ltd</td><td>Balenciaga - Sales Associate Mandarin Speaker, Selfridges</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Brompton Road</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate - London Flagship (part Time 24 Hours)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Associate, Digital Solutions Services, Europe/ame</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate (kings Road, 24 Hrs Per Week)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Analytics & Sales - Japanese Speakers</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate ( 24 Hours, White City Wn)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours, Fix Term, Broadgate)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate ( 40 Hours, White City Wn)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein O2</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>New Addington</td><td>2026-10-22</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Oxford</td><td>2026-10-22</td></tr>
+<tr><td>UnitedHealth Group</td><td>Facilities Coordinator</td><td>UK</td><td>2026-10-22</td></tr>
+<tr><td>Mastercard</td><td>Executive Assistant</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Zoological Society of London</td><td>Buying & Merchandising Admin Assistant (fixed Term Contract)</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Codan Limited</td><td>Customer Service Coordinator</td><td>Whiteley</td><td>2026-10-22</td></tr>
+<tr><td>Pepper Money UK</td><td>Events Coordinator</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>Reed Treasury Ltd</td><td>Programme Coordinator</td><td>Cambridge</td><td>2026-10-22</td></tr>
+<tr><td>Shiseido</td><td>Executive Assistant</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>TD Bank</td><td>Executive Assistant Cib</td><td>London</td><td>2026-10-22</td></tr>
+<tr><td>SNC Lavalin</td><td>Project Co-ordinator</td><td>United Kingdom</td><td>2026-10-22</td></tr>
+<tr><td>Jllcareers</td><td>Facilities Management Coordinator</td><td>Burton On Trent</td><td>2026-10-22</td></tr>
 </table>
