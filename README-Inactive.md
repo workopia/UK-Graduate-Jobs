@@ -8370,4 +8370,58 @@ _No archived roles yet._
 <tr><td>JLL UK</td><td>Workplace Event Coordinator</td><td>London</td><td>2026-10-24</td></tr>
 <tr><td>Capita</td><td>Training Support Administrator</td><td>Portsmouth</td><td>2026-10-24</td></tr>
 <tr><td>Ramsay Health Care UK</td><td>Diagnostic Administrative Assistant</td><td>Leeds</td><td>2026-10-24</td></tr>
+<tr><td>TikTok</td><td>Collectibles Operations Project Intern (tiktok Shop - Collectibles) 2026 Start (bs/ms)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Eu Campaign Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Partnership Project Intern, Business Planning & Operations - Tiktok Shop - 2026 Start (bs/ms)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Managed Creator Operations, Intern (tiktok Shop - Partner Ops Uk) - Summer 2027</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Seller Incubation Operation, Intern (tiktok Shop - Mai Uk) - Summer 2027</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Strategy And Operations Intern (tiktok Live) - 2027 Start</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Business Operations Intern (tiktok Live) - 2027 Start</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Agency Operations Intern (tiktok Live) - 2027 Start</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Incubation Strategy Project Intern (tiktok Shop Italy) - 2026 Start</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Employment Tax Project Intern (hr Operations - Emea) - 2026 Start</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Uk Business Planning Strategy Intern (tiktok Shop) - 2027 Summer</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Partner Operations, Project Intern (tsp, Uk), 2026 Start (bs/ms)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TikTok</td><td>Regional & Product Policy Project Intern (business Integrity - Policy) - 2026 Start (bs/ms)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Sonymusicpub</td><td>Internal Communications - Student Placement Year</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Sonymusicpub</td><td>Procurement Intern - Student Placement Year</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Engineering – 2027</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>CrowdStrike</td><td>Professional Services Red Team Intern - Summer 2027 (remote, Gbr)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Bosch Rexroth</td><td>Data Analysis & Marketing/sales Intern</td><td>Denham</td><td>2026-10-25</td></tr>
+<tr><td>HP</td><td>Cryptography Intern</td><td>Bristol</td><td>2026-10-25</td></tr>
+<tr><td>FitFlop</td><td>Data Technician Apprentice</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Customer Service Apprentice</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Helpdesk Support</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Full Stack Scrum Engineer</td><td>Hampshire</td><td>2026-10-25</td></tr>
+<tr><td>bet365</td><td>Software Developer, Cerberus</td><td>Manchester</td><td>2026-10-25</td></tr>
+<tr><td>GXO Logistics</td><td>Automation Engineer</td><td>Avonmouth</td><td>2026-10-25</td></tr>
+<tr><td>nandos.careers</td><td>Data Analyst</td><td>Putney Office</td><td>2026-10-25</td></tr>
+<tr><td>Jobgether</td><td>Product Engineer (ai-native)</td><td>United Kingdom</td><td>2026-10-25</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Internal Audit / Summer Analyst</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Deloitte</td><td>Business Transformation Consulting - Supply Chain & Network Operations - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Deloitte</td><td>Business Transformation Consulting - Operations, Industry & Domain Solutions - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>TP ICAP</td><td>Etd Operations Analyst 1</td><td>Belfast</td><td>2026-10-25</td></tr>
+<tr><td>DAMART S.A</td><td>Business Analyst</td><td>Leeds</td><td>2026-10-25</td></tr>
+<tr><td>Wellcome Trust</td><td>Investment Data & Operations Analyst</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Nebius</td><td>Eme Tax Specialist</td><td>India +1</td><td>2026-10-25</td></tr>
+<tr><td>AJG United Kingdom</td><td>Business Analyst</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Field Service Engineer</td><td>Staffordshire</td><td>2026-10-25</td></tr>
+<tr><td>bu-uk</td><td>Water Field Technician</td><td>Maidstone</td><td>2026-10-25</td></tr>
+<tr><td>Babcock International</td><td>Motor Transport Maintenance Technician</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-10-25</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 35h</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Capri</td><td>Sales Associate</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs Trafford</td><td>Manchester</td><td>2026-10-25</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Arndale Centre (n132057)</td><td>Manchester</td><td>2026-10-25</td></tr>
+<tr><td>Crocs</td><td>Sales Associate</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (22.5 Hours)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Space NK</td><td>Beauty Advisor (15 Hours)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>EBRD</td><td>Assistant</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-25</td></tr>
+<tr><td>Fresha</td><td>Events Co-ordinator (London)</td><td>London</td><td>2026-10-25</td></tr>
+<tr><td>Boden</td><td>Merchandising Admin Assistant - Childrenswear</td><td>North Acton</td><td>2026-10-25</td></tr>
+<tr><td>Boden</td><td>Design Admin Assistant - Womenswear</td><td>North Acton</td><td>2026-10-25</td></tr>
+<tr><td>Screwfix</td><td>Retail Assistant Ni</td><td>Lurgan</td><td>2026-10-25</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administrative Assistant</td><td>Bournemouth</td><td>2026-10-25</td></tr>
 </table>
