@@ -8424,4 +8424,33 @@ _No archived roles yet._
 <tr><td>Boden</td><td>Design Admin Assistant - Womenswear</td><td>North Acton</td><td>2026-10-25</td></tr>
 <tr><td>Screwfix</td><td>Retail Assistant Ni</td><td>Lurgan</td><td>2026-10-25</td></tr>
 <tr><td>Ramsay Health Care UK</td><td>Administrative Assistant</td><td>Bournemouth</td><td>2026-10-25</td></tr>
+<tr><td>蚂蚁集团</td><td>支付宝留学缴费实习生</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Supply Chain Intern</td><td>Denham</td><td>2026-10-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Foreign Trade Operations Intern</td><td>Denham</td><td>2026-10-26</td></tr>
+<tr><td>Tencent</td><td>Cyber Security Intern 108126</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Beauty Live Project Intern (tiktok Shop - Beauty) 2026 Start(bs/ms)</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Live Operation Project Intern, Tiktok Shop - 2026 Start (bs/ms)</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Aigc Image Content Project Intern (tiktok Shop)- 2026 Start (bs/ms）</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>FitFlop</td><td>Business Applications &amp; Support Apprentice</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Forward Deployed Agile Software Engineer</td><td>Uk</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer (backend Leaning) - Payments Engineering</td><td>United Kingdom</td><td>2026-10-26</td></tr>
+<tr><td>QinetiQ</td><td>Software Engineer</td><td>Manchester</td><td>2026-10-26</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Integrated Security Analyst</td><td>Salwick Preston</td><td>2026-10-26</td></tr>
+<tr><td>Sonos Inc</td><td>Software Engineer, Marketing Technology</td><td>Glasgow</td><td>2026-10-26</td></tr>
+<tr><td>PATH</td><td>Research Engineer, Ai, Digital & Data</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Luma</td><td>Copy Of Research Scientist / Engineer – Training Infrastructure</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>PhysicsX</td><td>Data Scientist</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>octopusenergy.es</td><td>Women In Trading - Data Scientist</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>RBC Global Asset Management</td><td>Ai Analyst, Bluebay Asset Management (london)</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Deloitte</td><td>Finance Transformation Consulting – Business Analyst - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Deloitte</td><td>EEnterprise Applications Consulting - Human Capital - Summer Vacation Scheme - London</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Deloitte</td><td>Enterprise Applications Consulting - Enterprise Resource Planning - London</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Assistant Cra</td><td>United Kingdom</td><td>2026-10-26</td></tr>
+<tr><td>Nexeo Solutions LLC</td><td>Maintenance Technician</td><td>South Kirkby</td><td>2026-10-26</td></tr>
+<tr><td>Cracker Barrel</td><td>Night Maintenance</td><td>Milwaukee</td><td>2026-10-26</td></tr>
+<tr><td>Hitachi Energy UK Limited</td><td>Hvdc Service Engineer</td><td>Spittal</td><td>2026-10-26</td></tr>
+<tr><td>HITACHI ENERGY UK LIMITED</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-10-26</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Stratford</td><td>London</td><td>2026-10-26</td></tr>
+<tr><td>Jll Com Sg</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-10-26</td></tr>
+<tr><td>Armstrong Fluid Technology</td><td>Quality Coordinator</td><td>Manchester</td><td>2026-10-26</td></tr>
 </table>

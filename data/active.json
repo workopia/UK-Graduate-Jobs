@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-25",
- "count": 943,
+ "asOf": "2026-10-26",
+ "count": 947,
  "jobs": {
   "2756262": {
    "id": "2756262",
@@ -13,6 +13,60 @@
    "company": "Kerry Group",
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
+  },
+  "df7b93e70ac46eb9d71999af6a08754b": {
+   "id": "df7b93e70ac46eb9d71999af6a08754b",
+   "company": "Prohealth Medical Group Inc",
+   "role": "Ultrasound Technologist Intern",
+   "location": "Waukesha"
+  },
+  "8d33aa3c4cf693c7305ffc7c4c1cfbdd": {
+   "id": "8d33aa3c4cf693c7305ffc7c4c1cfbdd",
+   "company": "Prohealth Medical Group Inc",
+   "role": "Nurse Intern Ii- 4sw Surgical, Woman&#39;s Health 0.4 Days",
+   "location": "Waukesha"
+  },
+  "e9c1552c15e180147d2c0d14b4a389ae": {
+   "id": "e9c1552c15e180147d2c0d14b4a389ae",
+   "company": "Prohealth Medical Group Inc",
+   "role": "Nurse Intern - 5medical - 0.4 Fte - (flexible)",
+   "location": "Waukesha"
+  },
+  "b853f8499703f58d39c19eb6f7421e89": {
+   "id": "b853f8499703f58d39c19eb6f7421e89",
+   "company": "Prohealth Medical Group Inc",
+   "role": "Nurse Intern -waukesha Memorial Hospital-surgical Unit/ortho/neuro- 0.4 Fte (flexible Shifts)",
+   "location": "Waukesha"
+  },
+  "1a1b980ac76c486b1886de942fb4007b": {
+   "id": "1a1b980ac76c486b1886de942fb4007b",
+   "company": "British American Tobacco Ltd",
+   "role": "B2b & Visibility Intern (fixed-term 6 Months Contract)",
+   "location": "London Chiswick"
+  },
+  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
+   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
+   "company": "G-Research",
+   "role": "Machine Learning Engineer Internship",
+   "location": "London"
+  },
+  "04705997e509da45cf75245b33a7d761": {
+   "id": "04705997e509da45cf75245b33a7d761",
+   "company": "G-Research",
+   "role": "Natural Language Processing Internship",
+   "location": "London"
+  },
+  "1e431d3afad0f6c5e8ded4fe6eb5aab9": {
+   "id": "1e431d3afad0f6c5e8ded4fe6eb5aab9",
+   "company": "Castleton Commodities International LLC",
+   "role": "Principal Investments Intern (fall 2027)",
+   "location": "London"
+  },
+  "b43ac15b145ea78be80368b98dcd6078": {
+   "id": "b43ac15b145ea78be80368b98dcd6078",
+   "company": "Castleton Commodities International LLC",
+   "role": "Principal Investments Intern (summer 2027)",
+   "location": "London"
   },
   "1d58959f228aaeb834ace9dbb06e8cca": {
    "id": "1d58959f228aaeb834ace9dbb06e8cca",
@@ -133,18 +187,6 @@
    "company": "Baker Hughes",
    "role": "Intern – Electrical Engineering – 2027",
    "location": "Gb"
-  },
-  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
-   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
-   "company": "G-Research",
-   "role": "Machine Learning Engineer Internship",
-   "location": "London"
-  },
-  "04705997e509da45cf75245b33a7d761": {
-   "id": "04705997e509da45cf75245b33a7d761",
-   "company": "G-Research",
-   "role": "Natural Language Processing Internship",
-   "location": "London"
   },
   "targetjobs:cd6d12bb-11d7-4e23-b59c-45af659da3ae": {
    "id": "targetjobs:cd6d12bb-11d7-4e23-b59c-45af659da3ae",
@@ -446,52 +488,16 @@
    "role": "Pt Data Analysis & Marketing/sales Intern",
    "location": "Denham"
   },
-  "11ab21258e10c6d680325c17f3f21b40": {
-   "id": "11ab21258e10c6d680325c17f3f21b40",
-   "company": "蚂蚁集团",
-   "role": "支付宝留学缴费实习生",
-   "location": "London"
-  },
-  "de8a6ebc66f84aeecd55365f7b60f226": {
-   "id": "de8a6ebc66f84aeecd55365f7b60f226",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Supply Chain Intern",
-   "location": "Denham"
-  },
-  "df0e8048adb1e2b29bed661468d21a3b": {
-   "id": "df0e8048adb1e2b29bed661468d21a3b",
-   "company": "Bosch Rexroth",
-   "role": "Foreign Trade Operations Intern",
-   "location": "Denham"
-  },
-  "c4f64f16a96ef3d47772b8579dfffce5": {
-   "id": "c4f64f16a96ef3d47772b8579dfffce5",
-   "company": "Tencent",
-   "role": "Cyber Security Intern 108126",
-   "location": "London"
-  },
-  "9a39346774a83466fe21a02d25d27138": {
-   "id": "9a39346774a83466fe21a02d25d27138",
-   "company": "TikTok",
-   "role": "Beauty Live Project Intern (tiktok Shop - Beauty) 2026 Start(bs/ms)",
-   "location": "London"
-  },
-  "f0b8a61b0cbcbd7b459e56d5535f2b1c": {
-   "id": "f0b8a61b0cbcbd7b459e56d5535f2b1c",
-   "company": "TikTok",
-   "role": "Live Operation Project Intern, Tiktok Shop - 2026 Start (bs/ms)",
-   "location": "London"
-  },
-  "e6aa11147d7d6a33ae0db881fef2a14d": {
-   "id": "e6aa11147d7d6a33ae0db881fef2a14d",
-   "company": "TikTok",
-   "role": "Aigc Image Content Project Intern (tiktok Shop)- 2026 Start (bs/ms）",
-   "location": "London"
-  },
   "108f124a527795230079a5fb1e952508": {
    "id": "108f124a527795230079a5fb1e952508",
    "company": "Retirement World",
    "role": "Apprentice - Capital Markets Operations",
+   "location": "London"
+  },
+  "3923c6edd0b1daea2b7a15dd4a86bdc6": {
+   "id": "3923c6edd0b1daea2b7a15dd4a86bdc6",
+   "company": "McDermott International",
+   "role": "Electrical Designer (apprentice)",
    "location": "London"
   },
   "b51f953eb5cf3ea4adff5625dadf4278": {
@@ -962,12 +968,6 @@
    "role": "Engineering Apprentice - Belfast (2027 Start)",
    "location": "Belfast"
   },
-  "73d9cfe68455aaea7bd49be63071cd2c": {
-   "id": "73d9cfe68455aaea7bd49be63071cd2c",
-   "company": "FitFlop",
-   "role": "Business Applications &amp; Support Apprentice",
-   "location": "London"
-  },
   "68d854a794ecc860199d0fd175106182": {
    "id": "68d854a794ecc860199d0fd175106182",
    "company": "Magnite Inc.",
@@ -1136,6 +1136,30 @@
    "role": "Software Engineer, Agent (new Grad)",
    "location": "London"
   },
+  "a630592905897da1a7760ba6f281ba5f": {
+   "id": "a630592905897da1a7760ba6f281ba5f",
+   "company": "Graphcore",
+   "role": "Graduate Software Engineer, Analysis Tools 2027",
+   "location": "Bristol"
+  },
+  "ba6bd86d66c62df0119cf5d8639dcef9": {
+   "id": "ba6bd86d66c62df0119cf5d8639dcef9",
+   "company": "Graphcore",
+   "role": "Graduate Software Engineer, Ai Compute Libraries & Performance 2027",
+   "location": "Bristol"
+  },
+  "0ad4a8bb3a9b737c407890ff4353f379": {
+   "id": "0ad4a8bb3a9b737c407890ff4353f379",
+   "company": "Graphcore",
+   "role": "Graduate Software Engineer, Ai/ Ml Test Systems 2027",
+   "location": "Bristol"
+  },
+  "6eec0f5a3dc3b9243b5c67123eb324c6": {
+   "id": "6eec0f5a3dc3b9243b5c67123eb324c6",
+   "company": "Graphcore",
+   "role": "Graduate Software Engineer, Frameworks 2027",
+   "location": "Bristol"
+  },
   "581d9a78833e6c54c4b2fde6cd85fbbf": {
    "id": "581d9a78833e6c54c4b2fde6cd85fbbf",
    "company": "Identosphere",
@@ -1226,59 +1250,17 @@
    "role": "Graduate Ai And Software Engineer - Automotive Mpus",
    "location": "Glasgow"
   },
-  "852ee0ad16934693e215fde5f485a2b8": {
-   "id": "852ee0ad16934693e215fde5f485a2b8",
-   "company": "Marks & Spencer Group",
-   "role": "Staff Software Engineer - Warehouse Automation",
+  "bd2acdaea23a4a22d131792a8a0440be": {
+   "id": "bd2acdaea23a4a22d131792a8a0440be",
+   "company": "Deliveroo",
+   "role": "Software Engineer Ii (backend) - Subscriptions",
    "location": "London"
   },
-  "af4dcc6bdd628eb6035c185fb6f3f040": {
-   "id": "af4dcc6bdd628eb6035c185fb6f3f040",
-   "company": "Canonicaljobs",
-   "role": "Linux Desktop Support Associate (london Uk Office)",
-   "location": "London"
-  },
-  "5d4a0ed900af2b616f47c48f78fcf6fa": {
-   "id": "5d4a0ed900af2b616f47c48f78fcf6fa",
-   "company": "Deutsche Bank UK",
-   "role": "Full Stack Engineer (react) - Trade Finance And Lending",
-   "location": "London"
-  },
-  "e26b1ef01f00a3898442647c388d4696": {
-   "id": "e26b1ef01f00a3898442647c388d4696",
-   "company": "Premium AEROTEC GmbH",
-   "role": "Software Development Engineer For Flight Physics Capabilities / Loads & Aeroelastics (d/f/m)",
-   "location": "Hamburg +2"
-  },
-  "8c26d9bedf64d52509fab618e8b0976d": {
-   "id": "8c26d9bedf64d52509fab618e8b0976d",
-   "company": "Motorola Solutions",
-   "role": "Mid Level Software Engineer",
-   "location": "London"
-  },
-  "f3ba0429cc98ad65f9151d03fafba631": {
-   "id": "f3ba0429cc98ad65f9151d03fafba631",
-   "company": "Slice",
-   "role": "Software Developer, Devex (stateful Systems)",
-   "location": "Belfast"
-  },
-  "2c8c94ec32e47f6038012de09bfa2455": {
-   "id": "2c8c94ec32e47f6038012de09bfa2455",
-   "company": "TP ICAP",
-   "role": "Associate Quantitative Engineer",
-   "location": "London"
-  },
-  "59babcc2a6e04504d53bb30dd333113d": {
-   "id": "59babcc2a6e04504d53bb30dd333113d",
-   "company": "Viasat",
-   "role": "Cyber Security Analyst",
-   "location": "London"
-  },
-  "cfd93c48085cc389c229d0d5b1bfa2c6": {
-   "id": "cfd93c48085cc389c229d0d5b1bfa2c6",
-   "company": "Qube Research And Technology",
-   "role": "Software Engineer – Site Reliability Engineering",
-   "location": "London"
+  "8111c0059690596ee1dd2f242a2d94d6": {
+   "id": "8111c0059690596ee1dd2f242a2d94d6",
+   "company": "Moody's Corporation",
+   "role": "Software Engineer - Data Engineering",
+   "location": "Manchester"
   },
   "541147644a00c63a03e2095ec9caf34f": {
    "id": "541147644a00c63a03e2095ec9caf34f",
@@ -1328,6 +1310,66 @@
    "role": "Data Software Engineer",
    "location": "London"
   },
+  "852ee0ad16934693e215fde5f485a2b8": {
+   "id": "852ee0ad16934693e215fde5f485a2b8",
+   "company": "Marks & Spencer Group",
+   "role": "Staff Software Engineer - Warehouse Automation",
+   "location": "London"
+  },
+  "af4dcc6bdd628eb6035c185fb6f3f040": {
+   "id": "af4dcc6bdd628eb6035c185fb6f3f040",
+   "company": "Canonicaljobs",
+   "role": "Linux Desktop Support Associate (london Uk Office)",
+   "location": "London"
+  },
+  "5d4a0ed900af2b616f47c48f78fcf6fa": {
+   "id": "5d4a0ed900af2b616f47c48f78fcf6fa",
+   "company": "Deutsche Bank UK",
+   "role": "Full Stack Engineer (react) - Trade Finance And Lending",
+   "location": "London"
+  },
+  "e26b1ef01f00a3898442647c388d4696": {
+   "id": "e26b1ef01f00a3898442647c388d4696",
+   "company": "Premium AEROTEC GmbH",
+   "role": "Software Development Engineer For Flight Physics Capabilities / Loads & Aeroelastics (d/f/m)",
+   "location": "Hamburg +2"
+  },
+  "7c1974f75b132bccbd281851e085585e": {
+   "id": "7c1974f75b132bccbd281851e085585e",
+   "company": "Graphcore",
+   "role": "Staff System Software Engineer",
+   "location": "Bristol"
+  },
+  "8c26d9bedf64d52509fab618e8b0976d": {
+   "id": "8c26d9bedf64d52509fab618e8b0976d",
+   "company": "Motorola Solutions",
+   "role": "Mid Level Software Engineer",
+   "location": "London"
+  },
+  "f3ba0429cc98ad65f9151d03fafba631": {
+   "id": "f3ba0429cc98ad65f9151d03fafba631",
+   "company": "Slice",
+   "role": "Software Developer, Devex (stateful Systems)",
+   "location": "Belfast"
+  },
+  "2c8c94ec32e47f6038012de09bfa2455": {
+   "id": "2c8c94ec32e47f6038012de09bfa2455",
+   "company": "TP ICAP",
+   "role": "Associate Quantitative Engineer",
+   "location": "London"
+  },
+  "59babcc2a6e04504d53bb30dd333113d": {
+   "id": "59babcc2a6e04504d53bb30dd333113d",
+   "company": "Viasat",
+   "role": "Cyber Security Analyst",
+   "location": "London"
+  },
+  "cfd93c48085cc389c229d0d5b1bfa2c6": {
+   "id": "cfd93c48085cc389c229d0d5b1bfa2c6",
+   "company": "Qube Research And Technology",
+   "role": "Software Engineer – Site Reliability Engineering",
+   "location": "London"
+  },
   "9531654544fb3224c6651d75124ad4d0": {
    "id": "9531654544fb3224c6651d75124ad4d0",
    "company": "Chaos Industries Inc",
@@ -1339,6 +1381,12 @@
    "company": "UnderwriteMe",
    "role": "Software Engineer",
    "location": "London"
+  },
+  "388e76136d7a945483fdd648c7633734": {
+   "id": "388e76136d7a945483fdd648c7633734",
+   "company": "Graphcore",
+   "role": "Software Engineer In Build Engineering",
+   "location": "Bristol"
   },
   "76bcced7674e08eb9bdb51e103ff1b91": {
    "id": "76bcced7674e08eb9bdb51e103ff1b91",
@@ -1483,6 +1531,12 @@
    "company": "Apple",
    "role": "Software Engineer, London",
    "location": "London"
+  },
+  "6b23a8110994b53bda2885364583d5bb": {
+   "id": "6b23a8110994b53bda2885364583d5bb",
+   "company": "Bjak",
+   "role": "Software Engineer, Desktop",
+   "location": "United Kingdom"
   },
   "091996ba59f1d1935f946a091e7fc88f": {
    "id": "091996ba59f1d1935f946a091e7fc88f",
@@ -1675,36 +1729,6 @@
    "company": "PhysicsX",
    "role": "Staff Backend Software Engineer - Go & Python",
    "location": "London"
-  },
-  "ad51c1d1dfe18526509a573a0d8703f2": {
-   "id": "ad51c1d1dfe18526509a573a0d8703f2",
-   "company": "Jobgether",
-   "role": "Forward Deployed Agile Software Engineer",
-   "location": "Uk"
-  },
-  "c345cbe333855a8a88e02b903ca3c2f6": {
-   "id": "c345cbe333855a8a88e02b903ca3c2f6",
-   "company": "Jobgether",
-   "role": "Full-stack Engineer (backend Leaning) - Payments Engineering",
-   "location": "United Kingdom"
-  },
-  "fd7015809082d9f6d3aabb93b261a06c": {
-   "id": "fd7015809082d9f6d3aabb93b261a06c",
-   "company": "QinetiQ",
-   "role": "Software Engineer",
-   "location": "Manchester"
-  },
-  "43010f7170c7a7779cfead9b2cdc76aa": {
-   "id": "43010f7170c7a7779cfead9b2cdc76aa",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Integrated Security Analyst",
-   "location": "Salwick Preston"
-  },
-  "5336b754dc8b5d4b8c94b20fa7ca4d56": {
-   "id": "5336b754dc8b5d4b8c94b20fa7ca4d56",
-   "company": "Sonos Inc",
-   "role": "Software Engineer, Marketing Technology",
-   "location": "Glasgow"
   },
   "d92ce97450b20ee4f379f3579afd8a12": {
    "id": "d92ce97450b20ee4f379f3579afd8a12",
@@ -1916,6 +1940,24 @@
    "role": "Aggp2027 - Graduate Ai Engineer",
    "location": "Filton"
   },
+  "9da251a06708009e2a0cf5e5a72b2263": {
+   "id": "9da251a06708009e2a0cf5e5a72b2263",
+   "company": "Moody's Corporation",
+   "role": "Modeling & Quant Analytics - Ai & Agentic Model Validation",
+   "location": "London"
+  },
+  "4418dd90087f9f6f59defd6e5185d05c": {
+   "id": "4418dd90087f9f6f59defd6e5185d05c",
+   "company": "G-Research",
+   "role": "Applied AI Engineer",
+   "location": "London"
+  },
+  "25e4d8fa7d9c0ddcd497d9d723d57bf7": {
+   "id": "25e4d8fa7d9c0ddcd497d9d723d57bf7",
+   "company": "G-Research",
+   "role": "Core AI Engineer",
+   "location": "London"
+  },
   "60c51a423b72c257795915dc2b49ddce": {
    "id": "60c51a423b72c257795915dc2b49ddce",
    "company": "GXO Logistics",
@@ -1940,6 +1982,12 @@
    "role": "Partner Data Scientist, Telco Partnerships",
    "location": "London"
   },
+  "2208b3f0bdefaed2afb9ccc3b8b0cd77": {
+   "id": "2208b3f0bdefaed2afb9ccc3b8b0cd77",
+   "company": "Graphcore",
+   "role": "Ai Research Engineer",
+   "location": "London"
+  },
   "ff6204cd38131103c9cd85e3102c5cb0": {
    "id": "ff6204cd38131103c9cd85e3102c5cb0",
    "company": "MUFG Oceania",
@@ -1958,22 +2006,16 @@
    "role": "Ekspert / Ekspertka Ds. Modelowania I Personalizacji",
    "location": "Wyszukiwanie Wed"
   },
+  "1c085813f9ee51b67cf3ade6925f8c22": {
+   "id": "1c085813f9ee51b67cf3ade6925f8c22",
+   "company": "NTT Data",
+   "role": "Gen Ai Developer",
+   "location": "London"
+  },
   "c9f3c1f5e311de380bf0bb2e4b37dde8": {
    "id": "c9f3c1f5e311de380bf0bb2e4b37dde8",
    "company": "ElevenLabs",
    "role": "Engineering - Internal Ai Transformation",
-   "location": "London"
-  },
-  "4418dd90087f9f6f59defd6e5185d05c": {
-   "id": "4418dd90087f9f6f59defd6e5185d05c",
-   "company": "G-Research",
-   "role": "Applied AI Engineer",
-   "location": "London"
-  },
-  "25e4d8fa7d9c0ddcd497d9d723d57bf7": {
-   "id": "25e4d8fa7d9c0ddcd497d9d723d57bf7",
-   "company": "G-Research",
-   "role": "Core AI Engineer",
    "location": "London"
   },
   "3f68544affa0589fa8a17fcb6a4c0b7b": {
@@ -2012,6 +2054,12 @@
    "role": "Junior Data Analyst (fraud And Recovery)",
    "location": "London"
   },
+  "3d53e91f8725e7640503f6a432c856c3": {
+   "id": "3d53e91f8725e7640503f6a432c856c3",
+   "company": "Mace Group",
+   "role": "Data Analyst",
+   "location": "London"
+  },
   "0725bfecf3e305fef7014843b3456bf6": {
    "id": "0725bfecf3e305fef7014843b3456bf6",
    "company": "Haleon",
@@ -2023,6 +2071,12 @@
    "company": "Sonyinteractiveentertainmentglobal",
    "role": "Data Scientist - Forecasting",
    "location": "London"
+  },
+  "3ede43ac1fbac6b1086df4f8071f7eec": {
+   "id": "3ede43ac1fbac6b1086df4f8071f7eec",
+   "company": "Bjak",
+   "role": "Product Engineer, Ai Email App",
+   "location": "United Kingdom"
   },
   "84748d035d5c1eb83369bbb294568135": {
    "id": "84748d035d5c1eb83369bbb294568135",
@@ -2070,6 +2124,12 @@
    "id": "3afadffbd2fc37885650529c8bb52da6",
    "company": "BT Group",
    "role": "Data Science & Ai Engineer",
+   "location": "London"
+  },
+  "48f2ee42790890fb5ccabddaf2c5c949": {
+   "id": "48f2ee42790890fb5ccabddaf2c5c949",
+   "company": "Welltower",
+   "role": "Data Scientist - Onsite London - Phd Required",
    "location": "London"
   },
   "f20af79da96596ee913bdf7a9b88fbfc": {
@@ -2324,12 +2384,6 @@
    "role": "Risk Analytics & Digital Analyst",
    "location": "London"
   },
-  "48f2ee42790890fb5ccabddaf2c5c949": {
-   "id": "48f2ee42790890fb5ccabddaf2c5c949",
-   "company": "Welltower Inc.",
-   "role": "Data Scientist - Onsite London - Phd Required",
-   "location": "London"
-  },
   "b37688611d33b70315f140a4c31103a2": {
    "id": "b37688611d33b70315f140a4c31103a2",
    "company": "Shamjobs",
@@ -2364,36 +2418,6 @@
    "id": "4c0cb3a20025b55c2642cbda5005cbc5",
    "company": "Luma",
    "role": "Research Scientist / Engineer – Reinforcement Learning Infrastructure",
-   "location": "London"
-  },
-  "7ae0cc594dc8bc08604e8d0b9bb12be4": {
-   "id": "7ae0cc594dc8bc08604e8d0b9bb12be4",
-   "company": "PATH",
-   "role": "Research Engineer, Ai, Digital & Data",
-   "location": "London"
-  },
-  "fbb9d84f545d3f7c00fb3d8dcc9660d5": {
-   "id": "fbb9d84f545d3f7c00fb3d8dcc9660d5",
-   "company": "Luma",
-   "role": "Copy Of Research Scientist / Engineer – Training Infrastructure",
-   "location": "London"
-  },
-  "cd6931b790def4f0da75754a306efc22": {
-   "id": "cd6931b790def4f0da75754a306efc22",
-   "company": "PhysicsX",
-   "role": "Data Scientist",
-   "location": "London"
-  },
-  "70037c439c74c7f9e8e1a3bc58b92f58": {
-   "id": "70037c439c74c7f9e8e1a3bc58b92f58",
-   "company": "octopusenergy.es",
-   "role": "Women In Trading - Data Scientist",
-   "location": "London"
-  },
-  "cb14ad25112085110e992599c03ff1b6": {
-   "id": "cb14ad25112085110e992599c03ff1b6",
-   "company": "RBC Global Asset Management",
-   "role": "Ai Analyst, Bluebay Asset Management (london)",
    "location": "London"
   },
   "16fc7bbed02ed5d503e086adaa89a773": {
@@ -3266,6 +3290,48 @@
    "role": "2027 Retirement Actuarial Graduate Trainee Consultant Programme, Edinburgh",
    "location": "Midlothian"
   },
+  "8a49739e14e2ddd54bc2fabd7561fcca": {
+   "id": "8a49739e14e2ddd54bc2fabd7561fcca",
+   "company": "Worley",
+   "role": "Project Risk Analyst - London",
+   "location": "London"
+  },
+  "b4e2bc9b73d4ce17209e5d49a1c3ae3f": {
+   "id": "b4e2bc9b73d4ce17209e5d49a1c3ae3f",
+   "company": "G-Research",
+   "role": "Technology Operations Analyst",
+   "location": "London"
+  },
+  "e66cdde3f0b392f28ae28dea86486852": {
+   "id": "e66cdde3f0b392f28ae28dea86486852",
+   "company": "G-Research",
+   "role": "Security Operations and Risk Analyst",
+   "location": "London"
+  },
+  "86e856b500bde4be092df8d028c30685": {
+   "id": "86e856b500bde4be092df8d028c30685",
+   "company": "G-Research",
+   "role": "Quantitative Analyst",
+   "location": "London"
+  },
+  "0050cf6de4181867039371d2a39ded2a": {
+   "id": "0050cf6de4181867039371d2a39ded2a",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Experienced",
+   "location": "London"
+  },
+  "78945e25f6a902e53497cc93a9d2be24": {
+   "id": "78945e25f6a902e53497cc93a9d2be24",
+   "company": "G-Research",
+   "role": "Quantitative Developer",
+   "location": "London"
+  },
+  "b653c06fb1324f5130229e7288edfa44": {
+   "id": "b653c06fb1324f5130229e7288edfa44",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Fundamental Equity Research",
+   "location": "London"
+  },
   "22b42c4894e6ec36bda5e6571605d384": {
    "id": "22b42c4894e6ec36bda5e6571605d384",
    "company": "Alter Domus",
@@ -3368,42 +3434,6 @@
    "role": "Finance Analyst – Cost Insights & Performance",
    "location": "London"
   },
-  "b4e2bc9b73d4ce17209e5d49a1c3ae3f": {
-   "id": "b4e2bc9b73d4ce17209e5d49a1c3ae3f",
-   "company": "G-Research",
-   "role": "Technology Operations Analyst",
-   "location": "London"
-  },
-  "e66cdde3f0b392f28ae28dea86486852": {
-   "id": "e66cdde3f0b392f28ae28dea86486852",
-   "company": "G-Research",
-   "role": "Security Operations and Risk Analyst",
-   "location": "London"
-  },
-  "86e856b500bde4be092df8d028c30685": {
-   "id": "86e856b500bde4be092df8d028c30685",
-   "company": "G-Research",
-   "role": "Quantitative Analyst",
-   "location": "London"
-  },
-  "0050cf6de4181867039371d2a39ded2a": {
-   "id": "0050cf6de4181867039371d2a39ded2a",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Experienced",
-   "location": "London"
-  },
-  "78945e25f6a902e53497cc93a9d2be24": {
-   "id": "78945e25f6a902e53497cc93a9d2be24",
-   "company": "G-Research",
-   "role": "Quantitative Developer",
-   "location": "London"
-  },
-  "b653c06fb1324f5130229e7288edfa44": {
-   "id": "b653c06fb1324f5130229e7288edfa44",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Fundamental Equity Research",
-   "location": "London"
-  },
   "c27dc6f84588a16447d5b7677e3e1997": {
    "id": "c27dc6f84588a16447d5b7677e3e1997",
    "company": "Alixpartners",
@@ -3458,6 +3488,12 @@
    "role": "Sales Budget & Forecast Analyst - External",
    "location": "Luton"
   },
+  "30d5e50ccae9689e708bdd6b0d8b571c": {
+   "id": "30d5e50ccae9689e708bdd6b0d8b571c",
+   "company": "CGI",
+   "role": "Business Analyst",
+   "location": "Leeds"
+  },
   "0b55fb883ae18f9a25af64379a4f2447": {
    "id": "0b55fb883ae18f9a25af64379a4f2447",
    "company": "LGT Wealth Management UK LLP",
@@ -3511,6 +3547,12 @@
    "company": "Arriva Inc",
    "role": "Business Performance Analyst (12-month Ftc)",
    "location": "Doxford"
+  },
+  "677367bcc475198e49aaceddaca2323f": {
+   "id": "677367bcc475198e49aaceddaca2323f",
+   "company": "Mace Group",
+   "role": "Integrated Management System Auditor",
+   "location": "London"
   },
   "3097f6294b4d0e470d7527df285b7025": {
    "id": "3097f6294b4d0e470d7527df285b7025",
@@ -3728,22 +3770,10 @@
    "role": "Emea Middle Office Risk - Pnl Analyst",
    "location": "London"
   },
-  "targetjobs:36f9399e-a3be-4826-8740-c81cadfb45f5": {
-   "id": "targetjobs:36f9399e-a3be-4826-8740-c81cadfb45f5",
-   "company": "Deloitte",
-   "role": "Finance Transformation Consulting – Business Analyst - Summer Vacation Scheme - London",
-   "location": "London"
-  },
-  "targetjobs:aac4cd73-c2e0-4efc-87e3-caad6a71d18a": {
-   "id": "targetjobs:aac4cd73-c2e0-4efc-87e3-caad6a71d18a",
-   "company": "Deloitte",
-   "role": "EEnterprise Applications Consulting - Human Capital - Summer Vacation Scheme - London",
-   "location": "London"
-  },
-  "targetjobs:edb037de-793a-487c-b114-b98193f33bff": {
-   "id": "targetjobs:edb037de-793a-487c-b114-b98193f33bff",
-   "company": "Deloitte",
-   "role": "Enterprise Applications Consulting - Enterprise Resource Planning - London",
+  "b35ecc4c8dfee0063fbecf21656b576e": {
+   "id": "b35ecc4c8dfee0063fbecf21656b576e",
+   "company": "Priory Group",
+   "role": "Bank Healthcare Assistant - Day Shifts",
    "location": "London"
   },
   "525eb5612b0998c68aa98b76cbabf938": {
@@ -4214,11 +4244,29 @@
    "role": "Assistant Cra",
    "location": "United Kingdom"
   },
-  "2c026fc098d1e8e74017b64bd005c0d7": {
-   "id": "2c026fc098d1e8e74017b64bd005c0d7",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Assistant Cra",
-   "location": "United Kingdom"
+  "75278b4536e08d190c7988d31622595d": {
+   "id": "75278b4536e08d190c7988d31622595d",
+   "company": "Sumitomo Electric",
+   "role": "Electrical Maintenance Technician",
+   "location": "Port Of Nigg +1"
+  },
+  "d06d5888c8d9b3d615d17412c9ec035c": {
+   "id": "d06d5888c8d9b3d615d17412c9ec035c",
+   "company": "Prohealth Medical Group Inc",
+   "role": "Mechanic/boiler Operator - Waukesha Memorial - 230-11pm 2nd Shift Fulltime",
+   "location": "Waukesha"
+  },
+  "29ef24b36b8101cdd4236c01bfdf31f9": {
+   "id": "29ef24b36b8101cdd4236c01bfdf31f9",
+   "company": "Priory Group",
+   "role": "Maintenance Technician",
+   "location": "Grafton Regis"
+  },
+  "4e5b1754e368c90493019b180ab9278a": {
+   "id": "4e5b1754e368c90493019b180ab9278a",
+   "company": "Priory Group",
+   "role": "Maintenance Assistant",
+   "location": "Wigginton"
   },
   "3b2beda549354381f99f1488a6b53710": {
    "id": "3b2beda549354381f99f1488a6b53710",
@@ -4676,30 +4724,6 @@
    "role": "Mechanical Technician",
    "location": "Shoeburyness"
   },
-  "15c48b1ee477169db5db151e5bed7177": {
-   "id": "15c48b1ee477169db5db151e5bed7177",
-   "company": "Nexeo Solutions LLC",
-   "role": "Maintenance Technician",
-   "location": "South Kirkby"
-  },
-  "974d44bdc397afcfd209eeb4aa52d99a": {
-   "id": "974d44bdc397afcfd209eeb4aa52d99a",
-   "company": "Cracker Barrel",
-   "role": "Night Maintenance",
-   "location": "Milwaukee"
-  },
-  "651fa3231ba7c8bbe1d6a28949fdb730": {
-   "id": "651fa3231ba7c8bbe1d6a28949fdb730",
-   "company": "Hitachi Energy UK Limited",
-   "role": "Hvdc Service Engineer",
-   "location": "Spittal"
-  },
-  "b49551612b79d2d28ee0d8f1bfe287e4": {
-   "id": "b49551612b79d2d28ee0d8f1bfe287e4",
-   "company": "HITACHI ENERGY UK LIMITED",
-   "role": "Gas Insulated Switchgear Technical Advisor",
-   "location": "Staffordshire"
-  },
   "7fbf0617cdd93b6f368d9230dc2e3b27": {
    "id": "7fbf0617cdd93b6f368d9230dc2e3b27",
    "company": "Lidl GB",
@@ -4723,6 +4747,12 @@
    "company": "Capri",
    "role": "Sales Associate (temp)- Westfield Stratford",
    "location": "London"
+  },
+  "6dcd5fcdad26b07f37b7be56964d80b1": {
+   "id": "6dcd5fcdad26b07f37b7be56964d80b1",
+   "company": "Skechers U.S.A.",
+   "role": "Sales Associate - Trafford Centre",
+   "location": "Manchester"
   },
   "19962ec90c529a8a866ca0593d029c7b": {
    "id": "19962ec90c529a8a866ca0593d029c7b",
@@ -5174,11 +5204,17 @@
    "role": "Oxford Circus- Part Time Sales Associate",
    "location": "London"
   },
-  "f9ce4986fbfa9c2bc3575d5ddc4ffd7a": {
-   "id": "f9ce4986fbfa9c2bc3575d5ddc4ffd7a",
-   "company": "NEXT plc",
-   "role": "Vs Seasonal Sales Associate - Stratford",
-   "location": "London"
+  "807141b3f17efbe80ac8eb881635f91c": {
+   "id": "807141b3f17efbe80ac8eb881635f91c",
+   "company": "Priory Group",
+   "role": "Healthcare Assistant",
+   "location": "Manchester"
+  },
+  "1d55e7f3c173d90f45a8305f802acebe": {
+   "id": "1d55e7f3c173d90f45a8305f802acebe",
+   "company": "Priory Group",
+   "role": "Activity Coordinator",
+   "location": "Wigginton"
   },
   "fa1e231822b2f7e9153e198a365737c8": {
    "id": "fa1e231822b2f7e9153e198a365737c8",
@@ -5647,18 +5683,6 @@
    "company": "PJT Partners",
    "role": "Administrative Assistant (float)",
    "location": "London"
-  },
-  "42f87f3bc14c44d258cc81c759bff64c": {
-   "id": "42f87f3bc14c44d258cc81c759bff64c",
-   "company": "Jll Com Sg",
-   "role": "Facilities Coordinator",
-   "location": "Milton Keynes"
-  },
-  "e2544aaad2352faac131fd59905fd2b2": {
-   "id": "e2544aaad2352faac131fd59905fd2b2",
-   "company": "Armstrong Fluid Technology",
-   "role": "Quality Coordinator",
-   "location": "Manchester"
   }
  }
 }
