@@ -8453,4 +8453,50 @@ _No archived roles yet._
 <tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Stratford</td><td>London</td><td>2026-10-26</td></tr>
 <tr><td>Jll Com Sg</td><td>Facilities Coordinator</td><td>Milton Keynes</td><td>2026-10-26</td></tr>
 <tr><td>Armstrong Fluid Technology</td><td>Quality Coordinator</td><td>Manchester</td><td>2026-10-26</td></tr>
+<tr><td>Sky</td><td>Finance Intern</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>AkzoNobel</td><td>R&D Industrial Placement</td><td>United Kingdom</td><td>2026-10-27</td></tr>
+<tr><td>FlightSafety International</td><td>Operations Enablement Internship - Summer 2027</td><td>United Kingdom</td><td>2026-10-27</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pt Data Analysis & Marketing/sales Intern</td><td>Denham</td><td>2026-10-27</td></tr>
+<tr><td>createyourowncareer</td><td>Technology Support Analyst (ftc)</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Engineer, Investigator Tools</td><td>United Kingdom</td><td>2026-10-27</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Engineer</td><td>United Kingdom</td><td>2026-10-27</td></tr>
+<tr><td>Meta</td><td>Software Engineer - Technical Leadership</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Addepar</td><td>Software Engineer - Customer Facing Applied Ai</td><td>Edinburgh</td><td>2026-10-27</td></tr>
+<tr><td>PhysicsX</td><td>Staff Backend Software Engineer - Go & Python</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Luma</td><td>Research Scientist / Engineer – Performance Optimization</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Luma</td><td>Research Scientist / Engineer – Reinforcement Learning Infrastructure</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Goldman Sachs</td><td>2027 / EMEA / London / Internal Audit / One Year Work Placement</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>CMC Markets</td><td>Liquidity Risk Analyst</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – France & Benelux Corp Dcm - Analyst - London</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Svenska Handelsbanken AB</td><td>Compliance Associate - Developmental (12 Month Secondment) London, United Kingdom Competitive Fixed Term/secondment - Full Time Apply By 20 November, 2026 Posted On 20 October, 2026</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>White & Case</td><td>Analyst, Aml</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Actuary, Assumption Development, R&d</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Actuary, Pricing</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Deal Pricing Actuary, Savings And Retirement</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Model Risk Actuary, Divisional</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Invesco UK</td><td>Foo Analyst Ii, Etf & Index Fixed Income Emea & Na</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Axiom</td><td>Business Development Analyst</td><td>Belfast</td><td>2026-10-27</td></tr>
+<tr><td>Carrier Corporation</td><td>Modernization & Control Solutions Leader Europe</td><td>Uk</td><td>2026-10-27</td></tr>
+<tr><td>Wells Fargo</td><td>Emea Middle Office Risk - Pnl Analyst</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>County Durham</td><td>2026-10-27</td></tr>
+<tr><td>Amazon</td><td>Reliability Maintenance Engineering Technician / Engineering Technician / Electrical Engineer / Maintenance engineer / Service and Maintenance Engineer, AMZL DXW3-RME</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Marmon Group</td><td>Maintenance Engineer</td><td>Derbyshire</td><td>2026-10-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Instruments Service Engineer</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>QinetiQ</td><td>Mechanical Technician</td><td>Shoeburyness</td><td>2026-10-27</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Capri</td><td>Sales Associate</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Seasonal (xmas) Sales Associate - Oxford Street, London</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Urban Outfitters</td><td>Anthropologie Sales Associate ( Seasonal Ftc) - Brent Cross, London</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Oxford, Uk</td><td>Oxford</td><td>2026-10-27</td></tr>
+<tr><td>brunellocucinelli.career</td><td>Sales Associate</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>skechers.dk</td><td>Sales Associate - Oxford Westgate</td><td>Oxford</td><td>2026-10-27</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Oxford Circus- Part Time Sales Associate</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-27</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Newcastle Upon Tyne</td><td>2026-10-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Warehouse Systems Coordinator</td><td>Narberth</td><td>2026-10-27</td></tr>
+<tr><td>Egis in ANZ</td><td>Executive Assistant</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>Egis Group</td><td>Executive Assistant</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>FRESENIUS MEDICAL CARE</td><td>Healthcare Assistant</td><td>Sheffield</td><td>2026-10-27</td></tr>
+<tr><td>Finastra</td><td>Executive Assistant</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>PJT Partners</td><td>Administrative Assistant (float)</td><td>London</td><td>2026-10-27</td></tr>
 </table>
