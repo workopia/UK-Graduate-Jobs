@@ -8499,4 +8499,63 @@ _No archived roles yet._
 <tr><td>FRESENIUS MEDICAL CARE</td><td>Healthcare Assistant</td><td>Sheffield</td><td>2026-10-27</td></tr>
 <tr><td>Finastra</td><td>Executive Assistant</td><td>London</td><td>2026-10-27</td></tr>
 <tr><td>PJT Partners</td><td>Administrative Assistant (float)</td><td>London</td><td>2026-10-27</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Sonymusicpub</td><td>Data Quality & Systems Intern - Student Placement Year</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Claims Intern</td><td>Where</td><td>2026-10-28</td></tr>
+<tr><td>Vertex</td><td>Vertex Summer Intern, Legal (10 Weeks)</td><td>Paddington</td><td>2026-10-28</td></tr>
+<tr><td>Vertex</td><td>Industrial Placement Student - Regulatory Affairs (12 Months)</td><td>Paddington</td><td>2026-10-28</td></tr>
+<tr><td>IOM</td><td>Dtm Reporting Intern [spanish]</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>IOM</td><td>Dtm Reporting Intern [french]</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>AECOM UK</td><td>Engineering Apprentice - Belfast (2027 Start)</td><td>Belfast</td><td>2026-10-28</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Software Engineer</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Lseg</td><td>Software Engineering Opportunities</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Lloyds</td><td>Backend Software Engineer</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Google</td><td>Firmware Engineer, Modem/telephony Protocol And Ai Automation</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>indexone.dev</td><td>Software Engineer - Data Infrastructure</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Ao Ds</td><td>Remote Member Services Specialist</td><td>Waukesha</td><td>2026-10-28</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, AWS Security Epoxy</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Chevron</td><td>Risk Analytics & Digital Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Shamjobs</td><td>Research Engineer, Ai For Health</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Chevron Australia</td><td>Risk Analytics & Digital Analyst</td><td>Westferry</td><td>2026-10-28</td></tr>
+<tr><td>createyourowncareer</td><td>Ai Engineer</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>CUBE</td><td>Data Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>2027 Actuarial Consultant Internship Programme – P&c Insurance, London/reigate</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Exxon Mobil Corporation</td><td>Valuation And Structuring Quantitative Analyst, Gas And Power</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Serco</td><td>Business Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>DXC Technology UK</td><td>Business Analyst - London Market Insurance</td><td>Any City</td><td>2026-10-28</td></tr>
+<tr><td>Delta Capita</td><td>Trade Support Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Modulr Finance Ltd</td><td>Client Risk Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>brightonparkbank.com</td><td>Quantitative Developer</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Morgan Stanley</td><td>Institutional Equity Division - Vice President, Derivatives Strat (london)</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Turner & Townsend</td><td>Project Risk Specialist</td><td>Uk Wide</td><td>2026-10-28</td></tr>
+<tr><td>Royal London</td><td>Actuary Longevity</td><td>Alderley Park</td><td>2026-10-28</td></tr>
+<tr><td>SSE Airtricity</td><td>R2R Accountant</td><td>Dublin +2</td><td>2026-10-28</td></tr>
+<tr><td>G-Research</td><td>Insight Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>RSM UK</td><td>Fy28 Federal Tax Services Associate - Private Company</td><td>Milwaukee</td><td>2026-10-28</td></tr>
+<tr><td>RBC</td><td>Analyst, Delta One Trading</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>TikTok</td><td>Global Export Compliance Counsel</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>CMS LLC</td><td>Finance Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Assistant Cra</td><td>United Kingdom</td><td>2026-10-28</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cambridgeshire</td><td>2026-10-28</td></tr>
+<tr><td>Hilton Worldwide</td><td>Maintenance Assistant</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>BMW Group</td><td>Maintenance Technician</td><td>Unknown</td><td>2026-10-28</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Maintenance Technician</td><td>Staverton</td><td>2026-10-28</td></tr>
+<tr><td>Vanderlande</td><td>Service Technician</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Skechers.fi</td><td>Oxford Circus- Part Time Sales Associate</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Reiss</td><td>Sales Associate (part-time) / Manchester Trafford Centre</td><td>Manchester</td><td>2026-10-28</td></tr>
+<tr><td>Salomon</td><td>Sales Associate Westfield - 20h/week</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Urban Outfitters</td><td>Anthropologie Sales Associate - King&#039;s Road, London</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>HMP Deerbolt</td><td>2026-10-28</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Plaistow</td><td>2026-10-28</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Administrator</td><td>Search By Postal Code</td><td>2026-10-28</td></tr>
+<tr><td>Celeros Flow Technology</td><td>Project Coordinator - Inspection</td><td>Glasgow</td><td>2026-10-28</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Electrical Construction Planner</td><td>United Kingdom</td><td>2026-10-28</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Admin/call Centre Assistant - Morningside</td><td>Morningside</td><td>2026-10-28</td></tr>
+<tr><td>Light & Wonder</td><td>Executive Assistant</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Bupa Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Cheltenham</td><td>Gloucester</td><td>2026-10-28</td></tr>
+<tr><td>Hilton</td><td>Event Specialist Hws Emea</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>JPMorgan Chase</td><td>Cib Events And Sponsorships Ticket Analyst</td><td>London</td><td>2026-10-28</td></tr>
 </table>
