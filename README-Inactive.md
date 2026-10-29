@@ -8558,4 +8558,78 @@ _No archived roles yet._
 <tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Cheltenham</td><td>Gloucester</td><td>2026-10-28</td></tr>
 <tr><td>Hilton</td><td>Event Specialist Hws Emea</td><td>London</td><td>2026-10-28</td></tr>
 <tr><td>JPMorgan Chase</td><td>Cib Events And Sponsorships Ticket Analyst</td><td>London</td><td>2026-10-28</td></tr>
+<tr><td>Crowdstrike</td><td>Incident Response Internship - Professional Services - Summer 2027</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Capstone Investment Advisors</td><td>Summer 2027 - Tech Enterprise Internship</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Capstone Investment Advisors</td><td>Summer 2027 - Risk Internship</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Hearst Networks</td><td>TV Scheduling and Navigation (On-Air) Placement Intern</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>BMW Group</td><td>Parts Quality - Placement Year</td><td>Goodwood</td><td>2026-10-29</td></tr>
+<tr><td>Bosch Rexroth</td><td>Finance Intern</td><td>Denham</td><td>2026-10-29</td></tr>
+<tr><td>Arriva</td><td>Apprentice Train Driver- Manchester</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>Hilton Worldwide</td><td>Reception Apprentice</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Holcim UK</td><td>Materials Technician Apprentice</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Hargreaves Lansdown</td><td>Software Engineer - Investment Growth</td><td>United Kingdom</td><td>2026-10-29</td></tr>
+<tr><td>Land Securities Group</td><td>Java Developer (blockchain)</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Land Securities Group</td><td>Attack Monitoring Analyst (gsoc)</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Amazon</td><td>Forward Deployed Engineer, AWS Forward Deployed Engineering</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Nasdaq Inc.</td><td>Avp - Data Science (nts)</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Two Sigma</td><td>Data Operations Analyst - Global Data Operations</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Actuarial Consultant Internship Programme – P&c Insurance, London/reigate</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Jane Street</td><td>Compliance Analyst</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Quadrature</td><td>Quantitative Developer</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Drweng</td><td>Quantitative Trading Analyst</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>AJG United Kingdom</td><td>Analyst - Investment Portfolio Solutions</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Barclays</td><td>Business Analyst</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>Arriva Inc</td><td>Business Performance Analyst (12-month Ftc)</td><td>Doxford</td><td>2026-10-29</td></tr>
+<tr><td>Mace Group</td><td>Integrated Management System Auditor</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Actuarial Analyst</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>ICE</td><td>Risk Analyst</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Fixed Income Division- Associate/ Vp, Junior Commodities Options Trader (london)</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Millennium Management</td><td>Compliance Analyst</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Finance Analyst - Assessment Day</td><td>Salford Quays</td><td>2026-10-29</td></tr>
+<tr><td>JPMorgan Chase</td><td>Us Analyst – Firmwide Economic Scenarios</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>FDM Group</td><td>Finance Data Transformation Business Analyst- London</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Evri</td><td>Transport Development Auditor</td><td>United Kingdom</td><td>2026-10-29</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Analyst, Live Service, Market Operations</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Bloomberg LP</td><td>Compliance Officer – Indices/benchmark Administration</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>HCRG Care Group</td><td>Children's Community Carer - Surrey Redhill, United Kingdom Starting Salary Of £25,500 Plus Group Pension Permanent - Full Or Part Time Apply By 27 September, 2026 Posted On 11 September, 2026</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Clinical Research Associate Ii (cra Ii) – Fsp Business Unit</td><td>UK</td><td>2026-10-29</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Assistant Cra</td><td>UK</td><td>2026-10-29</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cumbria</td><td>2026-10-29</td></tr>
+<tr><td>Priory Group</td><td>Maintenance Technician</td><td>Grafton Regis</td><td>2026-10-29</td></tr>
+<tr><td>Hilton</td><td>Maintenance Assistant</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Maintenance Technician</td><td>Ellistown</td><td>2026-10-29</td></tr>
+<tr><td>Linde Material Handling</td><td>Field Service Engineer</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>linde-mh.de</td><td>Maintenance Technician</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>Service And Callout Engineer</td><td>East Midlands</td><td>2026-10-29</td></tr>
+<tr><td>Dematic Inc</td><td>Maintenance Technician</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>GXO Logistics</td><td>Maintenance Engineer (nights)</td><td>Milton Keynes</td><td>2026-10-29</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Care & Maintenance Technician</td><td>Search By Postal Code</td><td>2026-10-29</td></tr>
+<tr><td>Vaillant Group U.K. Ltd</td><td>Field Service Engineer - Covering Postcodes N And Nw</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Severn Trent Plc</td><td>Maintenance Technician</td><td>Gloucestershire</td><td>2026-10-29</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 10h/week</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Sales Associate, Calvin Klein - St.pancras</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Part Time Sales Associate, Tommy Hilfiger - The O2</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Bicester Womens & Kids</td><td>Oxford</td><td>2026-10-29</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Part-time Sales Associate, Tommy Hilfiger - Oxford</td><td>Oxford</td><td>2026-10-29</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein St Pancras</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Regent Street</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Peter Jones John Lewis</td><td>Part Time Brand Specialist, Tommy Hilfiger & Calvin Klein - Peter Jones John Lewis</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Seasonal Sales Associate, Tommy Hilfiger Trafford Centre</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Calvin Klein Bicester</td><td>Oxford</td><td>2026-10-29</td></tr>
+<tr><td>Capri</td><td>Michael Kors Sales Associate</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>Gianni Versace</td><td>Sales Associate- Stratford- London- Part Time</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Michael Kors</td><td>Sales/key Holder- Stratford-london</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Capri</td><td>Sales Associate- Stratford- London- Part Time</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - Vs Trafford (n132084)</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>Calvin Klein</td><td>Seasonal Sales Associate, Tommy Hilfiger London O2</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 16h (temporary)</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-10-29</td></tr>
+<tr><td>JOHNSON CONTROLS</td><td>Customer Service Coordinator</td><td>Manchester</td><td>2026-10-29</td></tr>
+<tr><td>PwC UK</td><td>Administrative Assistant</td><td>United Kingdom</td><td>2026-10-29</td></tr>
+<tr><td>PwC Sweden</td><td>Executive Support Assistant</td><td>Saint Helier</td><td>2026-10-29</td></tr>
+<tr><td>Calvin Klein</td><td>Part Time Supervisor, Calvin Klein - St. Pancras</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Michael Kors</td><td>Digital Commerce Coordinator</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>iProspect Ukraine</td><td>Pa And Team Assistant</td><td>London</td><td>2026-10-29</td></tr>
 </table>
