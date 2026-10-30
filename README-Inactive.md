@@ -8632,4 +8632,89 @@ _No archived roles yet._
 <tr><td>Calvin Klein</td><td>Part Time Supervisor, Calvin Klein - St. Pancras</td><td>London</td><td>2026-10-29</td></tr>
 <tr><td>Michael Kors</td><td>Digital Commerce Coordinator</td><td>London</td><td>2026-10-29</td></tr>
 <tr><td>iProspect Ukraine</td><td>Pa And Team Assistant</td><td>London</td><td>2026-10-29</td></tr>
+<tr><td>Baker Hughes</td><td>Intern - Software Engineering - 2027</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Amazon</td><td>Program Manager Internship</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Aws Emea Sarl (Uk Branch)</td><td>Associate Solutions Architect Internship 2027</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Hpe Jobsathpe</td><td>Networking Intern - Placement Year</td><td>Winnersh</td><td>2026-10-30</td></tr>
+<tr><td>Hewlett Packard Enterprise (HPE)</td><td>Networking Intern - Placement Year</td><td>Winnersh</td><td>2026-10-30</td></tr>
+<tr><td>Temper</td><td>Marketplace Success Internship</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Linnaeus</td><td>Rotating Internship</td><td>Cambridgeshire</td><td>2026-10-30</td></tr>
+<tr><td>Paramount</td><td>Broadcast Engineer Placement / Intern</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Crimson Hotels Group</td><td>Intern/Work Placement - Front Of House 2027</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Crimson Hotels Group</td><td>Intern/Work Placement - Culinary 2027</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Simpson Spence Young</td><td>Internships: Derivatives Broking</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Vertex Pharmaceuticals</td><td>Supply Chain Industrial Placement</td><td>Paddington</td><td>2026-10-30</td></tr>
+<tr><td>AECOM UK</td><td>Highways Civil Engineering Apprentice - Belfast (2027 Starts)</td><td>Belfast</td><td>2026-10-30</td></tr>
+<tr><td>Bankstcharles</td><td>Api Software Engineer</td><td>Glasgow</td><td>2026-10-30</td></tr>
+<tr><td>BT Group</td><td>Software Engineer</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>BT Group</td><td>Software Engineering Professional</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Institutehumanbiology</td><td>Software Engineer</td><td>Welwyn</td><td>2026-10-30</td></tr>
+<tr><td>Legal & General Group</td><td>Information Security Analyst (6 month FTC)</td><td>Brighton And Hove</td><td>2026-10-30</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer (python)</td><td>United Kingdom</td><td>2026-10-30</td></tr>
+<tr><td>Too Good To Go</td><td>Backend Software Engineer</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Jobgether</td><td>Support Specialist - Finance</td><td>United Kingdom</td><td>2026-10-30</td></tr>
+<tr><td>FDM Group</td><td>Java Developer- Glasgow</td><td>Glasgow</td><td>2026-10-30</td></tr>
+<tr><td>G-Research</td><td>Software Engineer &#8211; Engineering Tools</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>It Assistant</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Hargreaves Lansdown Jobs</td><td>Software Engineer</td><td>Bristol</td><td>2026-10-30</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Vice President, Cloud Engineer - Ai Engineer</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>AstraZeneca Pharmaceuticals LP</td><td>Ai Activation Specialist</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Howdenre</td><td>Data Insights Analyst</td><td>United Kingdom</td><td>2026-10-30</td></tr>
+<tr><td>Howden</td><td>Data Analyst - Specialty</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>IFS</td><td>Ai Engineer - Front End</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Turner & Townsend</td><td>Security Cleared Data Analyst - Defence Programme</td><td>Uk Wide</td><td>2026-10-30</td></tr>
+<tr><td>Wandsworth Council</td><td>Public Health Data Analyst Wandsworth, London, Twickenham, Greater London £44,982 - £54,507 Fixed Term – Full Time (36 Hours) Apply By 1 November, 2026 Posted On 12 October, 2026</td><td>Wandsworth +2</td><td>2026-10-30</td></tr>
+<tr><td>BGBx</td><td>Summer Associate Consultant, Life Sciences Strategy</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Quantitative FIC Internship Programme</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Deutsche Bank</td><td>Deutsche Bank Quantitative GSA Internship Programme</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Citi</td><td>Client Onboarding Analyst</td><td>Belfast</td><td>2026-10-30</td></tr>
+<tr><td>Land Securities</td><td>Finance Analyst – Cost Insights & Performance</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Alixpartners</td><td>Strategic Finance Business Partner</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>DB Cargo France</td><td>Leveraged Debt Capital Markets (ldcm) European Loan And High Yield Capital Markets Syndicator</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Finance Analyst</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>MUFG</td><td>2027 MUFG UK Analyst Programme: Global Markets - Markets Engineering</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Monzo Bank</td><td>Finance Analyst</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Royal London</td><td>Demographic Risk Analyst</td><td>Alderley Edge</td><td>2026-10-30</td></tr>
+<tr><td>Royal London Asset Management</td><td>Data Business Analyst (rlam)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Formula 1</td><td>Digital Operations Support Analyst</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>TUI Musement</td><td>Sales Budget & Forecast Analyst - External</td><td>Luton</td><td>2026-10-30</td></tr>
+<tr><td>Chubb Ltd.</td><td>Risk & Capital Actuary</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Chubb</td><td>Risk & Capital Actuary</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>CGI</td><td>Business Analyst</td><td>Leeds</td><td>2026-10-30</td></tr>
+<tr><td>LGT Wealth Management UK LLP</td><td>Front Office Risk & Control Analyst</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Morrisons</td><td>Accountant - Cash</td><td>Hilmore House</td><td>2026-10-30</td></tr>
+<tr><td>Morrisons</td><td>Accountant - Convenience - Ambient</td><td>Hilmore House</td><td>2026-10-30</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Wards (bank)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Syneos Health</td><td>Clinical Reseach Associate - Uk - Multi-sponsor</td><td>United Kingdom</td><td>2026-10-30</td></tr>
+<tr><td>HCRG Care Group</td><td>Children's Community Carer - Surrey Chertsey, United Kingdom Starting Salary Of £25,500 Plus Group Pension Permanent - Full Or Part Time Apply By 27 September, 2026 Posted On 11 September, 2026</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Lanarkshire</td><td>2026-10-30</td></tr>
+<tr><td>Hilton Worldwide</td><td>Maintenance Assistant</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Marshall Motor Group</td><td>Service Technician</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>Momento Elephant And Castle - Park Central East</td><td>2026-10-30</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Warehouse Maintenance Operative</td><td>United Kingdom</td><td>2026-10-30</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Maintenance Assistant</td><td>Ellistown</td><td>2026-10-30</td></tr>
+<tr><td>VFC Corporation</td><td>Sales Associates (part Time)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 14h/week</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Balenciaga UK Ltd</td><td>Balenciaga - Sales Associate, Selfridges</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate (seasonal Ftc) - Trafford Centre, Manchester</td><td>Manchester</td><td>2026-10-30</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Watford (n132278)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Watford (n132279)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>CoStar Group</td><td>Inside Sales Associate, Str - London</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>CoStar Group</td><td>Product Support Associate, Str - London</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Free People (URBN)</td><td>Anthropologie Sales Associate (seasonal Ftc) - Islington, London</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Levi Strauss & Co.</td><td>Sales Representative / Week Availability-1</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist (8 Hour)</td><td>Manchester</td><td>2026-10-30</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist (3 Month Contract)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>198 High Street</td><td>2026-10-30</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Chandlers Ford</td><td>2026-10-30</td></tr>
+<tr><td>Rbsfuel</td><td>Leadership Support Assistant (12 Months)</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Monday</td><td>Executive Assistant</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Hilton Worldwide</td><td>Casual Membercare Assistant</td><td>Brighton</td><td>2026-10-30</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Global Merchandising Admin Assistant</td><td>Paddington</td><td>2026-10-30</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Liverpool</td><td>2026-10-30</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Executive Assistant - Corporate & Investment Banking Europe</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Bilfinger SE</td><td>Project Coordinator</td><td>Hinkley Point C</td><td>2026-10-30</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administration Assistant</td><td>London</td><td>2026-10-30</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Bank Administration Assistant</td><td>Stevenage</td><td>2026-10-30</td></tr>
+<tr><td>DS Smith PLC</td><td>Customer Service Coordinator</td><td>Swindon</td><td>2026-10-30</td></tr>
 </table>
