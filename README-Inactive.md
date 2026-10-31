@@ -8717,4 +8717,79 @@ _No archived roles yet._
 <tr><td>Ramsay Health Care UK</td><td>Administration Assistant</td><td>London</td><td>2026-10-30</td></tr>
 <tr><td>Ramsay Health Care UK</td><td>Bank Administration Assistant</td><td>Stevenage</td><td>2026-10-30</td></tr>
 <tr><td>DS Smith PLC</td><td>Customer Service Coordinator</td><td>Swindon</td><td>2026-10-30</td></tr>
+<tr><td>Philip Morris International</td><td>Interns Program</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>HP Inc</td><td>Placement Year - Uk&i Ps Category Intern</td><td>Reading</td><td>2026-10-31</td></tr>
+<tr><td>Apple</td><td>Internship - Machine Learning Research - Speech-to-speech Translation</td><td>United Kingdom</td><td>2026-10-31</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Rooms - Internship</td><td>Umluj</td><td>2026-10-31</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Food & Beverage - Internship</td><td>Umluj</td><td>2026-10-31</td></tr>
+<tr><td>AECOM UK</td><td>Traffic Engineering Apprentice - Manchester (2027 Start)</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>jcdecaux.co.uk</td><td>Technician Digital Hardware - Apprentice</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Citi</td><td>Software Engineer – Margin Technology</td><td>Belfast</td><td>2026-10-31</td></tr>
+<tr><td>Wayve</td><td>Software Engineer - Map & Route</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>NatWest Group</td><td>Software Engineer, Full Stack</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Apple</td><td>Software Engineer, London</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Bjak</td><td>Software Engineer, Desktop</td><td>United Kingdom</td><td>2026-10-31</td></tr>
+<tr><td>G-Research</td><td>Functional Programmer</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Roller Software</td><td>Software Engineer - Localisation</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Rbsfuel</td><td>Back End Engineer</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - Java, Ai</td><td>Glasgow</td><td>2026-10-31</td></tr>
+<tr><td>AIG Inc</td><td>Data Scientist, Genai</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Heidi Health</td><td>Clinical Ai Engineer</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>ICF International</td><td>Associate Data Scientist</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>ICF International</td><td>Data Scientist</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Data Analyst Joint Design Office (jdo)</td><td>Hinkley Point C</td><td>2026-10-31</td></tr>
+<tr><td>Anthropic</td><td>Applied Ai Engineer, Beneficial Deployments (lab Automation)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Brightonparkbank</td><td>Credit Risk Data Analyst</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Alter Domus</td><td>Corporate Governance Officer</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Closedown Accountant - Council</td><td>Medway</td><td>2026-10-31</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Closedown Accountant (collection Fund) - Council</td><td>Medway</td><td>2026-10-31</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Analyst Program - Risk And Compliance (london)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Innocent Drinks</td><td>Business Analyst (talent Pool)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Citi Handlowy</td><td>Quantitative Analyst - Fx Options</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>GRUPO SANTANDER</td><td>Vp, Global Banking - Technology, Media, & Telecommunications / Scib</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Funding Circle</td><td>Loan Operations Analyst</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Citi Handlowy</td><td>Abs Financing & Securitisation, Vp</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Christie's</td><td>Junior Compliance Analyst</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Vp, Financial Crime Compliance – Uk Corporate Bank</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Bord Gais Energy Ltd</td><td>Short Term Build Analyst</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>Waitrose & Partners</td><td>Compliance Assurance Analyst (fs)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Hologic</td><td>Commercial Insights Analyst</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – Central & Eastern Europe Coverage – Analyst – London</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Land Securities</td><td>Management Information Finance Analyst</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Registered Nurse</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Bupa Abbotsleigh Mews Care Home</td><td>Registered Nurse</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Warwickshire</td><td>2026-10-31</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Mechanical Technician</td><td>Location</td><td>2026-10-31</td></tr>
+<tr><td>Danish Crown</td><td>Bugle Maintenance Engineer Pl26 8rr</td><td>Bugle</td><td>2026-10-31</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Electrical Meter Technician</td><td>Location</td><td>2026-10-31</td></tr>
+<tr><td>Getinge</td><td>Field Service Engineer</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Verisure S.A.</td><td>Field Maintenance Engineer Ote 50k</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Mettler Toledo UK</td><td>Field Service Technician</td><td>Unknown</td><td>2026-10-31</td></tr>
+<tr><td>Aliaxis</td><td>Maintenance Engineer (mechanical)</td><td>Cambridge</td><td>2026-10-31</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Field Service Technician (m/f/d)</td><td>United Kingdom</td><td>2026-10-31</td></tr>
+<tr><td>Electrosonic Group</td><td>Field Service Engineer (london & South)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>DS Smith PLC</td><td>Site Maintenance Engineer</td><td>Cambridge</td><td>2026-10-31</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Field Engineer (south West Region)</td><td>South West England</td><td>2026-10-31</td></tr>
+<tr><td>Beyond Yoga</td><td>Temp Stylist (sales Advisor) 10 Hours - Levi's Carnaby</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Balenciaga UK Ltd</td><td>Balenciaga - Sales Associate Mandarin Speaker, Selfridges</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 4)</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Decathlon S.A</td><td>Part-time Fitness Sport Advisor (sales Assistant)</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>KITH</td><td>Customer Experience Associate</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Intuitive Surgical, Inc.</td><td>Clinical Sales Associate</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>M.J. Bale</td><td>Sales Associates - Jermyn Street, London</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Jimmy Choo</td><td>Ftc Sales Associate - Manchester Trafford - Uk</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>Nike</td><td>Sales Associate 8h Pt</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>santander-karriere.de</td><td>Customer Experience Advisor / S1 / Retail Banking / Piccadilly</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Prelude Growth Partners</td><td>22.5 PT/FT Retail Artist - Selfridges / London</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Priorityhondaroanoke</td><td>Seasonal Sales Associate, Tommy Hilfiger Stratford</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Brunello Cucinelli S.p.A</td><td>Sales Associate - Menswear - Selfridges</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Lewisham</td><td>2026-10-31</td></tr>
+<tr><td>Jimmy Choo</td><td>Email Marketing Coordinator</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>Mondelēz International</td><td>Administration Assistant</td><td>Minworth</td><td>2026-10-31</td></tr>
+<tr><td>Wnt Signaling</td><td>Executive Assistant</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>ZwillGen</td><td>Newsroom Coordinator And Exec Assistant, Cnbc</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>JCI</td><td>Facilities Coordinator</td><td>Manchester</td><td>2026-10-31</td></tr>
+<tr><td>AJG United Kingdom</td><td>Client Events Coordinator</td><td>London</td><td>2026-10-31</td></tr>
+<tr><td>KBR Inc</td><td>Project Support</td><td>Cumbria</td><td>2026-10-31</td></tr>
 </table>
