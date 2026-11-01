@@ -8792,4 +8792,52 @@ _No archived roles yet._
 <tr><td>JCI</td><td>Facilities Coordinator</td><td>Manchester</td><td>2026-10-31</td></tr>
 <tr><td>AJG United Kingdom</td><td>Client Events Coordinator</td><td>London</td><td>2026-10-31</td></tr>
 <tr><td>KBR Inc</td><td>Project Support</td><td>Cumbria</td><td>2026-10-31</td></tr>
+<tr><td>Ardian</td><td>Private Credit Intern - December 2026 / London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Marsh Governance Intern 2027</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>EBRD</td><td>Intern Infra</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Vertex</td><td>International Insights, Analytics And Commercial Operations – Industrial Placement (12 Months)</td><td>Paddington</td><td>2026-11-01</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Electrical Engineering – 2027</td><td>Gb</td><td>2026-11-01</td></tr>
+<tr><td>Accenture</td><td>London Cyber Security 12 Month Industrial Placement 2027 - 2028</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Expedia Group</td><td>Applied Science Intern - PhD - 2027 - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Expedia Group</td><td>Applied Science Intern - Masters - 2027 - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>The Walt Disney Company</td><td>Consumer Research and Data Insights Internship</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>The Walt Disney Company</td><td>Product Licensing and Buying Internship</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Nordic Capital AB</td><td>Internship London - Spring 2027</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>FlightSafety International</td><td>Systems Engineer Internship - Summer 2027</td><td>United Kingdom</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Sustainability</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Powder Bed</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Machining</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Lmd Wire</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Composites</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>GKN Aerospace</td><td>Technology Intern - Automation</td><td>Bristol</td><td>2026-11-01</td></tr>
+<tr><td>JPMorgan Chase</td><td>2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Expedia</td><td>Applied Science Intern - Phd - 2027 - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Expedia</td><td>Applied Science Intern - Masters - 2027 - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>HP</td><td>Placement Year - Uk&i Ps Category Intern</td><td>Reading</td><td>2026-11-01</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Optical Assistant Apprentice - Dorking</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Spectacle Technician Apprenticeship</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Haysmac</td><td>Audit School Leaver Apprentice, September 2027 / Haysmac</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>BP Retail UK</td><td>Software Engineer</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>TP ICAP</td><td>Engineer C# (full Stack)</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Jobgether</td><td>Reporting / Visualization Analyst</td><td>Uk</td><td>2026-11-01</td></tr>
+<tr><td>Halfspace ApS</td><td>Ai Native Software Engineering</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>The Fidelis Partnership</td><td>UCD Actuarial Placement</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>MUFG</td><td>2027 MUFG UK Summer Analyst Programme: Internal Audit</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>2027 Retirement Actuarial Graduate Trainee Consultant Programme, Edinburgh</td><td>Midlothian</td><td>2026-11-01</td></tr>
+<tr><td>Citi</td><td>Functions - Internal Audit, Full-time Analyst - London, 2027</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst - Fx Options</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Citi</td><td>Credit Officer</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>News Corp</td><td>Finance Analyst</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>CGI</td><td>Agile Business Analyst - Digital Transformation</td><td>United Kingdom</td><td>2026-11-01</td></tr>
+<tr><td>Worley</td><td>Project Risk Analyst - London</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Tesco</td><td>Automation Maintenance Engineer</td><td>Unknown</td><td>2026-11-01</td></tr>
+<tr><td>PHS Group</td><td>Installation Field Service Engineer - Midlands</td><td>Midlands</td><td>2026-11-01</td></tr>
+<tr><td>Veolia UK</td><td>Service Engineer</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours, Battersea Man)</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Intuitive Surgical, Inc.</td><td>Clnical Sales Associate</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate-8</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Johnson Matthey Catalysts GmbH</td><td>Receptionist & Administration Assistant</td><td>Sonning</td><td>2026-11-01</td></tr>
+<tr><td>Wellcome Trust</td><td>Global Events Officer</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>IMG</td><td>Executive Assistant</td><td>London</td><td>2026-11-01</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Facilities Coordinator</td><td>All</td><td>2026-11-01</td></tr>
 </table>
