@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-01",
+ "asOf": "2026-11-02",
  "count": 960,
  "jobs": {
   "2756262": {
@@ -488,6 +488,12 @@
    "role": "Spring Insight Programme 2027 - UK",
    "location": "London"
   },
+  "587adbcbbbf299131de8ed49c2319258": {
+   "id": "587adbcbbbf299131de8ed49c2319258",
+   "company": "WTW / Willis Towers Watson",
+   "role": "2027 Level 3 Pensions Administration Apprenticeship Programme, Redhill",
+   "location": "London"
+  },
   "6032a9cb21da7983aa71f3cab16a90f2": {
    "id": "6032a9cb21da7983aa71f3cab16a90f2",
    "company": "WTW / Willis Towers Watson",
@@ -962,12 +968,6 @@
    "role": "2027 Project Planning & Controls Apprentice",
    "location": "Belfast"
   },
-  "44d2e3a2fdca6b5ded50ec1e024f0131": {
-   "id": "44d2e3a2fdca6b5ded50ec1e024f0131",
-   "company": "THALES",
-   "role": "2027 Academy Engineer Apprentice - Level 5 Higher Level Apprenticeship - Mechatronic Engineering",
-   "location": "Belfast"
-  },
   "targetjobs:f0e3ede1-71d6-4e4a-b18c-88f1c03c3713": {
    "id": "targetjobs:f0e3ede1-71d6-4e4a-b18c-88f1c03c3713",
    "company": "Mbdacareers",
@@ -1315,6 +1315,24 @@
    "company": "NXP USA INC.",
    "role": "Graduate Ai And Software Engineer - Automotive Mpus",
    "location": "Glasgow"
+  },
+  "a9e126203bdeee3244de77841f0dc42a": {
+   "id": "a9e126203bdeee3244de77841f0dc42a",
+   "company": "Brinks",
+   "role": "Technical Support",
+   "location": "Head Office"
+  },
+  "31e6141510fae4fea6df6420612cd1d0": {
+   "id": "31e6141510fae4fea6df6420612cd1d0",
+   "company": "Brinks",
+   "role": "Technical Support-2",
+   "location": "Head Office"
+  },
+  "f8788614802c4201444748670c0d0c55": {
+   "id": "f8788614802c4201444748670c0d0c55",
+   "company": "IFS",
+   "role": "Full Stack Engineer - Ai Engineering - New Capabilities",
+   "location": "London"
   },
   "541147644a00c63a03e2095ec9caf34f": {
    "id": "541147644a00c63a03e2095ec9caf34f",
@@ -1778,24 +1796,6 @@
    "role": "Software Engineer Iii - React",
    "location": "London"
   },
-  "7288d748b28089f0f65db24be8135199": {
-   "id": "7288d748b28089f0f65db24be8135199",
-   "company": "Apple",
-   "role": "Ui Software Engineer, Cocoa",
-   "location": "United Kingdom"
-  },
-  "421370ba420cd5975f2ecabaa3821f87": {
-   "id": "421370ba420cd5975f2ecabaa3821f87",
-   "company": "ZEISS Group",
-   "role": "Software Engineer",
-   "location": "Cambridge"
-  },
-  "5b39fe7251dac80038cb601af7b2df41": {
-   "id": "5b39fe7251dac80038cb601af7b2df41",
-   "company": "MSX International Ltd",
-   "role": "Telematics Service Desk Analyst",
-   "location": "Gaydon"
-  },
   "d92ce97450b20ee4f379f3579afd8a12": {
    "id": "d92ce97450b20ee4f379f3579afd8a12",
    "company": "TikTok",
@@ -2011,6 +2011,12 @@
    "company": "IISBMS",
    "role": "Aggp2027 - Graduate Ai Engineer",
    "location": "Filton"
+  },
+  "dab21371be8a5f61d1ffb11b037388c4": {
+   "id": "dab21371be8a5f61d1ffb11b037388c4",
+   "company": "Vrbo (Expedia Group)",
+   "role": "Data Scientist Iii, Hotels.com Analytics",
+   "location": "United Kingdom"
   },
   "a1519321a72bc633cb0fa79dc9765b26": {
    "id": "a1519321a72bc633cb0fa79dc9765b26",
@@ -2484,12 +2490,6 @@
    "id": "18662d85152c74d9831b2f546c9c9e62",
    "company": "Apple",
    "role": "Data Scientist - Wpc - Analytics",
-   "location": "United Kingdom"
-  },
-  "aba712cf69cd0f8d2d105efff680454a": {
-   "id": "aba712cf69cd0f8d2d105efff680454a",
-   "company": "Apple",
-   "role": "Generative Ai Research Engineer, Siri Speech",
    "location": "United Kingdom"
   },
   "targetjobs:4414d072-e5e9-4ff5-ae25-6e860fadf002": {
@@ -3368,6 +3368,12 @@
    "role": "Graduate Credit Analyst",
    "location": "London"
   },
+  "1c36f69949613e6ff4b1dd2d0863447c": {
+   "id": "1c36f69949613e6ff4b1dd2d0863447c",
+   "company": "Sibelco",
+   "role": "Accountant",
+   "location": "Talke"
+  },
   "e66cdde3f0b392f28ae28dea86486852": {
    "id": "e66cdde3f0b392f28ae28dea86486852",
    "company": "G-Research",
@@ -3841,12 +3847,6 @@
    "company": "SSE Airtricity",
    "role": "Authorisation Officer - Operational Safety",
    "location": "Inverness +2"
-  },
-  "76d0855922ee9900a497b9d85517adb8": {
-   "id": "76d0855922ee9900a497b9d85517adb8",
-   "company": "Morgan Stanley UK",
-   "role": "Investment Banking - France Fig - Associate",
-   "location": "London"
   },
   "7d8d4900d28720091d98d83d717d9dd3": {
    "id": "7d8d4900d28720091d98d83d717d9dd3",
@@ -4322,6 +4322,36 @@
    "role": "Care Assistant Wimbledon Common Care Home, 6 Victoria Drive, London, United Kingdom £13.85 Per Hour Permanent Apply By 5 October, 2026 Posted On 14 September, 2026",
    "location": "London"
   },
+  "1cd849b18ae9bdc1910dea6050571365": {
+   "id": "1cd849b18ae9bdc1910dea6050571365",
+   "company": "Tesco",
+   "role": "Service Maintenance Technician - Refrigeration",
+   "location": "London"
+  },
+  "557da57189d60a801bc3a3976e63ba9b": {
+   "id": "557da57189d60a801bc3a3976e63ba9b",
+   "company": "Tesco",
+   "role": "Maintenance Technician",
+   "location": "Notting Hill Gate"
+  },
+  "96f0e594f4892c211cedcd4fa2748d4c": {
+   "id": "96f0e594f4892c211cedcd4fa2748d4c",
+   "company": "Nestle SA",
+   "role": "Shift Technician (4 On/4 Off)",
+   "location": "Dalston"
+  },
+  "2c5fd828e73c0edf518bf136ceb45a85": {
+   "id": "2c5fd828e73c0edf518bf136ceb45a85",
+   "company": "Brinks",
+   "role": "Field Service Engineer - North London",
+   "location": "North London"
+  },
+  "7ec5c934a76e6d6024f75be9480e516c": {
+   "id": "7ec5c934a76e6d6024f75be9480e516c",
+   "company": "NoteMachine (A Brink's Company)",
+   "role": "Field Service Engineer",
+   "location": "South West London"
+  },
   "f090a81442cc37e24c4773574835e756": {
    "id": "f090a81442cc37e24c4773574835e756",
    "company": "Britvic plc",
@@ -4772,34 +4802,16 @@
    "role": "Field Service Engineer",
    "location": "Kiev +1"
   },
-  "c82a7072641f0ce7d759a35491894edd": {
-   "id": "c82a7072641f0ce7d759a35491894edd",
-   "company": "Getinge AB",
-   "role": "Field Service Engineer",
-   "location": "Derby"
-  },
-  "9451fd01b9516e0e1a3d61b01a07e3d6": {
-   "id": "9451fd01b9516e0e1a3d61b01a07e3d6",
-   "company": "Rubax Lifts Limited",
-   "role": "East Midlands Service And Callout Engineer Engl",
-   "location": "East Midlands"
-  },
-  "7afc75616fe96b15a5ff26276b15e27f": {
-   "id": "7afc75616fe96b15a5ff26276b15e27f",
-   "company": "Rubax Lifts Limited",
-   "role": "Cheshire Service And Callout Engineer Engl",
-   "location": "Cheshire"
-  },
-  "98a0cb7a160102dac38749ef2597db36": {
-   "id": "98a0cb7a160102dac38749ef2597db36",
-   "company": "Rubax Lifts Limited",
-   "role": "London Lift Service Engineer Engl",
+  "d32791d7e4af9964c1fd5551af7495ca": {
+   "id": "d32791d7e4af9964c1fd5551af7495ca",
+   "company": "The Estée Lauder Companies Inc.",
+   "role": "Travel Retail - Le Labo - Soul - Heathrow Airport T4 - Full Time 36hrs",
    "location": "London"
   },
-  "39b36a38fd94a7e0011afa3eca12c4ae": {
-   "id": "39b36a38fd94a7e0011afa3eca12c4ae",
-   "company": "Vanderlande UK",
-   "role": "Service Technician",
+  "07d0ab6fc069d8c06c700abcabc67558": {
+   "id": "07d0ab6fc069d8c06c700abcabc67558",
+   "company": "The Estée Lauder Companies Inc.",
+   "role": "Travel Retail - Le Labo - Soul - Heathrow Airport T5 - Full Time 36hrs",
    "location": "London"
   },
   "f45b7609212c9d8c90c1da64ac23f5e0": {
@@ -4884,6 +4896,30 @@
    "id": "0a658b670505bcf2b4afb1948b611ab6",
    "company": "Campions Group",
    "role": "Sales Lister",
+   "location": "London"
+  },
+  "605c95cfb90aff2865ef6e6d39d33530": {
+   "id": "605c95cfb90aff2865ef6e6d39d33530",
+   "company": "NEXT plc",
+   "role": "Vs Seasonal Sales Associate - V S Oxford Street (n133098)",
+   "location": "London"
+  },
+  "0d4e0c890a726926e37cfc26361bb3e2": {
+   "id": "0d4e0c890a726926e37cfc26361bb3e2",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n133100)",
+   "location": "London"
+  },
+  "2d9875499e3d52c23f33c3bcd3b5ed3f": {
+   "id": "2d9875499e3d52c23f33c3bcd3b5ed3f",
+   "company": "NEXT plc",
+   "role": "Vs Seasonal Sales Associate - V S Oxford Street (n133099)",
+   "location": "London"
+  },
+  "4c68efb5751e4dc0b10e1e539058b5a8": {
+   "id": "4c68efb5751e4dc0b10e1e539058b5a8",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n133101)",
    "location": "London"
   },
   "13c2b728243367389bcae76b60af2ab0": {
@@ -5246,40 +5282,16 @@
    "role": "Multifunctional Sales Associate (24 Hours, Fix Term, Brent Cross)",
    "location": "London"
   },
-  "851bd91524515f7cc146bff464e9ec05": {
-   "id": "851bd91524515f7cc146bff464e9ec05",
-   "company": "Free People (URBN)",
-   "role": "Urban Outfitters Sales Associate Seasonal Ftc- Manchester, Uk",
-   "location": "Manchester"
+  "5abdab2665186efddd744a6bcded4047": {
+   "id": "5abdab2665186efddd744a6bcded4047",
+   "company": "Catholic Education - Archdiocese Canberra & Goulburn",
+   "role": "Executive Support Officer",
+   "location": "Manuka"
   },
-  "fe227e1598c258e75bebcc84dad1f223": {
-   "id": "fe227e1598c258e75bebcc84dad1f223",
-   "company": "Capri",
-   "role": "Fixed-term Sales Associate - 4 Hours",
-   "location": "Manchester"
-  },
-  "c19f1d0947095dd3f42e82458c9651b0": {
-   "id": "c19f1d0947095dd3f42e82458c9651b0",
-   "company": "Skechers U.S.A.",
-   "role": "Sales Associate",
-   "location": "London"
-  },
-  "fcee23f54767e3e7e2d347e739dddd4c": {
-   "id": "fcee23f54767e3e7e2d347e739dddd4c",
-   "company": "The North Face",
-   "role": "Sales Associates (part Time)",
-   "location": "London"
-  },
-  "88a95ea64a9154968de8f8e55041a18a": {
-   "id": "88a95ea64a9154968de8f8e55041a18a",
-   "company": "Decathlon S.A",
-   "role": "Part-time Ski Sport Advisor (sales Assistant)",
-   "location": "Manchester"
-  },
-  "0958fc5d88f7af7d9f95b207535e5bd8": {
-   "id": "0958fc5d88f7af7d9f95b207535e5bd8",
-   "company": "Mango",
-   "role": "Multifunctional Sales Associate (16 Hours, Fix Term, Kensington)",
+  "493828a09be389db2ac306b2ece5535c": {
+   "id": "493828a09be389db2ac306b2ece5535c",
+   "company": "Iceland Foods",
+   "role": "Retail Assistant (inside M25)",
    "location": "London"
   },
   "6d49c582ca8d5be387815703487337af": {
@@ -5335,12 +5347,6 @@
    "company": "Mountain Warehouse",
    "role": "Uk Sales Assistant (chain 3)",
    "location": "Reading"
-  },
-  "085884b914360f455be229f05c49a4ec": {
-   "id": "085884b914360f455be229f05c49a4ec",
-   "company": "Iceland Foods",
-   "role": "Retail Assistant (inside M25)",
-   "location": "London"
   },
   "24e9fd332a096f2ec6782f9d08e2e3e6": {
    "id": "24e9fd332a096f2ec6782f9d08e2e3e6",
@@ -5755,12 +5761,6 @@
    "company": "Prudential",
    "role": "Pgim Credit / Administrative Assistant",
    "location": "London"
-  },
-  "7bdcc44fff708ac20f79cacfc6b211c7": {
-   "id": "7bdcc44fff708ac20f79cacfc6b211c7",
-   "company": "Waythrough",
-   "role": "Healthcare Assistant",
-   "location": "Calderdale"
   }
  }
 }

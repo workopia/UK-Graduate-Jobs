@@ -8840,4 +8840,23 @@ _No archived roles yet._
 <tr><td>Wellcome Trust</td><td>Global Events Officer</td><td>London</td><td>2026-11-01</td></tr>
 <tr><td>IMG</td><td>Executive Assistant</td><td>London</td><td>2026-11-01</td></tr>
 <tr><td>Boehringer Ingelheim</td><td>Facilities Coordinator</td><td>All</td><td>2026-11-01</td></tr>
+<tr><td>THALES</td><td>2027 Academy Engineer Apprentice - Level 5 Higher Level Apprenticeship - Mechatronic Engineering</td><td>Belfast</td><td>2026-11-02</td></tr>
+<tr><td>Apple</td><td>Ui Software Engineer, Cocoa</td><td>United Kingdom</td><td>2026-11-02</td></tr>
+<tr><td>ZEISS Group</td><td>Software Engineer</td><td>Cambridge</td><td>2026-11-02</td></tr>
+<tr><td>MSX International Ltd</td><td>Telematics Service Desk Analyst</td><td>Gaydon</td><td>2026-11-02</td></tr>
+<tr><td>Apple</td><td>Generative Ai Research Engineer, Siri Speech</td><td>United Kingdom</td><td>2026-11-02</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Investment Banking - France Fig - Associate</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Getinge AB</td><td>Field Service Engineer</td><td>Derby</td><td>2026-11-02</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>East Midlands Service And Callout Engineer Engl</td><td>East Midlands</td><td>2026-11-02</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>Cheshire Service And Callout Engineer Engl</td><td>Cheshire</td><td>2026-11-02</td></tr>
+<tr><td>Rubax Lifts Limited</td><td>London Lift Service Engineer Engl</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Vanderlande UK</td><td>Service Technician</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate Seasonal Ftc- Manchester, Uk</td><td>Manchester</td><td>2026-11-02</td></tr>
+<tr><td>Capri</td><td>Fixed-term Sales Associate - 4 Hours</td><td>Manchester</td><td>2026-11-02</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Sales Associate</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>The North Face</td><td>Sales Associates (part Time)</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Decathlon S.A</td><td>Part-time Ski Sport Advisor (sales Assistant)</td><td>Manchester</td><td>2026-11-02</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours, Fix Term, Kensington)</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-02</td></tr>
+<tr><td>Waythrough</td><td>Healthcare Assistant</td><td>Calderdale</td><td>2026-11-02</td></tr>
 </table>
