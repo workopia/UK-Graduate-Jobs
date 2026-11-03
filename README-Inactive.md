@@ -8859,4 +8859,77 @@ _No archived roles yet._
 <tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours, Fix Term, Kensington)</td><td>London</td><td>2026-11-02</td></tr>
 <tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-02</td></tr>
 <tr><td>Waythrough</td><td>Healthcare Assistant</td><td>Calderdale</td><td>2026-11-02</td></tr>
+<tr><td>FTI Consulting</td><td>2027 Summer Internship, Economic & Financial Consulting</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>FTI Consulting</td><td>2027 Summer Internship, TMT Business Transformation, Corporate Finance</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>FTI Consulting</td><td>2027 Summer Internship, Strategic Communications</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Powder Bed</td><td>Bristol</td><td>2026-11-03</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Sustainability</td><td>Bristol</td><td>2026-11-03</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Automation</td><td>Bristol</td><td>2026-11-03</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Machining</td><td>Bristol</td><td>2026-11-03</td></tr>
+<tr><td>Associated Bank</td><td>2027 Corporate Intern - Wealth Management</td><td>Milwaukee</td><td>2026-11-03</td></tr>
+<tr><td>Visa</td><td>Product Intern</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Coty Inc.</td><td>Pr And Communications Intern</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>ICE</td><td>Summer Internship Program 2027 - Market Regulation Intern</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>ICE</td><td>Summer Internship Program 2027 - Market Analyst Intern</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>VRTX (Vertex)</td><td>Biology - Industrial Placement (12 Months)</td><td>Milton Park</td><td>2026-11-03</td></tr>
+<tr><td>VRTX (Vertex)</td><td>International Insights, Analytics And Commercial Operations – Summer Intern (10 Weeks)</td><td>Paddington</td><td>2026-11-03</td></tr>
+<tr><td>Standard Chartered</td><td>Spring Insight Programme 2027 - UK</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>2027 Level 3 Pensions Administration Apprenticeship Programme, Redhill</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Chubb Ltd.</td><td>Chubb Apprenticeship Program</td><td>Manchester</td><td>2026-11-03</td></tr>
+<tr><td>ICON</td><td>Statistical Programmer</td><td>Uk</td><td>2026-11-03</td></tr>
+<tr><td>Kaluza</td><td>Software Engineer</td><td>Bristol</td><td>2026-11-03</td></tr>
+<tr><td>Northwestern Mutual Life Insurance Company</td><td>Software Engineer Ii</td><td>Milwaukee +1</td><td>2026-11-03</td></tr>
+<tr><td>Leidos Holdings</td><td>Software Engineer</td><td>Whiteley</td><td>2026-11-03</td></tr>
+<tr><td>Tanda</td><td>Software Engineer</td><td>Brisbane +2</td><td>2026-11-03</td></tr>
+<tr><td>University of Edinburgh School of Engineering</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-11-03</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Ii - Java / Python</td><td>Glasgow</td><td>2026-11-03</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - React</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Publicis Sapient</td><td>Analyst (media)</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Capita (digital)</td><td>Data Analyst</td><td>Home-Based</td><td>2026-11-03</td></tr>
+<tr><td>Invesco UK</td><td>Data Scientist, Global Smaller Companies Equities</td><td>Henley</td><td>2026-11-03</td></tr>
+<tr><td>Apple</td><td>Data Scientist - Wpc - Analytics</td><td>United Kingdom</td><td>2026-11-03</td></tr>
+<tr><td>Citi</td><td>Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>FTI Consulting</td><td>MBA Intern Business Transformation</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Celonis</td><td>AI & Management Consulting Internship (Value Engineering)</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>The Fidelis Partnership</td><td>Queens Actuarial Placement</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>AJG United Kingdom</td><td>Trainee- Risk Analytics</td><td>Keonics IT Park</td><td>2026-11-03</td></tr>
+<tr><td>Invesco UK</td><td>Associate, Private Credit</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>Sanctions Advisor 12 Month FTC</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Jll Com Sg</td><td>Business Solutions Analyst</td><td>Norfolk</td><td>2026-11-03</td></tr>
+<tr><td>createyourowncareer</td><td>Komorniki Junior Operations Analyst</td><td>United Kingdom</td><td>2026-11-03</td></tr>
+<tr><td>Skanska UK</td><td>Scida Officer</td><td>Middlesex</td><td>2026-11-03</td></tr>
+<tr><td>G-Research</td><td>Technology Operations Analyst</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Atkinsrealis</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-11-03</td></tr>
+<tr><td>Surbana Jurong</td><td>Accountant</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Experienced Hires</td><td>Analyst/associate, Investment Banking - Infrastructure - London</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Nestle Ltd</td><td>Ap Reporting Accountant</td><td>Lvivska</td><td>2026-11-03</td></tr>
+<tr><td>Just Eat Takeaway</td><td>O2c Accountant</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Manchester Airport Plc</td><td>Airfield Safety & Compliance Officer</td><td>East Midlands Airport</td><td>2026-11-03</td></tr>
+<tr><td>Milliman</td><td>Actuarial Associate - Entry Level</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>TechnipFMC</td><td>Risk Engineer</td><td>Aberdeenshire</td><td>2026-11-03</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Auditor, Food Packaging / Brcgs</td><td>United Kingdom</td><td>2026-11-03</td></tr>
+<tr><td>SSE Airtricity</td><td>Authorisation Officer - Operational Safety</td><td>Inverness +2</td><td>2026-11-03</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Surrey</td><td>2026-11-03</td></tr>
+<tr><td>Rydon Group Ltd</td><td>Fabric Technician (plumber Bias)</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Roche Products Ltd</td><td>Field Service Engineer - Somerset Area</td><td>Somerset</td><td>2026-11-03</td></tr>
+<tr><td>NOVARES Group</td><td>Maintenance Technician</td><td>Nearest Major Market</td><td>2026-11-03</td></tr>
+<tr><td>T H WHITE Group</td><td>FIELD SERVICE ENGINEER &#8211; WEST YORKSHIRE</td><td>West Yorkshire</td><td>2026-11-03</td></tr>
+<tr><td>42</td><td>Fire Alarm Service Engineer</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>KION</td><td>Field Service Engineer</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Greystar Australia Property Manager</td><td>Maintenance Technician</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>KONE Oyj</td><td>Service Engineer- Bankside</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Alfa Laval</td><td>Field Service Engineer</td><td>Kiev +1</td><td>2026-11-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>GFL Environmental</td><td>Warehouse Associate</td><td>912 Tesch Ct</td><td>2026-11-03</td></tr>
+<tr><td>Throwbackpacks</td><td>Part Time Sales Associate, Tommy Hilfiger - Brompton Road</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Sales Associate (24hrs)</td><td>Oxford</td><td>2026-11-03</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (24 Hours, Fix Term, Brent Cross)</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Leeds</td><td>2026-11-03</td></tr>
+<tr><td>Hasbro Inc</td><td>2026 Hasbro London Internship Networking Event</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>brightonparkbank.com</td><td>Event Coordinator - 12 Months Fixed Term Contract</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>SimCorp</td><td>Executive Assistant</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Prudential</td><td>Pgim Credit / Administrative Assistant</td><td>London</td><td>2026-11-03</td></tr>
 </table>
