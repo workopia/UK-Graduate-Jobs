@@ -8932,4 +8932,117 @@ _No archived roles yet._
 <tr><td>brightonparkbank.com</td><td>Event Coordinator - 12 Months Fixed Term Contract</td><td>London</td><td>2026-11-03</td></tr>
 <tr><td>SimCorp</td><td>Executive Assistant</td><td>London</td><td>2026-11-03</td></tr>
 <tr><td>Prudential</td><td>Pgim Credit / Administrative Assistant</td><td>London</td><td>2026-11-03</td></tr>
+<tr><td>Tencent Cloud</td><td>Games Research Operations Intern</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Apple</td><td>Engineering Program Manager (epm) Intern</td><td>United Kingdom</td><td>2026-11-04</td></tr>
+<tr><td>EBRD</td><td>Intern</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>American Express</td><td>Campus - Internship Programme - Undergraduate - Ecmx Product Analyst - 2027 (uk - London)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>ITV</td><td>Legal Intern</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Prohealth Medical Group Inc</td><td>Ultrasound Technologist Intern</td><td>Waukesha</td><td>2026-11-04</td></tr>
+<tr><td>Prohealth Medical Group Inc</td><td>Nurse Intern Ii- 4sw Surgical, Woman&#39;s Health 0.4 Days</td><td>Waukesha</td><td>2026-11-04</td></tr>
+<tr><td>Prohealth Medical Group Inc</td><td>Nurse Intern - 5medical - 0.4 Fte - (flexible)</td><td>Waukesha</td><td>2026-11-04</td></tr>
+<tr><td>Prohealth Medical Group Inc</td><td>Nurse Intern -waukesha Memorial Hospital-surgical Unit/ortho/neuro- 0.4 Fte (flexible Shifts)</td><td>Waukesha</td><td>2026-11-04</td></tr>
+<tr><td>British American Tobacco Ltd</td><td>B2b & Visibility Intern (fixed-term 6 Months Contract)</td><td>London Chiswick</td><td>2026-11-04</td></tr>
+<tr><td>Castleton Commodities International LLC</td><td>Principal Investments Intern (fall 2027)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Castleton Commodities International LLC</td><td>Principal Investments Intern (summer 2027)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Composites</td><td>Bristol</td><td>2026-11-04</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Technology Intern - Lmd Wire</td><td>Bristol</td><td>2026-11-04</td></tr>
+<tr><td>Airbus Belfast Limited</td><td>Craft Plant Apprenticeship - Aerostructures</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>Hilton Worldwide</td><td>Food And Beverage Apprentice - Executive Lounge - Part-time</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Hilton Worldwide</td><td>Conference And Events Apprentice - Part-time</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Hilton Worldwide</td><td>Food And Beverage Apprentice - Part-time</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>THALES</td><td>2027 Manufacturing Apprentice</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>THALES</td><td>2027 Industrial Process Engineer Apprentice - Level 5 Mechatronics Higher Level Apprenticeship (ni)</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>THALES</td><td>2027 Engineering (integrated Logistics Support) Apprentice - Level 6 Mechatronics Higher Level Apprenticeship</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>THALES</td><td>2027 Academy Engineer Apprentice - Level 6 Higher Level Apprenticeship - Mechatronic Engineering</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>THALES</td><td>2027 Project Planning & Controls Apprentice</td><td>Belfast</td><td>2026-11-04</td></tr>
+<tr><td>Viasat</td><td>Cyber Security Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Qube Research And Technology</td><td>Software Engineer – Site Reliability Engineering</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Chaos Industries Inc</td><td>Forward Deployed Engineer - Software</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>UnderwriteMe</td><td>Software Engineer</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Graphcore</td><td>Software Engineer In Build Engineering</td><td>Bristol</td><td>2026-11-04</td></tr>
+<tr><td>ElevenLabs</td><td>Full-stack Engineer - Enterprise</td><td>United Kingdom</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Payment Support Specialist</td><td>Uk</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Solving</td><td>Uk</td><td>2026-11-04</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Ii – Data Engineering (python/aws)</td><td>Glasgow</td><td>2026-11-04</td></tr>
+<tr><td>OpenAI</td><td>Software Engineer, Privacy Engineering (lawful Access)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Meta</td><td>Software Engineer, Machine Learning</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Send Experience</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Kraken</td><td>Software Engineer (autonomous Agents)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>gmcamiassembly.ca</td><td>Emerging Tech Innovation Specialist</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Avanade</td><td>Ai Forward Deployed Engineer</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>PwC UK</td><td>Marketing Data Analytics Specialist (data Quality)</td><td>Lviv</td><td>2026-11-04</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Data Scientist</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>LSEG</td><td>Core Ai Engineer</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Google</td><td>Research Engineer, Responsible Frontier Ai Research, Deepmind</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Risk Reporting Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Transformer Circuits</td><td>Applied Ai Engineer, Beneficial Deployments (clinical Development, Rare And Neglected Diseases)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Citi</td><td>Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>WTW</td><td>2027 Actuarial Consultant Internship Programme – P&C Insurance, London/Reigate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Access Management Analyst</td><td>Uk</td><td>2026-11-04</td></tr>
+<tr><td>Jobgether</td><td>Product Compliance Counsel</td><td>Uk</td><td>2026-11-04</td></tr>
+<tr><td>Royal London</td><td>Actuary (bpa)</td><td>Alderley Edge</td><td>2026-11-04</td></tr>
+<tr><td>Royal London</td><td>Bpa Pricing Actuary</td><td>Alderley Edge</td><td>2026-11-04</td></tr>
+<tr><td>Entrust</td><td>Revenue Operations Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Domestic & General</td><td>Supplier Relationship Management Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Finicity</td><td>Junior Business Analyst/product Owner</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Wells Fargo</td><td>International Controllers - Regulatory Reporting & Digitalisation Business Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – Emea Eprm (power & Renewables) – Vp – London</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – Emea Eprm (metals & Mining) – Vp – London</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>EXL Service / EXLService Holdings</td><td>Business Analyst</td><td>United Kingdom</td><td>2026-11-04</td></tr>
+<tr><td>EXL Service / EXLService Holdings</td><td>Business Analyst (credit Risk)</td><td>Leeds</td><td>2026-11-04</td></tr>
+<tr><td>AJG United Kingdom</td><td>Consultor De Estrategia E Inteligencia De Negocio</td><td>Av. Cra. 19 # 120</td><td>2026-11-04</td></tr>
+<tr><td>Hyperion Group</td><td>Junior Business Analyst And Project Analyst</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Brightonparkbank</td><td>Business Analyst</td><td>Manchester</td><td>2026-11-04</td></tr>
+<tr><td>Quilter</td><td>Remote Competency Assessor</td><td>England</td><td>2026-11-04</td></tr>
+<tr><td>Bupa</td><td>Registered Nurse</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Bupa</td><td>Care Assistant - Bank</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Worldwide Clinical Trials</td><td>Clinical Trials Associate (serbia/uk)</td><td>Serbia</td><td>2026-11-04</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant Wimbledon Common Care Home, 6 Victoria Drive, London, United Kingdom £13.85 Per Hour Permanent Apply By 5 October, 2026 Posted On 14 September, 2026</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Bedfordshire</td><td>2026-11-04</td></tr>
+<tr><td>Hilton</td><td>Maintenance Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>AB Agri Ltd</td><td>Maintenance Engineer</td><td>Walsingham</td><td>2026-11-04</td></tr>
+<tr><td>HENSOLDT UK a trading name of Kelvin Hughes Limited</td><td>Field Service Engineer</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>JLL UK</td><td>Maintenance Technician</td><td>West Yorkshire</td><td>2026-11-04</td></tr>
+<tr><td>JCI</td><td>Customer Solutions Technician</td><td>On</td><td>2026-11-04</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Specialist - F&b</td><td>England</td><td>2026-11-04</td></tr>
+<tr><td>Lydall Inc</td><td>Maintenance Technician</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Field Service Engineer</td><td>Midlands</td><td>2026-11-04</td></tr>
+<tr><td>Kocho</td><td>Field Service Engineer</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132875)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132876)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist-levi's Brompton Road- Xmas Temp- 8hrs Contract</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>PVH Corp., formerly known as the Phillips-Van Heusen Corporation</td><td>Part Time Sales Associate, Tommy Hilfiger - White City</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 10h/week</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Capri</td><td>Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NT</td><td>Junior Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Tumi</td><td>Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132783)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132784)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132785)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Sales Associate - Trafford Centre</td><td>Manchester</td><td>2026-11-04</td></tr>
+<tr><td>Vitality Corporate Services Ltd</td><td>Sales Adviser - Health Insurance</td><td>Manchester</td><td>2026-11-04</td></tr>
+<tr><td>Agile Retail</td><td>Sales Associate</td><td>Manchester</td><td>2026-11-04</td></tr>
+<tr><td>Skechers</td><td>Sales Associate - Trafford Centre</td><td>Manchester</td><td>2026-11-04</td></tr>
+<tr><td>Capri</td><td>Sales Associate (temp)- Westfield Stratford</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Tempur Sealy International</td><td>Retail Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Levis Media</td><td>Store Stylist(sales Assistant) 8hr Flexible Mon-sun</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>IFS</td><td>Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 35h</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate (regent Street, 16 Hrs Per Week)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate (regent Street, 24 Hrs Per Week)</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Customer Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Kentish Town</td><td>2026-11-04</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-11-04</td></tr>
+<tr><td>Wandsworth Council</td><td>Administration Assistant Apprentice Wandsworth, London, United Kingdom £23,137 Per Annum Fixed Term – Full Time (36 Hours) Apply By 6 November, 2026 Posted On 22 October, 2026</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>current-positions</td><td>Executive Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>JLL UK</td><td>Facilities Coordinator</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Pgim</td><td>Pgim Credit / Administrative Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Eaton</td><td>Customer Services Coordinator</td><td>Gloucester</td><td>2026-11-04</td></tr>
+<tr><td>McDonald's</td><td>Executive Assistant</td><td>East Finchley</td><td>2026-11-04</td></tr>
+<tr><td>SimCorp AS</td><td>Executive Assistant</td><td>London</td><td>2026-11-04</td></tr>
+<tr><td>Whg</td><td>Administrative Assistant Hatherton Street, United Kingdom £27,122 - £28,836 Per Annum Fixed Term - Full Time Apply By 4 November, 2026 Posted On 21 October, 2026</td><td>Birmingham</td><td>2026-11-04</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Business Support Administrator</td><td>Location</td><td>2026-11-04</td></tr>
 </table>
