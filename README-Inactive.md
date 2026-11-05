@@ -9045,4 +9045,88 @@ _No archived roles yet._
 <tr><td>SimCorp AS</td><td>Executive Assistant</td><td>London</td><td>2026-11-04</td></tr>
 <tr><td>Whg</td><td>Administrative Assistant Hatherton Street, United Kingdom £27,122 - £28,836 Per Annum Fixed Term - Full Time Apply By 4 November, 2026 Posted On 21 October, 2026</td><td>Birmingham</td><td>2026-11-04</td></tr>
 <tr><td>Dyer & Butler Ltd</td><td>Business Support Administrator</td><td>Location</td><td>2026-11-04</td></tr>
+<tr><td>Altera Corporation</td><td>Internship – Fpga Hardware Design Engineer</td><td>Reading</td><td>2026-11-05</td></tr>
+<tr><td>Boeing</td><td>Intern - Student Engineer (systems Eng)</td><td>Bristol</td><td>2026-11-05</td></tr>
+<tr><td>AJG United Kingdom</td><td>Practicante Finanzas 2027-1</td><td>Carrera 72 No. 81b</td><td>2026-11-05</td></tr>
+<tr><td>Houlihan Lokey, Inc.</td><td>Financial Sponsors Coverage Group Internship - 6 Month Ftc</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>TikTok</td><td>Strategy And Operations Intern (tiktok Live) - 2027 Start</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>TikTok</td><td>Live Operations Project Intern (tiktok Shop) - 2026 Start - 2027 Start</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>TikTok</td><td>(chinese Speaker) Shopping Center Operations Project Intern (tiktok Shop Italy) - 2027 Start</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Communications & Programmes Interns</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Tesco</td><td>Intern - Pricing Actuarial Analyst - 12 Month Ftc</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>2027 Level 4 Actuarial Technician Apprenticeship Retirement - Reigate</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Weil, Gotshal & Manges LLP</td><td>Solicitor Apprenticeship Programme - September 2027</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Slaughter and May</td><td>Solicitor Apprenticeship Programme</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - Cloud Data Platform Engineering (aws , Terraform & Databricks)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Deliveroo</td><td>Software Engineer Ii (backend) - Subscriptions</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Juneau, Next-Gen Security Automation</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Moody's Corporation</td><td>Software Engineer - Data Engineering</td><td>Manchester</td><td>2026-11-05</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Staff Software Engineer - Warehouse Automation</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Canonicaljobs</td><td>Linux Desktop Support Associate (london Uk Office)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Full Stack Engineer (react) - Trade Finance And Lending</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Software Development Engineer For Flight Physics Capabilities / Loads & Aeroelastics (d/f/m)</td><td>Hamburg +2</td><td>2026-11-05</td></tr>
+<tr><td>Graphcore</td><td>Staff System Software Engineer</td><td>Bristol</td><td>2026-11-05</td></tr>
+<tr><td>Motorola Solutions</td><td>Mid Level Software Engineer</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Slice</td><td>Software Developer, Devex (stateful Systems)</td><td>Belfast</td><td>2026-11-05</td></tr>
+<tr><td>TP ICAP</td><td>Associate Quantitative Engineer</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NIX</td><td>Junior Powerbi Engineer</td><td>Ukraine +1</td><td>2026-11-05</td></tr>
+<tr><td>Expedia</td><td>Data Scientist I, Competitive Intelligence</td><td>Uk</td><td>2026-11-05</td></tr>
+<tr><td>FCM Travel - Flight Centre Travel Group</td><td>Business Intelligence Analyst - London, Uk</td><td>London +1</td><td>2026-11-05</td></tr>
+<tr><td>FC Collection</td><td>Business Intelligence Analyst - London, Uk</td><td>London +1</td><td>2026-11-05</td></tr>
+<tr><td>Burberry</td><td>Data Scientist</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>UBS</td><td>Trading Ai Developer, Global Markets</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>British Council</td><td>Product Performance Analyst - Value & Analytics</td><td>United Kingdom</td><td>2026-11-05</td></tr>
+<tr><td>British Broadcasting Corporation</td><td>Data Scientist</td><td>London +1</td><td>2026-11-05</td></tr>
+<tr><td>Mytopsportsbettingsites</td><td>Junior Data Scientist</td><td>North London</td><td>2026-11-05</td></tr>
+<tr><td>Koninklijke BAM Groep NV</td><td>Business Analyst - 18-month Fixed Term Contract</td><td>UK&I (Any Office) +1</td><td>2026-11-05</td></tr>
+<tr><td>Bakkavor Group</td><td>Assistant Factory Accountant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>IHG</td><td>Analyst, Investment Analysis</td><td>United Kingdom</td><td>2026-11-05</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Analyst, Investment Analysis</td><td>United Kingdom</td><td>2026-11-05</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Analyst, Investment Analysis</td><td>United Kingdom</td><td>2026-11-05</td></tr>
+<tr><td>FDM Group</td><td>Business Analyst- Remote</td><td>All Locations</td><td>2026-11-05</td></tr>
+<tr><td>JPMorgan Chase</td><td>Quantitative Trading & Research – Securities Services – Analyst Or Associate</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Gpu Kernels Ai Task Auditor - Freelance Ai Trainer Project</td><td>United Kingdom</td><td>2026-11-05</td></tr>
+<tr><td>Bay4 Energy</td><td>Team Accountant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Delta Capita</td><td>Murex Business Analyst (treasury)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>DB Cargo France</td><td>Commodities Quantitative Strategist</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Morgan Stanley</td><td>Isg Management, Associate, Business Solutions Group (london)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Citi</td><td>Banking, Corporate Banking, Full Time Analyst, London – United Kingdom, 2027</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Citi Handlowy</td><td>Client Onboarding Analyst</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Quilter</td><td>Performance Analyst</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>AIG Inc</td><td>Capital Modelling Risk Analyst</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Agincare Group</td><td>Care Assistant Hampton, United Kingdom (incl. Northern Ireland) £14.80 Full Time Apply By 21 October, 2026</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Avante Care & Support</td><td>Care & Support Assistant - Riverdale Days Riverdale Court, 17 Dovedale Close, Welling, United Kingdom £13.20 - £13.40 Full Time Apply By 18 October, 2026 Posted On 18 September, 2026</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Agincare Group</td><td>Live-in Care Assistant - Female Only Croydon, United Kingdom (incl. Northern Ireland) £710-£1000 Full Time Apply By 18 October, 2026</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Pre Assessment/outpatients</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>West Yorkshire</td><td>2026-11-05</td></tr>
+<tr><td>Sullair</td><td>Maintenance Technician</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Hitachi Rail UK Limited</td><td>Overhaul And Modifications Technician</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Jaguar Cars Ltd</td><td>Maintenance Techniciansalary: £48,764 + Shift Allowance Posting Start Date: 21/10/2026 Posting End Date: 4/11/2026location: Hams Hall</td><td>Hams Hall</td><td>2026-11-05</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Engineer</td><td>UK</td><td>2026-11-05</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 16h, 20 H And 30h (temporary)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Samsonite</td><td>Sales Associate</td><td>Oxford</td><td>2026-11-05</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Magazynier - Specjalista (m/k) Ds. Logistyki Cały Etat</td><td>Wyszukiwanie WedłUg Lokalizacji</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (32 Hours, Fix Term, Brent Cross)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Currys</td><td>Weybridge Sales Colleague Peak</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Marriott Vacations Worldwide</td><td>Front Desk Guest Service Associate</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132909)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132907)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132908)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132910)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132919)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132877)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132878)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>SGS UK</td><td>Laboratory Sample Receipt Assistant</td><td>Glasgow</td><td>2026-11-05</td></tr>
+<tr><td>Watermancanyonpa</td><td>Event & Project Operations Assistant (sport Signage)</td><td>Amberg +1</td><td>2026-11-05</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>Global Marketing Operations Coordinator, Le Labo 6 month FTC, Shoreditch</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>EBRD</td><td>Assistant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Bupa UK</td><td>Administrative Assistant</td><td>Newcastle Upon Tyne</td><td>2026-11-05</td></tr>
+<tr><td>POP MART Global</td><td>Store Supervisor (charing Cross)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Greene King</td><td>Executive Assistant</td><td>Burton</td><td>2026-11-05</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Bank Administrative Assistant</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Mizuho</td><td>Executive Assistant - Investment Banking (london)</td><td>London</td><td>2026-11-05</td></tr>
+<tr><td>Arcadis</td><td>Quality Coordinator - Csa (data Centres - Norway)</td><td>London</td><td>2026-11-05</td></tr>
 </table>
