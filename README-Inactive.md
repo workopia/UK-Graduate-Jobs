@@ -9227,4 +9227,68 @@ _No archived roles yet._
 <tr><td>Rathbone Brothers Plc</td><td>Adminstrator</td><td>Liverpool</td><td>2026-11-06</td></tr>
 <tr><td>Greene King</td><td>Ceo Executive Assistant</td><td>Burton</td><td>2026-11-06</td></tr>
 <tr><td>HKEX (Hong Kong Exchanges)</td><td>Team Assistant To Executive Committee</td><td>London</td><td>2026-11-06</td></tr>
+<tr><td>Goodlord</td><td>Winter Data Internship</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>World Food Programme</td><td>Internship - Media and Communications, Partnership Team</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>JPMC</td><td>2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>JPMC</td><td>2027 Commercial & Investment Banking - Sales - Off-cycle Internship</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Arbuthnot Latham</td><td>Internship 2027 - Banking Team Assistant</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Vertex Pharmaceuticals</td><td>International Insights, Analytics and Commercial Operations – Industrial Placement (12 Months)</td><td>Paddington</td><td>2026-11-07</td></tr>
+<tr><td>Nordic Capital</td><td>Internship London - Spring 2027</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Hard Numbers</td><td>Junior Communications Associate (Internship)</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Vertex Pharmaceuticals</td><td>Industrial Placement Student - Regulatory Affairs</td><td>Paddington</td><td>2026-11-07</td></tr>
+<tr><td>Howden Insurance</td><td>Risk & Compliance Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Howden Insurance</td><td>Reinsurance Broker Support Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Howden Insurance</td><td>Directors & Officers Insurance Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Howden Insurance</td><td>Insurance Apprenticeship Programme 2027 - Croydon</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Howden Insurance</td><td>Credit & Political Risk Insurance Operations Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>NXP USA INC.</td><td>Intern Ai And Software Engineer - Automotive Mpus</td><td>Glasgow</td><td>2026-11-07</td></tr>
+<tr><td>Starling Bank</td><td>Software Engineer Ii - Java - Engine By Starling</td><td>Manchester</td><td>2026-11-07</td></tr>
+<tr><td>RELX</td><td>Software Engineer Iii - Cheminformatics M/f/d</td><td>Frankfurt +1</td><td>2026-11-07</td></tr>
+<tr><td>Morrisons</td><td>Supply Chain Support Specialist - Stores</td><td>Hilmore House</td><td>2026-11-07</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Ai Accelerator For Drug Discovery - Talent Pool</td><td>All</td><td>2026-11-07</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Automation Engineer</td><td>All</td><td>2026-11-07</td></tr>
+<tr><td>Unilever Australasia</td><td>Unilever Future Leadership Programme - Data & Analytics uk</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>Catastrophe Risk Analyst</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Finwizard</td><td>Cass Reconciliatons Officer</td><td>Edinburgh Wrs</td><td>2026-11-07</td></tr>
+<tr><td>SS&C</td><td>Business Analyst [pa26q4bajh109]</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Hyperion Group</td><td>Claims Executive - Commercial & Schemes</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>NSF International</td><td>Food Service Auditor - Nottinghamshire (independent Contractor)</td><td>Nottinghamshire</td><td>2026-11-07</td></tr>
+<tr><td>SCOR</td><td>Actuarial Analyst - Longevity Inforce</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Ascot Group</td><td>Risk Analyst</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Citi</td><td>Investment Banking Analyst, Consumer & Retail</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>UBS</td><td>Smid Analyst</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Sibelco</td><td>Accountant</td><td>Talke</td><td>2026-11-07</td></tr>
+<tr><td>Domestic & General</td><td>Financial Promotions Officer</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associate, Investment Banking - Energy</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>SMBC Group</td><td>Product Analyst - Avp</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Citi</td><td>Quantitative Analyst - Commodities, Vp</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Hologic</td><td>Vat Associate</td><td>United Kingdom</td><td>2026-11-07</td></tr>
+<tr><td>White Stuff</td><td>Insight Analyst</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>PTY</td><td>Capital Modelling Analyst</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Fuels Capital</td><td>Investment Associate - Private Credit</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Bupa Group</td><td>Care Assistant</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Wards (bank)</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Northamptonshire</td><td>2026-11-07</td></tr>
+<tr><td>Hitachi Digital Services</td><td>Field Service Technician</td><td>Staffordshire</td><td>2026-11-07</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Engineer Iii, Field Service, Lsms. London, South Uk.</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Babcock International</td><td>Mechanical Technician</td><td>Holyhead</td><td>2026-11-07</td></tr>
+<tr><td>International Flavors & Fragrances Inc</td><td>Maintenance Engineer</td><td>Beaminster</td><td>2026-11-07</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Mobile Field Service Representative</td><td>Coningsby</td><td>2026-11-07</td></tr>
+<tr><td>Severn Trent</td><td>Maintenance Technician - Mechanical</td><td>Coleshill</td><td>2026-11-07</td></tr>
+<tr><td>printrecruitment</td><td>Field Service Engineer – Food Pro</td><td>East Midlands</td><td>2026-11-07</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 14h/week Covent Garden</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Bupa Group</td><td>Customer Support Assistant</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 20h</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Smith & Nephew</td><td>Sales Associate</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Moody's Corporation</td><td>Sales Rotation Associate</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 10h/week Westfield</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Cardiff</td><td>2026-11-07</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Project Coordinator</td><td>Hinkley Point C</td><td>2026-11-07</td></tr>
+<tr><td>Hyperion Group</td><td>Administrative Assistant</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>THE TEAM</td><td>Event & Project Assistant Dtm - German Speaking (sport Signage)</td><td>Amberg +1</td><td>2026-11-07</td></tr>
+<tr><td>Zepz</td><td>Executive Assistant- 12 Month Ftc</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Jellycat Ltd</td><td>Global Pricing Administration Assistant</td><td>London</td><td>2026-11-07</td></tr>
+<tr><td>Manchester City Council</td><td>Administrative Assistant</td><td>All Locations</td><td>2026-11-07</td></tr>
 </table>
