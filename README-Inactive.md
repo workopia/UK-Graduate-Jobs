@@ -9291,4 +9291,71 @@ _No archived roles yet._
 <tr><td>Zepz</td><td>Executive Assistant- 12 Month Ftc</td><td>London</td><td>2026-11-07</td></tr>
 <tr><td>Jellycat Ltd</td><td>Global Pricing Administration Assistant</td><td>London</td><td>2026-11-07</td></tr>
 <tr><td>Manchester City Council</td><td>Administrative Assistant</td><td>All Locations</td><td>2026-11-07</td></tr>
+<tr><td>Baker Hughes</td><td>Intern - Software Engineering - 2027</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Cloudflare</td><td>Product Manager Intern (2027) - London, Uk</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Gzata</td><td>Product Intern</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>KKR</td><td>2027 Off Cycle Intern - Private Equity - Global Impact</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>MTB (M&T Bank)</td><td>Gcm Intern - Uk</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Altera Corporation</td><td>Internship – Fpga Software Design Engineer</td><td>Reading</td><td>2026-11-08</td></tr>
+<tr><td>Antin Infrastructure Partners</td><td>Investor Relations - Internship</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Intercontinental Exchange</td><td>Summer Internship Program 2027 - Market Analyst Intern</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Intercontinental Exchange</td><td>Summer Internship Program 2027 - Market Regulation Intern</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>West Ham United</td><td>Physical Performance Placements</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>London Borough of Hillingdon</td><td>Hr Payroll Apprentice</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Babcock International</td><td>Mechanical Engineering Degree Apprenticeship</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>Babcock International</td><td>Project Controls Degree Apprenticeship</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>Babcock International</td><td>Chemical And Process Engineering Degree Apprenticeship</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>122</td><td>Commercial Surveying Apprentice - London (september 2027 Start)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>122</td><td>Quantity Surveying Apprentice - London (september 2027 Start)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>122</td><td>Commercial Surveying Apprentice - Manchester (september 2027 Start)</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>122</td><td>Quantity Surveying Apprentice - Manchester (september 2027 Start)</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>MBDA</td><td>Finance Level 4 Higher Apprenticeship 2027</td><td>Manchester</td><td>2026-11-08</td></tr>
+<tr><td>Sanctuary Housing Association</td><td>Apprentice - Property Maintenance Ops Level 2</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Howden Insurance</td><td>Talent Acquisition Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Howden Insurance</td><td>Insurance Apprenticeship Programme 2027 - Tooting</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Howden Insurance</td><td>Marine, Cargo & Logistics Insurance Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Howden Insurance</td><td>Product Governance Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>XAI</td><td>Software Engineer, Sandbox Service</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>TD SYNNEX</td><td>Software Engineer - Ai Integration - Fixed Term Contract - 12 Months</td><td>Salthouse Quay</td><td>2026-11-08</td></tr>
+<tr><td>Octopus Energy Group</td><td>Backend Engineer</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Motorola Solutions UK Limited</td><td>Applications Software Engineer</td><td>Cambridge</td><td>2026-11-08</td></tr>
+<tr><td>NatWest Group</td><td>Api Software Engineer</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Airbus</td><td>Aggp2027 - Graduate Strategy And Data Analyst</td><td>Bristol Area</td><td>2026-11-08</td></tr>
+<tr><td>C295</td><td>Aggp2027 - Graduate Ai Engineer</td><td>Filton</td><td>2026-11-08</td></tr>
+<tr><td>IISBMS</td><td>Aggp2027 - Graduate Ai Engineer</td><td>Filton</td><td>2026-11-08</td></tr>
+<tr><td>Haleon</td><td>Data Scientist</td><td>London Bankside</td><td>2026-11-08</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>Data Scientist - Forecasting</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Bjak</td><td>Product Engineer, Ai Email App</td><td>United Kingdom</td><td>2026-11-08</td></tr>
+<tr><td>Ivivamedical</td><td>Clinical Coding Auditor</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Morrisons</td><td>Accountant - Central Fulfilment Centre & Stock</td><td>Hilmore House</td><td>2026-11-08</td></tr>
+<tr><td>petsathomejobs</td><td>Commercial Finance Accountant</td><td>Handforth</td><td>2026-11-08</td></tr>
+<tr><td>Invesco UK</td><td>Associate, Private Credit</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Delta Capita</td><td>Fx & Money Markets Operations Analyst/associate</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>DXC providing claims management services</td><td>Business Data Analyst</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant Silvermere Care Home, Redhill Road, Cobham, Surrey, United Kingdom £14.75 Per Hour Full Time Apply By 12 October, 2026 Posted On 21 September, 2026</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Indra</td><td>Field Service Technician</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Marshall Motor Group</td><td>Service Technician</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Mechanical Fitter (day Shift)</td><td>Auchinleck</td><td>2026-11-08</td></tr>
+<tr><td>Konica Minolta Business Solutions U.S.A., Inc.</td><td>Production Systems Technician</td><td>Milwaukee</td><td>2026-11-08</td></tr>
+<tr><td>Tesco Stores Limited</td><td>Electrical Maintenance Technician</td><td>Medway</td><td>2026-11-08</td></tr>
+<tr><td>printrecruitment</td><td>Electromechanical Field Service Engineer – Industrial Equipment</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Sumitomo Electric</td><td>Electrical Maintenance Technician</td><td>Port Of Nigg +1</td><td>2026-11-08</td></tr>
+<tr><td>Prohealth Medical Group Inc</td><td>Mechanic/boiler Operator - Waukesha Memorial - 230-11pm 2nd Shift Fulltime</td><td>Waukesha</td><td>2026-11-08</td></tr>
+<tr><td>Priory Group</td><td>Maintenance Assistant</td><td>Wigginton</td><td>2026-11-08</td></tr>
+<tr><td>Roche Holding AG</td><td>Field Service Engineer Kent Location</td><td>Kent</td><td>2026-11-08</td></tr>
+<tr><td>SPX Corporation</td><td>Cisbot Technician Iii</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n129007)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Campions Group</td><td>Sales Lister</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n133098)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n133100)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n133099)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n133101)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate (part Time 32 Hours X2)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Morrisons</td><td>Technical Product Specialist</td><td>Thrapston Division</td><td>2026-11-08</td></tr>
+<tr><td>Morrisons</td><td>Manufacturing Operative - Administration</td><td>Markethill</td><td>2026-11-08</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Groups & Events Coordinator</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>ElevenLabs</td><td>Executive Assistant - Europe</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Audiology Admin Assistant</td><td>Glasgow</td><td>2026-11-08</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Events Coordinator</td><td>London</td><td>2026-11-08</td></tr>
 </table>
