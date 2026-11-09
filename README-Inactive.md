@@ -9358,4 +9358,11 @@ _No archived roles yet._
 <tr><td>ElevenLabs</td><td>Executive Assistant - Europe</td><td>London</td><td>2026-11-08</td></tr>
 <tr><td>Specsavers Optical Group Ltd</td><td>Audiology Admin Assistant</td><td>Glasgow</td><td>2026-11-08</td></tr>
 <tr><td>MARSH MCLENNAN</td><td>Events Coordinator</td><td>London</td><td>2026-11-08</td></tr>
+<tr><td>Apple</td><td>Intern - Swift Runtimes Engineer</td><td>London</td><td>2026-11-09</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - Fullstack Java</td><td>Glasgow</td><td>2026-11-09</td></tr>
+<tr><td>Eurofins Scientific</td><td>Clinical Supply Operations Support Specialist</td><td>Sandwich</td><td>2026-11-09</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Engineer, Internship, United Kingdom - Bcg X</td><td>United Kingdom</td><td>2026-11-09</td></tr>
+<tr><td>Mace Group</td><td>Data Analyst</td><td>London</td><td>2026-11-09</td></tr>
+<tr><td>Monzo Bank</td><td>Graduate Credit Analyst</td><td>London</td><td>2026-11-09</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132007)</td><td>London</td><td>2026-11-09</td></tr>
 </table>

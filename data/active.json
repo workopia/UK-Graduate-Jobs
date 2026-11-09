@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-08",
- "count": 971,
+ "asOf": "2026-11-09",
+ "count": 970,
  "jobs": {
   "2756262": {
    "id": "2756262",
@@ -13,6 +13,12 @@
    "company": "Kerry Group",
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
+  },
+  "07ab1e35040ba9cfd1036069b57237e3": {
+   "id": "07ab1e35040ba9cfd1036069b57237e3",
+   "company": "British American Tobacco Ltd",
+   "role": "Marketing Deployment Intern",
+   "location": "London"
   },
   "c94118ae9443b69390ee68c3cf49451e": {
    "id": "c94118ae9443b69390ee68c3cf49451e",
@@ -481,12 +487,6 @@
    "company": "IHG (InterContinental Hotels Group)",
    "role": "Financial Reporting Intern",
    "location": "United Kingdom"
-  },
-  "26a50093991442dda4a871c50137edef": {
-   "id": "26a50093991442dda4a871c50137edef",
-   "company": "Apple",
-   "role": "Intern - Swift Runtimes Engineer",
-   "location": "London"
   },
   "08bfdc5d1140a09bef3198d8531b3624": {
    "id": "08bfdc5d1140a09bef3198d8531b3624",
@@ -1406,6 +1406,18 @@
    "role": "Is/it Support Analyst",
    "location": "Duxford"
   },
+  "248ff903351bce51c430c6ed78e32c30": {
+   "id": "248ff903351bce51c430c6ed78e32c30",
+   "company": "JPMorgan Chase",
+   "role": "Software Engineer Iii- Fullstack Java",
+   "location": "Glasgow +1"
+  },
+  "58afc26fe0dbc174a2d9d28c8060278c": {
+   "id": "58afc26fe0dbc174a2d9d28c8060278c",
+   "company": "JPMorgan Chase",
+   "role": "Software Engineer Iii",
+   "location": "Glasgow"
+  },
   "54d366bdbdd0c13fad6d66afccfc1d5b": {
    "id": "54d366bdbdd0c13fad6d66afccfc1d5b",
    "company": "NEXT plc",
@@ -1507,12 +1519,6 @@
    "company": "WTW (Willis Towers Watson)",
    "role": "Security Reporting And Governance Analyst",
    "location": "London"
-  },
-  "7017d9c7deed088dce2ac488bd5b5c48": {
-   "id": "7017d9c7deed088dce2ac488bd5b5c48",
-   "company": "JPMorgan Chase",
-   "role": "Software Engineer Iii - Fullstack Java",
-   "location": "Glasgow"
   },
   "69368c8da6738e1452b8f791f5e6e230": {
    "id": "69368c8da6738e1452b8f791f5e6e230",
@@ -1814,12 +1820,6 @@
    "role": "Software Developer, Sports Content",
    "location": "Manchester"
   },
-  "162c755a80aa28127ae29cf99571c773": {
-   "id": "162c755a80aa28127ae29cf99571c773",
-   "company": "Eurofins Scientific",
-   "role": "Clinical Supply Operations Support Specialist",
-   "location": "Sandwich"
-  },
   "targetjobs:0789dd24-2bad-461c-b624-04acc8d6e0d4": {
    "id": "targetjobs:0789dd24-2bad-461c-b624-04acc8d6e0d4",
    "company": "Cadillac Formula 1 Team",
@@ -1922,16 +1922,16 @@
    "role": "Student Placement - Data & Analysis – Counter Terrorism Policing",
    "location": "West London"
   },
-  "b6d8eed3d225b9b8533525e60067dd16": {
-   "id": "b6d8eed3d225b9b8533525e60067dd16",
-   "company": "Boston Consulting Group",
-   "role": "Forward Deployed Ai Engineer, Internship, United Kingdom - Bcg X",
-   "location": "United Kingdom"
-  },
   "709f13f9b0b96e985662fb90679145a7": {
    "id": "709f13f9b0b96e985662fb90679145a7",
    "company": "Amazon Commercial Services Pty Ltd - F47",
    "role": "Business Intelligence Intern London",
+   "location": "London"
+  },
+  "d59b1e6501bcbadc94cde4ce987655e3": {
+   "id": "d59b1e6501bcbadc94cde4ce987655e3",
+   "company": "BBC Studios",
+   "role": "Data Analyst Apprenticeship - Level 4 - Bbc Studios - London - Extend",
    "location": "London"
   },
   "9f2506d875687546cb644aa82c58df8a": {
@@ -2041,6 +2041,12 @@
    "company": "Airbus",
    "role": "AGGP2027 - Graduate AI Engineer",
    "location": "Filton"
+  },
+  "8c69e2e90858b6ec31dba506b4e81bb2": {
+   "id": "8c69e2e90858b6ec31dba506b4e81bb2",
+   "company": "Bristish Broadcasting Corporation",
+   "role": "Ai & Automation Practitioner - Level 4 - Bbc Studios - London",
+   "location": "London"
   },
   "43f8a8a55ce606c97168b10904749fd5": {
    "id": "43f8a8a55ce606c97168b10904749fd5",
@@ -2514,12 +2520,6 @@
    "id": "eed69c213d2a77ff1bf1145e83f6a9dd",
    "company": "AIG Inc",
    "role": "Junior Data Analyst (fraud And Recovery)",
-   "location": "London"
-  },
-  "3d53e91f8725e7640503f6a432c856c3": {
-   "id": "3d53e91f8725e7640503f6a432c856c3",
-   "company": "Mace Group",
-   "role": "Data Analyst",
    "location": "London"
   },
   "e6c05e4ea9aadd1643ecf1d362895c22": {
@@ -3426,12 +3426,6 @@
    "id": "8d1123fdb17e7b09bb873b21f4bda070",
    "company": "jobs.barclays",
    "role": "2027 Quantitative Analytics Associate Graduate Programme London",
-   "location": "London"
-  },
-  "bb6e7865bac2f4a8238d138229d87da1": {
-   "id": "bb6e7865bac2f4a8238d138229d87da1",
-   "company": "Monzo Bank",
-   "role": "Graduate Credit Analyst",
    "location": "London"
   },
   "e66cdde3f0b392f28ae28dea86486852": {
@@ -4868,6 +4862,12 @@
    "role": "Shift Technician (4 On/4 Off)",
    "location": "Dalston"
   },
+  "8f08b95c1b6c16d9ed124bff2507199a": {
+   "id": "8f08b95c1b6c16d9ed124bff2507199a",
+   "company": "Ao Ds",
+   "role": "Fully Remote - Client Experience Associate",
+   "location": "London"
+  },
   "10de7809a43c7ed1e63e636d1cafb944": {
    "id": "10de7809a43c7ed1e63e636d1cafb944",
    "company": "VF Corporation",
@@ -5342,11 +5342,11 @@
    "role": "Vs Seasonal Sales Associate - V S Oxford Street (n132375)",
    "location": "London"
   },
-  "f30f6f274fac97c3f18ee922e07365de": {
-   "id": "f30f6f274fac97c3f18ee922e07365de",
-   "company": "NEXT plc",
-   "role": "Sales Associate - V S Oxford Street (n132007)",
-   "location": "London"
+  "4b8f4b2609bb7ffd97db812b6c43b147": {
+   "id": "4b8f4b2609bb7ffd97db812b6c43b147",
+   "company": "Pearson PLC",
+   "role": "Apprenticeship Coordinator",
+   "location": "Basingstoke"
   },
   "f22e6780de472f6f0efb5848c9e7b594": {
    "id": "f22e6780de472f6f0efb5848c9e7b594",
@@ -5359,12 +5359,6 @@
    "company": "Neumann Kaffee Gruppe",
    "role": "Logistics Coordinator Inbound / Outbound (f/m/d)",
    "location": "London +1"
-  },
-  "4b8f4b2609bb7ffd97db812b6c43b147": {
-   "id": "4b8f4b2609bb7ffd97db812b6c43b147",
-   "company": "Pearson",
-   "role": "Apprenticeship Coordinator",
-   "location": "Basingstoke"
   },
   "e4cb2085b3489379d89370db61ae374c": {
    "id": "e4cb2085b3489379d89370db61ae374c",
