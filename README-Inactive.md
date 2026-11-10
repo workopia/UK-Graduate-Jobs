@@ -9365,4 +9365,45 @@ _No archived roles yet._
 <tr><td>Mace Group</td><td>Data Analyst</td><td>London</td><td>2026-11-09</td></tr>
 <tr><td>Monzo Bank</td><td>Graduate Credit Analyst</td><td>London</td><td>2026-11-09</td></tr>
 <tr><td>NEXT plc</td><td>Sales Associate - V S Oxford Street (n132007)</td><td>London</td><td>2026-11-09</td></tr>
+<tr><td>Christie's</td><td>Intern - Asian And World Art</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Apple</td><td>Intern, Site Reliability Engineer, Icloud</td><td>United Kingdom</td><td>2026-11-10</td></tr>
+<tr><td>Medpace</td><td>Feasibility & Proposals Internship (12-months) London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>IHG (InterContinental Hotels Group)</td><td>Financial Reporting Intern</td><td>United Kingdom</td><td>2026-11-10</td></tr>
+<tr><td>Howden</td><td>Reinsurance Broker Support Apprenticeship Programme 2027 - London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Nando's</td><td>Software Engineer Mid 1</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Alimentiv</td><td>Information Security Analyst</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii- Global Banking Platform</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Technical Specialist - Mobile App</td><td>Gaydon</td><td>2026-11-10</td></tr>
+<tr><td>bet365</td><td>Software Developer, Sports Content</td><td>Manchester</td><td>2026-11-10</td></tr>
+<tr><td>Metropolitan Police</td><td>Student Placement - Data & Analysis – Counter Terrorism Policing</td><td>West London</td><td>2026-11-10</td></tr>
+<tr><td>AIG Inc</td><td>Junior Data Analyst (fraud And Recovery)</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>2027 Corporate Risk & Broking – Actuarial Graduate Analyst, London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Corporate Risk & Broking – Actuarial Graduate Analyst, London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Barclays</td><td>Banking Graduate Programme 2027 London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>jobs.barclays</td><td>2027 Quantitative Analytics Associate Graduate Programme London</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Citi</td><td>Corporate Banking Associate - Metals & Mining (uk Industrials)</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>PIMCO</td><td>Alternatives Compliance Officer</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Anglian Water</td><td>Business Analyst</td><td>Cambridge</td><td>2026-11-10</td></tr>
+<tr><td>MavensWood Investments Ltd</td><td>Private Equity Analyst</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Pearson Vue</td><td>Specialist, Compliance & Operations</td><td>United Kingdom</td><td>2026-11-10</td></tr>
+<tr><td>Standard Life (Phoenix Group)</td><td>Prt Pricing Actuary (post-transaction Pricing)</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant - Bank Greensand House Care Home, West Avenue, Redhill, Surrey, United Kingdom £13.75 Per Hour Bank Apply By 12 October, 2026 Posted On 21 September, 2026</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Essex</td><td>2026-11-10</td></tr>
+<tr><td>Eaton</td><td>Maintenance Mechanic - 2nd Shift</td><td>South Milwaukee</td><td>2026-11-10</td></tr>
+<tr><td>CyrusOne</td><td>Facility Technician</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>OTIS</td><td>Service Engineer</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>bu-uk</td><td>Water Field Technician</td><td>Winchester +3</td><td>2026-11-10</td></tr>
+<tr><td>Airbus SE</td><td>A400m Line Maintenance Mechanic</td><td>Brize Norton</td><td>2026-11-10</td></tr>
+<tr><td>Severn Trent Plc</td><td>Repair And Maintenance Operative</td><td>Staverton</td><td>2026-11-10</td></tr>
+<tr><td>Super Products</td><td>Maintenance Technician</td><td>Mukwonago</td><td>2026-11-10</td></tr>
+<tr><td>Nestle Ltd</td><td>Shift Technician (4 On/4 Off)</td><td>Dalston</td><td>2026-11-10</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Capri</td><td>Sales Associate - Westfield Stratford - 8hours</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>NEXT plc</td><td>Vs Seasonal Sales Associate - V S Oxford Street (n132375)</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Chicago Board of Trade Foundation</td><td>Maternity Cover - Events Specialist</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Acturis Ltd</td><td>Office Support Assistant</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Cancer Research UK</td><td>Philanthropy Events Executive</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Sentral Pty Ltd</td><td>Administrative Assistant</td><td>London</td><td>2026-11-10</td></tr>
+<tr><td>Mars Inc</td><td>Executive Assistant - Global Petcare</td><td>London</td><td>2026-11-10</td></tr>
 </table>
