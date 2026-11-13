@@ -9620,4 +9620,100 @@ _No archived roles yet._
 <tr><td>Specsavers Optical Group Ltd</td><td>Admin/call Centre Assistant - Morningside</td><td>Morningside</td><td>2026-11-12</td></tr>
 <tr><td>Catholic Education - Archdiocese Canberra & Goulburn</td><td>Executive Support Officer</td><td>Manuka</td><td>2026-11-12</td></tr>
 <tr><td>Spire Healthcare</td><td>Bank Poa Administrator</td><td>Liverpool</td><td>2026-11-12</td></tr>
+<tr><td>Swiss Re</td><td>Group Underwriting Intern</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Microsoft</td><td>Applied Science PhD Internship</td><td>Reading</td><td>2026-11-13</td></tr>
+<tr><td>Partners Group AG</td><td>3-6 Month Internship - Private Equity Directs, Industrial And Consumer (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>EBRD</td><td>Intern - Data Management</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>TEAM LEWIS</td><td>Pr Internship</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>RSM</td><td>Tax Placement - Birmingham - September 2027</td><td>Birmingham</td><td>2026-11-13</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Work & Reward Internship Consulting Programme, London</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Holmes Murphy & Associates</td><td>Population Health Intern - Summer 2027</td><td>Waukee</td><td>2026-11-13</td></tr>
+<tr><td>MavensWood Investments Ltd</td><td>Global Internship Opportunity Across Portfolio Companies For Various Functions Remote</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>CrowdStrike UK</td><td>Sales Excellence Elite Intern - Summer 2027 (reading, Gbr)</td><td>Reading</td><td>2026-11-13</td></tr>
+<tr><td>Honeywell 3</td><td>Intern Channel Excellence Analyst</td><td>Reading</td><td>2026-11-13</td></tr>
+<tr><td>Bank of New York Mellon</td><td>2027 Bny Summer Internship Program – Credit & Lending (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>AWE</td><td>Logistics & Transport – Year in Industry</td><td>Aldermaston</td><td>2026-11-13</td></tr>
+<tr><td>Qube Research And Technology</td><td>2027 - Internship, Hr Technology</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Qube Research And Technology</td><td>2027 - Internship, Surveillance</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Consumer Internship - Leeds</td><td>Leeds</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Corporate Banking & Markets Internship - London</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Brands, Marketing & Experience Internship - Bristol</td><td>Bristol</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Occupational Psychology Internship - Bristol</td><td>Bristol</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Brands, Marketing & Experience Internship - London</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Consumer Internship - London</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Consumer Internship - Bristol</td><td>Bristol</td><td>2026-11-13</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Summer Internship Program – Trade Execution (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Summer Internship Program - Delivery (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>European Space Agency</td><td>Intern In Space Applications For The Mobility Sector</td><td>Harwell</td><td>2026-11-13</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Spaceship Ecsat Team</td><td>Harwell</td><td>2026-11-13</td></tr>
+<tr><td>AECOM UK</td><td>Bridge Structures Engineering Apprentice - Manchester (2027 Start)</td><td>Manchester</td><td>2026-11-13</td></tr>
+<tr><td>Deliveroo</td><td>Software Engineer Ii - Code Context</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Sonyinteractiveentertainmentglobal</td><td>Software Engineer - Video Streaming</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Sentral Pty Ltd</td><td>Full Stack Engineer - Java, Microservices, Spring Boot, Docker, React, Typescript & Redux</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Ipsos UK</td><td>Junior Software Engineer - Aum</td><td>Cambridge</td><td>2026-11-13</td></tr>
+<tr><td>Citi</td><td>Blockchain Engineer - Digital Assets Platform (avp)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Pearson Vue</td><td>Software Engineer Iii</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>JPMorgan Chase</td><td>Sql/python Developer - Software Engineer Iii</td><td>Glasgow</td><td>2026-11-13</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Front End (ui) Software Engineer (fullstack)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Citi Handlowy</td><td>Blockchain Engineer - Digital Assets Platform (avp)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Mueller Service GmbH</td><td>Technical Support Analyst</td><td>Market Drayton</td><td>2026-11-13</td></tr>
+<tr><td>Accenture</td><td>Ai/ml Computational Scientist</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>It Engineer</td><td>Salwick Preston</td><td>2026-11-13</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Crisis & Incident Data Analyst</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>German Audio Evaluations Specialist - Freelance Ai Trainer Project</td><td>Uk</td><td>2026-11-13</td></tr>
+<tr><td>European Molecular Biology Laboratory</td><td>Scientific Developer (chemical Biology Resources)</td><td>Hinxton</td><td>2026-11-13</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Quant / Agentic Ai Developer - Avp</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Data Analyst - Central Government</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Biology Specialist - Freelance Ai Trainer Project</td><td>Uk</td><td>2026-11-13</td></tr>
+<tr><td>WTW</td><td>2027 Retirement Actuarial Trainee Consultant Internship Programme</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Lendable</td><td>Operations Investigations Graduate</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Barnett Waddingham</td><td>2027 Graduate - Trainee Actuarial Consultant - Actuarial Insurance (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Barnett Waddingham</td><td>2027 Graduate - Trainee Actuarial Consultant - Retirement (london)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>UK Atomic Energy Authority</td><td>Finance Analyst</td><td>Retford +1</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst - Health Insurance</td><td>United Kingdom</td><td>2026-11-13</td></tr>
+<tr><td>International Airlines Group</td><td>Financial Analyst - Performance & Value Assurance</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Payment Operations Analyst</td><td>United Kingdom</td><td>2026-11-13</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Catastrophe Risk Analyst</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>The smarter corporate payments company</td><td>Operations Analyst - M&a Transaction Services</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Google</td><td>Product Finance Analyst, Search+</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Charles River Laboratories Inc</td><td>Business Specialist</td><td>East Lothian</td><td>2026-11-13</td></tr>
+<tr><td>Citi</td><td>Global Wealth, Full Time Analyst, London, United Kingdom 2027</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Citi</td><td>Investment Banking Analyst, M&a</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Citi</td><td>Reference Data Services Intermediate Analyst</td><td>Belfast</td><td>2026-11-13</td></tr>
+<tr><td>Lubrizol</td><td>Regulatory Toxicology & Compliance Specialist</td><td>Hazelwood</td><td>2026-11-13</td></tr>
+<tr><td>Saputo</td><td>Analyst, Category Insights</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Hiscox</td><td>Risk Analyst</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Civil Aviation Authority</td><td>Business Analyst</td><td>Unknown</td><td>2026-11-13</td></tr>
+<tr><td>Aon Corporation</td><td>Power Risk Engineer</td><td>UK</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Investment Analyst / Rebels</td><td>United Kingdom</td><td>2026-11-13</td></tr>
+<tr><td>CMC MARKETS</td><td>Compliance Officer</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Greggs PLC</td><td>Sap Test Analyst Newcastle Upon Tyne, United Kingdom Circa £40k Per Annum, Depending On Experience Permanent Apply By 4 December, 2026 Posted On 5 November, 2026 Contract Hours Full Time</td><td>Newcastle Upon Tyne +1</td><td>2026-11-13</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Health Screening (bank)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>Potter'S Wharf</td><td>2026-11-13</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cornwall</td><td>2026-11-13</td></tr>
+<tr><td>BGIS</td><td>Mobile Mechanical Service Technician</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Field Service Representative</td><td>Lossiemouth</td><td>2026-11-13</td></tr>
+<tr><td>Diebold Nixdorf</td><td>Field Service Technician - London North-west / West</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>AB Agri Ltd</td><td>Maintenance Engineer</td><td>Fradley</td><td>2026-11-13</td></tr>
+<tr><td>Tesco</td><td>Service Maintenance Technician - Refrigeration</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Tesco</td><td>Maintenance Technician</td><td>Notting Hill Gate</td><td>2026-11-13</td></tr>
+<tr><td>Nestle SA</td><td>Shift Technician (4 On/4 Off)</td><td>Dalston</td><td>2026-11-13</td></tr>
+<tr><td>Brinks</td><td>Field Service Engineer - North London</td><td>North London</td><td>2026-11-13</td></tr>
+<tr><td>NoteMachine (A Brink's Company)</td><td>Field Service Engineer</td><td>South West London</td><td>2026-11-13</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Oxford</td><td>2026-11-13</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 38hrs, Edgware</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 24hrs 12m Ftc, Ilford</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 20hrs, London - Westfield City</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 30hrs, London - Tottenham Court Road</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 38hrs, London - Wandsworth</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 38hrs, London - Kings Road</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 12hrs, London - Kensington High St</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Hayes End</td><td>2026-11-13</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Operations Administration Assistant - Council</td><td>Chelmsford</td><td>2026-11-13</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Business Support Assistant (part Time)</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Dyer & Butler Ltd</td><td>Project Coordinator</td><td>Location</td><td>2026-11-13</td></tr>
+<tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Hilton</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-13</td></tr>
+<tr><td>Travelport</td><td>Executive Assistant Ii</td><td>Langley</td><td>2026-11-13</td></tr>
 </table>
