@@ -9716,4 +9716,87 @@ _No archived roles yet._
 <tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-13</td></tr>
 <tr><td>Hilton</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-13</td></tr>
 <tr><td>Travelport</td><td>Executive Assistant Ii</td><td>Langley</td><td>2026-11-13</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Marketing And Comm. Intern</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Expedia Group</td><td>Applied Science Intern - Masters - 2027 - London</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Expedia Group</td><td>Applied Science Intern - PhD - 2027 - London</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Siemens</td><td>Higher Apprentice - Rail Signalling (Level 4)</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Siemens</td><td>Higher Apprentice - Construction (Level 4)</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Siemens</td><td>Degree Apprentice - Project Planning (Level 6)</td><td>Manchester</td><td>2026-11-14</td></tr>
+<tr><td>Siemens</td><td>Degree Apprentice - Project Manager (Level 6)</td><td>Manchester</td><td>2026-11-14</td></tr>
+<tr><td>Scale</td><td>Software Engineer - New Grad</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist</td><td>UK</td><td>2026-11-14</td></tr>
+<tr><td>G-Research</td><td>Kubernetes Software Engineer</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Raytheon Australia</td><td>Software Engineer</td><td>Manchester</td><td>2026-11-14</td></tr>
+<tr><td>Neo4j</td><td>Software Engineer – Database Kernel</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Newcastlehc</td><td>Service Desk Adviser</td><td>Cobalt Business Park</td><td>2026-11-14</td></tr>
+<tr><td>DeepL</td><td>Software Engineer / Identity And Access Management / Full-stack</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Jobgether</td><td>I2nd Level Supporter - E-banking</td><td>Uk</td><td>2026-11-14</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Security Reporting And Governance Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Dmgmedia</td><td>Javascript Engineer</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Siemens Industry Software Limited</td><td>Software Engineer – Cfd Solver Development</td><td>Cambridge</td><td>2026-11-14</td></tr>
+<tr><td>HARVEY</td><td>Research Engineer, Infrastructure</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Bupa Group</td><td>Data Insight Associate</td><td>Salford Quays +2</td><td>2026-11-14</td></tr>
+<tr><td>Aon Corporation</td><td>Treaty Facilities Data Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Freshfields</td><td>Ai Solutions Engineer</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>PAE/Amentum</td><td>Non-conformance Data Migration Analyst</td><td>Uk</td><td>2026-11-14</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Commercial Finance Analyst</td><td>London +1</td><td>2026-11-14</td></tr>
+<tr><td>Eurofins Scientific</td><td>Quality & Compliance Officer</td><td>Abingdon +1</td><td>2026-11-14</td></tr>
+<tr><td>LSEG</td><td>Credit Risk Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Assistant Finance Analyst - 12 Month Ftc</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Hilton</td><td>Analyst Distribution Operations</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>NatWest Group</td><td>Product Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Capital Partners Mortgage LLC</td><td>Results Analyst - 20051852</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Innovation Business Partner</td><td>Covent Garden</td><td>2026-11-14</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Associate/analyst, M&a - Infrastructure & Industrials / Scib</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>AIG Inc</td><td>Portfolio Analytics Actuary</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>DB Cargo France</td><td>Quantitative Strategist</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Bupa Group</td><td>Insight Analyst</td><td>Salford Quays +3</td><td>2026-11-14</td></tr>
+<tr><td>Bupa Group</td><td>Business Analyst</td><td>Salford Quays +3</td><td>2026-11-14</td></tr>
+<tr><td>Markel Corp</td><td>Business Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>russellinvestments</td><td>Quantitative Performance Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Delta Capita</td><td>Business Analyst - Customer Complaints Transformation</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Financial Crime Optimisation Business Analyst</td><td>Leeds</td><td>2026-11-14</td></tr>
+<tr><td>Delta Capita</td><td>Client Onboarding Analyst</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>William Blair</td><td>Investment Banking Analyst 2, Technology</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant - Nights Chertsey Parklands Manor Care Home, Parklands Drive, Chertsey, Surrey, United Kingdom £13.50 Per Hour Full Time Apply By 16 October, 2026 Posted On 25 September, 2026</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Poa</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Jobs for Humanity 100</td><td>Registered Nurse</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Candy Home</td><td>Field Service Engineer</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Severn Trent</td><td>Maintenance Technician - Single</td><td>Leicestershire</td><td>2026-11-14</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Manufacturing Services Technician</td><td>Annesley</td><td>2026-11-14</td></tr>
+<tr><td>ASR Group®</td><td>Maintenance Technician</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>FOX Corporation Technology</td><td>Maintenance Engineer</td><td>Milwaukee</td><td>2026-11-14</td></tr>
+<tr><td>Hilton</td><td>Maintenance Assistant</td><td>Cambridge</td><td>2026-11-14</td></tr>
+<tr><td>Allianz SE</td><td>Roadside Technician - Cheshire/flintshire</td><td>Cheshire +1</td><td>2026-11-14</td></tr>
+<tr><td>Virgin Media O2</td><td>Field Technician</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Virgin Media O2</td><td>Field Technician Recovery</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>AVI-SPL</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-11-14</td></tr>
+<tr><td>Dunelm Careers</td><td>Service Technician - Field Based</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Waitrose & Partners</td><td>Skilled Maintenance Technician</td><td>Avonmouth</td><td>2026-11-14</td></tr>
+<tr><td>BGIS</td><td>Service Technician</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Lowes Companies Inc</td><td>Warehouse Part Time Overnight</td><td>Yukon +1</td><td>2026-11-14</td></tr>
+<tr><td>Lowes Companies Inc</td><td>Warehouse Part Time Days</td><td>Milwaukie</td><td>2026-11-14</td></tr>
+<tr><td>The North Face</td><td>Sales Associate</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>LEGO Group</td><td>Sales Associate</td><td>Oxford</td><td>2026-11-14</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 24hrs, London The Strand</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Virgin Media O2</td><td>Retail Advisor, 38hrs, London The Strand</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Capita</td><td>Training Support Administrator</td><td>Portsmouth</td><td>2026-11-14</td></tr>
+<tr><td>Priory Group</td><td>Healthcare Assistant</td><td>Leeds</td><td>2026-11-14</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>ASOS</td><td>Business Support Administrator - 12 Month Ftc</td><td>London +1</td><td>2026-11-14</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Leeds</td><td>2026-11-14</td></tr>
+<tr><td>Kennedys</td><td>Legal Support Administration Assistant</td><td>Sheffield</td><td>2026-11-14</td></tr>
+<tr><td>Foxtons Ltd</td><td>Executive Assistant</td><td>All Locations</td><td>2026-11-14</td></tr>
+<tr><td>Buro Happold</td><td>It Pmo Coordinator Bath; London, United Kingdom Permanent Competitive Apply By 5 December, 2026</td><td>Bath</td><td>2026-11-14</td></tr>
+<tr><td>Aurora St Lukes Medical Center</td><td>Health Unit Coordinator - Huc</td><td>Aurora</td><td>2026-11-14</td></tr>
+<tr><td>University Of Cambridge</td><td>Programme Coordinator</td><td>Cambridge</td><td>2026-11-14</td></tr>
+<tr><td>TFG London</td><td>Technical Admin Assistant</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>tfg-brands</td><td>Technical Admin Assistant</td><td>Hobbs</td><td>2026-11-14</td></tr>
+<tr><td>Co-op</td><td>Complaints Specialist</td><td>Manchester</td><td>2026-11-14</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administration Assistant</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>The Works Stores Ltd</td><td>Property Projects Coordinator</td><td>Coleshill</td><td>2026-11-14</td></tr>
+<tr><td>Burson</td><td>Executive Assistant (12 Month Fixed Term Contract Maternity Cover)</td><td>London</td><td>2026-11-14</td></tr>
+<tr><td>Jobgether</td><td>Medical Devices Installation Project Coordinator</td><td>United Kingdom</td><td>2026-11-14</td></tr>
+<tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>Manchester</td><td>2026-11-14</td></tr>
 </table>
