@@ -9799,4 +9799,40 @@ _No archived roles yet._
 <tr><td>Burson</td><td>Executive Assistant (12 Month Fixed Term Contract Maternity Cover)</td><td>London</td><td>2026-11-14</td></tr>
 <tr><td>Jobgether</td><td>Medical Devices Installation Project Coordinator</td><td>United Kingdom</td><td>2026-11-14</td></tr>
 <tr><td>Clyde & Co</td><td>Administrative Assistant</td><td>Manchester</td><td>2026-11-14</td></tr>
+<tr><td>Hpe Jobsathpe</td><td>Communications & Programmes Interns</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Marsh</td><td>Marsh Global Investments 2027 Summer Internship Programme</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Magic The Gathering</td><td>2027 Summer Internships - Commercial - [london, Uk]</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>MBDA</td><td>Software Engineer - Graduate Programme 2027</td><td>Bristol</td><td>2026-11-15</td></tr>
+<tr><td>Inspired Education Group</td><td>It Support Technician</td><td>Crickhowell</td><td>2026-11-15</td></tr>
+<tr><td>FirstPort Group</td><td>Property Services Specialist</td><td>All Locations</td><td>2026-11-15</td></tr>
+<tr><td>Quantinuum</td><td>Advanced Compiler Engineer - Quantum Software</td><td>Cambridge</td><td>2026-11-15</td></tr>
+<tr><td>Formula 1</td><td>It Support Analyst</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Elanco Animal Health Inc</td><td>Business Intelligence Analyst</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Verisk</td><td>Data Scientist</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Vrbo (Expedia Group)</td><td>Data Scientist Iii, Hotels.com Analytics</td><td>United Kingdom</td><td>2026-11-15</td></tr>
+<tr><td>Google</td><td>Research Engineer, Multi-agent Learning, Deepmind</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Audit Wales</td><td>Graduate Trainee Auditor</td><td>Cardiff</td><td>2026-11-15</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-11-15</td></tr>
+<tr><td>Kantar</td><td>Analyst-4</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Shieldpay</td><td>Customer Operations Analyst</td><td>London +1</td><td>2026-11-15</td></tr>
+<tr><td>Publix Serving (Civica)</td><td>Credit Officer - C12 - London</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Clarion Housing Group</td><td>Contract & Compliance Officer</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Ingeus UK</td><td>Pip Functional Assessor - Clinical Auditor</td><td>London +1</td><td>2026-11-15</td></tr>
+<tr><td>HCRG Care Group</td><td>Children's Community Carer - Surrey Chertsey, United Kingdom Starting Salary Of £25,500 Plus Group Pension Permanent - Full Or Part Time Apply By 25 October, 2026 Posted On 28 September, 2026</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>HCRG Care Group</td><td>Children's Community Carer - Surrey Redhill, United Kingdom Starting Salary Of £25,500 Plus Group Pension Permanent - Full Or Part Time Apply By 25 October, 2026 Posted On 28 September, 2026</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Service Engineer – Security</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Electrical Maintenance Technician</td><td>Pirbright</td><td>2026-11-15</td></tr>
+<tr><td>Inotiv</td><td>Maintenance Technician Apprentice</td><td>Belton</td><td>2026-11-15</td></tr>
+<tr><td>Alsco Uniforms</td><td>Maintenance Worker/utility Person - Entry Level</td><td>Milwaukee</td><td>2026-11-15</td></tr>
+<tr><td>Hitachi Rail</td><td>Gas Insulated Switchgear Technical Advisor</td><td>Staffordshire</td><td>2026-11-15</td></tr>
+<tr><td>Johnson Matthey Catalysts GmbH</td><td>Mechanical Technician</td><td>Cambridge</td><td>2026-11-15</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-11-15</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (12hours Fix Term, Oxford St.)</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Redbridge</td><td>2026-11-15</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Middlesex</td><td>2026-11-15</td></tr>
+<tr><td>Gorely Group</td><td>Executive Assistant (maternity Cover)</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>London Borough of Brent</td><td>Executive Assistant</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Wells Fargo</td><td>Executive Assistant</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Finastra</td><td>Executive Assistant</td><td>London</td><td>2026-11-15</td></tr>
+<tr><td>Xylem Inc</td><td>Project Administrator</td><td>Waukesha Ridgeview</td><td>2026-11-15</td></tr>
 </table>
