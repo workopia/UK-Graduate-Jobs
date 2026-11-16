@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 974,
+ "asOf": "2026-11-16",
+ "count": 959,
  "jobs": {
   "9fe22b7ff5eabff057f082482f533130": {
    "id": "9fe22b7ff5eabff057f082482f533130",
@@ -8,11 +8,35 @@
    "role": "Kerry Internship Programme 2027 - Research, Development & Application (rda)",
    "location": "Portbury"
   },
+  "81eaae3b9a42fe350d86f6034bd9abf3": {
+   "id": "81eaae3b9a42fe350d86f6034bd9abf3",
+   "company": "Müller",
+   "role": "Procurement Intern",
+   "location": "Market Drayton"
+  },
+  "35d402c8faa404f0f77d63aacc8e4671": {
+   "id": "35d402c8faa404f0f77d63aacc8e4671",
+   "company": "Müller Milk & Ingredients",
+   "role": "Recruitment Intern",
+   "location": "United Kingdom"
+  },
   "04d206bf9e4c4848a89c1902a3e149d9": {
    "id": "04d206bf9e4c4848a89c1902a3e149d9",
    "company": "eb",
    "role": "Aru Winter Internship: Social Media And Content Co-ordinator Internship",
    "location": "Cambridge +1"
+  },
+  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
+   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
+   "company": "G-Research",
+   "role": "Machine Learning Engineer Internship",
+   "location": "London"
+  },
+  "04705997e509da45cf75245b33a7d761": {
+   "id": "04705997e509da45cf75245b33a7d761",
+   "company": "G-Research",
+   "role": "Natural Language Processing Internship",
+   "location": "London"
   },
   "7837b52f4315b296f52a16c0527f7156": {
    "id": "7837b52f4315b296f52a16c0527f7156",
@@ -32,18 +56,6 @@
    "role": "Data & Ai Internship 2027",
    "location": "London +1"
   },
-  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
-   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
-   "company": "G-Research",
-   "role": "Machine Learning Engineer Internship",
-   "location": "London"
-  },
-  "04705997e509da45cf75245b33a7d761": {
-   "id": "04705997e509da45cf75245b33a7d761",
-   "company": "G-Research",
-   "role": "Natural Language Processing Internship",
-   "location": "London"
-  },
   "1c2017e94141f713d264a5d170cc50fa": {
    "id": "1c2017e94141f713d264a5d170cc50fa",
    "company": "Verisk",
@@ -61,6 +73,12 @@
    "company": "Thermo Fisher Scientific",
    "role": "Quality Systems & Compliance Intern",
    "location": "Covingham"
+  },
+  "50b0b3766b56d057b287cddab581e317": {
+   "id": "50b0b3766b56d057b287cddab581e317",
+   "company": "McDermott International",
+   "role": "Intern",
+   "location": "London"
   },
   "0dba3a1ff7b19800743aff483b17a97a": {
    "id": "0dba3a1ff7b19800743aff483b17a97a",
@@ -463,24 +481,6 @@
    "company": "VRTX (Vertex)",
    "role": "Vertex Summer Intern, International Patient Engagement (12 Months)",
    "location": "Paddington"
-  },
-  "targetjobs:4df0d633-3e1b-403c-a5a9-95509aedc985": {
-   "id": "targetjobs:4df0d633-3e1b-403c-a5a9-95509aedc985",
-   "company": "Amazon",
-   "role": "Associate Solutions Architect Internship",
-   "location": "London"
-  },
-  "targetjobs:546f3361-fd2b-4cea-89b6-b22c61a729c1": {
-   "id": "targetjobs:546f3361-fd2b-4cea-89b6-b22c61a729c1",
-   "company": "GSK ViiV Careers",
-   "role": "Communications (Multiple Roles and Locations) Industrial Placement",
-   "location": "London"
-  },
-  "targetjobs:9dc33b2d-1e08-4f99-85a0-bf5d9d563e2d": {
-   "id": "targetjobs:9dc33b2d-1e08-4f99-85a0-bf5d9d563e2d",
-   "company": "JD",
-   "role": "JD Young Supply Chain Data & AI Analyst Internship",
-   "location": "London"
   },
   "09ee6c7eeaab8c277ac3666be74a9cac": {
    "id": "09ee6c7eeaab8c277ac3666be74a9cac",
@@ -1136,24 +1136,6 @@
    "role": "Industrial Placement - Software Engineer",
    "location": "London"
   },
-  "targetjobs:73ad8dc1-736a-473f-a256-8cdca4c22abe": {
-   "id": "targetjobs:73ad8dc1-736a-473f-a256-8cdca4c22abe",
-   "company": "MBDA",
-   "role": "Software Engineer - Undergraduate Placement 2027",
-   "location": "Bristol"
-  },
-  "targetjobs:26eede8c-c110-4574-8346-7a172fa39f69": {
-   "id": "targetjobs:26eede8c-c110-4574-8346-7a172fa39f69",
-   "company": "Alpine Cars Racing",
-   "role": "IT Service Desk Student Placement",
-   "location": "Enstone"
-  },
-  "targetjobs:61ec7691-8950-4efd-b5ca-0f7f0de90e85": {
-   "id": "targetjobs:61ec7691-8950-4efd-b5ca-0f7f0de90e85",
-   "company": "ALPINE RACING LIMITED",
-   "role": "IT Service Desk Student Placement",
-   "location": "Enstone"
-  },
   "ba09f38af3f4936176429811a9069053": {
    "id": "ba09f38af3f4936176429811a9069053",
    "company": "Intuit",
@@ -1322,41 +1304,11 @@
    "role": "Software Engineer, New Grad",
    "location": "London"
   },
-  "targetjobs:9c6b6cb6-9204-4ab1-9dc8-a3ec088e86bb": {
-   "id": "targetjobs:9c6b6cb6-9204-4ab1-9dc8-a3ec088e86bb",
-   "company": "MBDA",
-   "role": "Software Engineer - Graduate Programme",
-   "location": "Bristol"
-  },
-  "targetjobs:e7ac6c12-dd45-478d-8707-8bab9a594d0f": {
-   "id": "targetjobs:e7ac6c12-dd45-478d-8707-8bab9a594d0f",
-   "company": "Nxp Semiconductors",
-   "role": "Graduate AI and Software Engineer - Automotive MPUs",
-   "location": "Glasgow"
-  },
-  "5eb0f740b8959acb7dd5b089607e4437": {
-   "id": "5eb0f740b8959acb7dd5b089607e4437",
-   "company": "HCLTech UK",
-   "role": "Technical Specialist",
-   "location": "Unknown"
-  },
-  "417948e0ef6542452b2997674b13e84a": {
-   "id": "417948e0ef6542452b2997674b13e84a",
-   "company": "Google",
-   "role": "Software Engineer Iii, Cloud Tpu Compiler",
-   "location": "London"
-  },
-  "16fe9a0c015f6d76fb73c5e01759e838": {
-   "id": "16fe9a0c015f6d76fb73c5e01759e838",
-   "company": "Avigilon",
-   "role": "Back End Software Engineer",
-   "location": "Edinburgh +1"
-  },
-  "8ecbbeacfa8c3c280a1ff63dad46093e": {
-   "id": "8ecbbeacfa8c3c280a1ff63dad46093e",
-   "company": "Hltech",
-   "role": "Software Engineer",
-   "location": "Home Based"
+  "09ac60cc22029fb7ec86da281b690ae0": {
+   "id": "09ac60cc22029fb7ec86da281b690ae0",
+   "company": "Tesco",
+   "role": "Software Development Engineer Ii",
+   "location": "UK"
   },
   "541147644a00c63a03e2095ec9caf34f": {
    "id": "541147644a00c63a03e2095ec9caf34f",
@@ -1370,16 +1322,16 @@
    "role": "Software Engineer",
    "location": "London"
   },
-  "68f80df555ac81f9af9acd086774cf99": {
-   "id": "68f80df555ac81f9af9acd086774cf99",
-   "company": "G-Research",
-   "role": "Rust Software Engineer (Contract)",
-   "location": "London"
-  },
   "e85774f7971f5c1d879feb50c6cb3806": {
    "id": "e85774f7971f5c1d879feb50c6cb3806",
    "company": "G-Research",
    "role": "Software Engineer — Observability Instrumentation",
+   "location": "London"
+  },
+  "68f80df555ac81f9af9acd086774cf99": {
+   "id": "68f80df555ac81f9af9acd086774cf99",
+   "company": "G-Research",
+   "role": "Rust Software Engineer (Contract)",
    "location": "London"
   },
   "043d5f983788abf4416a8c235a5a0853": {
@@ -1411,6 +1363,30 @@
    "company": "G-Research",
    "role": "Data Software Engineer",
    "location": "London"
+  },
+  "5eb0f740b8959acb7dd5b089607e4437": {
+   "id": "5eb0f740b8959acb7dd5b089607e4437",
+   "company": "HCLTech UK",
+   "role": "Technical Specialist",
+   "location": "Unknown"
+  },
+  "417948e0ef6542452b2997674b13e84a": {
+   "id": "417948e0ef6542452b2997674b13e84a",
+   "company": "Google",
+   "role": "Software Engineer Iii, Cloud Tpu Compiler",
+   "location": "London"
+  },
+  "16fe9a0c015f6d76fb73c5e01759e838": {
+   "id": "16fe9a0c015f6d76fb73c5e01759e838",
+   "company": "Avigilon",
+   "role": "Back End Software Engineer",
+   "location": "Edinburgh +1"
+  },
+  "8ecbbeacfa8c3c280a1ff63dad46093e": {
+   "id": "8ecbbeacfa8c3c280a1ff63dad46093e",
+   "company": "Hltech",
+   "role": "Software Engineer",
+   "location": "Home Based"
   },
   "b75b6847b4b0d8f60dd460188b4f09f8": {
    "id": "b75b6847b4b0d8f60dd460188b4f09f8",
@@ -1808,12 +1784,6 @@
    "role": "Software Engineer – Systems & Infrastructure",
    "location": "London"
   },
-  "f66c69e9efdd1334b29c42d0f39fbd6b": {
-   "id": "f66c69e9efdd1334b29c42d0f39fbd6b",
-   "company": "Secure Trust Bank",
-   "role": "Relationship Support Specialist",
-   "location": "All Locations"
-  },
   "a6b55ea1f1eedcbf66b33da44b30b6d1": {
    "id": "a6b55ea1f1eedcbf66b33da44b30b6d1",
    "company": "Roche",
@@ -1903,24 +1873,6 @@
    "company": "Roche UK",
    "role": "Data Science Industrial Placement - Multiple Roles Within Biostats, Data Management, Real-world Data And More",
    "location": "Welwyn"
-  },
-  "targetjobs:70dd3018-ec4d-47cc-ad46-8d24b2c8ed1e": {
-   "id": "targetjobs:70dd3018-ec4d-47cc-ad46-8d24b2c8ed1e",
-   "company": "Alpine Cars Racing",
-   "role": "AI Engineering Student Placement",
-   "location": "Enstone"
-  },
-  "targetjobs:9cf8309a-172b-4c78-8fc0-ade392670d7c": {
-   "id": "targetjobs:9cf8309a-172b-4c78-8fc0-ade392670d7c",
-   "company": "Airbus",
-   "role": "Airframe Data Scientist Placement",
-   "location": "Filton"
-  },
-  "targetjobs:7d6e6b2e-5d36-4332-8bac-1d7f9fea691e": {
-   "id": "targetjobs:7d6e6b2e-5d36-4332-8bac-1d7f9fea691e",
-   "company": "ALPINE RACING LIMITED",
-   "role": "AI Engineering Student Placement",
-   "location": "Enstone"
   },
   "709f13f9b0b96e985662fb90679145a7": {
    "id": "709f13f9b0b96e985662fb90679145a7",
@@ -2060,35 +2012,17 @@
    "role": "Associate Applied Ai, Rotational Program, London",
    "location": "London"
   },
-  "targetjobs:519e8afb-86df-478e-b697-b89f870e714a": {
-   "id": "targetjobs:519e8afb-86df-478e-b697-b89f870e714a",
-   "company": "Tecsa",
-   "role": "Graduate Data Scientist",
-   "location": "London"
-  },
-  "targetjobs:549b2337-5cf5-42a5-83f6-dda2ccec49a1": {
-   "id": "targetjobs:549b2337-5cf5-42a5-83f6-dda2ccec49a1",
-   "company": "ByteDance",
-   "role": "AI Solution Architect Graduate (BytePlus)",
-   "location": "London"
-  },
-  "targetjobs:cb2bc738-c0a1-4e00-8f5c-4012d1d1f00f": {
-   "id": "targetjobs:cb2bc738-c0a1-4e00-8f5c-4012d1d1f00f",
-   "company": "Airbus",
-   "role": "AGGP2027 - Graduate AI Engineer",
-   "location": "Filton"
+  "9b3ab897cb5fbe5acb55d250580ff799": {
+   "id": "9b3ab897cb5fbe5acb55d250580ff799",
+   "company": "Sapiens International",
+   "role": "L2 Support Engineer (ai)",
+   "location": "United Kingdom"
   },
   "12e9e85fb27b940faa9064be3a4d9702": {
    "id": "12e9e85fb27b940faa9064be3a4d9702",
    "company": "UK Centre for Ecology & Hydrology",
    "role": "Environmental Data Scientist",
    "location": "Lancaster +1"
-  },
-  "16b65ef67697e2630473be6ef8e0855d": {
-   "id": "16b65ef67697e2630473be6ef8e0855d",
-   "company": "Ipsos",
-   "role": "Data Scientist-synthetic Data Team",
-   "location": "United Kingdom"
   },
   "4418dd90087f9f6f59defd6e5185d05c": {
    "id": "4418dd90087f9f6f59defd6e5185d05c",
@@ -2102,11 +2036,23 @@
    "role": "Core AI Engineer",
    "location": "London"
   },
+  "16b65ef67697e2630473be6ef8e0855d": {
+   "id": "16b65ef67697e2630473be6ef8e0855d",
+   "company": "Ipsos",
+   "role": "Data Scientist-synthetic Data Team",
+   "location": "United Kingdom"
+  },
   "f3f5db6dadf59ca36b0d3f141b8e6f46": {
    "id": "f3f5db6dadf59ca36b0d3f141b8e6f46",
    "company": "PhysicsX",
    "role": "Ai Engineer: Evals",
    "location": "London"
+  },
+  "5c8fc3bb6f6d2b4c69cf67b49e4b441a": {
+   "id": "5c8fc3bb6f6d2b4c69cf67b49e4b441a",
+   "company": "Legal & General Group",
+   "role": "Data Analyst",
+   "location": "Brighton And Hove"
   },
   "827ab6efa31ac15b176431497ecb3ab3": {
    "id": "827ab6efa31ac15b176431497ecb3ab3",
@@ -2438,12 +2384,6 @@
    "role": "Data Scientist",
    "location": "London"
   },
-  "c6d0f71f28823f324294157686de014d": {
-   "id": "c6d0f71f28823f324294157686de014d",
-   "company": "Sapiens International",
-   "role": "L2 Support Engineer (ai)",
-   "location": "United Kingdom"
-  },
   "d0df8b781a7d02368087678a1dbe75d2": {
    "id": "d0df8b781a7d02368087678a1dbe75d2",
    "company": "Scale AI",
@@ -2550,12 +2490,6 @@
    "id": "d28219d0deae37f81725b0d568199ffe",
    "company": "WPP Media Australia & New Zealand",
    "role": "Data Scientist",
-   "location": "London"
-  },
-  "74e0b6f3528a72e1be83ecd4a5282a0e": {
-   "id": "74e0b6f3528a72e1be83ecd4a5282a0e",
-   "company": "Cancer Research UK",
-   "role": "Power Bi Reporting Analyst",
    "location": "London"
   },
   "targetjobs:ea81edd7-9f68-4bb5-9379-a10c46d3fa8f": {
@@ -3422,28 +3356,28 @@
    "role": "Graduate Strategy",
    "location": "London"
   },
-  "targetjobs:37e158fd-fd35-498a-a1cb-d47ab4013ded": {
-   "id": "targetjobs:37e158fd-fd35-498a-a1cb-d47ab4013ded",
-   "company": "Javelin Global Commodities",
-   "role": "Graduate Accountant",
+  "e66cdde3f0b392f28ae28dea86486852": {
+   "id": "e66cdde3f0b392f28ae28dea86486852",
+   "company": "G-Research",
+   "role": "Security Operations and Risk Analyst",
    "location": "London"
   },
-  "targetjobs:62d6a00a-cd47-43b8-8a77-6860b32be2c0": {
-   "id": "targetjobs:62d6a00a-cd47-43b8-8a77-6860b32be2c0",
-   "company": "Steer",
-   "role": "Graduate Strategic Finance Analyst",
+  "0050cf6de4181867039371d2a39ded2a": {
+   "id": "0050cf6de4181867039371d2a39ded2a",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Experienced",
    "location": "London"
   },
-  "targetjobs:87a67410-ee86-4dd1-9f6e-3e02b82a01b5": {
-   "id": "targetjobs:87a67410-ee86-4dd1-9f6e-3e02b82a01b5",
-   "company": "Silvertide",
-   "role": "Graduate Quantitative Analyst",
+  "78945e25f6a902e53497cc93a9d2be24": {
+   "id": "78945e25f6a902e53497cc93a9d2be24",
+   "company": "G-Research",
+   "role": "Quantitative Developer",
    "location": "London"
   },
-  "targetjobs:3ac5db66-5ad9-4fcc-8dbb-b109f7494221": {
-   "id": "targetjobs:3ac5db66-5ad9-4fcc-8dbb-b109f7494221",
-   "company": "Talentbrew",
-   "role": "2027 Quantitative Analytics Associate Graduate Programme",
+  "b653c06fb1324f5130229e7288edfa44": {
+   "id": "b653c06fb1324f5130229e7288edfa44",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Fundamental Equity Research",
    "location": "London"
   },
   "01012a6093f01287894362f57faafe3d": {
@@ -3505,30 +3439,6 @@
    "company": "M&G",
    "role": "Non-financial Risk Analyst (11 Month Ftc)",
    "location": "London +2"
-  },
-  "e66cdde3f0b392f28ae28dea86486852": {
-   "id": "e66cdde3f0b392f28ae28dea86486852",
-   "company": "G-Research",
-   "role": "Security Operations and Risk Analyst",
-   "location": "London"
-  },
-  "0050cf6de4181867039371d2a39ded2a": {
-   "id": "0050cf6de4181867039371d2a39ded2a",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Experienced",
-   "location": "London"
-  },
-  "b653c06fb1324f5130229e7288edfa44": {
-   "id": "b653c06fb1324f5130229e7288edfa44",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Fundamental Equity Research",
-   "location": "London"
-  },
-  "78945e25f6a902e53497cc93a9d2be24": {
-   "id": "78945e25f6a902e53497cc93a9d2be24",
-   "company": "G-Research",
-   "role": "Quantitative Developer",
-   "location": "London"
   },
   "edde8049691844e60372606be5a168da": {
    "id": "edde8049691844e60372606be5a168da",
@@ -5366,6 +5276,18 @@
    "role": "Multifunctional Sales Associate (20hours Fix Term, Oxford St.)",
    "location": "London"
   },
+  "8e6a0c95ac7c5ec1f601780573f97d02": {
+   "id": "8e6a0c95ac7c5ec1f601780573f97d02",
+   "company": "Winfield Hospital",
+   "role": "Administrative Assistant For Theatre Bookings Team",
+   "location": "Gloucester"
+  },
+  "b510d86d3c3005b831255b174df60471": {
+   "id": "b510d86d3c3005b831255b174df60471",
+   "company": "Ramsay Health Care UK",
+   "role": "Administration Assistant",
+   "location": "Nottingham"
+  },
   "69f5090f12c0e07839d4a16a63419aa9": {
    "id": "69f5090f12c0e07839d4a16a63419aa9",
    "company": "Iceland Foods",
@@ -5833,18 +5755,6 @@
    "company": "Air Products and Chemicals, Inc.",
    "role": "Material & Warehouse Coordinator",
    "location": "Carrington"
-  },
-  "1f6c981f96ca828ed88363449e69288b": {
-   "id": "1f6c981f96ca828ed88363449e69288b",
-   "company": "Waythrough",
-   "role": "Recovery Coordinator",
-   "location": "Horden"
-  },
-  "515a9f79a254121aecac0b0456a0175b": {
-   "id": "515a9f79a254121aecac0b0456a0175b",
-   "company": "Quilter",
-   "role": "Events Executive",
-   "location": "London"
   }
  }
 }

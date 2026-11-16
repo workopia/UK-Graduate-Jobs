@@ -9835,4 +9835,27 @@ _No archived roles yet._
 <tr><td>Wells Fargo</td><td>Executive Assistant</td><td>London</td><td>2026-11-15</td></tr>
 <tr><td>Finastra</td><td>Executive Assistant</td><td>London</td><td>2026-11-15</td></tr>
 <tr><td>Xylem Inc</td><td>Project Administrator</td><td>Waukesha Ridgeview</td><td>2026-11-15</td></tr>
+<tr><td>Amazon</td><td>Associate Solutions Architect Internship</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>GSK ViiV Careers</td><td>Communications (Multiple Roles and Locations) Industrial Placement</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>JD</td><td>JD Young Supply Chain Data & AI Analyst Internship</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>MBDA</td><td>Software Engineer - Undergraduate Placement 2027</td><td>Bristol</td><td>2026-11-16</td></tr>
+<tr><td>Alpine Cars Racing</td><td>IT Service Desk Student Placement</td><td>Enstone</td><td>2026-11-16</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>IT Service Desk Student Placement</td><td>Enstone</td><td>2026-11-16</td></tr>
+<tr><td>MBDA</td><td>Software Engineer - Graduate Programme</td><td>Bristol</td><td>2026-11-16</td></tr>
+<tr><td>Nxp Semiconductors</td><td>Graduate AI and Software Engineer - Automotive MPUs</td><td>Glasgow</td><td>2026-11-16</td></tr>
+<tr><td>Secure Trust Bank</td><td>Relationship Support Specialist</td><td>All Locations</td><td>2026-11-16</td></tr>
+<tr><td>Alpine Cars Racing</td><td>AI Engineering Student Placement</td><td>Enstone</td><td>2026-11-16</td></tr>
+<tr><td>Airbus</td><td>Airframe Data Scientist Placement</td><td>Filton</td><td>2026-11-16</td></tr>
+<tr><td>ALPINE RACING LIMITED</td><td>AI Engineering Student Placement</td><td>Enstone</td><td>2026-11-16</td></tr>
+<tr><td>Tecsa</td><td>Graduate Data Scientist</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>ByteDance</td><td>AI Solution Architect Graduate (BytePlus)</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Airbus</td><td>AGGP2027 - Graduate AI Engineer</td><td>Filton</td><td>2026-11-16</td></tr>
+<tr><td>Sapiens International</td><td>L2 Support Engineer (ai)</td><td>United Kingdom</td><td>2026-11-16</td></tr>
+<tr><td>Cancer Research UK</td><td>Power Bi Reporting Analyst</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Javelin Global Commodities</td><td>Graduate Accountant</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Steer</td><td>Graduate Strategic Finance Analyst</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Silvertide</td><td>Graduate Quantitative Analyst</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Talentbrew</td><td>2027 Quantitative Analytics Associate Graduate Programme</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Horden</td><td>2026-11-16</td></tr>
+<tr><td>Quilter</td><td>Events Executive</td><td>London</td><td>2026-11-16</td></tr>
 </table>
