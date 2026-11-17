@@ -9858,4 +9858,23 @@ _No archived roles yet._
 <tr><td>Talentbrew</td><td>2027 Quantitative Analytics Associate Graduate Programme</td><td>London</td><td>2026-11-16</td></tr>
 <tr><td>Waythrough</td><td>Recovery Coordinator</td><td>Horden</td><td>2026-11-16</td></tr>
 <tr><td>Quilter</td><td>Events Executive</td><td>London</td><td>2026-11-16</td></tr>
+<tr><td>Uber</td><td>2027 Operations Intern - London</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>VRTX (Vertex)</td><td>Vertex Summer Intern, International Patient Engagement (12 Months)</td><td>Paddington</td><td>2026-11-17</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Field Marketing Content Services Specialist</td><td>Windsor +1</td><td>2026-11-17</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Application Developer / Software Engineer (avp)</td><td>Belfast</td><td>2026-11-17</td></tr>
+<tr><td>Arvato</td><td>Birmingham It Support Engineer</td><td>Hams Hall</td><td>2026-11-17</td></tr>
+<tr><td>Qube Research And Technology</td><td>Software Engineer – Systems & Infrastructure</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>American Express</td><td>Agentic Ai Engineering - Future Needs Talent Pipeline</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Data Scientist</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>PwC</td><td>Graduate Strategy</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>J. Murphy & Sons Ltd</td><td>Finance Business Partner Analyst</td><td>United Kingdom</td><td>2026-11-17</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Liverpool +1</td><td>2026-11-17</td></tr>
+<tr><td>Morrisons</td><td>Maintenance Engineer - Mechanical</td><td>Holbeach Road</td><td>2026-11-17</td></tr>
+<tr><td>Allianz SE</td><td>Roadside Technician - Staffordshire</td><td>Staffordshire</td><td>2026-11-17</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Manchester</td><td>2026-11-17</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-17</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion Home & Beauty - Manchester</td><td>Manchester</td><td>2026-11-17</td></tr>
+<tr><td>GXO Logistics</td><td>Transport Co-ordinator</td><td>Search By Postal Code</td><td>2026-11-17</td></tr>
+<tr><td>Twynham School</td><td>Executive Assistant At Twynham School</td><td>All Locations</td><td>2026-11-17</td></tr>
+<tr><td>Air Products and Chemicals, Inc.</td><td>Material & Warehouse Coordinator</td><td>Carrington</td><td>2026-11-17</td></tr>
 </table>
