@@ -9877,4 +9877,55 @@ _No archived roles yet._
 <tr><td>GXO Logistics</td><td>Transport Co-ordinator</td><td>Search By Postal Code</td><td>2026-11-17</td></tr>
 <tr><td>Twynham School</td><td>Executive Assistant At Twynham School</td><td>All Locations</td><td>2026-11-17</td></tr>
 <tr><td>Air Products and Chemicals, Inc.</td><td>Material & Warehouse Coordinator</td><td>Carrington</td><td>2026-11-17</td></tr>
+<tr><td>Wells Fargo</td><td>Technology Internship Program</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Uber Technologies</td><td>2027 Operations Intern - London</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>JPMorgan Chase</td><td>2027 Machine Learning Center Of Excellence (nlp) - Internship</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Prime Video Financial Systems</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>BT Group</td><td>Software Engineering Specialist</td><td>Bristol</td><td>2026-11-18</td></tr>
+<tr><td>Wise</td><td>Software Engineer - Risk Control & Governance</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Citi</td><td>Application Developer / Software Engineer (avp)</td><td>Belfast</td><td>2026-11-18</td></tr>
+<tr><td>Refeyn</td><td>Software Engineer</td><td>Oxford +1</td><td>2026-11-18</td></tr>
+<tr><td>Fever</td><td>It Support Specialist</td><td>London +1</td><td>2026-11-18</td></tr>
+<tr><td>SMT Nederland</td><td>Is/it Support Analyst</td><td>Duxford</td><td>2026-11-18</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii- Fullstack Java</td><td>Glasgow +1</td><td>2026-11-18</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii</td><td>Glasgow</td><td>2026-11-18</td></tr>
+<tr><td>NEXT plc</td><td>Work Flow Information Analyst</td><td>Pontefract +1</td><td>2026-11-18</td></tr>
+<tr><td>IFS</td><td>Forward Deployed Engineer - M&a Group</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>ENSEK Ltd</td><td>Staff Ai/ml Engineer</td><td>United Kingdom</td><td>2026-11-18</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Digital Natives</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Currys</td><td>London Ai Engineer</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Alzheimer's Society</td><td>Junior Impact Analyst</td><td>All Locations</td><td>2026-11-18</td></tr>
+<tr><td>Brewdog PLC</td><td>Automation Engineer</td><td>Location</td><td>2026-11-18</td></tr>
+<tr><td>FDM Group</td><td>Power Bi & Reporting Analyst- London</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>GSA Capital Partners LLP</td><td>Quantitative Researcher</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Red Bull</td><td>Business Analyst (reach & On Premise)</td><td>London +1</td><td>2026-11-18</td></tr>
+<tr><td>RAPID7</td><td>Order Management Analyst</td><td>Northern Ireland +1</td><td>2026-11-18</td></tr>
+<tr><td>Building Engines</td><td>Business Analyst, Emea Capital Markets</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Citi</td><td>Markets Operations Intermediate Analyst</td><td>Belfast</td><td>2026-11-18</td></tr>
+<tr><td>Amex GBT (Travel HR Portal)</td><td>Fare Analyst</td><td>United Kingdom</td><td>2026-11-18</td></tr>
+<tr><td>AIG Inc</td><td>Capital Modeling Risk Analyst - Model Development</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Harris Computer Systems Corporation</td><td>Operations Analyst</td><td>Manchester +1</td><td>2026-11-18</td></tr>
+<tr><td>PAE/Amentum</td><td>Business Analyst</td><td>Uk</td><td>2026-11-18</td></tr>
+<tr><td>PHS Group</td><td>Technical Auditor</td><td>Home Counties +1</td><td>2026-11-18</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – Emea Financial Institutions Group (insurance) – Analyst – London</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant Frognal House Care Home, Frognal Avenue, Sidcup, Kent, United Kingdom £13.25 Per Hour Full Time Apply By 19 October, 2026 Posted On 28 September, 2026</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Avery Healthcare Group</td><td>Care Assistant - Nights Esher Manor Care Home, 42 Copsem Lane, Esher, Surrey, United Kingdom £14.00 Per Hour Permanent Apply By 19 October, 2026 Posted On 28 September, 2026</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Spire Healthcare</td><td>Specialist Physiotherapist</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Cheshire</td><td>2026-11-18</td></tr>
+<tr><td>Allianz SE</td><td>Roadside Technician - West Sussex</td><td>West Sussex +1</td><td>2026-11-18</td></tr>
+<tr><td>Cennox</td><td>Bank Equipment Technician</td><td>Milwaukee</td><td>2026-11-18</td></tr>
+<tr><td>Hilton Grand Vacations</td><td>Maintenance Assistant - Part Time</td><td>Aberdeenshire</td><td>2026-11-18</td></tr>
+<tr><td>Biffa Waste Services</td><td>Maintenance Engineer</td><td>Great Blakenham</td><td>2026-11-18</td></tr>
+<tr><td>Allianz Technology SE</td><td>Roadside Technician - Ipswich/stowmarket</td><td>United Kingdom</td><td>2026-11-18</td></tr>
+<tr><td>Allianz Technology SE</td><td>Roadside Technician - West Sussex</td><td>United Kingdom</td><td>2026-11-18</td></tr>
+<tr><td>Bestway National Chemist Ltd</td><td>Relief Technician Cardiff And Surrounding Area, United Kingdom (incl. Northern Ireland) £15.35 Permanent - Full Time Apply By 29 November, 2026 Posted On 6 November, 2026</td><td>Cardiff +2</td><td>2026-11-18</td></tr>
+<tr><td>Leica Microsystems</td><td>Field Service Engineer - London (medical)</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Oxford</td><td>2026-11-18</td></tr>
+<tr><td>Stryker</td><td>Sales Associate, Endoscopy Visualisation (north West)</td><td>Manchester</td><td>2026-11-18</td></tr>
+<tr><td>Decathlon S.A</td><td>Part-time Fitness Sport Advisor (sales Assistant)</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (16 Hours, Fix Term, White City Mn)</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours, Fix Term, Stratford)</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20hours Fix Term, Oxford St.)</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>Alter Domus</td><td>Executive Assistant</td><td>London</td><td>2026-11-18</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant</td><td>Westcliff On Sea</td><td>2026-11-18</td></tr>
 </table>
