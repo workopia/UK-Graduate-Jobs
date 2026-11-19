@@ -9928,4 +9928,109 @@ _No archived roles yet._
 <tr><td>Mango</td><td>Multifunctional Sales Associate (20hours Fix Term, Oxford St.)</td><td>London</td><td>2026-11-18</td></tr>
 <tr><td>Alter Domus</td><td>Executive Assistant</td><td>London</td><td>2026-11-18</td></tr>
 <tr><td>BMI Healthcare (Circle)</td><td>Healthcare Assistant</td><td>Westcliff On Sea</td><td>2026-11-18</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Hydrogen Systems Internship - Cryogenic</td><td>Bristol</td><td>2026-11-19</td></tr>
+<tr><td>Palantir</td><td>Software Engineer, Internship - Sovereign Ai Systems</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Janus Henderson Investors</td><td>Client Technology Intern</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Janus Henderson Investors</td><td>Technology Governance Intern</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Customer Service Apprentice</td><td>Manchester</td><td>2026-11-19</td></tr>
+<tr><td>NORTHROP GRUMMAN</td><td>Industrial Placement - Software Engineer</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>C# Software Engineer</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>bet365</td><td>Software Developer, Account Management & Onboarding</td><td>Manchester</td><td>2026-11-19</td></tr>
+<tr><td>GSA Capital Partners LLP</td><td>Infrastructure Assistant</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Norton Rose Fulbright</td><td>It Support Analyst (out Of Hours)</td><td>Newcastle Upon Tyne +1</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Gtm Engineer</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Tesco</td><td>Software Development Engineer Iii</td><td>UK</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Core</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Haemonetics</td><td>Software Support I</td><td>Coventry +1</td><td>2026-11-19</td></tr>
+<tr><td>Nuix</td><td>It Support Engineer, Emea</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii- Android- Jpm Personal Investing</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Tanda</td><td>Gtm Engineer</td><td>Brisbane +2</td><td>2026-11-19</td></tr>
+<tr><td>Johnson & Johnson</td><td>Associate Technical Specialist / Johnson&johnson Medtech / Electrophysiology</td><td>Tempo Maidenhead +2</td><td>2026-11-19</td></tr>
+<tr><td>Mulberry Group PLC</td><td>It Support Specialist</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>Nando’s</td><td>Software Engineer Mid 1</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Ao Ds</td><td>Coverage Support Specialist - Work From Home</td><td>Waukesha</td><td>2026-11-19</td></tr>
+<tr><td>Roche UK</td><td>Data Science Industrial Placement - Multiple Roles Within Biostats, Data Management, Real-world Data And More</td><td>Welwyn</td><td>2026-11-19</td></tr>
+<tr><td>Entain</td><td>Data Scientist</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Counter-strike 2 Expert Data Scientist</td><td>Uk</td><td>2026-11-19</td></tr>
+<tr><td>RED Global</td><td>Data Scientist</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Scale AI</td><td>Applied Ai Engineer, Global Public Sector</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>PG ONE</td><td>Junior Data Analyst (social Data & Automation)</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Bjak</td><td>Ai Phone - Applied Ml / Model Engineer</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Bjak</td><td>Ai Phone - Agentic Engineer</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Applied Ai Engineer</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (agentic Reinforcement Learning)</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>Jazz Pharmaceuticals Inc</td><td>Ai Data Science Analyst</td><td>Uk</td><td>2026-11-19</td></tr>
+<tr><td>Howden</td><td>Hr Data Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>IFS</td><td>Applied Ai Engineer</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Chicago Board of Trade Foundation</td><td>Derived Data Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>it-generation.gov.ua</td><td>Бухгалтер Сектору Обліку Розрахунків З Постачальниками Електроенергії Та Іншими Кредиторами</td><td>Lviv</td><td>2026-11-19</td></tr>
+<tr><td>Citigroup</td><td>Fx Options Quantitative Analyst (vice President)</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Vodafone</td><td>Vodafonethree - Commercial Finance Analyst</td><td>Newbury +1</td><td>2026-11-19</td></tr>
+<tr><td>EssenceMediacom Holdings Limited</td><td>Associate, Mm&d Operations, Global Client Solutions</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>Clarion Housing Group</td><td>Compliance Officer - Procurement</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Paddle</td><td>Staff Analyst - Risk And Fraud Systems</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Lookers Motor Group Limited</td><td>Division Accountant</td><td>Stourbridge +1</td><td>2026-11-19</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Investment Executive - Ldc</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>Vice President, Auditor</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>HCLTech UK</td><td>Business Specialist - Data Analysis, Agile Methodology</td><td>Unknown</td><td>2026-11-19</td></tr>
+<tr><td>HCLTech UK</td><td>Business Analyst</td><td>Unknown</td><td>2026-11-19</td></tr>
+<tr><td>Finastra</td><td>Revenue Accounting Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>BBVA</td><td>Dcm Corporate Origination Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Moody’s Corporation</td><td>Ratings Associate - Sub-sovereign</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>The Medical Protection Society Ltd</td><td>Transformation Delivery Analyst Leeds, United Kingdom £45367.61 - £66539.16 Permanent Apply By 21 November, 2026 Posted On 6 October, 2026</td><td>Leeds</td><td>2026-11-19</td></tr>
+<tr><td>SEI Investments Company</td><td>Aml Operations Analyst</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>U.S. Bancorp</td><td>Loan Agency Operations Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Deutsche Bank</td><td>Commodities Model Validation Quantitative Analyst</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>M&G</td><td>Client Reporting Business Analyst - 6 Month Ftc</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Lincolninternational</td><td>Vice President, Asset-backed Finance</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>Lincolninternational</td><td>Experienced Associate, Asset-backed Finance</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>Cobham</td><td>Care Assistant</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Kent</td><td>2026-11-19</td></tr>
+<tr><td>Priory Group</td><td>Maintenance Technician</td><td>Highbridge</td><td>2026-11-19</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>GE HealthCare UK</td><td>Field Service Engineer – Diagnostic Imaging (vascular, Surgery Xray & Mammography ), Scotland</td><td>Central Scotland</td><td>2026-11-19</td></tr>
+<tr><td>FLIR Systems Inc</td><td>Customer Service Engineer</td><td>Uk</td><td>2026-11-19</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Duxford</td><td>Duxford</td><td>2026-11-19</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Romford/east Essex</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Upprewards</td><td>Maintenance Assistant</td><td>Nottingham +1</td><td>2026-11-19</td></tr>
+<tr><td>phs Group</td><td>Field Service Engineer</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>jcddecaux.co.uk</td><td>Technician - Maintenance</td><td>Edinburgh Field / Depot</td><td>2026-11-19</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Engineer</td><td>Dalston</td><td>2026-11-19</td></tr>
+<tr><td>Nestlé</td><td>Engineering Technician (3 Days On 3 Days Off - Days Only, No Night Shifts)</td><td>Tutbury</td><td>2026-11-19</td></tr>
+<tr><td>Nestlé SA</td><td>Engineering Technician (panama Shift)</td><td>Tutbury +2</td><td>2026-11-19</td></tr>
+<tr><td>Skanska UK</td><td>Maintenance Assistant</td><td>Cambridge</td><td>2026-11-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Maintenance Engineer</td><td>Dalston</td><td>2026-11-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Engineering Technician (panama Shift)</td><td>Tutbury</td><td>2026-11-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Engineering Technician (3 Days On 3 Days Off - Days Only, No Night Shifts)</td><td>Tutbury</td><td>2026-11-19</td></tr>
+<tr><td>nazarethcare</td><td>Maintenance</td><td>Location</td><td>2026-11-19</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Mechanical Maintenance Technician</td><td>All</td><td>2026-11-19</td></tr>
+<tr><td>Danish Crown AS</td><td>Bugle Maintenance Engineer (multi Skilled) Pl26 8rr</td><td>Bugle</td><td>2026-11-19</td></tr>
+<tr><td>Tesco</td><td>Maintenance Technician Full Time</td><td>Unknown</td><td>2026-11-19</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate (16hrs)</td><td>Oxford</td><td>2026-11-19</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate (seasonal Ftc) - Bluewater, Kent</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Altra Running</td><td>Sales Associate</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Timberland Com Tr</td><td>Sales Associate</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>jansport.me</td><td>Sales Associate</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Capri</td><td>Seasonal Sales</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Capri</td><td>Sales Associate 16 Hours- Westfield Stratford</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Abbott</td><td>Inside Sales Associate Ambassador</td><td>Oxford</td><td>2026-11-19</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administrative Assistant</td><td>Chelmsford</td><td>2026-11-19</td></tr>
+<tr><td>Priory Group</td><td>Healthcare Assistant</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>PrettyLittleThing</td><td>Buying Admin Assistant - Debenhams</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>James Fisher and Sons PLC</td><td>Project Coordinator</td><td>Preston +1</td><td>2026-11-19</td></tr>
+<tr><td>Accolade Wines Ltd</td><td>Project Coordinator</td><td>Bristol +1</td><td>2026-11-19</td></tr>
+<tr><td>Knight Frank</td><td>Executive Assistant / National Country Department (12-month Ftc)</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>Severn Trent</td><td>Project Coordinator</td><td>Derbyshire</td><td>2026-11-19</td></tr>
+<tr><td>Cancer Research UK</td><td>Retail Store Assistant (jersey)</td><td>Jersey</td><td>2026-11-19</td></tr>
+<tr><td>Kennedys</td><td>Facilities Coordinator</td><td>Bristol</td><td>2026-11-19</td></tr>
+<tr><td>current-positions</td><td>Executive Assistant To Ceo</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Kennedys</td><td>Executive Assistant</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>John Wood Group PLC</td><td>Bim Co-ordinator - Eoi</td><td>Aberdeen +1</td><td>2026-11-19</td></tr>
+<tr><td>Pearson PLC</td><td>Apprenticeship Coordinator</td><td>Basingstoke</td><td>2026-11-19</td></tr>
+<tr><td>Neumann Kaffee Gruppe</td><td>Logistics Coordinator Inbound / Outbound (f/m/d)</td><td>London +1</td><td>2026-11-19</td></tr>
+<tr><td>SMBC Group</td><td>Stpd - Planning - Administrative / Office Support - Associate</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Sonova</td><td>Regional Coordinator</td><td>United Kingdom</td><td>2026-11-19</td></tr>
+<tr><td>careers-inhealth</td><td>Healthcare Assistant</td><td>Leicestershire +2</td><td>2026-11-19</td></tr>
+<tr><td>Gibson Dunn</td><td>Executive Assistant - Funds</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Xantium Group</td><td>Orchestrade Specialist</td><td>London</td><td>2026-11-19</td></tr>
 </table>
