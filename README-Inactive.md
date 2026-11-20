@@ -10033,4 +10033,123 @@ _No archived roles yet._
 <tr><td>careers-inhealth</td><td>Healthcare Assistant</td><td>Leicestershire +2</td><td>2026-11-19</td></tr>
 <tr><td>Gibson Dunn</td><td>Executive Assistant - Funds</td><td>London</td><td>2026-11-19</td></tr>
 <tr><td>Xantium Group</td><td>Orchestrade Specialist</td><td>London</td><td>2026-11-19</td></tr>
+<tr><td>Apple</td><td>Internship - Framebuffer Driver Engineer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>ReliaQuest</td><td>6-12 Month Business Development (sales) Placement / Internship</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Honeywell Aerospace</td><td>Intern - External Communications Specialist</td><td>Basingstoke +1</td><td>2026-11-20</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Qc Intern Chemistry</td><td>Covingham</td><td>2026-11-20</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Intern - Quality Control Microbiology</td><td>Covingham</td><td>2026-11-20</td></tr>
+<tr><td>Kennedys</td><td>London Spring Vacation Scheme 2027</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>British American Tobacco Ltd</td><td>Marketing Deployment Intern</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Yunex Traffic</td><td>Marketing, Communications And Videography Intern</td><td>Dorset</td><td>2026-11-20</td></tr>
+<tr><td>Yunex Traffic</td><td>Sustainability Intern</td><td>Dorset</td><td>2026-11-20</td></tr>
+<tr><td>Christie’s</td><td>Intern, Old Masters Paintings</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>The Carlyle Group</td><td>Intern - Cetp Benelux</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Legal Intern</td><td>Milwaukee</td><td>2026-11-20</td></tr>
+<tr><td>Jacobs Engineering</td><td>Performance Improvement Intern (london, Leeds, Manchester Or Bristol )</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>HSBC</td><td>Relationship Management - Commercial Bank - Internship - Reading</td><td>Reading</td><td>2026-11-20</td></tr>
+<tr><td>HSBC</td><td>Relationship Management - Commercial Bank - Internship - Bristol</td><td>Bristol</td><td>2026-11-20</td></tr>
+<tr><td>Kepler Cheuvreux</td><td>Internship - Event Marketing Assistant - London</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>M&G</td><td>Asset Management: Private Markets Internship (london)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>M&G</td><td>Asset Management: Client Group & Product Internship (london)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>M&G</td><td>Asset Management: Coo Internship (london)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Valsoft Corporation</td><td>M&a Intern - 12 Month Placement - Summer 2027 Start</td><td>Reading</td><td>2026-11-20</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Hydrogen Systems Internship - Electrical/electronic</td><td>Bristol</td><td>2026-11-20</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Hydrogen Systems Internship - Systems & Control</td><td>Bristol</td><td>2026-11-20</td></tr>
+<tr><td>Southdown</td><td>Housing Support Specialist</td><td>Chichester</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>C# Technical Specialist - Azure Devops</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Sap Ui5/fiori/ux Technical Specialist</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Mainframe Technical Specialist - Cobol, Db2, Vsam, Jcl, Cics</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Support Specialist</td><td>Unknown +2</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Java, Spring, Hibernate, Mongodb</td><td>Unknown</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Java Technical Specialist - Restful Api, Spring Boot</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Full-stack Apps (node.js, Angular, React.js)</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist - Ios, Android, Java</td><td>United Kingdom</td><td>2026-11-20</td></tr>
+<tr><td>HCLTech UK</td><td>Engineer - Miscrosoft Windows,microsoft Servers Rds,touch Services</td><td>Unknown</td><td>2026-11-20</td></tr>
+<tr><td>BlackRock</td><td>Full Stack Software Engineer, Associate – Preqin Engineering</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>Leidos</td><td>Software Engineer – Application Development</td><td>Bristol</td><td>2026-11-20</td></tr>
+<tr><td>DWR CYMRU CYFYNGEDIG</td><td>Supply Chain Security Analyst</td><td>Cardiff</td><td>2026-11-20</td></tr>
+<tr><td>Infleqtion</td><td>Quantum Software Engineer - Algorithms & Applications</td><td>Kidlington +1</td><td>2026-11-20</td></tr>
+<tr><td>JPMorgan Chase</td><td>Full-stack Software Engineer Ii - Ai Engineering</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Information Security Advisor - Central Government</td><td>Salisbury +1</td><td>2026-11-20</td></tr>
+<tr><td>Morrisons</td><td>Supply Chain Support Specialist - Stores</td><td>Hilmore House</td><td>2026-11-20</td></tr>
+<tr><td>biosimilars-right.eu</td><td>Packaging Support Technician</td><td>Northumberland</td><td>2026-11-20</td></tr>
+<tr><td>THALES</td><td>Technical Support Engineer</td><td>Crawley +1</td><td>2026-11-20</td></tr>
+<tr><td>bet365</td><td>Software Developer, Cerberus</td><td>Manchester</td><td>2026-11-20</td></tr>
+<tr><td>petsathomejobs</td><td>Data Scientist</td><td>Handforth</td><td>2026-11-20</td></tr>
+<tr><td>Equifax</td><td>Performance Insights Analyst</td><td>Nottinghamshire</td><td>2026-11-20</td></tr>
+<tr><td>Greene King</td><td>Data Scientist</td><td>Burton</td><td>2026-11-20</td></tr>
+<tr><td>EBRD</td><td>Analyst, Ai/ml Engineer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>PhysicsX</td><td>Ai Engineer: Post-training</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Cancer Research UK</td><td>Digital Analyst (ftc)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>jcdecaux.co.uk</td><td>Ai Engineer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Business Development Data Analyst - 12 Month Fixed Term Contract</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Exclusive Networks Group</td><td>Data Quality & Business Data Analyst Intern 3 Month Ftc</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Atoms</td><td>Accountant</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>Veolia UK</td><td>Risk & Assurance Advisor</td><td>Mobile</td><td>2026-11-20</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Sanctions Compliance Officer</td><td>Any City</td><td>2026-11-20</td></tr>
+<tr><td>Citi</td><td>Markets Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-11-20</td></tr>
+<tr><td>Citi</td><td>Operations Intermediate Analyst - Cash Management Treasury Operations</td><td>Belfast</td><td>2026-11-20</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Rates Trading Artificial Intelligence (ai) Specialist</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Markets Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-11-20</td></tr>
+<tr><td>Vantage Point - We're Truly Engaging People</td><td>Customer Operations Analyst / Elevate Career Programme / Belfast Hybrid</td><td>Belfast</td><td>2026-11-20</td></tr>
+<tr><td>Equiniti Group</td><td>Shareholder Analyst</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>Assistant Vice President, Internal Audit - Corporate Functions – Finance, Treasury, Regulatory Reporting (ftrr)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Novo Nordisk</td><td>Validation &amp; Compliance Specialist</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Vanguard</td><td>Controls And Assurance Specialist</td><td>Manchester +1</td><td>2026-11-20</td></tr>
+<tr><td>BNY Mellon</td><td>Vice President, Investment And Wealth Management Auditor</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Accountant</td><td>Cardiff</td><td>2026-11-20</td></tr>
+<tr><td>FNZ</td><td>Finance Analyst</td><td>Edinburgh +1</td><td>2026-11-20</td></tr>
+<tr><td>MAhleBeck</td><td>Eu Operational Excellence Analyst</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>NatWest Group</td><td>Customer Due Diligence Analyst, Onboarding</td><td>Edinburgh +1</td><td>2026-11-20</td></tr>
+<tr><td>U.S. Bank</td><td>Loan Agency Operations Analyst</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Eni</td><td>Market Risk Analyst (analytics)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Milton Keynes Council</td><td>Management Accountant Civic Offices, 1 Saxon Gate East, Central Milton Keynes, Buckinghamshire, United Kingdom £49,817 - £54,143 Permanent Apply By 6 December, 2026 Posted On 12 November, 2026</td><td>Central Milton Keynes</td><td>2026-11-20</td></tr>
+<tr><td>JPMorgan Chase</td><td>Isa Transfers Analyst</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>FDM Group</td><td>Business Analyst (agile Tooling)- Glasgow Or Cheshire</td><td>Glasgow</td><td>2026-11-20</td></tr>
+<tr><td>MEDTRONIC</td><td>Ethics And Compliance Specialist</td><td>Watford +1</td><td>2026-11-20</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Sanctions Officer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Avante Care & Support</td><td>Care & Support Assistant - Riverdale Days & Nights Riverdale Court, 17 Dovedale Close, Welling, United Kingdom £13.20 - £13.40 Part Time Apply By 30 October, 2026 Posted On 30 September, 2026</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Outpatients (bank)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Spire Healthcare</td><td>Bank Registered Nurse - Outpatients</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Spire Healthcare</td><td>Registered Nurse - Poa</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Kent</td><td>2026-11-20</td></tr>
+<tr><td>Arjo AB</td><td>South Region Uk, Field Based ( Rental Technician Sittingbourne Kent</td><td>Sittingbourne +2</td><td>2026-11-20</td></tr>
+<tr><td>Tesco Stores Limited</td><td>Maintenance Technician</td><td>Ashford +1</td><td>2026-11-20</td></tr>
+<tr><td>AVI-SPL</td><td>Onsite Maintenance Engineer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer - Evci</td><td>Bristol +4</td><td>2026-11-20</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Maintenance Engineer</td><td>Covingham</td><td>2026-11-20</td></tr>
+<tr><td>Bupa Group</td><td>Static Maintenance Engineer</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Still Uk Field Service Engineer</td><td>Exeter +1</td><td>2026-11-20</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Oxford</td><td>2026-11-20</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Timberland</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Timberland Com Tr</td><td>Sales Associate - Timberland</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (12 Hours, Fix Term, King´s Rd.)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (32 Hours, Fix Term King´s Rd.)</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>ALO / Australia</td><td>Sales Associate - Part Time (ftc) - Westfields White City</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Dickieslife</td><td>Sales Associate</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate (full Time) - Selfridges Oxford Street</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>New Addington</td><td>2026-11-20</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Cardiff</td><td>2026-11-20</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Aylesbury</td><td>2026-11-20</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Administration Assistant</td><td>Omagh</td><td>2026-11-20</td></tr>
+<tr><td>Marks & Spencer Group</td><td>Customer Assistant - Fashion, Home & Beauty - Cheltenham</td><td>Gloucester</td><td>2026-11-20</td></tr>
+<tr><td>Lidl GB</td><td>Warehouse Transport Coordinator Night Shift</td><td>Doncaster +1</td><td>2026-11-20</td></tr>
+<tr><td>Aramark UK</td><td>Logistics Co-ordinator</td><td>Aberdeen +2</td><td>2026-11-20</td></tr>
+<tr><td>Wise</td><td>Executive Assistant</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Administration Assistant Apprenticeship - Level 2 - Bristol</td><td>Bristol</td><td>2026-11-20</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Administration Assistant Apprenticeship - Level 2 - London</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>BBC Studios</td><td>Administration Assistant Apprenticeship - Level 2 - Bbc Studios - London</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Administration Assistant Apprenticeship - Level 2 - Salford</td><td>Manchester</td><td>2026-11-20</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Executive Assistant - Office Operations</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Arcadis</td><td>Bim Co-ordinator</td><td>Greater London +4</td><td>2026-11-20</td></tr>
+<tr><td>JERA Nex Ltd</td><td>Executive Assistant</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>GE AEROSPACE</td><td>Lhr On Wing Support Tooling Coordinator</td><td>London +1</td><td>2026-11-20</td></tr>
+<tr><td>Heidrick & Struggles</td><td>Float Executive Assistant</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>nationalgas</td><td>Business Support Administrator</td><td>Glasgow</td><td>2026-11-20</td></tr>
+<tr><td>The Rank Group</td><td>Marketing Coordinator</td><td>London</td><td>2026-11-20</td></tr>
+<tr><td>Rathbones Brothers</td><td>Trade Support Administrator</td><td>Liverpool</td><td>2026-11-20</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-11-20</td></tr>
+<tr><td>University of Edinburgh</td><td>University Tennis Coordinator</td><td>Edinburgh</td><td>2026-11-20</td></tr>
 </table>
