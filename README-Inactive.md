@@ -10152,4 +10152,62 @@ _No archived roles yet._
 <tr><td>Rathbones Brothers</td><td>Trade Support Administrator</td><td>Liverpool</td><td>2026-11-20</td></tr>
 <tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Newcastle Upon Tyne</td><td>2026-11-20</td></tr>
 <tr><td>University of Edinburgh</td><td>University Tennis Coordinator</td><td>Edinburgh</td><td>2026-11-20</td></tr>
+<tr><td>M&G PLC</td><td>Asset Management: COO Internship (London)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>M&G PLC</td><td>Asset Management: Private Markets Internship (London)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Siemens</td><td>Rail Signalling - Degree Apprentice (Level 6)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Baillie Gifford</td><td>People Services Specialist</td><td>Edinburgh +1</td><td>2026-11-21</td></tr>
+<tr><td>MBDA</td><td>Software Engineer</td><td>Bristol</td><td>2026-11-21</td></tr>
+<tr><td>Roche UK</td><td>Ads Programmer</td><td>Welwyn</td><td>2026-11-21</td></tr>
+<tr><td>JPMorgan Chase</td><td>Software Engineer Iii - Uat, Payments (test Engineer)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>CGI</td><td>Python Software Engineer – Space Systems</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>FDM Group</td><td>Full-stack Engineer- Remote</td><td>All Locations</td><td>2026-11-21</td></tr>
+<tr><td>EE</td><td>Software Engineering Specialist</td><td>Bristol</td><td>2026-11-21</td></tr>
+<tr><td>Hughes</td><td>Junior Digitalisation & Software Engineer</td><td>Bristol</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Ai Automation Specialist For Podcast Production (longform, Shorts, Social Media)</td><td>United Kingdom</td><td>2026-11-21</td></tr>
+<tr><td>Anglian Water</td><td>Demand Reporting Data Scientist</td><td>Huntingdon +1</td><td>2026-11-21</td></tr>
+<tr><td>Sainsbury's</td><td>Iam & Ai Engineer (identity And Access Management)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Certas Energy</td><td>Business Intelligence Analyst</td><td>Cheshire</td><td>2026-11-21</td></tr>
+<tr><td>Blue Light Card Ltd</td><td>Ai And Automation Engineer</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Experian</td><td>Data Scientist – Genai & Ai Engineering-4 Month Secondment</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Bristish Broadcasting Corporation</td><td>Ai & Automation Practitioner - Level 4 - Bbc Studios - London</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>BLACKSTONE</td><td>Blackstone Credit & Insurance – Asset Based Finance, Analyst</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Axiom</td><td>People Operations Analyst</td><td>Belfast</td><td>2026-11-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Quantitative Strategist</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Quantitative Strategist – Market Risk</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>M&G</td><td>Non-financial Risk Analyst (11 Month Ftc)</td><td>London +2</td><td>2026-11-21</td></tr>
+<tr><td>Pan Macmillan</td><td>Commercial Finance Analyst</td><td>London +1</td><td>2026-11-21</td></tr>
+<tr><td>ScottishPower</td><td>Business Analyst</td><td>Glasgow</td><td>2026-11-21</td></tr>
+<tr><td>Lloyds Banking Group</td><td>Finance Analyst</td><td>Leeds +1</td><td>2026-11-21</td></tr>
+<tr><td>Wellcome Trust</td><td>Operations Risk & Controls Analyst</td><td>London +1</td><td>2026-11-21</td></tr>
+<tr><td>M&G plc</td><td>Actuarial Calculations Specialist</td><td>London +1</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Freelance U.s. Gaap Accountant</td><td>United Kingdom</td><td>2026-11-21</td></tr>
+<tr><td>Weir Minerals</td><td>Project Management Analyst</td><td>Todmorden +1</td><td>2026-11-21</td></tr>
+<tr><td>Honda UK (Swindon closed)</td><td>Undergraduate - Corporate Audit</td><td>Bracknell</td><td>2026-11-21</td></tr>
+<tr><td>Malvern Panalytical</td><td>Finance Business Partner Analyst</td><td>Malvern +1</td><td>2026-11-21</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking - Emea Diversified Industries - Analyst - London</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>JPMorgan Chase</td><td>Client Operations Admin Analyst</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>West Lothian</td><td>2026-11-21</td></tr>
+<tr><td>KION North America Corporation</td><td>Field Service Engineer</td><td>Heathrow</td><td>2026-11-21</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Field Service Engineer</td><td>London +2</td><td>2026-11-21</td></tr>
+<tr><td>Armstrong Fluid Technology</td><td>Field Service Engineer</td><td>Scotland</td><td>2026-11-21</td></tr>
+<tr><td>Picarroinc</td><td>Field Operations Technician</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Maintenance Engineer</td><td>Covingham</td><td>2026-11-21</td></tr>
+<tr><td>Hiab</td><td>Field Service Engineer</td><td>Northallerton +1</td><td>2026-11-21</td></tr>
+<tr><td>Ardagh Group</td><td>Shift Technician - Back End - Brown Shift</td><td>Rugby +2</td><td>2026-11-21</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Maintenance Technician</td><td>United Kingdom</td><td>2026-11-21</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Field Service Engineer</td><td>Newton Aycliffe +1</td><td>2026-11-21</td></tr>
+<tr><td>Advancedtechnologyservices</td><td>Entry-level Maintenance Engineer</td><td>Yeovil +1</td><td>2026-11-21</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant 40hrs - Islington</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (18 Hours, Fix Term, Paddington)</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Atlas FM</td><td>Events Recycling Operative</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Next Energy</td><td>Project Administrator</td><td>Cheshire</td><td>2026-11-21</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Executive Assistant</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Theatre Department Administrative Assistant</td><td>Gloucester</td><td>2026-11-21</td></tr>
+<tr><td>SGS UK</td><td>Laboratory Sample Receipt Assistant</td><td>Glasgow +1</td><td>2026-11-21</td></tr>
+<tr><td>Apple</td><td>Facilities Coordinator</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Customer Service Administration Assistant</td><td>Omagh</td><td>2026-11-21</td></tr>
+<tr><td>Wolverine World Wide</td><td>Supervisor - 40 Hours - Sweaty Betty</td><td>London</td><td>2026-11-21</td></tr>
+<tr><td>Bouygues Construction IT SNC</td><td>Temporary Works Coordinator – Sizewell C</td><td>Sizewell +1</td><td>2026-11-21</td></tr>
 </table>
