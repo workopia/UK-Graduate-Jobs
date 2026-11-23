@@ -10315,4 +10315,21 @@ _No archived roles yet._
 <tr><td>BNY Mellon</td><td>Specialist, Executive Assistant Ii</td><td>London</td><td>2026-11-22</td></tr>
 <tr><td>BT</td><td>Executive Assistant</td><td>London</td><td>2026-11-22</td></tr>
 <tr><td>Jellycat Ltd</td><td>Pr Admin Assistant</td><td>London</td><td>2026-11-22</td></tr>
+<tr><td>Wise</td><td>Backend Engineer - Send Core</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>BBC</td><td>Data Scientist Apprenticeship - Level 6 - Research & Development - London</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Anthropic</td><td>Associate Applied Ai, Rotational Program, London</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Brunswick Group</td><td>Ai Engineer</td><td>London +1</td><td>2026-11-23</td></tr>
+<tr><td>Allianz SE</td><td>Internal Auditor</td><td>London +1</td><td>2026-11-23</td></tr>
+<tr><td>Bptrg</td><td>Private Rented Sector Sustainment & Compliance Officer</td><td>Civic Centre</td><td>2026-11-23</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Queensway &amp; Islington (15 Hours/week)</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Victoria’s Secret UK & IRE</td><td>Vs Seasonal Sales Associate - Edinburgh (n133507)</td><td>Edinburgh</td><td>2026-11-23</td></tr>
+<tr><td>Victoria’s Secret UK & IRE</td><td>Vs Seasonal Sales Associate - Vs Trafford (n133635)</td><td>Manchester</td><td>2026-11-23</td></tr>
+<tr><td>Morrisons</td><td>Customer Assistant - Online</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Milliman</td><td>Hr Service Associate</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Currys</td><td>Hanworth Sales Colleague Peak</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate (20 Hours, Fix Term, Long Acre)</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Penelope Chilvers</td><td>Seasonal Customer Service Assistant (fixed-term)</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - London Convent Garden</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - Greenwich</td><td>London</td><td>2026-11-23</td></tr>
 </table>

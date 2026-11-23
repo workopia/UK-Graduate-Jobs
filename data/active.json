@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-22",
- "count": 959,
+ "asOf": "2026-11-23",
+ "count": 958,
  "jobs": {
   "9fe22b7ff5eabff057f082482f533130": {
    "id": "9fe22b7ff5eabff057f082482f533130",
@@ -10,8 +10,20 @@
   },
   "884e8b20e26b1a1745c9c2381357533d": {
    "id": "884e8b20e26b1a1745c9c2381357533d",
-   "company": "Verisk Analytics Inc",
+   "company": "Verisk",
    "role": "Business Support Intern - Year-long Program 2027",
+   "location": "London"
+  },
+  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
+   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
+   "company": "G-Research",
+   "role": "Machine Learning Engineer Internship",
+   "location": "London"
+  },
+  "04705997e509da45cf75245b33a7d761": {
+   "id": "04705997e509da45cf75245b33a7d761",
+   "company": "G-Research",
+   "role": "Natural Language Processing Internship",
    "location": "London"
   },
   "db64e84c9738142e39f285d90603f3d1": {
@@ -49,18 +61,6 @@
    "company": "Airbus Operations Limited",
    "role": "Filton Plant Operations Placement (12.5 Monhts)",
    "location": "Filton"
-  },
-  "85b7b4e3f3b6746eba164dcfe5b0c2a2": {
-   "id": "85b7b4e3f3b6746eba164dcfe5b0c2a2",
-   "company": "G-Research",
-   "role": "Machine Learning Engineer Internship",
-   "location": "London"
-  },
-  "04705997e509da45cf75245b33a7d761": {
-   "id": "04705997e509da45cf75245b33a7d761",
-   "company": "G-Research",
-   "role": "Natural Language Processing Internship",
-   "location": "London"
   },
   "targetjobs:2d8960b2-1cb5-445b-8601-b24de7be4f74": {
    "id": "targetjobs:2d8960b2-1cb5-445b-8601-b24de7be4f74",
@@ -1298,36 +1298,6 @@
    "role": "Software Engineer, New Grad",
    "location": "London"
   },
-  "714a791fbd279e6220c08de8de563b88": {
-   "id": "714a791fbd279e6220c08de8de563b88",
-   "company": "Hologic Careers",
-   "role": "Commercial Managed Services Specialist - 12 Months Contract",
-   "location": "Manchester +2"
-  },
-  "15efdf44d82966d0afd3e514ec23d643": {
-   "id": "15efdf44d82966d0afd3e514ec23d643",
-   "company": "Proofpoint",
-   "role": "Software Engineer Iii",
-   "location": "Belfast"
-  },
-  "02559111253e1eec5fae1020d9d34538": {
-   "id": "02559111253e1eec5fae1020d9d34538",
-   "company": "Leidos",
-   "role": "Software Engineer",
-   "location": "UK"
-  },
-  "6dcf10d7dbebf238f70afbeba5e15fa7": {
-   "id": "6dcf10d7dbebf238f70afbeba5e15fa7",
-   "company": "Clarion Housing Group",
-   "role": "Software Engineer",
-   "location": "London"
-  },
-  "3d51ce93e68daf1b1ff871a06820fb32": {
-   "id": "3d51ce93e68daf1b1ff871a06820fb32",
-   "company": "G-Research",
-   "role": "Security Operations Analyst",
-   "location": "London"
-  },
   "541147644a00c63a03e2095ec9caf34f": {
    "id": "541147644a00c63a03e2095ec9caf34f",
    "company": "G-Research",
@@ -1340,16 +1310,16 @@
    "role": "Software Engineer",
    "location": "London"
   },
-  "59f359455599b4ede3698fbea472fb7a": {
-   "id": "59f359455599b4ede3698fbea472fb7a",
-   "company": "G-Research",
-   "role": "Data Software Engineer",
-   "location": "London"
-  },
   "e85774f7971f5c1d879feb50c6cb3806": {
    "id": "e85774f7971f5c1d879feb50c6cb3806",
    "company": "G-Research",
    "role": "Software Engineer — Observability Instrumentation",
+   "location": "London"
+  },
+  "68f80df555ac81f9af9acd086774cf99": {
+   "id": "68f80df555ac81f9af9acd086774cf99",
+   "company": "G-Research",
+   "role": "Rust Software Engineer (Contract)",
    "location": "London"
   },
   "043d5f983788abf4416a8c235a5a0853": {
@@ -1370,10 +1340,46 @@
    "role": "C++ Software Engineer",
    "location": "London"
   },
-  "68f80df555ac81f9af9acd086774cf99": {
-   "id": "68f80df555ac81f9af9acd086774cf99",
+  "714a791fbd279e6220c08de8de563b88": {
+   "id": "714a791fbd279e6220c08de8de563b88",
+   "company": "Hologic Careers",
+   "role": "Commercial Managed Services Specialist - 12 Months Contract",
+   "location": "Manchester +2"
+  },
+  "3d51ce93e68daf1b1ff871a06820fb32": {
+   "id": "3d51ce93e68daf1b1ff871a06820fb32",
    "company": "G-Research",
-   "role": "Rust Software Engineer (Contract)",
+   "role": "Security Operations Analyst",
+   "location": "London"
+  },
+  "59f359455599b4ede3698fbea472fb7a": {
+   "id": "59f359455599b4ede3698fbea472fb7a",
+   "company": "G-Research",
+   "role": "Data Software Engineer",
+   "location": "London"
+  },
+  "c329d52a4e9f5b34e0b1642c8bbaf6e2": {
+   "id": "c329d52a4e9f5b34e0b1642c8bbaf6e2",
+   "company": "Jobgether",
+   "role": "Middle L1 Technical Support Specialist",
+   "location": "United Kingdom"
+  },
+  "15efdf44d82966d0afd3e514ec23d643": {
+   "id": "15efdf44d82966d0afd3e514ec23d643",
+   "company": "Proofpoint",
+   "role": "Software Engineer Iii",
+   "location": "Belfast"
+  },
+  "02559111253e1eec5fae1020d9d34538": {
+   "id": "02559111253e1eec5fae1020d9d34538",
+   "company": "Leidos",
+   "role": "Software Engineer",
+   "location": "UK"
+  },
+  "6dcf10d7dbebf238f70afbeba5e15fa7": {
+   "id": "6dcf10d7dbebf238f70afbeba5e15fa7",
+   "company": "Clarion Housing Group",
+   "role": "Software Engineer",
    "location": "London"
   },
   "15e0150fb0ef90840f6b563a7230f165": {
@@ -1772,12 +1778,6 @@
    "role": "Software Engineer",
    "location": "Home Based"
   },
-  "b75b6847b4b0d8f60dd460188b4f09f8": {
-   "id": "b75b6847b4b0d8f60dd460188b4f09f8",
-   "company": "Wise",
-   "role": "Backend Engineer - Send Core",
-   "location": "London"
-  },
   "1cde8126654749c99007a3934ccad43e": {
    "id": "1cde8126654749c99007a3934ccad43e",
    "company": "TikTok",
@@ -1880,6 +1880,12 @@
    "role": "Business Intelligence Intern London",
    "location": "London"
   },
+  "110af4be647b46c74f58e297940901ec": {
+   "id": "110af4be647b46c74f58e297940901ec",
+   "company": "BBC",
+   "role": "Data Scientist Apprenticeship - Level 6 - Research & Development - London",
+   "location": "United Kingdom"
+  },
   "ccc3c7370860568f55bd3496886a1545": {
    "id": "ccc3c7370860568f55bd3496886a1545",
    "company": "Bristish Broadcasting Corporation",
@@ -1920,12 +1926,6 @@
    "id": "d59b1e6501bcbadc94cde4ce987655e3",
    "company": "BBC Studios",
    "role": "Data Analyst Apprenticeship - Level 4 - Bbc Studios - London - Extend",
-   "location": "London"
-  },
-  "9f2506d875687546cb644aa82c58df8a": {
-   "id": "9f2506d875687546cb644aa82c58df8a",
-   "company": "BBC",
-   "role": "Data Scientist Apprenticeship - Level 6 - Research & Development - London",
    "location": "London"
   },
   "dd881718eaec388330795a63e28de695": {
@@ -2006,22 +2006,34 @@
    "role": "Graduate Automation Engineer – 2027",
    "location": "Pembridge"
   },
-  "fc219a14122fff65adeb878298bebbd7": {
-   "id": "fc219a14122fff65adeb878298bebbd7",
-   "company": "Anthropic",
-   "role": "Associate Applied Ai, Rotational Program, London",
+  "9f895765b2253c9675f5ede5d2030583": {
+   "id": "9f895765b2253c9675f5ede5d2030583",
+   "company": "WTW (Willis Towers Watson)",
+   "role": "Ai Solutions Engineer",
+   "location": "London"
+  },
+  "f9b32a11c3de57766f91a2a006c67471": {
+   "id": "f9b32a11c3de57766f91a2a006c67471",
+   "company": "BBC",
+   "role": "Ai & Automation Practitioner - Level 4 - Bbc Studios - London",
+   "location": "London"
+  },
+  "4418dd90087f9f6f59defd6e5185d05c": {
+   "id": "4418dd90087f9f6f59defd6e5185d05c",
+   "company": "G-Research",
+   "role": "Applied AI Engineer",
+   "location": "London"
+  },
+  "25e4d8fa7d9c0ddcd497d9d723d57bf7": {
+   "id": "25e4d8fa7d9c0ddcd497d9d723d57bf7",
+   "company": "G-Research",
+   "role": "Core AI Engineer",
    "location": "London"
   },
   "04b1452267d747e20b01eadb94846fdd": {
    "id": "04b1452267d747e20b01eadb94846fdd",
    "company": "Sainsbury’s Supermarkets Ltd",
    "role": "Data Scientist",
-   "location": "London"
-  },
-  "9f895765b2253c9675f5ede5d2030583": {
-   "id": "9f895765b2253c9675f5ede5d2030583",
-   "company": "Willis Towers Watson",
-   "role": "Ai Solutions Engineer",
    "location": "London"
   },
   "9a39299d3471cf9451a57ac78a53036c": {
@@ -2046,18 +2058,6 @@
    "id": "d3d7d1ed770f3b0ce430b10e6ae8ee65",
    "company": "Barclays",
    "role": "Business Intelligence Developer",
-   "location": "London"
-  },
-  "4418dd90087f9f6f59defd6e5185d05c": {
-   "id": "4418dd90087f9f6f59defd6e5185d05c",
-   "company": "G-Research",
-   "role": "Applied AI Engineer",
-   "location": "London"
-  },
-  "25e4d8fa7d9c0ddcd497d9d723d57bf7": {
-   "id": "25e4d8fa7d9c0ddcd497d9d723d57bf7",
-   "company": "G-Research",
-   "role": "Core AI Engineer",
    "location": "London"
   },
   "2964d52bbf431f81b95a5dc7acd26f19": {
@@ -2484,12 +2484,6 @@
    "id": "7421a711c1b21f444cd99807ea92059e",
    "company": "Aegislondon",
    "role": "Data Scientist",
-   "location": "London +1"
-  },
-  "29ffdd77d32fe2537fca0170c80ff49b": {
-   "id": "29ffdd77d32fe2537fca0170c80ff49b",
-   "company": "Brunswick Group",
-   "role": "Ai Engineer",
    "location": "London +1"
   },
   "targetjobs:66d99181-682c-4dc6-a44a-26e5cd451c60": {
@@ -3356,6 +3350,42 @@
    "role": "2027 UK Graduate Risk Analysis Career Path",
    "location": "London"
   },
+  "2f41530e00a3ccd6562a770704ac1490": {
+   "id": "2f41530e00a3ccd6562a770704ac1490",
+   "company": "AliveDx",
+   "role": "Regulatory Affairs Officer",
+   "location": "Edinburgh +1"
+  },
+  "795c94876a518b85e7286249f56ff37d": {
+   "id": "795c94876a518b85e7286249f56ff37d",
+   "company": "Co-op",
+   "role": "Change & Delivery Analyst",
+   "location": "Manchester"
+  },
+  "e66cdde3f0b392f28ae28dea86486852": {
+   "id": "e66cdde3f0b392f28ae28dea86486852",
+   "company": "G-Research",
+   "role": "Security Operations and Risk Analyst",
+   "location": "London"
+  },
+  "0050cf6de4181867039371d2a39ded2a": {
+   "id": "0050cf6de4181867039371d2a39ded2a",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Experienced",
+   "location": "London"
+  },
+  "78945e25f6a902e53497cc93a9d2be24": {
+   "id": "78945e25f6a902e53497cc93a9d2be24",
+   "company": "G-Research",
+   "role": "Quantitative Developer",
+   "location": "London"
+  },
+  "b653c06fb1324f5130229e7288edfa44": {
+   "id": "b653c06fb1324f5130229e7288edfa44",
+   "company": "G-Research",
+   "role": "Quantitative Researcher – Fundamental Equity Research",
+   "location": "London"
+  },
   "d8230d96e4be26280fc4b69ff56fe9be": {
    "id": "d8230d96e4be26280fc4b69ff56fe9be",
    "company": "Swiss Re",
@@ -3408,30 +3438,6 @@
    "id": "2024e0a9b65a80b35f1750ac6153dea7",
    "company": "Land Securities",
    "role": "Finance Analyst – Leasing (retail)",
-   "location": "London"
-  },
-  "e66cdde3f0b392f28ae28dea86486852": {
-   "id": "e66cdde3f0b392f28ae28dea86486852",
-   "company": "G-Research",
-   "role": "Security Operations and Risk Analyst",
-   "location": "London"
-  },
-  "0050cf6de4181867039371d2a39ded2a": {
-   "id": "0050cf6de4181867039371d2a39ded2a",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Experienced",
-   "location": "London"
-  },
-  "78945e25f6a902e53497cc93a9d2be24": {
-   "id": "78945e25f6a902e53497cc93a9d2be24",
-   "company": "G-Research",
-   "role": "Quantitative Developer",
-   "location": "London"
-  },
-  "b653c06fb1324f5130229e7288edfa44": {
-   "id": "b653c06fb1324f5130229e7288edfa44",
-   "company": "G-Research",
-   "role": "Quantitative Researcher – Fundamental Equity Research",
    "location": "London"
   },
   "1c51961018bc62c71a2a07a036d6e9cf": {
@@ -3823,18 +3829,6 @@
    "company": "Man Group",
    "role": "Compliance Officer - Trade Surveillance",
    "location": "London +1"
-  },
-  "28e5a14708a6ade55b6cb1e37e67e5bc": {
-   "id": "28e5a14708a6ade55b6cb1e37e67e5bc",
-   "company": "Allianz SE",
-   "role": "Internal Auditor",
-   "location": "London +1"
-  },
-  "8ec517478db33f73747d6ad59d0c0073": {
-   "id": "8ec517478db33f73747d6ad59d0c0073",
-   "company": "Bptrg",
-   "role": "Private Rented Sector Sustainment & Compliance Officer",
-   "location": "Civic Centre"
   },
   "e2a596b4c0126208422600da422eef66": {
    "id": "e2a596b4c0126208422600da422eef66",
@@ -4796,6 +4790,18 @@
    "role": "General Maintenance Technician",
    "location": "London"
   },
+  "0a22821fca25e7065054f47fe6ba0d53": {
+   "id": "0a22821fca25e7065054f47fe6ba0d53",
+   "company": "NEXT plc",
+   "role": "Sales Associate - Vs Trafford (n135618)",
+   "location": "Manchester"
+  },
+  "9f2ef9b5dfeff620281a187a2fed6289": {
+   "id": "9f2ef9b5dfeff620281a187a2fed6289",
+   "company": "Victoria’s Secret UK & IRE",
+   "role": "Sales Associate - Vs Trafford (n135619)",
+   "location": "Manchester"
+  },
   "49705872ff271a0b5a571f4f69ade767": {
    "id": "49705872ff271a0b5a571f4f69ade767",
    "company": "Sainsbury's",
@@ -4892,10 +4898,64 @@
    "role": "Sales Associate",
    "location": "London"
   },
+  "f9cd7af8e093fb4ba055baec05c7e372": {
+   "id": "f9cd7af8e093fb4ba055baec05c7e372",
+   "company": "Victoria’s Secret UK & IRE",
+   "role": "Vs Seasonal Sales Associate - Edinburgh (n135350)",
+   "location": "Edinburgh"
+  },
+  "673516e618cd603220206cfb992ec8fd": {
+   "id": "673516e618cd603220206cfb992ec8fd",
+   "company": "Victoria’s Secret UK & IRE",
+   "role": "Vs Seasonal Sales Associate - Edinburgh (n135348)",
+   "location": "Edinburgh"
+  },
+  "b9b50f401200f5b62af82de1ab515625": {
+   "id": "b9b50f401200f5b62af82de1ab515625",
+   "company": "Victoria’s Secret UK & IRE",
+   "role": "Vs Seasonal Sales Associate - Edinburgh (n135343)",
+   "location": "Edinburgh"
+  },
   "60811bcb9fe67033923b46b65aec3035": {
    "id": "60811bcb9fe67033923b46b65aec3035",
    "company": "JPMorgan Chase",
    "role": "Trading Support Associate",
+   "location": "London"
+  },
+  "d1f587c74cd768705e7cd9f305cafe0a": {
+   "id": "d1f587c74cd768705e7cd9f305cafe0a",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135386)",
+   "location": "London"
+  },
+  "8d41172bd4ac9b2c7ac4ceb7f3fe8462": {
+   "id": "8d41172bd4ac9b2c7ac4ceb7f3fe8462",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135385)",
+   "location": "London"
+  },
+  "a5db45024c4b571c86231c94b321d116": {
+   "id": "a5db45024c4b571c86231c94b321d116",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135380)",
+   "location": "London"
+  },
+  "275c02b2464d139557f289fb05776410": {
+   "id": "275c02b2464d139557f289fb05776410",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135381)",
+   "location": "London"
+  },
+  "df2604f31e823dc1f64c3ba1f0cda5cb": {
+   "id": "df2604f31e823dc1f64c3ba1f0cda5cb",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135379)",
+   "location": "London"
+  },
+  "a475a8406dbff41fa77bf33a88aed8db": {
+   "id": "a475a8406dbff41fa77bf33a88aed8db",
+   "company": "NEXT plc",
+   "role": "Sales Associate - V S Oxford Street (n135387)",
    "location": "London"
   },
   "c089aa927b651428accc6c3c395dbfb1": {
@@ -5210,70 +5270,10 @@
    "role": "Sales Advisor 12h",
    "location": "London"
   },
-  "be319b4441995e313973d15412475943": {
-   "id": "be319b4441995e313973d15412475943",
-   "company": "Scotiabank",
-   "role": "Customer Experience Associate - Queensway &amp; Islington (15 Hours/week)",
-   "location": "London"
-  },
-  "3129e5b35e9a1bf95461e71b2941c3dc": {
-   "id": "3129e5b35e9a1bf95461e71b2941c3dc",
-   "company": "Jimmy Choo",
-   "role": "Sales Associate",
-   "location": "London"
-  },
-  "86eaa65a227c7746737e7c6e53fe1f24": {
-   "id": "86eaa65a227c7746737e7c6e53fe1f24",
-   "company": "Victoria’s Secret UK & IRE",
-   "role": "Vs Seasonal Sales Associate - Edinburgh (n133507)",
-   "location": "Edinburgh"
-  },
-  "3c90f79b2d91f122c75aac1b8b30f1f3": {
-   "id": "3c90f79b2d91f122c75aac1b8b30f1f3",
-   "company": "Victoria’s Secret UK & IRE",
-   "role": "Vs Seasonal Sales Associate - Vs Trafford (n133635)",
-   "location": "Manchester"
-  },
-  "8f4ce8b6b0aaeabfee1c3418052e510b": {
-   "id": "8f4ce8b6b0aaeabfee1c3418052e510b",
-   "company": "Morrisons",
-   "role": "Customer Assistant - Online",
-   "location": "London"
-  },
-  "edccb731d3f6a959f7c966f39216a2a8": {
-   "id": "edccb731d3f6a959f7c966f39216a2a8",
-   "company": "Milliman",
-   "role": "Hr Service Associate",
-   "location": "London"
-  },
-  "19c2aa2ad8783516f021414613c6fb26": {
-   "id": "19c2aa2ad8783516f021414613c6fb26",
-   "company": "Currys",
-   "role": "Hanworth Sales Colleague Peak",
-   "location": "London"
-  },
-  "1df4b6d483fc74c6da3cd666e37f81b2": {
-   "id": "1df4b6d483fc74c6da3cd666e37f81b2",
-   "company": "Mango",
-   "role": "Multifunctional Sales Associate (20 Hours, Fix Term, Long Acre)",
-   "location": "London"
-  },
-  "aa4d0967ebe423db4edb2ad225aafa35": {
-   "id": "aa4d0967ebe423db4edb2ad225aafa35",
-   "company": "Penelope Chilvers",
-   "role": "Seasonal Customer Service Assistant (fixed-term)",
-   "location": "London"
-  },
-  "23b9cc242733b58ad7c3127a9f48464f": {
-   "id": "23b9cc242733b58ad7c3127a9f48464f",
-   "company": "Vodafone",
-   "role": "Retail Adviser 40 Hours/week - London Convent Garden",
-   "location": "London"
-  },
-  "11d00ab80d77017908cd3e8377ab7766": {
-   "id": "11d00ab80d77017908cd3e8377ab7766",
-   "company": "Vodafone",
-   "role": "Retail Adviser 40 Hours/week - Greenwich",
+  "54e47388092af6e25f210e058cc5f76a": {
+   "id": "54e47388092af6e25f210e058cc5f76a",
+   "company": "Mrporter",
+   "role": "Buying Administration Assistant",
    "location": "London"
   },
   "03de57a1f0748f07dc935123a3af1c60": {
@@ -5388,12 +5388,6 @@
    "id": "24cdbe9134c0a6fb609bb6b4e893b578",
    "company": "Bupa UK",
    "role": "Healthcare Assistant",
-   "location": "London"
-  },
-  "54e47388092af6e25f210e058cc5f76a": {
-   "id": "54e47388092af6e25f210e058cc5f76a",
-   "company": "Mrporter",
-   "role": "Buying Administration Assistant",
    "location": "London"
   },
   "7036efdc5c0c89ba367f0eb0e17ef65e": {
