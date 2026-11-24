@@ -10332,4 +10332,44 @@ _No archived roles yet._
 <tr><td>Penelope Chilvers</td><td>Seasonal Customer Service Assistant (fixed-term)</td><td>London</td><td>2026-11-23</td></tr>
 <tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - London Convent Garden</td><td>London</td><td>2026-11-23</td></tr>
 <tr><td>Vodafone</td><td>Retail Adviser 40 Hours/week - Greenwich</td><td>London</td><td>2026-11-23</td></tr>
+<tr><td>Verisk</td><td>2027 Summer Internship Program - Project Management Operations Intern</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>PepsiCo Inc</td><td>Revenue Growth Management (beverage) Long-term Intern</td><td>İStanbul</td><td>2026-11-24</td></tr>
+<tr><td>CrowdStrike UK</td><td>Intelligence Launch Intern - Summer 2027</td><td>Reading</td><td>2026-11-24</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Quality Systems & Compliance Intern</td><td>Covingham</td><td>2026-11-24</td></tr>
+<tr><td>McDermott International</td><td>Intern</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Royal (Dick) School of Veterinary Studies, Royal (Dick) School of Veterinary Studies, Royal (Dick) School of Veterinary Studies, Edinburgh University Group</td><td>Intern In Rabbit And Exotic Animal Medicine And Surgery</td><td>Easter Bush Campus</td><td>2026-11-24</td></tr>
+<tr><td>CNH Industrial</td><td>Crm And Customer Experience Intern</td><td>UK +1</td><td>2026-11-24</td></tr>
+<tr><td>joinairbus.us</td><td>Human Resources Early Careers Placement (12.5 Months)</td><td>Filton</td><td>2026-11-24</td></tr>
+<tr><td>Howden Group</td><td>Client Engagement Intern</td><td>London +1</td><td>2026-11-24</td></tr>
+<tr><td>CNH</td><td>Crm And Customer Experience Intern</td><td>United Kingdom</td><td>2026-11-24</td></tr>
+<tr><td>Babcock International Group</td><td>Project Controls Degree Apprenticeship</td><td>Manchester</td><td>2026-11-24</td></tr>
+<tr><td>Babcock International Group</td><td>Electrical, Control & Instrumentation Engineering Degree Apprenticeship - Warrington</td><td>Manchester</td><td>2026-11-24</td></tr>
+<tr><td>HCLTech UK</td><td>Technical Specialist</td><td>Unknown</td><td>2026-11-24</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Cloud Tpu Compiler</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Avigilon</td><td>Back End Software Engineer</td><td>Edinburgh +1</td><td>2026-11-24</td></tr>
+<tr><td>Hltech</td><td>Software Engineer</td><td>Home Based</td><td>2026-11-24</td></tr>
+<tr><td>Travelers</td><td>Analyst - Business Insights - 12 Months Ftc</td><td>London +1</td><td>2026-11-24</td></tr>
+<tr><td>Travelers</td><td>Business Insights Analyst - 12 Months Ftc</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Aegislondon</td><td>Data Scientist</td><td>London +1</td><td>2026-11-24</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Summer Internship 2027 - London</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>AtkinsRéalis</td><td>Management Consultancy Graduate Programme</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Mott MacDonald</td><td>2027 UK Graduate Risk Analysis Career Path</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>FDM Group</td><td>Business Analyst (client Exits)- Remote</td><td>United Kingdom</td><td>2026-11-24</td></tr>
+<tr><td>Dorset & Wiltshire Fire and Rescue Service</td><td>Building Services Compliance Officer: Dorset & Wiltshire Fire And Rescue Service</td><td>Dorchester +1</td><td>2026-11-24</td></tr>
+<tr><td>Sapiens International</td><td>Business Process Analyst</td><td>United Kingdom</td><td>2026-11-24</td></tr>
+<tr><td>Capco</td><td>Business Analyst, Capital Markets - Glasgow</td><td>Glasgow +1</td><td>2026-11-24</td></tr>
+<tr><td>Man Group</td><td>Compliance Officer - Trade Surveillance</td><td>London +1</td><td>2026-11-24</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Wiltshire</td><td>2026-11-24</td></tr>
+<tr><td>Jabil</td><td>Механік-налагоджувальник</td><td>Uzhhorod</td><td>2026-11-24</td></tr>
+<tr><td>BGIS</td><td>General Maintenance Technician</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Ealing</td><td>2026-11-24</td></tr>
+<tr><td>Hilton</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Lytchett Minster School</td><td>Business And Hr Support Administrative Assistant At Lytchett Minster School</td><td>Lytchett Minster</td><td>2026-11-24</td></tr>
+<tr><td>The Spectator</td><td>Reception And Facilities Assistant</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Burberry</td><td>Packaging &amp; Labelling Coordinator</td><td>London +1</td><td>2026-11-24</td></tr>
+<tr><td>Cancer Research UK</td><td>Project Coordinator (cdd)</td><td>Stratford +1</td><td>2026-11-24</td></tr>
+<tr><td>Publicis Sapient</td><td>Executive Assistant</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>current-positions</td><td>Facilities Coordinator</td><td>Central London</td><td>2026-11-24</td></tr>
+<tr><td>Wandsworth Council</td><td>Administrative Assistant - Paddock School Greater London, United Kingdom £28,463 Per Annum – Inner London Term Time Apply By 4 December, 2026 Posted On 16 November, 2026</td><td>London</td><td>2026-11-24</td></tr>
 </table>
