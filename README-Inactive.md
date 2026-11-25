@@ -10372,4 +10372,77 @@ _No archived roles yet._
 <tr><td>Publicis Sapient</td><td>Executive Assistant</td><td>London</td><td>2026-11-24</td></tr>
 <tr><td>current-positions</td><td>Facilities Coordinator</td><td>Central London</td><td>2026-11-24</td></tr>
 <tr><td>Wandsworth Council</td><td>Administrative Assistant - Paddock School Greater London, United Kingdom £28,463 Per Annum – Inner London Term Time Apply By 4 December, 2026 Posted On 16 November, 2026</td><td>London</td><td>2026-11-24</td></tr>
+<tr><td>Müller</td><td>Procurement Intern</td><td>Market Drayton</td><td>2026-11-25</td></tr>
+<tr><td>Müller Milk & Ingredients</td><td>Recruitment Intern</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>eb</td><td>Aru Winter Internship: Social Media And Content Co-ordinator Internship</td><td>Cambridge +1</td><td>2026-11-25</td></tr>
+<tr><td>C.H. Robinson Worldwide</td><td>Intern- Air Gateway</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Quality Systems & Compliance Intern</td><td>Covingham</td><td>2026-11-25</td></tr>
+<tr><td>EXL Service / EXLService Holdings</td><td>Data & Ai Internship 2027</td><td>London +1</td><td>2026-11-25</td></tr>
+<tr><td>Babcock International Group</td><td>Chemical and Process Engineering Degree Apprenticeship</td><td>Manchester</td><td>2026-11-25</td></tr>
+<tr><td>Stripe Payments</td><td>Software Engineer, New Grad</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Varonis</td><td>Incident Response Security Analyst</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>ENGIE ENERGIE SERVICES</td><td>Technical Support Group Draftsperson</td><td>Llanberis</td><td>2026-11-25</td></tr>
+<tr><td>Basecamp Research Ltd</td><td>Software Engineer, Research Platform</td><td>London +1</td><td>2026-11-25</td></tr>
+<tr><td>Ao Ds</td><td>Fully Remote - Coverage Support Specialist</td><td>Waukegan</td><td>2026-11-25</td></tr>
+<tr><td>Encirc Ltd</td><td>Aw Engineer - New Role - Internal Only Elton, Cheshire, United Kingdom (incl. Northern Ireland) £47000 - £49000 Permanent Apply By 27 November, 2026 Posted On 16 November, 2026</td><td>Cheshire</td><td>2026-11-25</td></tr>
+<tr><td>mgstransport</td><td>Service Support Specialist</td><td>Location</td><td>2026-11-25</td></tr>
+<tr><td>Ao Ds</td><td>At-home Family Services Specialist</td><td>Surrey</td><td>2026-11-25</td></tr>
+<tr><td>Tesco</td><td>Software Development Engineer Ii</td><td>UK</td><td>2026-11-25</td></tr>
+<tr><td>Amazon</td><td>Systems Development Engineer, Tech-SC SPIE Engineering</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Jobgether</td><td>Ai Creator (contract)</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai Integrations</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Fx Gen Ai Engineer - (python) - Vp</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>FDM Group</td><td>Data Migration Analyst- Various Locations Across The Uk</td><td>London +9</td><td>2026-11-25</td></tr>
+<tr><td>Dwelly</td><td>Applied Ai Engineer</td><td>UK +2</td><td>2026-11-25</td></tr>
+<tr><td>Bupa</td><td>Reporting Insight Analyst</td><td>Salford Quays</td><td>2026-11-25</td></tr>
+<tr><td>Fpca</td><td>Platform Ai Assurance Specialist</td><td>London +2</td><td>2026-11-25</td></tr>
+<tr><td>Airbus</td><td>Cybersecurity Business Analyst Placement (12.5 Months)</td><td>Filton</td><td>2026-11-25</td></tr>
+<tr><td>Airbus</td><td>Operations Analyst Placement (12.5 Months)</td><td>Brize Norton</td><td>2026-11-25</td></tr>
+<tr><td>Howden</td><td>Trainee Actuarial Consultant - Retirement (London)</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Howden</td><td>Trainee Actuarial Consultant - Actuarial Insurance (London)</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Mott MacDonald</td><td>2027 UK Graduate Health Consultancy Career Path</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Mott MacDonald</td><td>2027 UK Graduate Management Consultancy Career Path</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Catholic Archdiocese of Canberra & Goulburn</td><td>Information Security And Compliance Officer</td><td>Manuka</td><td>2026-11-25</td></tr>
+<tr><td>RGA</td><td>Reinsurance Analyst</td><td>London +1</td><td>2026-11-25</td></tr>
+<tr><td>BMW Group</td><td>Direct Tax Specialist</td><td>Summit One Campus</td><td>2026-11-25</td></tr>
+<tr><td>SEFE</td><td>Credit Risk Analyst</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Citi Handlowy</td><td>In-business Risk And Trading Development Analyst</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>Aggreko</td><td>Group Finance Analyst</td><td>Glasgow +1</td><td>2026-11-25</td></tr>
+<tr><td>Deutsche Bank</td><td>Franchise Pricing Rates Algo Quant</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Deutsche Bank</td><td>Trading Quantitative Strategist</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Ibd - Emerging Markets - Analyst</td><td>London +1</td><td>2026-11-25</td></tr>
+<tr><td>BBVA</td><td>Deal Contingent Derivatives Trader – Global Markets / London</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>EBRD</td><td>Analyst, Banking Fi</td><td>Kyiv</td><td>2026-11-25</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>Mro Mechanical Supervisor - Middle Wallop</td><td>Middle Wallop</td><td>2026-11-25</td></tr>
+<tr><td>Roche</td><td>Field Service Installation Specialist (uk, Irl)</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>Allianz SE</td><td>Roadside Technician (national Coverage)</td><td>United Kingdom</td><td>2026-11-25</td></tr>
+<tr><td>Fives</td><td>Uk Fives Service Technician (fives Conveying) 1</td><td>Bagington</td><td>2026-11-25</td></tr>
+<tr><td>Arjo AB</td><td>Field Service Engineer - North Lancashire/south Cumbria</td><td>North Lancashire +1</td><td>2026-11-25</td></tr>
+<tr><td>Spire Healthcare</td><td>Hospital Maintenance Technician</td><td>Tollerton</td><td>2026-11-25</td></tr>
+<tr><td>CyrusOne</td><td>Facility Technician</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Diversey Com Gr</td><td>Maintenance Technician Nights</td><td>Somercotes</td><td>2026-11-25</td></tr>
+<tr><td>Yorkshire Water Services Ltd</td><td>Field Technician</td><td>Leeds +1</td><td>2026-11-25</td></tr>
+<tr><td>Klckner Pentaplast Group</td><td>Maintenance Engineer</td><td>Featherstone</td><td>2026-11-25</td></tr>
+<tr><td>Crane NXT</td><td>Field Service Representative</td><td>Northern UK +1</td><td>2026-11-25</td></tr>
+<tr><td>Caterpillar UK</td><td>Maintenance Support Technician</td><td>Skinningrove</td><td>2026-11-25</td></tr>
+<tr><td>AVI-SPL</td><td>Field Service Technician</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Biffa Waste Services</td><td>Electrical Maintenance Technician</td><td>Great Blakenham</td><td>2026-11-25</td></tr>
+<tr><td>Travelodge Hotels Limited</td><td>Rpt Maintenance Engineer</td><td>Chelmsford +1</td><td>2026-11-25</td></tr>
+<tr><td>Sainsbury's</td><td>Customer Assistant</td><td>Oxford</td><td>2026-11-25</td></tr>
+<tr><td>Ao Ds</td><td>Fully Remote - Client Experience Associate</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Equipmentsharecom</td><td>Warehouse Associate</td><td>Milwaukee</td><td>2026-11-25</td></tr>
+<tr><td>Kering</td><td>Boucheron - Sales Associate Selfridges (f/h/x)</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 12h</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>Loughton</td><td>2026-11-25</td></tr>
+<tr><td>Hilton Worldwide</td><td>Casual Conference And Events Assistant</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Marsh</td><td>Nera Business Development And Marketing Coordinator - London</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>MS</td><td>Brands Onboarding Administrative Assistant</td><td>London</td><td>2026-11-25</td></tr>
+<tr><td>Hogan Lovells</td><td>Fixed Term Contract 12 Months - Billing Administration Assistant (birmingham Office)</td><td>Birmingham</td><td>2026-11-25</td></tr>
+<tr><td>Pax8</td><td>Executive Assistant</td><td>Bristol +1</td><td>2026-11-25</td></tr>
+<tr><td>Markel Corporation</td><td>Claims Administration Assistant</td><td>Leeds</td><td>2026-11-25</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Administrative Assistant</td><td>Bournemouth</td><td>2026-11-25</td></tr>
+<tr><td>Nuffield Health</td><td>Administration Assistant (bank)</td><td>Warwick</td><td>2026-11-25</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Process Coordinator</td><td>Covingham</td><td>2026-11-25</td></tr>
+<tr><td>Greene King</td><td>Executive Assistant</td><td>Burton</td><td>2026-11-25</td></tr>
+<tr><td>Greene King</td><td>Ceo Executive Assistant</td><td>Burton</td><td>2026-11-25</td></tr>
 </table>
