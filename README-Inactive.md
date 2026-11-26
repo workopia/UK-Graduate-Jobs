@@ -10445,4 +10445,93 @@ _No archived roles yet._
 <tr><td>Thermo Fisher Scientific</td><td>Process Coordinator</td><td>Covingham</td><td>2026-11-25</td></tr>
 <tr><td>Greene King</td><td>Executive Assistant</td><td>Burton</td><td>2026-11-25</td></tr>
 <tr><td>Greene King</td><td>Ceo Executive Assistant</td><td>Burton</td><td>2026-11-25</td></tr>
+<tr><td>Fanatics Collectibles</td><td>Summer 2027 Intern - Growth & Partnerships Intern</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>Fanatics Collectibles</td><td>Summer 2027 Intern - Design Intern</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>CrowdStrike UK</td><td>Talent Acquisition Launch Intern</td><td>Reading</td><td>2026-11-26</td></tr>
+<tr><td>Ryan</td><td>Intern, Tax Technology - Summer 2027</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Adobe</td><td>2027 Intern - International Sports Partnerships Intern</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Engineering Operations Intern</td><td>Covingham</td><td>2026-11-26</td></tr>
+<tr><td>Siemens Digital Industries Software</td><td>Product Designer Intern - Strategic Student Program</td><td>UK</td><td>2026-11-26</td></tr>
+<tr><td>Siemens AG</td><td>User Researcher Intern - Strategic Student Program</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>IOM</td><td>Dtm Reporting Intern</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pt Data Analysis & Marketing/sales Intern</td><td>Denham</td><td>2026-11-26</td></tr>
+<tr><td>Howden Group Holdings</td><td>Talent Acquisition Apprenticeship Programme 2027</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>EE</td><td>Software Engineering Practitioner</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>William Blair</td><td>Tech Support Analyst</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>Milliman</td><td>Software Engineer, R&d - Intelliscript (remote)</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>AECOM UK</td><td>Software Engineer</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Alexa for Shopping</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Babcock International</td><td>It Support Technician</td><td>Helensburgh +1</td><td>2026-11-26</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technical Support Engineer</td><td>Lane End</td><td>2026-11-26</td></tr>
+<tr><td>Jobgether</td><td>Middle Software Engineer - Backend (platform)</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>Varonis Systems, Inc.</td><td>Incident Response Security Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Valsoft Corporation</td><td>Software Engineer</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>CGI</td><td>Full Stack Software Engineer</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>IFS</td><td>Forward Deployed Engineer - M&a Group</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Vanguard</td><td>Ai Threat & Defence Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Citi</td><td>Fx Gen Ai Engineer - (python) - Vp</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Warnermedia</td><td>It Engineer</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>PAE/Amentum</td><td>Data Professional (engineer/analyst/scientist)</td><td>UK</td><td>2026-11-26</td></tr>
+<tr><td>AstraZeneca</td><td>Business Ai Coordinator</td><td>Uk +1</td><td>2026-11-26</td></tr>
+<tr><td>HCLTech UK</td><td>Ai Developer I</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>Global Payments</td><td>Financial Analyst - Revenue</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Capital Partners Mortgage LLC</td><td>Client Operations Analyst - 12m Ftc</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>SMBC Group</td><td>Perm - Cd - Credit Business Analyst/change Management Assistant - Associate</td><td>London +1</td><td>2026-11-26</td></tr>
+<tr><td>PGIM</td><td>Pgim, Internal Auditor</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Prudential</td><td>Pgim, Internal Auditor</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking - London - 2027 Reentry Program</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>ITV Studios</td><td>Business Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Honda UK</td><td>Business Innovation Analyst</td><td>Theale</td><td>2026-11-26</td></tr>
+<tr><td>Addepar</td><td>Sales Strategy & Operations Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Tandem Money Ltd</td><td>Commercial Finance Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Ingeus UK</td><td>Fidelity Officer</td><td>Croydon +1</td><td>2026-11-26</td></tr>
+<tr><td>Citi</td><td>In-business Risk And Trading Development Analyst</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Citi</td><td>Quantitative Developer - Assistant Vice President</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Citi</td><td>Front Office Quantitative Analyst - Equity Derivatives</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>DRW</td><td>Equity Index Options Trader</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>AJG United Kingdom</td><td>Analyst - Risk Analytics - Actuarial</td><td>Llpembassy +1</td><td>2026-11-26</td></tr>
+<tr><td>Bank Pekao</td><td>Ekspert / Ekspertka Ds. Mieszkaniowego Rachunku Powierniczego</td><td>Wyszukiwanie Wed</td><td>2026-11-26</td></tr>
+<tr><td>AJG United Kingdom</td><td>Analyst - Claims Operations</td><td>Delta</td><td>2026-11-26</td></tr>
+<tr><td>Catholic Archdiocese of Canberra & Goulburn</td><td>Business Analyst</td><td>Manuka</td><td>2026-11-26</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Health Care Assistant</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Parexel</td><td>Clinical Research Physician</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>ICON plc</td><td>Clinical Research Associate</td><td>UK</td><td>2026-11-26</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Gloucestershire</td><td>2026-11-26</td></tr>
+<tr><td>Priory Group</td><td>Maintenance Technician</td><td>Grafton Regis</td><td>2026-11-26</td></tr>
+<tr><td>Marshall Motor Group</td><td>Service Technician</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>eos-apac.info</td><td>Field Service Engineer - Central England (m/f/d)</td><td>Central England</td><td>2026-11-26</td></tr>
+<tr><td>PepsiCo Inc</td><td>Asset Care Technician</td><td>Leicester +1</td><td>2026-11-26</td></tr>
+<tr><td>Jaguar Cars Ltd</td><td>Maintenance Technician Nvq Qualification Pathwaysalary: £39,981 + Shift Allowance, Increasing To The Qualified Maintenance Technician Salary Upon Comp</td><td>Solihull +1</td><td>2026-11-26</td></tr>
+<tr><td>Jaguar Cars Ltd</td><td>Maintenance Technician Nvq Qualification Pathwaysalary: £42,142 + Shift Allowance, Increasing To The Qualified Maintenance Technician Salary Upon Comp</td><td>Wolverhampton +1</td><td>2026-11-26</td></tr>
+<tr><td>Sherwin-Williams</td><td>Maintenance Technician</td><td>Lancashire</td><td>2026-11-26</td></tr>
+<tr><td>Millennium Space Systems</td><td>Mro Mechanical Technician - Middle Wallop</td><td>Middle Wallop</td><td>2026-11-26</td></tr>
+<tr><td>Millennium Space Systems</td><td>Mro Mechanical Supervisor - Middle Wallop</td><td>Middle Wallop</td><td>2026-11-26</td></tr>
+<tr><td>Biffa Waste Services</td><td>Mobile Maintenance Technician</td><td>Edinburgh +2</td><td>2026-11-26</td></tr>
+<tr><td>Severn Trent</td><td>Maintenance Technician - Single</td><td>Warwickshire</td><td>2026-11-26</td></tr>
+<tr><td>Bakkavor Group</td><td>Maintenance Engineer</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Candy Home</td><td>Field Service Engineer</td><td>Harrogate +2</td><td>2026-11-26</td></tr>
+<tr><td>Vaillant Group U.K. Ltd</td><td>Field Service Engineer - Covering Postcode Ln & Pe20 - 25</td><td>East Midlands</td><td>2026-11-26</td></tr>
+<tr><td>Sainsbury’s</td><td>Customer Assistant</td><td>Oxford</td><td>2026-11-26</td></tr>
+<tr><td>Lidl GB</td><td>Customer Assistant</td><td>Edinburgh</td><td>2026-11-26</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Big Mamma Group</td><td>Warehouse</td><td>Ave Mario</td><td>2026-11-26</td></tr>
+<tr><td>Alliance UniChem IP Ltd</td><td>Associate Operator, Warehouse Operations</td><td>Wemea</td><td>2026-11-26</td></tr>
+<tr><td>POP MART Global</td><td>Full Time Retail Assistant (stratford)</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>White Stuff</td><td>Customer Host (4 Hrs)</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Foodhall London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Christmas Temp Apply By 9 December, 2026 Posted On 9 November, 2026</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Selfridges Group</td><td>Sales Associate - Denim Studio Womenswear (full-time) London, United Kingdom London: £14.80 / Hr; Regions: £13.45 / Hr Temp Apply By 9 December, 2026 Posted On 9 November, 2026</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>NEXT plc</td><td>Sales Associate - Vs Arndale Centre (n133791)</td><td>Manchester</td><td>2026-11-26</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-11-26</td></tr>
+<tr><td>Lineage Logistics</td><td>Transport Administrator - 4 On 4 Off Nights</td><td>Coleshill</td><td>2026-11-26</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>Executive Admin Executive Administrative Assistant</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Arcadis</td><td>Project Support - Data Centres (site Based)</td><td>Newcastle +2</td><td>2026-11-26</td></tr>
+<tr><td>Tesco</td><td>Asset &amp; Equipment Co-ordinator</td><td>United Kingdom</td><td>2026-11-26</td></tr>
+<tr><td>10 Design</td><td>Business Development Coordinator</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Egis Group</td><td>Business Development Coordinator</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Sureserve Group</td><td>Fleet Coordinator</td><td>Newmarket +1</td><td>2026-11-26</td></tr>
+<tr><td>Egis in ANZ</td><td>Executive Assistant</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Egis Group</td><td>Executive Assistant</td><td>London</td><td>2026-11-26</td></tr>
+<tr><td>Dalcour Maclaren</td><td>Project Coordinator</td><td>Bury St Edmunds +1</td><td>2026-11-26</td></tr>
+<tr><td>Severn Trent</td><td>Project Coordinator</td><td>West Midlands</td><td>2026-11-26</td></tr>
 </table>
