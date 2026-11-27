@@ -10534,4 +10534,106 @@ _No archived roles yet._
 <tr><td>Egis Group</td><td>Executive Assistant</td><td>London</td><td>2026-11-26</td></tr>
 <tr><td>Dalcour Maclaren</td><td>Project Coordinator</td><td>Bury St Edmunds +1</td><td>2026-11-26</td></tr>
 <tr><td>Severn Trent</td><td>Project Coordinator</td><td>West Midlands</td><td>2026-11-26</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Southampton - June 2027</td><td>Southampton +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Reading - June 2027</td><td>Reading +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Preston - June 2027</td><td>Preston</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Nottingham - June 2027</td><td>Nottingham</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Newcastle - June 2027</td><td>Newcastle Upon Tyne</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Milton Keynes - June 2027</td><td>Milton Keynes +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - London - June 2027</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Leicester - June 2027</td><td>Leicester +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Hull - June 2027</td><td>Kingston Upon Hull</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Glasgow - June 2027</td><td>Glasgow +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Gatwick - June 2027</td><td>Crawley +1</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Edinburgh - June 2027</td><td>Edinburgh</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Bristol - June 2027</td><td>Bristol</td><td>2026-11-27</td></tr>
+<tr><td>Viatris Pty Ltd</td><td>Pharmacovigilance Intern -contracts Team (12 Month Fixed Term Contract)</td><td>Hatfield +1</td><td>2026-11-27</td></tr>
+<tr><td>IOM</td><td>Digital Communications Intern</td><td>United Kingdom</td><td>2026-11-27</td></tr>
+<tr><td>Shiseido</td><td>E-commerce Dtc Intern</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Bosch Rexroth</td><td>Hr L&d Training Administrator Intern</td><td>Denham</td><td>2026-11-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Watches Manager Assistant - Internship</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Engineering Operations Intern</td><td>Covingham</td><td>2026-11-27</td></tr>
+<tr><td>HP</td><td>Placement Year - UK&I PS Category Intern</td><td>Reading +1</td><td>2026-11-27</td></tr>
+<tr><td>Tikehau Capital</td><td>Internship - Private Debt - January 2027</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>IVC Evidensia</td><td>Veterinary Internship - Internal Medicine</td><td>Ringwood +2</td><td>2026-11-27</td></tr>
+<tr><td>M&G</td><td>Technology Internship</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Apple</td><td>Internship - Framebuffer Driver Engineer</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>EXL</td><td>DATA & AI INTERNSHIP 2027</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Mediobanca</td><td>Markets Strategy Internship – European Rates</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>EXL Service</td><td>DATA & AI INTERNSHIP 2027</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>NCR Atleos</td><td>Hardware Engineer Internship</td><td>Dundee +2</td><td>2026-11-27</td></tr>
+<tr><td>M&G</td><td>Risk & Compliance Internship</td><td>Stirling</td><td>2026-11-27</td></tr>
+<tr><td>HPE</td><td>Interns</td><td>Winnersh +1</td><td>2026-11-27</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Interns</td><td>Winnersh +1</td><td>2026-11-27</td></tr>
+<tr><td>M&G Plc</td><td>Finance Internship</td><td>Edinburgh</td><td>2026-11-27</td></tr>
+<tr><td>Reliaquest</td><td>6-12 Month Business Development (Sales) Placement / Internship</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Fanatics Collectibles</td><td>Summer 2027 Intern - Product Intern</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Brompton</td><td>Apprentice - Bike Mechanic</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Model-based Software Engineer - Naval</td><td>Bristol</td><td>2026-11-27</td></tr>
+<tr><td>FDM Group</td><td>Engineer (client Exits)- Remote</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>NEXT plc</td><td>Work Flow Information Analyst</td><td>Rotherham +1</td><td>2026-11-27</td></tr>
+<tr><td>Sunbelt Rentals Ltd</td><td>Technical Support & Training Specialist</td><td>United Kingdom</td><td>2026-11-27</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>C# Software Engineer</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Maximus</td><td>Performance Insight Analyst, UK</td><td>United Kingdom</td><td>2026-11-27</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Ai/ml, Ai Data</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Sartorius</td><td>Market Intelligence Analyst</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Halfspace ApS</td><td>Forward Deployed Ai Engineer</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Accenture</td><td>Ai Forward Deployed Engineer</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Associate Data Scientist</td><td>Edinburgh +1</td><td>2026-11-27</td></tr>
+<tr><td>CGI</td><td>Data Analyst</td><td>United Kingdom</td><td>2026-11-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Pacific Life Re - Actuarial Placement Year - September 2027 Start</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Pacific Life Re</td><td>Pacific Life Re Actuarial Placement Year</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Deloitte</td><td>Finance Transformation Consulting – Business Analyst - Industrial Placement - Belfast</td><td>Belfast</td><td>2026-11-27</td></tr>
+<tr><td>Statkraft</td><td>Asset Performance Analyst</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Introba</td><td>Accountant- Term Maternity Cover Contract</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Reed Inc</td><td>Auditor</td><td>Working From Home</td><td>2026-11-27</td></tr>
+<tr><td>Anglian Water</td><td>Portfolio Finance Analyst</td><td>Huntingdon +1</td><td>2026-11-27</td></tr>
+<tr><td>Brightonparkbank</td><td>Business Analyst</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>ScottishPower</td><td>Improvement Analyst</td><td>Glasgow</td><td>2026-11-27</td></tr>
+<tr><td>Manchester City Council</td><td>Commissioning & Contracts Officer</td><td>All Locations</td><td>2026-11-27</td></tr>
+<tr><td>Hyperion Group</td><td>Analyst</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Innocent Drinks</td><td>Business Analyst (talent Pool)</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>openwork</td><td>Business Analyst – 2plan</td><td>Leeds</td><td>2026-11-27</td></tr>
+<tr><td>Babcock International</td><td>Business Planning Specialist</td><td>Devonport +1</td><td>2026-11-27</td></tr>
+<tr><td>Babcock International</td><td>Business Planning Associate - Anz</td><td>Devonport +1</td><td>2026-11-27</td></tr>
+<tr><td>Citi</td><td>Market Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-11-27</td></tr>
+<tr><td>Citi</td><td>Markets Quantitative Analyst, Avp</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Allianz SE</td><td>Finance Analyst</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Delta Capita</td><td>Trade Support Analyst</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>HIWFRS</td><td>Analyst Hiwfrs625421</td><td>Eastleigh +1</td><td>2026-11-27</td></tr>
+<tr><td>Legal & General Group</td><td>Reporting Actuary</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Funding Circle</td><td>Payments Operations Analyst</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Royal Borough of Greenwich</td><td>Performance Analysis Service (pas) Officer Woolwich, London, United Kingdom Po1 - £42,492 To £45,123 Fixed-term Apply By 2 December, 2026 Posted On 21 October, 2026</td><td>Woolwich</td><td>2026-11-27</td></tr>
+<tr><td>Sainsbury's</td><td>Finance Analyst - Supplier Planning (12m Ftc)</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Citi Handlowy</td><td>Market Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-11-27</td></tr>
+<tr><td>Citi Handlowy</td><td>Markets Operations Analyst - Entry Level</td><td>Belfast</td><td>2026-11-27</td></tr>
+<tr><td>McDonald's UK</td><td>Maintenance Person</td><td>Glamorgan</td><td>2026-11-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Maintenance Engineer</td><td>Dalston</td><td>2026-11-27</td></tr>
+<tr><td>Cennox</td><td>Bank Equipment Technician</td><td>Milwaukee</td><td>2026-11-27</td></tr>
+<tr><td>ASR Group</td><td>Maintenance Technician</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Babcock International</td><td>Aviation Mechanical Technician</td><td>Holyhead +1</td><td>2026-11-27</td></tr>
+<tr><td>SMT Nederland</td><td>Field Service Engineer - Kent</td><td>Kent</td><td>2026-11-27</td></tr>
+<tr><td>Kerry Group</td><td>Multi-skilled Maintenance Engineer</td><td>Coleraine +1</td><td>2026-11-27</td></tr>
+<tr><td>Sodexo UK & Ireland</td><td>Maintenance Fitter</td><td>Wythenshawe</td><td>2026-11-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Vodafone</td><td>Retail Advisor 32 Hours/week - London Holloway Road 1</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Vodafone</td><td>Retail Adviser 24 Hours/week - London Surrey Quays</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Salomon</td><td>Sales Associate - 10h/week Westfield</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>TORY BURCH</td><td>Sales Associate</td><td>Oxford</td><td>2026-11-27</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Sales Associate</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Victoria’s Secret UK & IRE</td><td>Vs Seasonal Sales Associate - Vs Arndale Centre (n134242)</td><td>Manchester</td><td>2026-11-27</td></tr>
+<tr><td>Air Canada</td><td>Warehouse Attendant - Cargo</td><td>Middlesex</td><td>2026-11-27</td></tr>
+<tr><td>Iceland Foods</td><td>Retail Assistant (inside M25)</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Priory Group</td><td>Healthcare Assistant</td><td>Portsmouth</td><td>2026-11-27</td></tr>
+<tr><td>IOM</td><td>Project Associate (displacement Tracking Matrix (dtm) - Analytics Knowledge And Output (ako)) (p) - Call For Applications</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Process Coordinator</td><td>Covingham</td><td>2026-11-27</td></tr>
+<tr><td>Borr Drilling</td><td>Global Payroll Administrator</td><td>London +1</td><td>2026-11-27</td></tr>
+<tr><td>Ramsay Health Care UK</td><td>Bank Administration Assitant</td><td>Chelmsford</td><td>2026-11-27</td></tr>
+<tr><td>Nuffield Health</td><td>Healthcare Assistant</td><td>Reading</td><td>2026-11-27</td></tr>
+<tr><td>Building Engines</td><td>Business Support, Administrative Assistant</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Building Engines</td><td>Events Coordinator</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Executive Assistant</td><td>London</td><td>2026-11-27</td></tr>
+<tr><td>Manchester City Council</td><td>Administration Assistant</td><td>Piper Hill High School</td><td>2026-11-27</td></tr>
+<tr><td>Encirc Ltd</td><td>Facilities Projects Coordinator - New Role - Internal Only Elton, Cheshire, United Kingdom (incl. Northern Ireland) £35600 - £40000 Permanent Apply By 26 November, 2026 Posted On 19 November, 2026</td><td>Cheshire</td><td>2026-11-27</td></tr>
+<tr><td>EDF Energy Ltd</td><td>Temporary Works & Mewp Coordinator (sizewell C)</td><td>Sizewell</td><td>2026-11-27</td></tr>
 </table>
