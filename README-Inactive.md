@@ -10636,4 +10636,50 @@ _No archived roles yet._
 <tr><td>Manchester City Council</td><td>Administration Assistant</td><td>Piper Hill High School</td><td>2026-11-27</td></tr>
 <tr><td>Encirc Ltd</td><td>Facilities Projects Coordinator - New Role - Internal Only Elton, Cheshire, United Kingdom (incl. Northern Ireland) £35600 - £40000 Permanent Apply By 26 November, 2026 Posted On 19 November, 2026</td><td>Cheshire</td><td>2026-11-27</td></tr>
 <tr><td>EDF Energy Ltd</td><td>Temporary Works & Mewp Coordinator (sizewell C)</td><td>Sizewell</td><td>2026-11-27</td></tr>
+<tr><td>RSM</td><td>Tax Internship - Hull - June 2027</td><td>Kingston Upon Hull</td><td>2026-11-28</td></tr>
+<tr><td>RSM</td><td>Audit Internship - Stoke - June 2027</td><td>Stoke-On-Trent</td><td>2026-11-28</td></tr>
+<tr><td>ZS Associates Inc</td><td>Strategy Insights & Planning Consultant Intern - London 2027</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>RSM</td><td>Tax Internship - Bristol - June 2027</td><td>Bristol</td><td>2026-11-28</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Optical Assistant Apprentice</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Capital Partners Mortgage LLC</td><td>Software Development Engineer Ii</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>ALS</td><td>Support Services Technician</td><td>Ely +1</td><td>2026-11-28</td></tr>
+<tr><td>Anglian Water</td><td>Support Services Technician</td><td>Huntingdon +1</td><td>2026-11-28</td></tr>
+<tr><td>Kingspan</td><td>Graduate Automation Engineer – 2027</td><td>Pembridge</td><td>2026-11-28</td></tr>
+<tr><td>PhysicsX</td><td>Ai Engineer: Evals</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Legal & General Group</td><td>Data Analyst</td><td>Brighton And Hove</td><td>2026-11-28</td></tr>
+<tr><td>Accenture</td><td>Ai & Data Architect (sc Cleared)</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Data Scientist Ctoo</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Spinwell Global Pte Ltd</td><td>Data And Migration Analyst - Central Government</td><td>Unknown +1</td><td>2026-11-28</td></tr>
+<tr><td>Burberry</td><td>App Data Analyst</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>CGI</td><td>Data Scientist (ai & Machine Learning)</td><td>Gloucester +1</td><td>2026-11-28</td></tr>
+<tr><td>Deloitte</td><td>Finance Transformation Consulting – Business Analyst - Full Time Graduate - Belfast</td><td>Belfast</td><td>2026-11-28</td></tr>
+<tr><td>Samsung SDS</td><td>Finance Verification Analyst</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>SANTANDER CONSUMER BANK S.p.A</td><td>Risk Associate</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>Beta Cae</td><td>Statutory Reporting And Tax Specialist - Uk And Nordic Market</td><td>Gatwick +1</td><td>2026-11-28</td></tr>
+<tr><td>Land Securities</td><td>Finance Analyst – Leasing (retail)</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Nomura International PLC</td><td>Investment Banker, Digital Infrastructure - Associate</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>SumUp</td><td>Compliance Officer</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Financial Reporting & Control Accountant, Uk (15 Month Ftc)</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>SSE Airtricity</td><td>Product Analyst</td><td>Reading</td><td>2026-11-28</td></tr>
+<tr><td>Red Bull</td><td>Finance Analyst</td><td>Kyiv</td><td>2026-11-28</td></tr>
+<tr><td>Scania CV AB</td><td>Finance Analyst</td><td>Milton Keynes +1</td><td>2026-11-28</td></tr>
+<tr><td>Citi Handlowy</td><td>Reconciliations Intermediate Analyst</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>BMI Healthcare (Circle)</td><td>Registered Nurse - Wards (bank)</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Urpa</td><td>Care Assistant</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>AstraZeneca Pharmaceuticals LP</td><td>Clinical Research Associate</td><td>United Kingdom</td><td>2026-11-28</td></tr>
+<tr><td>Wandsworth Council</td><td>Paediatric Band 6 Physiotherapist - Linden Lodge School Greater London, United Kingdom Band 6 – £44,754 - £53,072 Term Time Apply By 31 October, 2026 Posted On 5 October, 2026</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>DS Smith PLC</td><td>Maintenance Engineer</td><td>Blunham</td><td>2026-11-28</td></tr>
+<tr><td>Hitachi Rail</td><td>Maintenance Technician</td><td>Bounds Green London +1</td><td>2026-11-28</td></tr>
+<tr><td>Essity AB</td><td>Mechanical Specialist</td><td>Skelmersdale +1</td><td>2026-11-28</td></tr>
+<tr><td>Boucheron UK Ltd.</td><td>Boucheron - Executive Sales Associate - Harrods (f/h/x)</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Lincolnshire Co-op</td><td>Customer Services Assistant</td><td>All Locations</td><td>2026-11-28</td></tr>
+<tr><td>Wesco</td><td>Administrator - Customer Care</td><td>Sheffield</td><td>2026-11-28</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Administration Assistant</td><td>Omagh</td><td>2026-11-28</td></tr>
+<tr><td>Severn Trent</td><td>Young Person Water Specialist, Edgbaston, Birmingham Work Experience Placement Feb 27</td><td>Edgbaston</td><td>2026-11-28</td></tr>
+<tr><td>Estée Lauder</td><td>Executive Admin Executive Administrative Assistant</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>Mountain Warehouse</td><td>Uk Sales Assistant (chain 3)</td><td>Penzance</td><td>2026-11-28</td></tr>
+<tr><td>Mountain Warehouse</td><td>Buyers Admin Assistant - Apparel</td><td>London</td><td>2026-11-28</td></tr>
+<tr><td>Spire Healthcare</td><td>Healthcare Assistant</td><td>Manchester</td><td>2026-11-28</td></tr>
+<tr><td>Savills Middle East</td><td>Pa/ Team Assistant - Grdc International Residential</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>WSP</td><td>Bim Co-ordinator</td><td>United Kingdom</td><td>2026-11-28</td></tr>
 </table>
